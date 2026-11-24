@@ -1,0 +1,22 @@
+# не для репозитория
+PLAN.md
+hw.ipynb
+hw_Andrey_Getmanov.ipynb
+
+# окружение и IDE
+.venv/
+.idea/
+__pycache__/
+.DS_Store
+.env
+
+# веса и чекпойнты (больше лимита GitHub, скачиваются/воспроизводятся)
+xtts_files/
+runs/
+*.pth
+
+# полные дорожки фильмов и серий, demucs и промежуточные нарезки
+data/raw/
+data/separated/
+data/segments/*/wavs/
+data/baseline/

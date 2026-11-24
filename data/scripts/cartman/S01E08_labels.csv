@@ -1,0 +1,560 @@
+i,a,c,text,two,song,n,matched,who,purity,cartman
+1,5.256,6.632,That was a hoot and a holler.,False,False,7,0,,0.0,False
+2,6.757,8.217,"Did you like that ""South Park""-ateers?",False,False,7,0,,0.0,False
+3,8.342,9.593,- You bet! - That sure was,True,False,5,0,,0.0,False
+4,9.719,11.178,"a good episode, wasn't it?",False,False,5,0,,0.0,False
+5,11.303,13.097,But this next episode is our favorite episode.,False,False,8,0,,0.0,False
+6,13.222,14.557,"It's called ""Damien"" and it's about",False,False,6,0,,0.0,False
+7,14.682,16.392,the ultimate fight between good and evil.,False,False,7,0,,0.0,False
+8,16.517,18.394,"But more than that, it's about being the new kid in school.",False,False,12,0,,0.0,False
+9,18.519,20.354,"That's right, ""South Park""-ateers.",False,False,5,0,,0.0,False
+10,20.479,23.024,"You know, being the new kid in school sure can be hard.",False,False,12,0,,0.0,False
+11,23.149,24.817,Matt and I know from first-hand experience,False,False,8,0,,0.0,False
+12,24.942,26.402,"because, well, we used to beat",False,False,6,0,,0.0,False
+13,26.527,28.112,the crap out of the new kids all the time.,False,False,10,0,,0.0,False
+14,28.237,30.656,"And because the episode has Jesus and Satan in it,",False,False,10,0,,0.0,False
+15,30.781,32.366,"well, we received a lot of complaints",False,False,7,0,,0.0,False
+16,32.491,34.535,from religious organizations from around the country.,False,False,7,0,,0.0,False
+17,34.66,37.413,They said we were being blasphemous and sacrilegious.,False,False,8,0,,0.0,False
+18,37.538,40.958,"To which we say, well, you're all a bunch of",False,False,10,0,,0.0,False
+19,41.083,45.504,Christian -heads.,False,False,2,0,,0.0,False
+20,45.629,47.923,"Wow, you said a mouthful there.",False,False,6,0,,0.0,False
+21,48.049,50.968,"Oh, hey, gang, it's our friend Indian companion.",False,False,8,0,,0.0,False
+22,51.093,53.304,Someone coming.,False,False,2,0,,0.0,False
+23,55.097,56.64,We don't care.,False,False,3,0,,0.0,False
+24,56.766,58.017,We don't care that someone's coming.,False,False,6,0,,0.0,False
+25,58.142,59.81,Can't you say something else?,False,False,5,0,,0.0,False
+26,59.935,61.854,"It's always ""Someone coming,"" ""Someone coming.""",False,False,6,0,,0.0,False
+27,61.979,63.23,We don't care. We--I hope someone comes.,False,False,8,0,,0.0,False
+28,63.355,64.899,We like people.,False,False,3,0,,0.0,False
+29,65.024,67.151,"Kids, let's all tell Indian companion to go away.",False,False,9,0,,0.0,False
+30,67.276,70.279,"Go away, Indian companion!",False,False,4,0,,0.0,False
+31,71.614,73.282,"Well, now why don't we all sit back",False,False,8,0,,0.0,False
+32,73.407,76.035,"and get a little rowdy and watch ""Damien.""",False,False,8,0,,0.0,False
+33,76.16,78.662,Yee-haw!,False,False,2,0,,0.0,False
+34,78.788,80.539,Hooray!,False,False,1,0,,0.0,False
+35,90.424,91.801,♪ I'm going down to South Park ♪,False,True,6,0,,0.0,False
+36,91.926,93.719,♪ Gonna have myself a time ♪,False,True,5,0,,0.0,False
+37,93.844,95.471,♪ Friendly faces everywhere ♪,False,True,3,0,,0.0,False
+38,95.596,97.014,♪ Humble folks without temptation ♪,False,True,4,0,,0.0,False
+39,97.139,98.474,♪ Going down to South Park ♪,False,True,5,0,,0.0,False
+40,98.599,100.309,♪ Gonna leave my woes behind ♪,False,True,5,0,,0.0,False
+41,100.434,102.019,♪ Ample parking day or night ♪,False,True,5,0,,0.0,False
+42,102.144,103.521,"♪ People spouting: ""Howdy neighbor."" ♪",False,True,4,0,,0.0,False
+43,103.646,105.022,♪ Headed on up to South Park ♪,False,True,6,0,,0.0,False
+44,105.147,106.774,♪ Gonna see if I can't unwind ♪,False,True,6,0,,0.0,False
+45,110.069,111.445,♪ So come on down to South Park ♪,False,True,7,0,,0.0,False
+46,111.57,113.656,♪ And meet some friends of mine ♪,False,True,6,0,,0.0,False
+47,114.448,116.992,"Here you go, Kyle.",False,False,4,4,cartman,1.0,True
+48,117.118,119.62,"And here's your, Stan. - What is this, Cartman?",True,False,8,7,kyle,0.5714285714285714,False
+49,119.745,121.038,They're invitations to my birthday party,False,False,6,6,cartman,1.0,True
+50,121.163,122.873,"this weekend. - Oh, sweet.",True,False,4,4,cartman,0.5,False
+51,122.998,124.834,Your mom's giving you a big party again this year?,False,False,10,10,stan,1.0,False
+52,124.959,127.294,That's right. ♪ 'Cause it's my birthday ♪,False,True,6,5,cartman,1.0,False
+53,127.419,130.381,"♪ My b-b-b-birthday ♪♪♪ - Kick ass, dude.",True,True,8,5,kyle,0.6,False
+54,130.506,132.633,Cartman's mom throws the best birthday parties ever!,False,False,8,8,kyle,1.0,False
+55,132.758,134.844,"That's right. - Yeah, if my mom could cook",True,False,8,8,stan,0.75,False
+56,134.969,137.346,"like Cartman's mom, I'd be a big, fat-ass too.",False,False,10,10,stan,1.0,False
+57,137.471,138.889,That's ri--hey!,False,False,3,2,cartman,1.0,True
+58,139.014,140.766,"Oh, Eric, I didn't get an invitation.",False,False,7,7,pip,1.0,False
+59,140.891,142.518,Oh really?,False,False,2,2,cartman,1.0,True
+60,142.643,145.396,"Gosh, where could I have put Pip's invitation?",False,False,8,8,cartman,1.0,True
+61,145.521,147.648,"Let's see... Pip's invitation,",False,False,4,4,cartman,1.0,True
+62,147.773,149.441,Pip's invitation...,False,False,2,2,cartman,1.0,True
+63,149.567,150.943,"Oh, I remember.",False,False,3,3,cartman,1.0,True
+64,151.068,152.695,I shoved it up my ass!,False,False,6,6,cartman,1.0,True
+65,152.82,154.697,"Yes, that's right, I wrote it out,",False,False,7,6,cartman,1.0,True
+66,154.822,156.365,"put it in an envelope, sealed it,",False,False,7,7,cartman,1.0,True
+67,156.49,158.659,"and then, bloop, shoved it right up my ass.",False,False,9,8,cartman,1.0,True
+68,158.784,160.119,Forever ruining any chance you had,False,False,6,6,cartman,1.0,True
+69,160.244,161.704,of coming to my birthday party.,False,False,6,6,cartman,1.0,True
+70,161.829,163.497,"Sorry Pip, old chap.",False,False,4,3,cartman,1.0,True
+71,163.622,167.293,Here's yours Wendy and here's yours Clyde.,False,False,7,7,cartman,1.0,True
+72,167.418,170.212,"Children, children, today is a very special day.",False,False,8,8,mr. garrison,1.0,False
+73,170.337,172.256,"No, my birthday isn't until Saturday.",False,False,6,6,cartman,1.0,True
+74,172.381,174.383,"I'm not talking about your birthday, Eric.",False,False,7,7,mr. garrison,1.0,False
+75,174.508,177.178,We have a new student joining our class today.,False,False,9,9,mr. garrison,1.0,False
+76,177.303,179.18,"Ugh. - Now, some of you know",True,False,6,5,mr. garrison,1.0,False
+77,179.305,181.056,what it's like to be the new kid in town.,False,False,10,10,mr. garrison,1.0,False
+78,181.182,182.85,So I want you all to take special care,False,False,9,9,mr. garrison,1.0,False
+79,182.975,184.602,to make him feel welcome.,False,False,5,5,mr. garrison,1.0,False
+80,184.727,187.271,I want you all to meet our new classmate--,False,False,9,9,mr. garrison,1.0,False
+81,187.396,189.19,"uh, what's your name again?",False,False,5,5,mr. garrison,1.0,False
+82,189.315,192.318,Damien.,False,False,1,1,damien,1.0,False
+83,194.445,196.572,Say hi to Damien.,False,False,4,3,mr. garrison,1.0,False
+84,196.697,198.407,"And where are you from, Damien?",False,False,6,6,mr. garrison,1.0,False
+85,198.532,201.368,The seventh layer of hell. - Oh that's exciting.,True,False,8,7,damien,0.7142857142857143,False
+86,201.493,202.953,My mother was from Alabama.,False,False,5,5,mr. garrison,1.0,False
+87,203.078,205.331,My arrival denotes end of the beginning.,False,False,7,6,damien,1.0,False
+88,205.456,206.707,The beginning of the end.,False,False,5,5,damien,1.0,False
+89,206.832,208.334,The new reign of my father.,False,False,6,6,damien,1.0,False
+90,208.459,210.669,Your father? - The Prince of Darkness.,True,False,6,6,damien,0.6666666666666666,False
+91,210.794,212.838,"Wow, we have royalty in our class.",False,False,7,7,mr. garrison,1.0,False
+92,212.963,214.423,"Why don't you take your seat, Damien.",False,False,7,7,mr. garrison,1.0,False
+93,214.548,216.217,We're gonna finish our lesson on great singers,False,False,8,8,mr. garrison,1.0,False
+94,216.342,218.302,of the Baroque era.,False,False,4,4,mr. garrison,1.0,False
+95,218.427,221.805,"Now children, Nancy Sinatra was quite a choice piece of ass...",False,False,11,11,mr. garrison,1.0,False
+96,221.931,223.933,"Hey, new kid, do you want an invitation",False,False,8,8,cartman,1.0,True
+97,224.058,226.685,to my birthday party? - Here begins the rule of pain.,True,False,10,10,damien,0.6,False
+98,226.81,228.27,The new domination of-- - Psyche!,True,False,5,4,damien,1.0,False
+99,228.395,229.939,I wasn't gonna give you an invitation.,False,False,7,7,cartman,1.0,True
+100,231.649,234.401,"Hey, who cut your hair, Stevie Wonder?",False,False,7,7,cartman,1.0,True
+101,239.156,241.242,"Whoa, dude! - Damn, what a freak!",True,False,6,6,kyle,0.6666666666666666,False
+102,241.367,243.577,"- Hey, I had a Poofy Pie in that desk!",False,False,9,9,cartman,1.0,True
+103,243.702,245.913,Now feel the wrath of the fallen angel.,False,False,8,7,damien,1.0,False
+104,246.038,247.873,The plague of blight is upon thee.,False,False,7,5,damien,1.0,False
+105,247.998,250.876,"Damien, do you need to sit in time out for a few minutes?",False,False,13,13,mr. garrison,1.0,False
+106,251.585,253.587,Heh. ♪ You got in trouble ♪,False,True,5,4,cartman,1.0,False
+107,253.712,255.381,♪ You got in trouble ♪,False,True,4,4,cartman,1.0,False
+108,256.84,258.759,"Hey, Cartman, how come the birthday invitation",False,False,7,7,stan,1.0,False
+109,258.884,260.636,"you gave me says, ""Green Mega Man""?",False,False,7,5,stan,1.0,False
+110,260.761,262.429,"Yeah, mine says, ""Red Mega Man"".",False,False,6,5,kyle,1.0,False
+111,262.554,264.098,"Right, that's what you're supposed to get me",False,False,8,6,cartman,1.0,True
+112,264.223,266.141,for my birthday. - Dude...,True,False,4,4,cartman,0.75,False
+113,266.267,267.768,You're not supposed to tell people what to get you,False,False,10,10,stan,1.0,False
+114,267.893,269.561,"for your birthday. - Yeah, that's weak.",True,False,6,6,stan,0.5,False
+115,269.687,271.105,"Look, it's very simple, guys.",False,False,5,5,cartman,1.0,True
+116,271.23,272.982,Green Mega Man goes with Red Mega Man,False,False,8,8,cartman,1.0,True
+117,273.107,275.693,and Yellow Mega Man to make the Ultra Mega Mega Man.,False,False,11,11,cartman,1.0,True
+118,275.818,277.945,"You have to have all three or it doesn't work, see?",False,False,11,11,cartman,1.0,True
+119,278.07,280.155,"Up yours, Cartman, I'll get you whatever the hell I want.",False,False,11,11,stan,1.0,False
+120,280.281,283.117,"Oh, so maybe you don't want to have any of my mom's",False,False,12,11,cartman,1.0,True
+121,283.242,284.702,"cake pan ice cream, then.",False,False,5,4,cartman,1.0,True
+122,284.827,286.578,"Oh, Green Mega Man it is.",False,False,6,6,stan,1.0,False
+123,286.704,288.205,"Now as you can see Kenny,",False,False,6,6,cartman,1.0,True
+124,288.33,290.457,you are to get me Yellow Mega Man.,False,False,8,8,cartman,1.0,True
+125,290.582,292.71,"That's because Yellow Mega Man is the cheapest one,",False,False,9,9,cartman,1.0,True
+126,292.835,295.546,and I know how poor your family is.,False,False,8,8,cartman,1.0,True
+127,295.671,297.423,"Hey, what you think you're doing, new kid?",False,False,8,7,stan,1.0,False
+128,297.548,299.341,"Yeah you can't sit with us, weirdo.",False,False,7,7,cartman,1.0,True
+129,299.466,302.177,Infidels! I will turn you all into beasts of burden!,False,False,10,10,damien,1.0,False
+130,302.303,303.637,You can't sit us with us new kid.,False,False,8,7,kyle,1.0,False
+131,303.762,305.806,Go find another table.,False,False,4,4,kyle,1.0,False
+132,305.931,308.767,"Any way Kenny, Yellow Mega Man is only 8.95.",False,False,10,7,cartman,1.0,True
+133,308.892,310.477,So maybe your mom can put it on layaway,False,False,9,9,cartman,1.0,True
+134,310.602,311.937,and make payments for a year or two.,False,False,8,8,cartman,1.0,True
+135,315.149,317.359,"Hey! Oh, good day, Damien.",False,False,5,4,pip,1.0,False
+136,317.484,319.403,"My name is Phillip, but everyone calls me ""Pip"",",False,False,9,8,pip,1.0,False
+137,319.528,321.53,because they hate me! - Then I will call you Pip.,True,False,10,10,damien,0.6,False
+138,321.655,324.158,"Right-o. - Hey, new kid.",True,False,5,5,stan,0.6,False
+139,324.283,326.869,"Kenny says he saw your mom drop you off this morning,",False,False,11,10,stan,1.0,False
+140,326.994,330.039,and she's a real dog.,False,False,5,5,stan,1.0,False
+141,330.164,331.915,That does it! Woof-ah!,False,False,5,3,damien,1.0,False
+142,336.211,338.213,"What the-- - Dude, he turned Kenny",True,False,6,6,kyle,0.6666666666666666,False
+143,338.339,339.548,into a duck-billed platypus!,False,False,5,5,kyle,1.0,False
+144,339.673,341.3,A what?,False,False,2,2,stan,1.0,False
+145,341.425,343.635,"Hey, turn him back, you butthole.",False,False,6,4,cartman,1.0,True
+146,343.761,345.471,He has to buy me the Yellow Mega Man.,False,False,9,9,cartman,1.0,True
+147,345.596,346.889,"Hello there, children.",False,False,3,3,chef,1.0,False
+148,347.014,348.39,"Hey, Chef. - How's it going?",True,False,5,5,chef,0.6,False
+149,348.515,349.975,Bad. - Why bad?,True,False,3,3,chef,0.6666666666666666,False
+150,350.1,351.31,"Chef, there's a new kid in school",False,False,7,7,kyle,1.0,False
+151,351.435,353.062,and he's a total weirdo freak.,False,False,6,6,kyle,1.0,False
+152,353.187,354.855,"Oh, children, children.",False,False,3,0,,0.0,False
+153,354.98,356.523,You shouldn't not like somebody,False,False,5,0,,0.0,False
+154,356.648,358.275,just because they're different.,False,False,4,0,,0.0,False
+155,358.4,360.944,Here let me sing you a little song.,False,False,8,0,,0.0,False
+156,362.696,365.366,♪ We're all special in our own way ♪,False,True,7,0,,0.0,False
+157,365.491,367.91,♪ Everybody's different but that's okay ♪,False,True,5,0,,0.0,False
+158,368.035,371.372,♪ 'Cause even though we might have different color skin ♪,False,True,9,0,,0.0,False
+159,371.497,374.083,"♪ Different points of views, be tall or thin ♪",False,True,8,0,,0.0,False
+160,374.208,377.586,"♪ It doesn't mean I can't lay you down, woman ♪",False,True,9,0,,0.0,False
+161,377.711,380.964,♪ And touch your silky skin ♪,False,True,5,0,,0.0,False
+162,381.09,382.883,♪ Put my love deep inside you ♪,False,True,6,5,chef,1.0,False
+163,383.008,386.095,♪ Where no man has ever been ♪,False,True,6,6,chef,1.0,False
+164,386.22,387.638,♪ Rub your legs ♪,False,True,3,2,chef,1.0,False
+165,387.763,390.724,"♪ Caress your thighs, and-- ♪",False,True,4,4,chef,1.0,False
+166,391.767,393.227,What were we talking about again?,False,False,6,6,chef,1.0,False
+167,393.352,395.145,The new kid. - Death to the holy.,True,False,7,7,damien,0.5714285714285714,False
+168,395.27,398.565,The wrath of the fallen angels now waits for you all!,False,False,11,10,damien,1.0,False
+169,398.69,400.15,Whoa!,False,False,1,1,stan,1.0,False
+170,400.275,403.07,"Oh, that is one fudged-up little cracker.",False,False,8,8,chef,1.0,False
+171,403.195,404.446,"We told you, dude.",False,False,4,4,kyle,1.0,False
+172,406.949,408.992,"We've got to do something, children!",False,False,6,6,chef,1.0,False
+173,409.118,411.787,He's tearing my cafeteria apart.,False,False,5,0,,0.0,False
+174,411.912,413.539,Bring me Jesus!,False,False,3,3,damien,1.0,False
+175,413.664,417.501,My wrath shall continue until I speak with Jesus!,False,False,9,8,damien,1.0,False
+176,417.626,419.002,Jesus?,False,False,1,1,"stan,",1.0,False
+177,419.962,421.171,"Two minutes to air, Jesus.",False,False,5,5,roland,1.0,False
+178,421.296,422.756,"Thanks Roland, blessed art thou.",False,False,5,5,jesus,1.0,False
+179,422.881,424.466,"Jesus, Jesus! - Hi kids.",True,False,4,4,stan,0.5,False
+180,424.591,426.009,I only do autographs after the show.,False,False,7,7,jesus,1.0,False
+181,426.135,428.011,"No, no, there's a big problem at school.",False,False,8,8,stan,1.0,False
+182,428.137,429.888,Some new kid showed up wearing all black.,False,False,8,8,stan,1.0,False
+183,430.013,431.64,And Chef thinks he's evil.,False,False,5,5,stan,1.0,False
+184,431.765,433.267,"Yeah, look what he did to our friend Kenny.",False,False,9,9,kyle,1.0,False
+185,433.392,436.228,"Wow, that's pretty heavy.",False,False,4,4,jesus,1.0,False
+186,436.353,438.021,"This new kid, he just keeps throwing things around,",False,False,9,9,stan,1.0,False
+187,438.147,440.107,"and saying stuff about his ""Dark Prince"" father coming.",False,False,9,9,stan,1.0,False
+188,440.232,441.525,He says he wants to talk to you.,False,False,8,8,stan,1.0,False
+189,441.65,443.694,- The Dark Prince? - Yeah.,True,False,4,4,jesus,0.75,False
+190,443.819,446.113,So it was written. And so the cycle of years,False,False,10,10,jesus,1.0,False
+191,446.238,448.031,brings the son of the evil one.,False,False,7,7,jesus,1.0,False
+192,448.157,449.825,"Oh brother, now he's talking like the new kid.",False,False,9,7,stan,1.0,False
+193,449.95,452.035,Thou must taketh me to the seedling of Satan,False,False,9,8,jesus,1.0,False
+194,452.161,454.872,so mine eyes can confirm the wretched truth.,False,False,8,8,jesus,1.0,False
+195,456.373,457.666,'Kay.,False,False,1,0,,0.0,False
+196,457.791,459.46,Five minutes,False,False,2,2,groundskeeper,1.0,False
+197,459.585,463.338,"until recess is over, you little bastards.",False,False,7,7,groundskeeper,1.0,False
+198,463.464,464.965,"Now, as you can see",False,False,5,5,cartman,1.0,True
+199,465.09,467.926,"the Red Mega Man uses the Mega Cycle,",False,False,8,7,cartman,1.0,True
+200,468.051,470.637,which is what Clyde will be getting me for my birthday.,False,False,11,11,cartman,1.0,True
+201,470.762,472.306,"Wendy, you were supposed to get me",False,False,7,7,cartman,1.0,True
+202,472.431,475.225,"the Mega Power Chopper, illustrated here.",False,False,6,6,cartman,1.0,True
+203,475.35,478.02,"But I'm changing your present to the Yellow Mega Man,",False,False,10,10,cartman,1.0,True
+204,478.145,481.44,since Kenny has been turned into a duck-billed platypus.,False,False,10,10,cartman,1.0,True
+205,481.565,485.194,"That means that the Mega Man Beach House illustrated here,",False,False,10,9,cartman,1.0,True
+206,485.319,487.446,will be a gift given by two people at once,False,False,10,10,cartman,1.0,True
+207,487.571,488.906,since it costs more money.,False,False,5,4,cartman,1.0,True
+208,489.031,491.283,Our slide!,False,False,2,2,bebe,1.0,False
+209,491.408,494.286,Feel my wrath!,False,False,3,3,damien,1.0,False
+210,494.411,496.121,"Oh, dear, you shouldn't be so upset, Damien.",False,False,8,5,pip,1.0,False
+211,496.246,497.581,"I know it's hard being the new kid,",False,False,8,8,pip,1.0,False
+212,497.706,499.541,but the children may accept you some day.,False,False,8,6,pip,1.0,False
+213,499.666,502.169,I don't need acceptance I'm the son of Satan.,False,False,9,9,damien,1.0,False
+214,502.294,504.463,"Believe me, I know what it's like not to have friends.",False,False,11,11,pip,1.0,False
+215,504.588,506.048,Perhaps you should speak to the school counselor.,False,False,8,8,pip,1.0,False
+216,506.173,507.758,He helps me a lot when I'm feeling lonely.,False,False,9,9,pip,1.0,False
+217,507.883,509.051,Damien!,False,False,1,1,jesus,1.0,False
+218,509.176,511.011,"Aah, son of stench.",False,False,4,3,damien,1.0,False
+219,511.136,512.387,Cursed ruler of the weak.,False,False,5,5,damien,1.0,False
+220,512.513,515.057,So it is thou. Son of Lucifer!,False,False,7,7,jesus,1.0,False
+221,515.182,517.059,Your time on this earth is short.,False,False,7,7,damien,1.0,False
+222,517.184,518.602,"Soon, my father comes.",False,False,4,4,damien,1.0,False
+223,518.727,521.063,"Let him come, then. I shall stop him.",False,False,8,8,jesus,1.0,False
+224,521.188,523.482,"Behold, he is already upon us.",False,False,6,6,damien,1.0,False
+225,525.15,526.61,Oh dude!,False,False,2,1,kyle,1.0,False
+226,534.701,536.703,What the hell's going on here?,False,False,6,6,jimbo,1.0,False
+227,536.828,539.081,Look it's that guy from the public access show.,False,False,9,9,father,1.0,False
+228,539.206,540.541,What's happening?,False,False,2,2,blonde,1.0,False
+229,540.666,542.334,"Come over here if you're scared, women.",False,False,7,7,chef,1.0,False
+230,542.459,544.002,I'll protect you.,False,False,3,3,chef,1.0,False
+231,544.127,545.42,"Not you, damn it!",False,False,4,2,chef,1.0,False
+232,548.799,551.552,"Jesus, my father says he chooses you.",False,False,7,7,damien,1.0,False
+233,551.677,552.844,He calls you out.,False,False,4,4,damien,1.0,False
+234,552.97,554.805,Be here at this time tomorrow.,False,False,6,6,damien,1.0,False
+235,554.93,556.431,There the terms will be discussed.,False,False,6,5,damien,1.0,False
+236,556.557,558.392,Very well. Let the final battle,False,False,6,6,jesus,1.0,False
+237,558.517,560.143,"between good and evil be fought,",False,False,6,6,jesus,1.0,False
+238,560.269,562.145,right here in South Park!,False,False,5,5,jesus,1.0,False
+239,562.271,564.648,"C'mon Ned, we gotta get our asses to the bookie!",False,False,10,7,jimbo,1.0,False
+240,564.773,566.4,You're gonna fight Satan?,False,False,4,4,stan,1.0,False
+241,566.525,568.819,This fight has been ordained since the beginning.,False,False,8,8,jesus,1.0,False
+242,568.944,572.281,"My children, this is most crucial and serious time",False,False,9,9,jesus,1.0,False
+243,572.406,573.865,of all history.,False,False,3,3,jesus,1.0,False
+244,574.866,576.702,Who will win our souls?,False,False,5,5,commercial,1.0,False
+245,576.827,578.537,Our savior and lord... - Or the Prince of Darkness?,True,False,9,9,commercial,1.0,False
+246,578.662,579.997,It's the final battle between good and evil.,False,False,8,8,commercial,1.0,False
+247,580.122,581.79,And it's only on pay-per-view.,False,False,7,7,commercial,1.0,False
+248,581.915,583.625,Jesus vs. Satan,False,False,3,2,commercial,1.0,False
+249,583.75,585.252,Live from the South Park Forum on Saturday!,False,False,8,8,commercial,1.0,False
+250,585.377,588.463,Call now to order. Only $49.95.,False,False,7,7,commercial,1.0,False
+251,588.589,590.966,"Hey, wait a minute. Saturday is my birthday party!",False,False,9,9,cartman,1.0,True
+252,591.091,592.509,They can't have the fight on Saturday!,False,False,7,7,cartman,1.0,True
+253,592.634,593.969,I don't know,False,False,3,3,stan,1.0,False
+254,594.094,595.679,"what to do, dude. Do we go to the fight",False,False,10,10,stan,1.0,False
+255,595.804,597.931,or Cartman's birthday? - Cartman's birthday.,True,False,5,5,stan,0.6,False
+256,598.056,599.558,We can't miss the final apocalyptic battle,False,False,7,7,kyle,1.0,False
+257,599.683,601.393,"between good and evil. - You guys,",True,False,6,6,kyle,0.6666666666666666,False
+258,601.518,603.145,my mom's getting a Ferris wheel.,False,False,6,5,cartman,1.0,True
+259,603.27,605.939,"Well, c'mon we have to at least see the weigh-in.",False,False,11,10,stan,1.0,False
+260,606.064,607.316,Who the hell decided the fight,False,False,6,6,cartman,1.0,True
+261,607.441,609.109,"had to be on Saturday, huh?",False,False,6,6,cartman,1.0,True
+262,609.234,610.777,"This whole thing is a plot against me, isn't it?",False,False,10,10,cartman,1.0,True
+263,614.489,616.533,When is Satan gonna show up?,False,False,6,6,father,1.0,False
+264,616.658,618.493,Did the devil show up yet? - Not yet.,True,False,8,8,stan,0.75,False
+265,618.619,620.412,"Hey Jesus, if you win the fight",False,False,7,7,kyle,1.0,False
+266,620.537,622.998,can you turn Kenny back to normal?,False,False,7,7,kyle,1.0,False
+267,623.123,624.958,"What the hell do you mean ""if"" I win the fight?",False,False,11,11,jesus,1.0,False
+268,625.083,626.96,"Don't mind him, Jesus. He's Jewish.",False,False,6,6,cartman,1.0,True
+269,627.085,628.795,Oh. - We're all with you Jesus.,True,False,6,6,jimbo,0.8333333333333334,False
+270,628.92,631.798,We put every dime we have on you beating that Dark Prince.,False,False,12,11,jimbo,1.0,False
+271,631.923,634.051,"Thank you for your faith,",False,False,5,5,jesus,1.0,False
+272,634.176,635.844,but I think perhaps you don't understand,False,False,7,7,jesus,1.0,False
+273,635.969,637.346,the severity of the situation.,False,False,5,5,jesus,1.0,False
+274,637.471,639.848,"You're gonna kick his ass, Jesus.",False,False,6,6,father,1.0,False
+275,643.81,646.48,"Behold, the evil one approaches.",False,False,5,5,jesus,1.0,False
+276,649.316,652.527,Holy poop-on-a-stick!,False,False,5,5,mr. garrison,1.0,False
+277,652.653,654.905,Puny son of Jehovah.,False,False,4,4,satan,1.0,False
+278,655.03,658.992,Prepare to enter thy house of pain.,False,False,7,7,satan,1.0,False
+279,660.243,663.038,"Holy crap, dude. Satan is huge!",False,False,6,6,stan,1.0,False
+280,663.163,665.999,Now that is a man who has eaten a lot of beef.,False,False,12,12,jimbo,1.0,False
+281,666.124,667.751,"Son of God,",False,False,3,3,satan,1.0,False
+282,667.876,671.338,I will smash thy face into small little bits.,False,False,9,9,satan,1.0,False
+283,671.463,673.507,"Oh...oh, yeah? - Damn.",True,False,4,4,jesus,0.75,False
+284,673.632,675.884,I have such delightful horrors,False,False,5,5,satan,1.0,False
+285,676.009,678.595,to unleash upon thee.,False,False,4,4,satan,1.0,False
+286,678.72,680.097,"Oh, yeah?",False,False,2,2,jesus,1.0,False
+287,682.474,684.476,Satan weighs in at...,False,False,4,4,announcer,1.0,False
+288,684.601,687.896,"320 pounds, 4 ounces.",False,False,4,2,announcer,1.0,False
+289,690.774,693.485,Jesus Christ weighs in at...,False,False,5,5,announcer,1.0,False
+290,693.61,696.113,"135 pounds, 1 ounce.",False,False,4,2,announcer,1.0,False
+291,696.238,698.448,"Oh, crap.",False,False,2,1,chef,1.0,False
+292,698.573,700.283,"Ah, c'mon, I weigh more than that!",False,False,7,5,jesus,1.0,False
+293,700.409,703.87,Let the new prince be decided on Saturday.,False,False,8,8,satan,1.0,False
+294,703.995,707.457,"First South Park, then the world.",False,False,6,6,satan,1.0,False
+295,709.71,712.379,"Well, I think I'll...",False,False,4,4,jimbo,1.0,False
+296,712.504,714.089,I think I left the oven on.,False,False,7,7,jimbo,1.0,False
+297,714.214,717.968,"Yeah, I think I left your oven on, too.",False,False,9,9,mr. garrison,1.0,False
+298,719.386,722.723,"See you Saturday, Jesus. Good luck.",False,False,6,4,father,1.0,False
+299,724.516,726.643,Change my bet! - Put my money on the devil!,True,False,9,6,man,1.0,False
+300,726.768,728.437,I want to change my bet to Satan.,False,False,8,6,jimbo,1.0,False
+301,728.562,730.856,"Me too. - Hey, wait. I was here first.",True,False,8,6,mr. garrison,0.6666666666666666,False
+302,730.981,733.442,"Now, as your counselor,",False,False,4,4,mr. mackey,1.0,False
+303,733.567,737.279,"I want you to feel like you can tell me anything, m'kay?",False,False,12,11,mr. mackey,1.0,False
+304,737.404,739.197,"Being the new kid can be tough,",False,False,7,7,mr. mackey,1.0,False
+305,739.322,742.617,"but I'm your friend, m'kay? - Everybody hates me.",True,False,8,8,mr. mackey,0.625,False
+306,742.743,746.079,Well why do you suppose that is?,False,False,7,7,mr. mackey,1.0,False
+307,746.204,747.622,Because I'm the son of the devil?,False,False,7,7,damien,1.0,False
+308,747.748,750.292,"Uh-huh, that's a good start. Why else?",False,False,8,6,mr. mackey,1.0,False
+309,750.417,752.544,Because I burn them and kill them?,False,False,7,7,damien,1.0,False
+310,752.669,754.463,"Well, yeah, maybe that's it.",False,False,5,5,mr. mackey,1.0,False
+311,754.588,756.923,"What you need to do, Damien",False,False,6,6,mr. mackey,1.0,False
+312,757.048,759.009,is to be overly nice.,False,False,5,5,mr. mackey,1.0,False
+313,759.134,762.137,"No matter how mean the other kids are to you,",False,False,10,10,mr. mackey,1.0,False
+314,762.262,763.889,just don't retaliate.,False,False,3,3,mr. mackey,1.0,False
+315,764.014,765.682,"Be passive, m'kay.",False,False,3,3,mr. mackey,1.0,False
+316,765.807,767.684,"That's what I taught the little British boy, Pip,",False,False,9,9,mr. mackey,1.0,False
+317,767.809,771.104,and just look at how much the other children like him now.,False,False,12,12,mr. mackey,1.0,False
+318,771.229,773.607,I bet I can spit the most on him.,False,False,9,9,clyde,1.0,False
+319,773.732,776.651,"Oh yeah, I bet I can spit in his hair.",False,False,10,10,bebe,1.0,False
+320,776.777,779.362,"Nice try, a little higher and you've got it.",False,False,9,9,pip,1.0,False
+321,779.488,782.115,"Man, recess sucks without any slides or nothing.",False,False,8,6,stan,1.0,False
+322,782.24,784.409,"Oh, here comes the unholy butthole now.",False,False,7,6,cartman,1.0,True
+323,784.534,786.077,"Hey, thanks a lot",False,False,4,3,cartman,1.0,True
+324,786.203,787.996,"for burning everything down, you little bitch.",False,False,7,6,cartman,1.0,True
+325,788.121,790.373,I apologize for ruining your playground,False,False,6,6,damien,1.0,False
+326,790.499,793.001,and turning your friend into a duck-billed platypus.,False,False,9,9,damien,1.0,False
+327,793.126,794.503,I was doing my father's bidding.,False,False,6,6,damien,1.0,False
+328,794.628,796.171,I didn't have a choice.,False,False,5,5,damien,1.0,False
+329,796.963,799.633,"Oh, excuse me, new kid",False,False,5,5,cartman,1.0,True
+330,799.758,802.928,I didn't mean to fart on you I didn't have a choice.,False,False,12,12,cartman,1.0,True
+331,803.053,805.639,"Hoo, you stink, new kid. You smell like a fart.",False,False,10,9,stan,1.0,False
+332,805.764,808.016,"Yeah, we're gonna call you Fartboy from now on.",False,False,9,8,kyle,1.0,False
+333,808.141,809.851,"Bye-bye, Fartboy. - See ya.",True,False,5,2,kyle,1.0,False
+334,809.976,811.645,"Good day. How are you, Damien?",False,False,6,5,pip,1.0,False
+335,811.77,813.563,Those guys farted on me and then called me--,False,False,9,9,damien,1.0,False
+336,813.688,815.065,"Fartboy? Oh, good.",False,False,3,2,pip,1.0,False
+337,815.19,816.775,Perhaps they won't call me that anymore.,False,False,7,7,pip,1.0,False
+338,821.655,824.324,Excuse me...,False,False,2,2,jesus,1.0,False
+339,824.449,826.535,I just talked to the bookie at the sports betting bar.,False,False,11,11,jesus,1.0,False
+340,826.66,828.662,Uh-oh.,False,False,2,1,chef,1.0,False
+341,828.787,831.331,I have been forsaken! It seems that several bets,False,False,9,9,jesus,1.0,False
+342,831.456,833.708,were changed to Satan this morning.,False,False,6,6,jesus,1.0,False
+343,833.834,836.378,In fact it seems that only one person,False,False,8,8,jesus,1.0,False
+344,836.503,838.797,in this entire town is still betting on me.,False,False,9,9,jesus,1.0,False
+345,838.922,841.383,You should all be ashamed of yourselves.,False,False,7,7,father,1.0,False
+346,841.508,843.301,Betting against your lord and savior.,False,False,6,6,father,1.0,False
+347,843.426,844.928,I am disgusted!,False,False,3,3,father,1.0,False
+348,845.053,846.721,Your bet was changed as well.,False,False,6,6,jesus,1.0,False
+349,846.847,848.139,You forsaked me too.,False,False,4,4,jesus,1.0,False
+350,848.265,850.392,"Oh. Right, well...",False,False,3,2,father,1.0,False
+351,850.517,852.561,"he does have a couple hundred pounds on you, Jesus.",False,False,10,10,father,1.0,False
+352,852.686,855.146,"I implore you all, don't bet on the Dark One.",False,False,10,10,jesus,1.0,False
+353,855.272,856.815,It is a bet that you will never win.,False,False,9,9,jesus,1.0,False
+354,856.94,859.442,"Jesus, I am sorry I have sinned against you.",False,False,9,9,father,1.0,False
+355,859.568,861.278,I'm gonna march right over to that bookie,False,False,8,8,father,1.0,False
+356,861.403,862.737,and change my bet right now.,False,False,6,6,father,1.0,False
+357,862.863,864.823,"Oh, yeah, yeah me too. Me too.",False,False,7,7,mr. garrison,1.0,False
+358,864.948,867.284,Yeah. - Praise the Lord!,True,False,4,3,father,0.6666666666666666,False
+359,867.409,870.871,Thank you sweet Jesus for showing us the light!,False,False,9,9,father,1.0,False
+360,870.996,873.123,See you later.,False,False,3,2,father,1.0,False
+361,874.583,876.668,"What the hell does he think, we're all crazy?",False,False,9,9,father,1.0,False
+362,876.793,879.17,"Yeah, crazy.",False,False,2,2,mr. garrison,1.0,False
+363,879.296,881.756,This show's gay. - Yeah.,True,False,4,2,mr. allen,0.5,False
+364,881.882,883.925,You're all a bunch of Judases.,False,False,6,6,jesus,1.0,False
+365,884.05,885.51,Hey Jesus.,False,False,2,2,stan,1.0,False
+366,885.635,887.137,"What are you doing out so late, kids?",False,False,8,8,jesus,1.0,False
+367,887.262,888.68,We have to find Red and Green Mega Mans,False,False,9,8,kyle,1.0,False
+368,888.805,890.432,for Cartman's birthday party. - Oh.,True,False,5,5,kyle,0.8,False
+369,890.557,893.518,"Kids, you believe I can beat Satan, right?",False,False,8,8,jesus,1.0,False
+370,893.643,895.228,"Sure, dude. You're the son of god!",False,False,7,7,stan,1.0,False
+371,895.353,897.188,"Yeah. You aren't having any doubts, are you?",False,False,8,8,kyle,1.0,False
+372,897.314,898.69,"N-no, no.",False,False,3,2,jesus,1.0,False
+373,898.815,901.61,But could you help me train a little?,False,False,8,7,jesus,1.0,False
+374,902.611,905.53,"Satan, what do expect the outcome of the fight to be?",False,False,11,11,reporter,1.0,False
+375,905.655,908.867,I will crush him like a little bug.,False,False,8,8,satan,1.0,False
+376,908.992,911.161,"Satan, what about the rumors of your involvement",False,False,8,8,reporter,1.0,False
+377,911.286,913.83,in the Gulf War?,False,False,4,4,reporter,1.0,False
+378,913.955,915.79,"Let's focus on the fight, can we please?",False,False,8,8,don,1.0,False
+379,915.916,918.501,I'm so sick of people talking smack about my fighters.,False,False,10,9,don,1.0,False
+380,918.627,920.67,"All this, ""He's mean"", ""He's a dirty fighter"",",False,False,8,7,don,1.0,False
+381,920.795,922.339,"""He's the cause for all the violence and death",False,False,9,9,don,1.0,False
+382,922.464,924.174,"in the world."" It's just getting old.",False,False,7,7,don,1.0,False
+383,924.299,927.469,Let's just let everything be decided in the ring.,False,False,9,9,don,1.0,False
+384,927.594,929.346,"You guys, shouldn't you be out shopping",False,False,7,7,cartman,1.0,True
+385,929.471,931.181,"for my birthday presents? - Here, Jesus,",True,False,6,6,cartman,0.6666666666666666,False
+386,931.306,933.433,"drink these raw eggs. - No way, dude.",True,False,7,7,kyle,0.5714285714285714,False
+387,933.558,935.31,I-I can't.,False,False,3,2,chef,1.0,False
+388,935.435,936.895,I can't hit Jesus Christ.,False,False,5,5,chef,1.0,False
+389,937.02,939.23,My mother would never speak to me again.,False,False,8,8,chef,1.0,False
+390,939.356,940.774,"But you're his sparing partner, Chef.",False,False,6,5,stan,1.0,False
+391,940.899,942.067,"Yeah, you have to hit him.",False,False,6,6,kyle,1.0,False
+392,942.192,943.818,"Satan must be defeated, Chef.",False,False,5,5,jesus,1.0,False
+393,943.944,946.613,Please help me to train. - Okay...,True,False,6,6,jesus,0.8333333333333334,False
+394,946.738,948.949,"But I'm just gonna tap you, all right?",False,False,8,6,chef,1.0,False
+395,949.074,950.408,Give it your best shot--oh!,False,False,6,5,jesus,1.0,False
+396,950.533,953.37,"Oh, God in heaven. What have I done?",False,False,8,8,chef,1.0,False
+397,953.495,955.914,Anybody get the number of that truck?,False,False,7,7,jesus,1.0,False
+398,961.628,964.506,"C'mon kiddies, eat more.",False,False,4,3,liane,1.0,False
+399,965.298,967.092,"Welcome, Clyde. Please put your present",False,False,6,6,cartman,1.0,True
+400,967.217,968.718,on the table to your left.,False,False,6,6,cartman,1.0,True
+401,968.843,971.346,"Welcome, Debbie. Presents go to your left.",False,False,7,6,cartman,1.0,True
+402,971.471,972.597,"Welcome, Chef. - Yep.",True,False,3,2,cartman,1.0,False
+403,972.722,974.307,"Here's your present, children.",False,False,4,4,chef,1.0,False
+404,974.432,976.81,"Well, nice party. See you later.",False,False,6,5,chef,1.0,False
+405,976.935,978.353,"Hey, you just got here, Chef.",False,False,6,6,kyle,1.0,False
+406,978.478,980.563,"I know, but the fight is starting.",False,False,7,7,chef,1.0,False
+407,980.689,983.316,"But, dude, check it out. Cartman's mom made chili.",False,False,9,8,stan,1.0,False
+408,983.441,985.527,Mm. - Mmm.,True,False,2,0,,0.0,False
+409,985.652,987.862,That's my favorite kind of chili.,False,False,6,6,chef,1.0,False
+410,987.988,990.448,I guess all the kids are at that fat boy's birthday party.,False,False,12,11,damien,1.0,False
+411,990.573,992.283,Yes. It's always such a huge event.,False,False,7,7,pip,1.0,False
+412,992.409,993.91,Sometimes I like to sneak up to the fence,False,False,9,9,pip,1.0,False
+413,994.035,996.037,and close my eyes and pretend I'm there.,False,False,8,8,pip,1.0,False
+414,996.162,997.706,The other kids have always hated you?,False,False,7,7,damien,1.0,False
+415,997.831,999.666,"Oh, yes. Actually, I think they make fun",False,False,8,8,pip,1.0,False
+416,999.791,1001.793,of the fat boy a lot too. But now I think they like him,False,False,14,14,pip,1.0,False
+417,1001.918,1003.211,because he picks on me.,False,False,5,5,pip,1.0,False
+418,1006.881,1009.009,"In the blue corner, wearing white trunks,",False,False,7,7,michael,1.0,False
+419,1009.134,1012.554,"weighing in at a mere 140 pounds,",False,False,7,6,michael,1.0,False
+420,1012.679,1013.847,Jesús,False,False,2,0,,0.0,False
+421,1013.972,1015.932,"""El Savior""",False,False,2,1,michael,1.0,False
+422,1016.057,1017.934,Christ.,False,False,1,1,michael,1.0,False
+423,1020.27,1022.772,"And in the very, very, black corner",False,False,7,6,michael,1.0,False
+424,1022.897,1025.191,"wearing very, very black trunks.",False,False,5,4,michael,1.0,False
+425,1025.316,1027.861,The king of all that is evil...,False,False,7,6,michael,1.0,False
+426,1027.986,1031.406,Beelzebub!,False,False,1,0,,0.0,False
+427,1036.411,1038.288,"Ladies and gentlemen,",False,False,3,3,michael,1.0,False
+428,1038.413,1043.668,let's get ready to rumble!,False,False,5,3,michael,1.0,False
+429,1043.793,1045.587,"Okay, I want a good, clean fight, guys.",False,False,8,8,referee,1.0,False
+430,1045.712,1048.423,"No punches below the belt, holding, or miracles.",False,False,8,8,referee,1.0,False
+431,1052.927,1055.013,Hey! What the hell do you think you're doing here?,False,False,10,10,cartman,1.0,True
+432,1055.138,1057.015,"Yeah you aren't invited, new kid.",False,False,6,5,stan,1.0,False
+433,1057.14,1059.184,"And neither are you, Pip. - Yes, I tried to tell Damien",True,False,11,10,pip,0.6,False
+434,1059.309,1060.685,"that we weren't invited, but-- - Wait a minute.",True,False,8,8,pip,0.625,False
+435,1060.81,1062.27,Give me a chance!,False,False,4,4,damien,1.0,False
+436,1062.395,1064.606,I want to do something special for your party!,False,False,9,9,damien,1.0,False
+437,1071.404,1072.655,"Oh, no!",False,False,2,0,,0.0,False
+438,1075.784,1077.619,"Wow. - Whoa, that was cool.",True,False,5,5,stan,0.8,False
+439,1079.245,1080.455,"Hey, you're not such a bad guy,",False,False,7,7,kyle,1.0,False
+440,1080.58,1081.998,"after all, Damien. - Yeah.",True,False,4,4,kyle,0.75,False
+441,1082.123,1084.501,Come on in and join the party.,False,False,7,7,cartman,1.0,True
+442,1086.753,1088.171,Oh!,False,False,1,0,,0.0,False
+443,1090.548,1092.717,Oh!,False,False,1,0,,0.0,False
+444,1095.929,1098.89,"C'mon you little wuss, fight!",False,False,5,4,satan,1.0,False
+445,1099.015,1100.767,Throw a punch.,False,False,3,3,satan,1.0,False
+446,1100.892,1104.479,"Oh, I wonder what Stan got me for my birthday present.",False,False,11,9,cartman,1.0,True
+447,1104.604,1108.233,"Oh, look a Blue Mega Man! Thank you, Stan.",False,False,9,9,cartman,1.0,True
+448,1108.358,1111.277,You may eat pie and cake and ice cream now.,False,False,10,10,cartman,1.0,True
+449,1111.402,1112.862,And what did Wendy get me?,False,False,6,6,cartman,1.0,True
+450,1112.987,1115.657,"Oh, it's the Yellow Mega Man!",False,False,6,5,cartman,1.0,True
+451,1115.782,1118.159,"Help yourself to pie, cake, and ice cream, Wendy.",False,False,9,9,cartman,1.0,True
+452,1118.284,1120.036,"Oh, look what Kyle got me.",False,False,6,6,cartman,1.0,True
+453,1120.161,1121.663,It's a Red Mega--,False,False,4,4,cartman,1.0,True
+454,1121.788,1123.748,Ants in the Pants? Ants in the pan--,False,False,8,8,cartman,1.0,True
+455,1123.873,1125.166,Ants in the pants!,False,False,4,4,cartman,1.0,True
+456,1125.291,1126.584,"It's game, dude. It's really fun!",False,False,6,6,kyle,1.0,False
+457,1126.709,1128.878,You son of a bitch! - Ah!,True,False,6,4,cartman,1.0,False
+458,1129.003,1131.005,You were supposed to get me the Red Mega Man!,False,False,10,10,cartman,1.0,True
+459,1131.131,1133.049,Now I can't make Ultra Mega Mega Man!,False,False,8,8,cartman,1.0,True
+460,1133.174,1134.968,"You dirty, cheap-ass, piece of crap.",False,False,7,7,cartman,1.0,True
+461,1135.093,1136.427,"They were all out of 'em, dude!",False,False,7,7,kyle,1.0,False
+462,1136.553,1138.93,I hate you! I want you to die!,False,False,8,8,cartman,1.0,True
+463,1139.055,1140.306,Die!,False,False,1,1,cartman,1.0,True
+464,1140.431,1142.225,That's it! Party is over!,False,False,5,5,cartman,1.0,True
+465,1142.35,1144.06,Everybody go home!,False,False,3,3,cartman,1.0,True
+466,1148.481,1149.983,Get the hell out I said!,False,False,6,6,cartman,1.0,True
+467,1150.108,1152.694,Party's over! Get out God damn it!,False,False,7,4,cartman,1.0,True
+468,1152.819,1154.279,"Whoa, dude, you need to mellow out.",False,False,7,7,stan,1.0,False
+469,1154.404,1156.781,Take your stupid Ants in the Pants with you!,False,False,9,9,cartman,1.0,True
+470,1156.906,1159.325,"Wow, that kid has some real emotional problems.",False,False,8,8,damien,1.0,False
+471,1159.45,1160.785,"Ah, he does this all the time.",False,False,7,7,stan,1.0,False
+472,1160.91,1162.62,"C'mon children, we can still catch",False,False,6,5,chef,1.0,False
+473,1162.745,1165.123,the end of the fight.,False,False,5,5,chef,1.0,False
+474,1166.583,1168.71,"Oh, what a splendid party!",False,False,5,3,pip,1.0,False
+475,1171.087,1172.672,Oh!,False,False,1,1,jesus,1.0,False
+476,1172.797,1174.465,"Fight, damn it.",False,False,3,1,satan,1.0,False
+477,1177.594,1179.846,Ow!,False,False,1,0,,0.0,False
+478,1181.681,1183.558,"Dude, Jesus is getting his butt kicked.",False,False,7,7,stan,1.0,False
+479,1183.683,1186.269,"You've got to fight, Jesus.",False,False,5,5,stan,1.0,False
+480,1186.394,1187.896,"Why, what's the point?",False,False,4,4,jesus,1.0,False
+481,1188.021,1189.23,No one believes in me.,False,False,5,3,jesus,1.0,False
+482,1189.355,1190.94,Everyone put their money on Satan.,False,False,6,6,jesus,1.0,False
+483,1191.065,1193.401,"My father forsaked me, the town forsaked me.",False,False,8,8,jesus,1.0,False
+484,1193.526,1195.195,I'm completely forsook.,False,False,3,3,jesus,1.0,False
+485,1195.32,1197.113,"Somebody bet on you, Jesus. You said yourself",False,False,8,8,kyle,1.0,False
+486,1197.238,1198.907,that one person still has money on you.,False,False,8,7,kyle,1.0,False
+487,1199.032,1200.533,It doesn't matter. He's way too strong,False,False,7,7,jesus,1.0,False
+488,1200.658,1202.118,for me anyway I give up.,False,False,6,6,jesus,1.0,False
+489,1202.243,1203.912,"God damn it, Jesus, snap out of it!",False,False,8,5,stan,1.0,False
+490,1204.037,1205.496,"What would Nancy Kerrigan do, huh?",False,False,6,6,stan,1.0,False
+491,1205.622,1206.998,Nancy Kerrigan wouldn't give up.,False,False,5,5,stan,1.0,False
+492,1207.123,1208.583,When things were looking their darkest,False,False,6,6,stan,1.0,False
+493,1208.708,1210.168,Nancy Kerrigan fought to be the best.,False,False,7,7,stan,1.0,False
+494,1210.293,1212.086,She wouldn't stop until she was number one.,False,False,8,8,stan,1.0,False
+495,1212.212,1213.546,"Uh, Stan. - Nancy Kerrigan wouldn't",True,False,5,4,stan,0.75,False
+496,1213.671,1215.34,settle for second best. - Stan.,True,False,5,5,stan,0.8,False
+497,1215.465,1216.633,She wouldn't quit until she brought home the gold.,False,False,9,9,stan,1.0,False
+498,1216.758,1218.134,Stan! - What?,True,False,2,2,stan,0.5,False
+499,1218.259,1219.677,"Nancy Kerrigan got the silver, dude.",False,False,6,6,kyle,1.0,False
+500,1219.802,1221.638,She came in second.,False,False,4,4,kyle,1.0,False
+501,1222.764,1224.307,"Really? - Yeah, dude.",True,False,3,3,kyle,0.6666666666666666,False
+502,1224.432,1226.476,"Oh, never mind, Jesus. Nancy Kerrigan sucks.",False,False,7,6,stan,1.0,False
+503,1227.894,1229.812,"You know, somebody once said,",False,False,5,5,stan,1.0,False
+504,1229.938,1233.149,"""Don't try to be a great man. Just be a man.""",False,False,11,9,stan,1.0,False
+505,1233.274,1235.944,"Who said that? - You did, Jesus.",True,False,6,6,jesus,0.5,False
+506,1239.072,1240.74,"You're right, Stan.",False,False,3,3,jesus,1.0,False
+507,1240.865,1242.2,"Thank you, boys.",False,False,3,3,jesus,1.0,False
+508,1244.786,1246.204,"Wow, did he say that in the Bible?",False,False,8,8,kyle,1.0,False
+509,1246.329,1248.289,"No, I saw it on ""Star Trek."" - Hmm.",True,False,8,4,stan,1.0,False
+510,1249.749,1252.877,"C'mon, sissy, hit me! Hit me.",False,False,6,5,satan,1.0,False
+511,1253.002,1255.713,"Okay, pal, you asked for it.",False,False,6,6,jesus,1.0,False
+512,1261.761,1264.472,"Oh, you got me.",False,False,4,3,satan,1.0,False
+513,1264.597,1266.891,"One, two, three...",False,False,3,3,referee,1.0,False
+514,1267.016,1269.394,No way! He barely touched him.,False,False,6,6,jimbo,1.0,False
+515,1269.519,1271.271,"Seven, eight... - Aww, come on!",True,False,5,2,referee,1.0,False
+516,1271.396,1272.689,"Nine, ten. - This is ridiculous.",True,False,5,2,referee,1.0,False
+517,1272.814,1273.815,You're out!,False,False,2,2,referee,1.0,False
+518,1275.817,1278.236,Our savior! - The winner by knockout,True,False,6,6,michael,0.6666666666666666,False
+519,1278.361,1282.699,and still undisputed ruler of your spiritual kingdom.,False,False,8,7,michael,1.0,False
+520,1282.824,1284.45,Jesús,False,False,2,0,,0.0,False
+521,1284.575,1287.12,"""El Savior""",False,False,2,1,michael,1.0,False
+522,1287.245,1288.83,Christ.,False,False,1,1,michael,1.0,False
+523,1290.54,1292.792,"Hey, he isn't hurt. He took a dive.",False,False,8,8,mr. garrison,1.0,False
+524,1292.917,1294.752,He threw the fight. - Yeah!,True,False,5,5,mr. garrison,0.8,False
+525,1294.877,1297.213,Fools. You are all fools.,False,False,5,5,satan,1.0,False
+526,1297.338,1299.048,Of course I took a dive.,False,False,6,6,satan,1.0,False
+527,1299.173,1300.925,Don't you see? Who do you think was,False,False,8,8,satan,1.0,False
+528,1301.05,1304.595,the one person that bet on Jesus to win?,False,False,9,9,satan,1.0,False
+529,1306.389,1308.099,"Me, you idiots.",False,False,3,3,satan,1.0,False
+530,1308.224,1310.643,"And now I will take all your hard-earned money,",False,False,10,10,satan,1.0,False
+531,1310.768,1313.479,and return to hell a much richer Prince of Darkness,False,False,10,10,satan,1.0,False
+532,1313.604,1316.357,"and buy some real estate. Ha, ha,ha, ha!",False,False,9,7,satan,1.0,False
+533,1316.482,1317.859,I don't believe this!,False,False,4,4,father,1.0,False
+534,1317.984,1320.028,Yeah. What a mean thing to do.,False,False,7,7,mr. garrison,1.0,False
+535,1320.153,1321.904,"Farewell, fools.",False,False,2,2,satan,1.0,False
+536,1322.03,1325.575,"Man, that guy is a jerk.",False,False,6,6,jimbo,1.0,False
+537,1325.7,1327.618,Jesus told you guys not to bet on Satan.,False,False,9,9,stan,1.0,False
+538,1327.744,1329.662,"Boy, did we get screwed.",False,False,5,5,mr. garrison,1.0,False
+539,1329.787,1331.622,"Jesus, we're sorry.",False,False,3,3,chef,1.0,False
+540,1331.748,1334.709,Can you ever forgive us?,False,False,5,5,chef,1.0,False
+541,1334.834,1337.295,"Aw, heck, do I have a choice?",False,False,7,7,jesus,1.0,False
+542,1339.339,1341.799,"Well Jesus, I definitely learned my lesson.",False,False,7,7,jimbo,1.0,False
+543,1341.924,1344.385,Never bet on evil because when you do--,False,False,8,5,jimbo,1.0,False
+544,1344.51,1345.928,"Ned, look!",False,False,2,2,jimbo,1.0,False
+545,1346.054,1348.014,There's a rare duck-billed platypus!,False,False,6,6,jimbo,1.0,False
+546,1348.139,1349.766,It's coming right for us!,False,False,5,4,jimbo,1.0,False
+547,1352.143,1354.062,"Oh, my God. They killed Kenny.",False,False,6,6,stan,1.0,False
+548,1354.187,1355.563,You bastard!,False,False,2,2,kyle,1.0,False
+549,1355.688,1357.231,"Well, good-bye, guys.",False,False,4,2,damien,1.0,False
+550,1357.357,1358.733,It was nice getting to know you.,False,False,7,7,damien,1.0,False
+551,1358.858,1360.818,You're leaving already? - I have to.,True,False,6,6,damien,0.5,False
+552,1360.943,1363.488,My dad is always on the move. - Wow.,True,False,8,6,damien,0.8333333333333334,False
+553,1363.613,1365.114,I feel kind of bad for that kid.,False,False,8,6,stan,1.0,False
+554,1365.239,1366.574,"Yeah, just when he was being accepted",False,False,7,7,kyle,1.0,False
+555,1366.699,1368.242,he has to leave and start over.,False,False,7,7,kyle,1.0,False
+556,1368.368,1370.203,Parents can be so cruel. Don't they realize that,False,False,9,9,stan,1.0,False
+557,1370.328,1372.872,what a child needs more than anything is security?,False,False,9,9,stan,1.0,False
+558,1373.623,1375.083,"More pie, hon?",False,False,3,3,liane,1.0,False
+559,1377.251,1380.963,No...more...pie.,False,False,3,3,cartman,1.0,True

@@ -1,0 +1,518 @@
+i,a,c,text,two,song,n,matched,who,purity,cartman
+1,2.378,3.754,I know a certain kitty-kitty,False,False,6,0,,0.0,False
+2,3.879,4.964,who's sleeping with mommy tonight.,False,False,5,0,,0.0,False
+3,6.549,8.551,That is a hoot and a holler.,False,False,7,0,,0.0,False
+4,8.676,11.345,This next episode is by far our favorite.,False,False,8,0,,0.0,False
+5,11.47,13.18,"It's called ""Volcano.""",False,False,3,0,,0.0,False
+6,13.305,14.974,"In it, the boys go camping with Stan's uncle Jimbo",False,False,10,0,,0.0,False
+7,15.099,16.434,and his friend Ned.,False,False,4,0,,0.0,False
+8,16.559,18.019,"While camping, they encounter",False,False,4,0,,0.0,False
+9,18.144,20.229,a strange creature in a deadly volcano.,False,False,7,0,,0.0,False
+10,20.354,21.939,"I think the reason that this episode is,",False,False,8,0,,0.0,False
+11,22.064,24.025,"well, Scratch's favorite anyway",False,False,4,0,,0.0,False
+12,24.15,25.568,is because it deals with an issue,False,False,7,0,,0.0,False
+13,25.693,27.611,that is really important to Matt and I.,False,False,8,0,,0.0,False
+14,27.737,30.072,"You see, we grew up in the Colorado Rockies,",False,False,9,0,,0.0,False
+15,30.197,32.366,and there black bear hunting is illegal.,False,False,7,0,,0.0,False
+16,32.491,34.785,"Well, a few years ago a man shot a black bear",False,False,11,0,,0.0,False
+17,34.91,36.829,and her two cubs out of a tree.,False,False,8,0,,0.0,False
+18,36.954,38.456,"When taken to jail the man said,",False,False,7,0,,0.0,False
+19,38.581,40.374,"""Well, they were coming right for us,""",False,False,7,0,,0.0,False
+20,40.499,42.251,"but he'd shot the black bears out of a tree,",False,False,10,0,,0.0,False
+21,42.376,43.794,so it was ridiculous.,False,False,4,0,,0.0,False
+22,43.919,46.297,That's not funny.,False,False,3,0,,0.0,False
+23,46.422,48.466,"What America's really dying to know is,",False,False,7,0,,0.0,False
+24,48.591,50.718,is there really a Scuzzlebutt?,False,False,5,0,,0.0,False
+25,50.843,53.721,"People have to understand, these are all works of fiction.",False,False,10,0,,0.0,False
+26,53.846,55.347,There's no such thing as aliens.,False,False,6,0,,0.0,False
+27,55.473,57.099,There's no such thing as Scuzzlebutt.,False,False,6,0,,0.0,False
+28,57.224,59.518,And there's no such thing as Patrick Duffy.,False,False,8,0,,0.0,False
+29,59.643,62.48,What happened to Ned to cause him to speak the way he does?,False,False,13,0,,0.0,False
+30,62.605,64.482,"Well, Ned is actually our favorite character",False,False,7,0,,0.0,False
+31,64.607,66.192,in all of South Park.,False,False,5,0,,0.0,False
+32,66.317,69.653,He had a laryngectomy from smoking too much,False,False,8,0,,0.0,False
+33,69.779,71.614,and got throat cancer.,False,False,4,0,,0.0,False
+34,71.739,73.365,So now he talks like this.,False,False,6,0,,0.0,False
+35,73.491,76.786,I guess we can all take a lesson from Ned.,False,False,10,0,,0.0,False
+36,76.911,80.164,"So sit back, relax and enjoy ""Volcano.""",False,False,7,0,,0.0,False
+37,92.635,94.303,♪ I'm going down to South Park ♪,False,True,6,0,,0.0,False
+38,94.428,96.18,♪ Gonna have myself a time ♪,False,True,5,0,,0.0,False
+39,96.305,97.848,♪ Friendly faces everywhere ♪,False,True,3,0,,0.0,False
+40,97.973,99.475,♪ Humble folks without temptations ♪,False,True,4,0,,0.0,False
+41,99.6,100.893,♪ I'm going down to South Park ♪,False,True,6,0,,0.0,False
+42,101.018,103.145,♪ Gonna leave my woes behind ♪,False,True,5,0,,0.0,False
+43,103.27,104.772,♪ Ample parking day or night ♪,False,True,5,0,,0.0,False
+44,104.897,106.482,"♪ People spouting ""Howdy neighbor"" ♪",False,True,4,0,,0.0,False
+45,106.607,107.9,♪ Heading on up to South Park ♪,False,True,6,0,,0.0,False
+46,108.025,109.652,♪ Gonna see if I can't unwind ♪,False,True,6,0,,0.0,False
+47,113.155,114.532,♪ So come on down to South park ♪,False,True,7,0,,0.0,False
+48,114.657,116.492,♪ And meet some friends of mine ♪,False,True,6,0,,0.0,False
+49,116.617,118.661,"Now you be careful, Eric.",False,False,5,5,liane,1.0,False
+50,118.786,121.122,The woods can be very dangerous.,False,False,6,6,liane,1.0,False
+51,121.247,124.25,"Okay, Mom.",False,False,2,2,cartman,1.0,True
+52,124.375,126.21,"Ready to go hunting, Cartman?",False,False,5,5,kyle,1.0,False
+53,126.335,128.671,"Yeah, my Uncle Jimbo says we gotta get up there early.",False,False,11,11,stan,1.0,False
+54,128.796,129.713,"Right, Uncle Jimbo?",False,False,3,3,stan,1.0,False
+55,129.839,131.507,"That's right, Stanley.",False,False,3,3,jimbo,1.0,False
+56,131.632,133.634,Animals are much easier to shoot in the morning.,False,False,9,9,jimbo,1.0,False
+57,133.759,135.136,"Here, hon.",False,False,2,2,liane,1.0,False
+58,135.261,137.68,I packed you Cheesy Poofs and Happy Tarts.,False,False,8,8,liane,1.0,False
+59,137.805,140.224,"Don't worry, Miss Cartman, we'll take care of him.",False,False,9,8,jimbo,1.0,False
+60,140.349,143.352,"I brought my old war buddy, Ned, to keep things safe.",False,False,11,11,jimbo,1.0,False
+61,143.477,147.022,"Hello, Mrs. Cartman. How are you today?",False,False,7,7,ned,1.0,False
+62,147.148,149.275,"- Be sure to use lots of bug spray,",False,False,8,8,liane,1.0,False
+63,149.4,150.86,"and if you have to poo-poo,",False,False,7,7,liane,1.0,False
+64,150.985,153.028,don't wipe with poison ivy.,False,False,5,5,liane,1.0,False
+65,153.154,155.656,"Dude, that's sick, Mom!",False,False,4,4,cartman,1.0,True
+66,155.781,158.826,"And I know it can get scary up in those woods,",False,False,11,11,liane,1.0,False
+67,158.951,162.663,"but just remember, Mommy's not far away.",False,False,7,7,liane,1.0,False
+68,162.788,165.082,Drive! Drive!,False,False,2,2,cartman,1.0,True
+69,165.207,167.209,You give your mommy a kissy.,False,False,6,6,liane,1.0,False
+70,167.334,169.128,"Drive the car, damn it! Drive!",False,False,6,6,cartman,1.0,True
+71,171.297,173.507,"""Don't get scared up in the mountains, Cartman.""",False,False,8,8,kyle,1.0,False
+72,173.632,175.759,Shut up! I'm not scared of nothing.,False,False,7,7,cartman,1.0,True
+73,175.885,178.387,"Maybe your mom can give me a kiss too, Cartman.",False,False,10,10,stan,1.0,False
+74,180.055,183.017,"Oh, oh! That's disgusting.",False,False,4,3,jimbo,1.0,False
+75,183.142,185.186,You piece of crap! I'll kill you!,False,False,7,7,cartman,1.0,True
+76,185.311,186.854,"That's the spirit, boys.",False,False,4,4,jimbo,1.0,False
+77,186.979,189.023,Let's get that testosterone flowing.,False,False,5,4,jimbo,1.0,False
+78,189.148,190.858,Yeeh!,False,False,1,0,,0.0,False
+79,190.983,193.194,"Now, boys, boys, I need to get serious for a minute.",False,False,11,11,jimbo,1.0,False
+80,193.319,196.28,"I want you to understand a few basic rules of hunting,",False,False,11,11,jimbo,1.0,False
+81,196.405,197.99,since this is your first time.,False,False,6,6,jimbo,1.0,False
+82,198.115,200.159,"First of all, don't ever walk with your gun",False,False,9,7,jimbo,1.0,False
+83,200.284,201.869,unless the safety's on.,False,False,4,4,jimbo,1.0,False
+84,201.994,204.205,"Second, don't shoot anything that looks human.",False,False,7,7,jimbo,1.0,False
+85,204.33,207.041,"And third, never spill your beer in the bullet chamber.",False,False,10,10,jimbo,1.0,False
+86,207.166,209.376,"Uh, Uncle Jimbo, we don't drink beer.",False,False,7,7,stan,1.0,False
+87,209.501,210.461,You what?!,False,False,2,2,jimbo,1.0,False
+88,210.586,212.087,"Yeah, that's right,",False,False,3,3,ned,1.0,False
+89,212.213,214.34,I don't think eight-year-old kids drink beer.,False,False,9,9,ned,1.0,False
+90,214.465,216.342,I like chocolate milk!,False,False,4,4,kyle,1.0,False
+91,216.467,218.844,"Well, we'll be doing plenty of drinking on this trip.",False,False,10,10,jimbo,1.0,False
+92,218.969,222.014,"After all, hunter sober is like...",False,False,6,5,jimbo,1.0,False
+93,222.139,224.308,Fishing...sober.,False,False,2,2,jimbo,1.0,False
+94,224.433,226.477,It sure will be nice to get out of the city,False,False,11,11,jimbo,1.0,False
+95,226.602,228.646,"for a while, away from civilization.",False,False,6,6,jimbo,1.0,False
+96,233.067,235.486,"Well, here we are.",False,False,4,3,jimbo,1.0,False
+97,235.611,238.864,"Okay, each of you young'uns take a gun, a beer,",False,False,10,9,jimbo,1.0,False
+98,238.989,240.824,and some smokes.,False,False,3,3,jimbo,1.0,False
+99,240.95,243.869,"Hey, I didn't get a gun.",False,False,6,6,cartman,1.0,True
+100,243.994,246.914,Sweet. This is like the gun I used in 'Nam.,False,False,10,10,cartman,1.0,True
+101,247.039,248.707,"You weren't in Vietnam, Cartman.",False,False,5,5,stan,1.0,False
+102,248.832,250.96,Were you stationed in Da Nang?,False,False,6,6,ned,1.0,False
+103,251.085,252.378,"Cartman always makes stuff up, Ned.",False,False,6,6,stan,1.0,False
+104,252.503,253.963,You can't believe anything he says.,False,False,6,6,stan,1.0,False
+105,254.088,255.923,"Hey, I'll blow your freaking head off.",False,False,7,6,cartman,1.0,True
+106,256.048,258.425,"Hey, look out, son. That's dangerous.",False,False,6,6,jimbo,1.0,False
+107,258.55,260.302,You're gonna spill your beer.,False,False,5,5,jimbo,1.0,False
+108,265.224,266.767,My Uncle Jimbo says that after this,False,False,7,7,stan,1.0,False
+109,266.892,268.644,he's gonna take me hunting in Africa.,False,False,7,7,stan,1.0,False
+110,268.769,270.562,"Wow, that'll be cool.",False,False,4,3,kyle,1.0,False
+111,270.688,274.233,My mom says there's a lot of black people in Africa.,False,False,11,11,cartman,1.0,True
+112,274.358,275.901,"Boys, lookie there.",False,False,3,2,jimbo,1.0,False
+113,276.026,278.32,That there is a Rocky Mountain black bear.,False,False,8,6,jimbo,1.0,False
+114,278.445,279.863,One of the few remaining of its kind.,False,False,8,8,jimbo,1.0,False
+115,279.989,282.032,Isn't it beautiful?,False,False,3,3,jimbo,1.0,False
+116,282.157,283.951,"My God, it's coming right for us!",False,False,7,6,jimbo,1.0,False
+117,287.371,289.164,"Hey, it wasn't coming right for us.",False,False,7,7,stan,1.0,False
+118,289.29,291.625,"It was just sitting there. - Shh, not so loud.",True,False,9,8,stan,0.625,False
+119,291.75,293.669,Now that there is just a technicality.,False,False,7,5,jimbo,1.0,False
+120,293.794,295.337,"What do you mean? - You see, boys,",True,False,7,7,kyle,0.5714285714285714,False
+121,295.462,297.339,the Democrats have passed a lot of laws,False,False,8,8,jimbo,1.0,False
+122,297.464,298.924,trying to stop us from hunting.,False,False,6,6,jimbo,1.0,False
+123,299.049,300.676,Democrats piss me off!,False,False,4,4,cartman,1.0,True
+124,300.801,302.761,They say we can't shoot certain animals anymore,False,False,8,8,jimbo,1.0,False
+125,302.886,305.055,unless they're posing an immediate threat.,False,False,6,6,jimbo,1.0,False
+126,305.18,307.141,"Therefore, before we shoot something,",False,False,5,4,jimbo,1.0,False
+127,307.266,309.685,"we have to say, ""It's coming right for us.""",False,False,9,8,jimbo,1.0,False
+128,309.81,311.353,"Wow, you're smart, Uncle Jimbo.",False,False,5,5,stan,1.0,False
+129,311.478,313.522,"Jimbo, look.",False,False,2,2,ned,1.0,False
+130,313.647,315.733,"Oh, it's a deer.",False,False,4,3,jimbo,1.0,False
+131,315.858,319.194,"Looks like about a 45-gauge, Ned.",False,False,7,6,jimbo,1.0,False
+132,319.32,322.114,It's coming right for us!,False,False,5,5,jimbo,1.0,False
+133,324.867,327.036,Kickass!,False,False,1,1,cartman,1.0,True
+134,327.161,328.829,Did you see that?,False,False,4,4,jimbo,1.0,False
+135,328.954,331.165,"I was imperiled by that ferocious, charging buck.",False,False,8,8,jimbo,1.0,False
+136,331.29,333.917,"Rabbit, rabbit, five o'clock.",False,False,4,3,ned,1.0,False
+137,335.336,337.88,Let's move! Move!,False,False,3,2,jimbo,1.0,False
+138,338.005,340.049,Is this hunting? - I guess so.,True,False,6,6,stan,0.5,False
+139,340.174,342.76,"Uh, dude, I'm starting to have flashbacks.",False,False,7,6,cartman,1.0,True
+140,342.885,345.179,"What? - Stand forth, pull up flank.",True,False,6,4,cartman,0.75,False
+141,345.304,347.931,Look out for Charlies up in the trees.,False,False,8,8,cartman,1.0,True
+142,351.393,353.937,"This one's yours, Stan.",False,False,4,4,jimbo,1.0,False
+143,356.648,359.777,It's coming right for us. - It's coming right for us.,True,False,10,10,jimbo,0.5,False
+144,363.53,366.033,"Shoot it, Stan. - I got your back, soldier.",True,False,8,8,cartman,0.625,False
+145,367.785,370.162,I can't.,False,False,2,2,stan,1.0,False
+146,370.287,371.997,What the-- What's wrong with you?,False,False,6,6,jimbo,1.0,False
+147,372.122,373.582,I don't wanna shoot the bunny.,False,False,6,6,stan,1.0,False
+148,373.707,375.042,"What the hell are you talking about,",False,False,7,7,jimbo,1.0,False
+149,375.167,376.668,you don't wanna shoot the bunny?,False,False,6,5,jimbo,1.0,False
+150,376.794,378.295,"You're babbling, you're not making any sense.",False,False,7,7,jimbo,1.0,False
+151,378.42,379.797,You're hysterical. - I'm not hysterical.,True,False,5,5,stan,0.6,False
+152,379.922,381.548,I just don't wanna shoot the bunny.,False,False,7,6,stan,1.0,False
+153,381.673,383.3,No nephew of mine is gonna be a tree-hugger.,False,False,10,10,jimbo,1.0,False
+154,383.425,385.094,"Yeah, hippie, go back to Woodstock",False,False,6,6,cartman,1.0,True
+155,385.219,386.97,if you can't shoot anything.,False,False,5,5,cartman,1.0,True
+156,387.096,389.264,"I can shoot you, fatass! - I can shoot you, too!",True,False,10,9,cartman,0.5555555555555556,False
+157,389.39,391.517,I'll kill you! - I'll fill you full of lead!,True,False,9,9,cartman,0.6666666666666666,False
+158,393.56,395.562,"Hey, what's that?",False,False,3,3,kyle,1.0,False
+159,409.451,411.036,Hmm?,False,False,1,0,,0.0,False
+160,411.161,413.956,What the heck is this?,False,False,5,5,randy,1.0,False
+161,414.081,415.666,"Yeah, Frank. It's Randy.",False,False,4,4,randy,1.0,False
+162,415.791,418.043,Uh-huh. Good.,False,False,3,3,randy,1.0,False
+163,418.168,421.13,"Yeah, listen, the little needle is moving.",False,False,7,5,randy,1.0,False
+164,421.255,422.923,"Yeah, it's going back and forth really fast.",False,False,8,8,randy,1.0,False
+165,423.048,425.843,What does that mean? Uh-huh?,False,False,6,6,randy,1.0,False
+166,425.968,429.638,Uh-huh. Let me check.,False,False,5,5,randy,1.0,False
+167,429.763,432.558,"Yeah, it's smoking. Uh-huh.",False,False,5,5,randy,1.0,False
+168,432.683,436.77,"Oh, really? Really?",False,False,3,3,randy,1.0,False
+169,436.895,439.857,"Oh, my God, a volcano.",False,False,5,5,randy,1.0,False
+170,451.285,453.245,My weenies won't cook.,False,False,4,4,cartman,1.0,True
+171,453.37,455.497,This wood won't burn.,False,False,4,4,ned,1.0,False
+172,455.622,457.207,"Well, Ned, looks like we'll have to use",False,False,8,8,jimbo,1.0,False
+173,457.332,458.834,the old Indian fire trick.,False,False,5,5,jimbo,1.0,False
+174,458.959,460.836,Yep.,False,False,1,0,,0.0,False
+175,469.887,471.847,"Hey, stop, drop and roll, Ned.",False,False,6,6,jimbo,1.0,False
+176,474.641,476.185,Whoa!,False,False,1,1,"stan,",1.0,False
+177,476.31,478.312,"God damn it, Ned. I just got that van.",False,False,9,6,jimbo,1.0,False
+178,478.437,480.397,How the hell are we supposed to get home?,False,False,9,9,jimbo,1.0,False
+179,480.522,482.816,"Oh, it hurts, it hurts!",False,False,5,5,ned,1.0,False
+180,482.941,484.943,"Hey, you guys.",False,False,3,3,cartman,1.0,True
+181,485.068,486.904,This works pretty good right now.,False,False,6,5,cartman,1.0,True
+182,487.029,489.698,"But you see, Mr. Mayor,",False,False,5,5,chef,1.0,False
+183,489.823,492.075,you can't stop serving Salisbury steak,False,False,6,6,chef,1.0,False
+184,492.201,493.66,in our public schools.,False,False,4,4,chef,1.0,False
+185,493.785,495.621,"What's next, meatloaf?",False,False,3,3,chef,1.0,False
+186,495.746,498.707,"We are quite aware of your concerns, Chef, but--",False,False,9,9,mayor,1.0,False
+187,498.832,501.043,"Mayor, the geologist is here to see you.",False,False,8,8,johnson,1.0,False
+188,501.168,503.17,My geologist? Now?,False,False,3,3,mayor,1.0,False
+189,503.295,504.546,Tell him the infection is fine,False,False,6,6,mayor,1.0,False
+190,504.671,506.215,and I don't need another checkup.,False,False,6,5,mayor,1.0,False
+191,506.34,508.175,"No, Mayor, that's a gynecologist.",False,False,5,5,johnson,1.0,False
+192,508.3,510.093,A geologist studies the earth.,False,False,5,5,johnson,1.0,False
+193,510.219,512.179,Don't you think I know that?,False,False,6,6,mayor,1.0,False
+194,512.304,514.056,How dare you insult my intellect.,False,False,6,6,mayor,1.0,False
+195,514.181,516.016,I went to Princeton for God's sake.,False,False,7,7,mayor,1.0,False
+196,516.141,517.643,You get out of my office.,False,False,6,6,mayor,1.0,False
+197,517.768,519.394,"I'm not in your office, Mayor.",False,False,6,6,johnson,1.0,False
+198,519.52,522.731,I'm talking to you through a speaker.,False,False,7,7,johnson,1.0,False
+199,522.856,525.317,Just send in the geometrist. - Geologist.,False,False,6,6,mayor,0.8333333333333334,False
+200,525.442,527.319,"You are fired, buddy!",False,False,4,4,mayor,1.0,False
+201,527.444,529.53,"Thank you, Mayor. It's been great working for you.",False,False,9,9,johnson,1.0,False
+202,529.655,531.865,"Mayor, we've got a very big problem.",False,False,7,6,randy,1.0,False
+203,531.99,533.784,Mount Evanson is about to erupt.,False,False,6,4,randy,1.0,False
+204,537.913,539.957,What does this mean to the town?,False,False,7,7,mayor,1.0,False
+205,540.082,542.96,"Well, this graph shows everything from normal to bad.",False,False,9,9,randy,1.0,False
+206,543.085,545.17,"Right now, South Park is here.",False,False,6,6,randy,1.0,False
+207,557.307,558.725,My God.,False,False,2,2,mayor,1.0,False
+208,558.85,560.811,"Mayor, some of the school children",False,False,6,6,chef,1.0,False
+209,560.936,563.855,are up camping on that mountain right now.,False,False,8,8,chef,1.0,False
+210,563.981,565.232,"Oh, this is big.",False,False,4,3,mayor,1.0,False
+211,565.357,567.401,"Johnson, Johnson, are you there?",False,False,5,5,mayor,1.0,False
+212,567.526,569.152,"Uh, you just fired Johnson, Mayor.",False,False,6,5,ted,1.0,False
+213,569.278,570.779,"I'm his replacement, Ted.",False,False,4,4,ted,1.0,False
+214,570.904,572.948,"Ted, we have got a major crisis here.",False,False,8,8,mayor,1.0,False
+215,573.073,574.825,I want you to get on the phone and call,False,False,10,10,mayor,1.0,False
+216,574.95,577.119,"""Inside Edition,"" ""Rescue 911,""",False,False,4,4,mayor,1.0,False
+217,577.244,578.954,"oh, and ""Entertainment Tonight.""",False,False,4,3,mayor,1.0,False
+218,579.079,581.123,"You better get my stylist on the phone, too.",False,False,9,8,mayor,1.0,False
+219,581.248,584.376,Don't worry. Things are under control.,False,False,6,6,mayor,1.0,False
+220,586.044,589.673,And then Ned picked up the grenade and--boom!--,False,False,9,9,jimbo,1.0,False
+221,589.798,591.592,blasted his arm clear off.,False,False,5,5,jimbo,1.0,False
+222,591.717,594.344,"We spent three hours looking for that damn arm,",False,False,9,9,jimbo,1.0,False
+223,594.469,596.179,but it was never to be found.,False,False,7,7,jimbo,1.0,False
+224,596.305,599.182,Some say it's still crawling around to this day.,False,False,9,9,jimbo,1.0,False
+225,600.934,602.936,"Ha, gotcha!",False,False,2,0,,0.0,False
+226,603.061,604.896,"Heh, that's not scary.",False,False,4,4,cartman,1.0,True
+227,605.022,607.024,"You were scared, Cartman. You almost peed your pants.",False,False,9,9,kyle,1.0,False
+228,607.149,609.151,Shut up! I didn't pee my pants.,False,False,7,7,cartman,1.0,True
+229,609.276,610.694,"Hey, Ned, hand me that gin.",False,False,6,6,jimbo,1.0,False
+230,613.614,615.532,You boys want to tie one on?,False,False,7,7,jimbo,1.0,False
+231,615.657,617.618,"No, no thanks. That stuff tastes like pee.",False,False,8,8,kyle,1.0,False
+232,617.743,620.495,"Yeah, Cartman's pee. - Hey, you would taste my pee.",True,False,9,9,cartman,0.6666666666666666,False
+233,620.621,621.872,What the hell is wrong with you?,False,False,7,5,jimbo,1.0,False
+234,621.997,624.499,Can't you have a little alcohol?,False,False,6,6,jimbo,1.0,False
+235,626.001,629.713,"Christ, look at that little bastard go!",False,False,7,7,jimbo,1.0,False
+236,629.838,631.34,"Now you see that, Stan?",False,False,5,5,jimbo,1.0,False
+237,631.465,633.634,Now that is a dirty little bastard.,False,False,7,7,jimbo,1.0,False
+238,633.759,635.969,"Hey, I'm a dirty little bastard, too.",False,False,7,7,stan,1.0,False
+239,636.094,638.513,"Hey, you guys, I know a scary story.",False,False,8,8,cartman,1.0,True
+240,638.639,640.974,"Shut up, Cartman. You can't scare anybody.",False,False,7,7,kyle,1.0,False
+241,641.099,642.559,"Oh, yeah?",False,False,2,2,cartman,1.0,True
+242,642.684,645.437,You guys ever heard of Scuzzlebutt?,False,False,6,6,cartman,1.0,True
+243,645.562,646.688,What-lebutt?,False,False,2,0,,0.0,False
+244,646.813,648.357,Scuzzlebutt is a creature,False,False,4,4,cartman,1.0,True
+245,648.482,650.984,that lives up on this very mountain,False,False,7,7,cartman,1.0,True
+246,651.109,654.363,and kills anybody who dares climb to the top.,False,False,9,9,cartman,1.0,True
+247,654.488,655.989,Why?,False,False,1,1,stan,1.0,False
+248,656.114,657.991,Because it loves the taste of blood,False,False,7,7,cartman,1.0,True
+249,658.116,661.578,and likes to add pieces to its deformed body.,False,False,9,9,cartman,1.0,True
+250,661.703,663.038,Deformed how?,False,False,2,2,kyle,1.0,False
+251,663.163,664.998,"Well, on his left arm",False,False,5,5,cartman,1.0,True
+252,665.123,667.292,"instead of a hand, he has...",False,False,6,6,cartman,1.0,True
+253,667.417,668.71,A hook. - A knife.,True,False,4,4,stan,0.5,False
+254,668.835,671.963,"No, a piece of celery. - Celery?",True,False,6,6,cartman,0.8333333333333334,False
+255,672.089,674.007,"Yes, and he walks with a limp,",False,False,7,6,cartman,1.0,True
+256,674.132,676.426,because one of his legs is missing.,False,False,7,7,cartman,1.0,True
+257,676.551,678.261,"And where his leg should be,",False,False,6,6,cartman,1.0,True
+258,678.387,681.264,there's nothing but... Patrick Duffy.,False,False,5,5,cartman,1.0,True
+259,681.39,683.475,Patrick Duffy?,False,False,2,2,kyle,1.0,False
+260,683.6,685.435,"Damn it, Cartman, that's not scary.",False,False,6,6,kyle,1.0,False
+261,685.56,687.813,"What do you mean? Have you ever seen ""Step by Step?""",False,False,11,11,cartman,1.0,True
+262,689.064,690.857,So he lives alone on this mountain,False,False,7,7,cartman,1.0,True
+263,690.982,693.61,and weaves baskets and other assorted crafts.,False,False,7,7,cartman,1.0,True
+264,693.735,695.487,They say that on quiet nights,False,False,6,6,cartman,1.0,True
+265,695.612,697.906,you can hear him weaving his baskets.,False,False,7,7,cartman,1.0,True
+266,698.031,701.076,"Ka-shink, ka-shink, ka-shink.",False,False,6,0,,0.0,False
+267,701.201,703.453,"Cartman, you suck at telling scary stories.",False,False,7,7,stan,1.0,False
+268,703.578,704.913,"Yeah, give me that flashlight.",False,False,5,5,kyle,1.0,False
+269,708.542,710.043,What's that? - Maybe it's Scuzzlebutt,True,False,5,4,stan,0.75,False
+270,710.168,711.837,coming to weave us into wicker baskets.,False,False,7,7,stan,1.0,False
+271,711.962,713.672,"Hey, it might be.",False,False,4,4,cartman,1.0,True
+272,713.797,716.425,"Gosh, I hope he doesn't cut me with his celery hand.",False,False,11,11,kyle,1.0,False
+273,716.55,717.718,Screw you guys!,False,False,3,3,cartman,1.0,True
+274,717.843,719.928,Fatass! - Go to hell!,True,False,4,3,cartman,1.0,False
+275,720.053,722.931,"Hey, Ned, why don't you whip out the old cancer kazoo.",False,False,11,10,jimbo,1.0,False
+276,723.056,726.226,Let's do a little song.,False,False,5,5,jimbo,1.0,False
+277,726.351,728.77,"♪ Kumbaya, my Lord ♪",False,True,3,0,,0.0,False
+278,728.895,731.565,♪ Kumbaya ♪,False,True,1,0,,0.0,False
+279,731.69,734.025,"♪ Kumbaya, my Lord ♪",False,True,3,0,,0.0,False
+280,734.151,736.361,♪ Kumbaya ♪,False,True,1,0,,0.0,False
+281,736.486,738.739,"♪ Kumbaya, my Lord ♪",False,True,3,0,,0.0,False
+282,738.864,741.7,♪ Kumbaya ♪,False,True,1,0,,0.0,False
+283,741.825,746.496,"♪ Oh Lord, Kumbaya ♪",False,True,3,0,,0.0,False
+284,746.621,750.292,"♪ Someone's crying, Lord, Kumbaya ♪",False,True,4,0,,0.0,False
+285,750.417,752.502,"They don't think Scuzzlebutt is scary, huh?",False,False,7,7,cartman,1.0,True
+286,752.627,754.004,Let's see how they like it,False,False,6,6,cartman,1.0,True
+287,754.129,756.339,when they actually see Scuzzlebutt.,False,False,5,5,cartman,1.0,True
+288,756.465,758.216,I'll scare the hell out of them tomorrow.,False,False,8,7,cartman,1.0,True
+289,758.341,762.012,"♪ Someone's crying, Lord, Kumbaya ♪",False,True,4,0,,0.0,False
+290,762.137,765.599,"♪ Oh Lord, Kumbaya ♪",False,True,3,0,,0.0,False
+291,769.269,771.188,"Stan, Stan, wake up.",False,False,4,4,kyle,1.0,False
+292,771.313,772.689,"What, dude?",False,False,2,2,stan,1.0,False
+293,772.814,774.232,I don't know where Cartman is.,False,False,6,6,kyle,1.0,False
+294,774.357,775.525,I think something took him away.,False,False,6,6,kyle,1.0,False
+295,775.65,777.068,Where's my Uncle Jimbo and Ned?,False,False,6,6,stan,1.0,False
+296,777.194,778.987,They're out fishing with Kenny.,False,False,5,5,kyle,1.0,False
+297,779.112,781.948,With Kenny? But this is supposed to be my camping trip.,False,False,11,11,stan,1.0,False
+298,782.073,783.784,Why do they like Kenny so much?,False,False,7,7,stan,1.0,False
+299,783.909,785.827,Doesn't he like me anymore?,False,False,5,5,stan,1.0,False
+300,785.952,787.913,"Well, Stan, you want to know what I think?",False,False,9,9,kyle,1.0,False
+301,788.038,790.04,What?,False,False,1,1,stan,1.0,False
+302,791.917,793.96,What a beautiful morning for fishing.,False,False,6,6,jimbo,1.0,False
+303,794.085,796.171,There's one. There's a fish right there.,False,False,7,7,jimbo,1.0,False
+304,799.299,800.884,Got it.,False,False,2,2,ned,1.0,False
+305,803.22,804.596,"Great instincts, boy.",False,False,3,3,jimbo,1.0,False
+306,804.721,806.431,"Uncle Jimbo, Cartman's missing.",False,False,4,4,stan,1.0,False
+307,806.556,808.683,Who? The fat kid?,False,False,4,4,jimbo,1.0,False
+308,808.809,810.811,"Yeah. - Ah, hell.",True,False,3,3,jimbo,0.6666666666666666,False
+309,810.936,812.771,I guess we better go look for him.,False,False,8,8,jimbo,1.0,False
+310,812.896,814.189,"Ned, you gotta cut it short.",False,False,6,4,jimbo,1.0,False
+311,814.314,816.316,Fire out the 12-20.,False,False,5,5,jimbo,1.0,False
+312,820.779,822.739,"Well, I think that's about the limit",False,False,7,7,jimbo,1.0,False
+313,822.864,824.282,for our fishing permit.,False,False,4,4,jimbo,1.0,False
+314,824.407,827.202,"Oh, man, it smells like dead fish.",False,False,7,6,ned,1.0,False
+315,828.954,831.748,"Oh, man, that is nasty.",False,False,5,4,ned,1.0,False
+316,831.873,834.084,"Yeah, I don't think I've ever seen a kid",False,False,9,8,jimbo,1.0,False
+317,834.209,835.627,"as cool as you, Kenny.",False,False,5,5,jimbo,1.0,False
+318,835.752,838.171,I'm making you my honorary nephew.,False,False,6,6,jimbo,1.0,False
+319,843.677,846.805,"The people of South Park are humble and friendly,",False,False,9,9,newscaster,1.0,False
+320,846.93,848.974,but now a ticking time bomb of hot lava,False,False,9,9,newscaster,1.0,False
+321,849.099,851.434,waits to engulf these people and end their miserable lives,False,False,10,10,newscaster,1.0,False
+322,851.56,853.061,with one last fleeting moment,False,False,5,5,newscaster,1.0,False
+323,853.186,855.689,"of excruciatingly painful, burning agony.",False,False,5,5,newscaster,1.0,False
+324,855.814,858.9,"Hey, I'm on TV! I'm on TV!",False,False,7,7,individual,1.0,False
+325,859.025,860.61,"Mayor, what are you doing",False,False,5,5,newscaster,1.0,False
+326,860.735,862.487,to prepare for this inevitable catastrophe?,False,False,6,6,newscaster,1.0,False
+327,862.612,866.449,All we know right now is that some of our children,False,False,11,11,mayor,1.0,False
+328,866.575,869.911,"are camping on that mountain and--uh, I'm sorry.",False,False,9,8,mayor,1.0,False
+329,870.036,871.788,Can I start over? - Huh?,True,False,5,5,mayor,0.8,False
+330,871.913,875.584,"- You can edit this, right? Ready? Three, two, one.",False,False,9,6,mayor,1.0,False
+331,875.709,877.335,All we know right now,False,False,5,5,mayor,1.0,False
+332,877.46,879.087,is that some of our children,False,False,6,6,mayor,1.0,False
+333,879.212,881.172,are up camping on that mountain.,False,False,6,6,mayor,1.0,False
+334,881.298,884.009,We can't do anything until we get them.,False,False,8,8,mayor,1.0,False
+335,884.134,889.055,"Okay, people, let's go get those kids!",False,False,7,7,mayor,1.0,False
+336,889.18,892.058,"Come on, everybody. You gotta help the children.",False,False,8,7,chef,1.0,False
+337,893.894,896.313,"Well, he couldn't have gone far.",False,False,6,6,jimbo,1.0,False
+338,896.438,898.064,Unless something drug him off.,False,False,5,5,jimbo,1.0,False
+339,898.189,901.818,"There's not many animals out today, Jimbo.",False,False,7,7,ned,1.0,False
+340,901.943,904.863,"Yeah, it's almost like something funny's going on.",False,False,8,8,jimbo,1.0,False
+341,907.616,909.492,"Christ, Ned, what'd you have for breakfast?",False,False,7,7,jimbo,1.0,False
+342,909.618,912.662,"I don't know, man. I've got some bad gas.",False,False,9,9,ned,1.0,False
+343,912.787,915.04,"Wait, there's a ram.",False,False,4,4,jimbo,1.0,False
+344,915.165,916.875,It's coming right for us!,False,False,5,5,jimbo,1.0,False
+345,920.295,921.796,"Nice shooting, Kenny!",False,False,3,2,jimbo,1.0,False
+346,921.922,924.09,"Here, you need a bigger gun.",False,False,6,6,jimbo,1.0,False
+347,924.215,927.135,"Look! - I am Scuzzlebutt,",True,False,4,4,cartman,0.75,False
+348,927.26,928.929,Lord of the mountains.,False,False,4,4,cartman,1.0,True
+349,929.054,931.306,Behold my Patrick Duffy leg.,False,False,5,5,cartman,1.0,True
+350,931.431,933.099,What is it?,False,False,3,3,ned,1.0,False
+351,933.224,935.185,"Dude, it's Scuzzlebutt! Cartman wasn't lying.",False,False,6,6,kyle,1.0,False
+352,935.31,938.229,Holy crow! We could make a mint killing this thing.,False,False,10,10,jimbo,1.0,False
+353,938.355,941.024,"We'll be on the cover of ""Guns & Ammo.""",False,False,8,8,ned,1.0,False
+354,941.149,943.693,This calls for some HJ-14.,False,False,6,6,jimbo,1.0,False
+355,943.818,946.613,Those guys are totally scared.,False,False,5,5,cartman,1.0,True
+356,946.738,949.074,Fire in the hole!,False,False,4,3,jimbo,1.0,False
+357,950.784,951.993,Holy crap!,False,False,2,2,cartman,1.0,True
+358,954.496,956.247,"Damn it, I think I missed.",False,False,6,6,jimbo,1.0,False
+359,956.373,958.667,What the hell is wrong with you people?,False,False,8,8,cartman,1.0,True
+360,958.792,960.835,"Come on, let's move! Move!",False,False,5,3,jimbo,1.0,False
+361,960.961,963.755,"Wait, wait, ahhh!",False,False,3,1,cartman,1.0,False
+362,963.88,965.423,Is it on? Okay.,False,False,4,4,mayor,1.0,False
+363,965.548,968.343,"Okay, people, form groups and search the mountain.",False,False,8,8,mayor,1.0,False
+364,968.468,971.262,Report back here every hour. You got that?,False,False,8,8,mayor,1.0,False
+365,971.388,974.432,"Mayor, I might have an idea. - Oh, what?",True,False,8,7,randy,0.8571428571428571,False
+366,974.557,976.393,"Well, if we can dig a very large trench,",False,False,9,9,randy,1.0,False
+367,976.518,979.062,"we can divert the lava into a canyon,",False,False,8,8,randy,1.0,False
+368,979.187,982.315,and then it would bypass South Park pretty much completely.,False,False,10,10,randy,1.0,False
+369,982.44,984.401,"And that would be good, right?",False,False,6,6,mayor,1.0,False
+370,984.526,985.86,I'm pretty sure.,False,False,3,2,randy,1.0,False
+371,985.986,987.946,"Well, what are we waiting for?",False,False,6,6,mayor,1.0,False
+372,988.071,990.156,"Okay, people, change of plans.",False,False,5,5,mayor,1.0,False
+373,990.281,992.242,Half of you grabs shovels.,False,False,5,4,mayor,1.0,False
+374,992.367,994.995,These look like his tracks. He must have gone this way.,False,False,11,10,jimbo,1.0,False
+375,995.12,998.081,"Ned, prepare some HK-12 and some Plasticine.",False,False,8,8,jimbo,1.0,False
+376,998.206,1000.667,I'll bet that sucker is headed for a higher elevation.,False,False,10,8,jimbo,1.0,False
+377,1000.792,1003.753,The higher up it--bird!,False,False,5,5,jimbo,1.0,False
+378,1003.878,1006.256,"The higher up it goes, the better it can breathe.",False,False,10,10,jimbo,1.0,False
+379,1006.381,1008.717,"Look, up there!",False,False,3,3,kyle,1.0,False
+380,1008.842,1011.553,"You guys, it's just me.",False,False,5,5,cartman,1.0,True
+381,1011.678,1013.388,Are we sure it's Scuzzlebutt?,False,False,5,5,jimbo,1.0,False
+382,1013.513,1015.348,Does it have Patrick Duffy for a leg?,False,False,8,8,stan,1.0,False
+383,1015.473,1017.183,I can't tell. Let's kill it.,False,False,6,6,jimbo,1.0,False
+384,1017.308,1020.145,Got to get out of this stupid costume.,False,False,8,6,cartman,1.0,True
+385,1020.27,1021.73,"Kenny, you take the front.",False,False,5,5,jimbo,1.0,False
+386,1021.855,1023.481,"No, I can do it, Uncle Jimbo.",False,False,7,7,stan,1.0,False
+387,1023.606,1025.108,I want to bag that animal.,False,False,6,6,stan,1.0,False
+388,1025.233,1027.777,"That's the spirit, kiddo. Let's hunt!",False,False,6,6,jimbo,1.0,False
+389,1027.902,1029.863,"You guys, you guys, I was just kidding!",False,False,8,8,cartman,1.0,True
+390,1029.988,1031.573,- As some people of South Park,False,False,6,6,newscaster,1.0,False
+391,1031.698,1033.283,"try desperately to save their mountain town,",False,False,7,7,newscaster,1.0,False
+392,1033.408,1035.243,others look for the missing townspeople.,False,False,6,6,newscaster,1.0,False
+393,1035.368,1037.996,But all must take every precaution necessary.,False,False,7,7,newscaster,1.0,False
+394,1038.121,1040.081,"Okay, people, listen up.",False,False,4,4,officer barbrady,1.0,False
+395,1040.206,1042.375,"As we near the top of the mountain,",False,False,8,8,officer barbrady,1.0,False
+396,1042.5,1046.171,the chances of our encountering some lava becomes great.,False,False,9,9,officer barbrady,1.0,False
+397,1046.296,1048.465,"Therefore, I have special ordered",False,False,5,5,officer barbrady,1.0,False
+398,1048.59,1050.633,this training film to assist us,False,False,6,6,officer barbrady,1.0,False
+399,1050.759,1052.635,in volcano safety.,False,False,3,3,officer barbrady,1.0,False
+400,1052.761,1054.763,"Mr. Garrison, if you would, please.",False,False,6,6,officer barbrady,1.0,False
+401,1057.766,1060.018,"Harbingers of sorrow, natural disasters can be",False,False,7,7,host,1.0,False
+402,1060.143,1062.771,"the cause of troubling and undesirable stress,",False,False,7,7,host,1.0,False
+403,1062.896,1064.981,and a volcano is no exception.,False,False,6,5,host,1.0,False
+404,1065.106,1067.4,But what should you do if a volcano erupts near you,False,False,11,11,host,1.0,False
+405,1067.525,1069.027,or your family?,False,False,3,3,host,1.0,False
+406,1069.152,1070.987,"Here, we see the Stephens Family",False,False,6,5,host,1.0,False
+407,1071.112,1072.697,enjoying--Sunday picnic.,False,False,3,2,host,1.0,False
+408,1072.822,1074.908,"But suddenly, daughter hears a noise.",False,False,6,6,host,1.0,False
+409,1075.033,1077.077,It's a volcano. Junior seems worried.,False,False,6,6,host,1.0,False
+410,1077.202,1078.745,"But have no fear, Junior.",False,False,5,5,host,1.0,False
+411,1078.87,1080.288,Jane learned in school what to do,False,False,7,7,host,1.0,False
+412,1080.413,1083.041,when you hear a volcano erupt.,False,False,6,6,host,1.0,False
+413,1083.166,1085.71,"That's right, Jane, duck and cover.",False,False,6,6,host,1.0,False
+414,1089.172,1093.093,So what will--do when you hear a volcano erupting?,False,False,10,10,host,1.0,False
+415,1093.218,1096.096,"That's right, duck and cover.",False,False,5,5,host,1.0,False
+416,1096.221,1098.181,Looks like you got the idea.,False,False,6,6,host,1.0,False
+417,1098.306,1100.183,Duck and cover.,False,False,3,3,host,1.0,False
+418,1100.308,1102.852,Thank you and good-bye.,False,False,5,3,host,1.0,False
+419,1102.977,1104.854,"Okay, any questions?",False,False,3,2,officer barbrady,1.0,False
+420,1104.979,1107.315,That has got to be the most ridiculous,False,False,8,8,chef,1.0,False
+421,1107.44,1110.318,load of pig crap I have ever seen.,False,False,8,8,chef,1.0,False
+422,1110.443,1112.278,That's enough out of you!,False,False,5,5,officer barbrady,1.0,False
+423,1113.53,1114.989,"I'm gonna bag Scuzzlebutt,",False,False,4,4,stan,1.0,False
+424,1115.115,1116.991,then we'll see who's a little bastard.,False,False,7,6,stan,1.0,False
+425,1117.117,1120.161,"Hey, seriously, you guys!",False,False,4,4,cartman,1.0,True
+426,1120.286,1121.913,"Kill it, Stan. Kill it.",False,False,5,5,kyle,1.0,False
+427,1127.502,1129.963,"Come on, Stan, kill it!",False,False,5,5,kyle,1.0,False
+428,1130.088,1131.923,"Oh, damn it, I can't do it!",False,False,7,6,stan,1.0,False
+429,1132.048,1134.092,You pansy! Give me that gun.,False,False,6,6,jimbo,1.0,False
+430,1134.217,1136.302,Hey! - Cartman?,True,False,2,2,cartman,0.5,False
+431,1136.427,1137.929,"God damn it, don't shoot me!",False,False,6,3,cartman,1.0,True
+432,1138.054,1139.514,What the Sam Hill?,False,False,4,3,jimbo,1.0,False
+433,1139.639,1141.307,I was just trying to scare you guys.,False,False,8,8,cartman,1.0,True
+434,1141.432,1142.976,You can put the gun down now.,False,False,7,6,cartman,1.0,True
+435,1143.101,1146.104,"So much for the cover of ""Guns & Ammo.""",False,False,8,8,ned,1.0,False
+436,1146.229,1148.148,"Yepper, but I think we've learned",False,False,6,6,jimbo,1.0,False
+437,1148.273,1150.316,"some important lessons, Ned. I think--",False,False,6,6,jimbo,1.0,False
+438,1151.151,1152.318,Whoa!,False,False,1,1,kyle,1.0,False
+439,1152.443,1154.028,Holy crap.,False,False,2,2,ned,1.0,False
+440,1154.154,1156.406,"The mountain, it's blown its top!",False,False,6,5,jimbo,1.0,False
+441,1161.035,1163.83,"Oh, my God, they killed Kenny!",False,False,6,6,kyle,1.0,False
+442,1163.955,1165.957,"No, I'm okay.",False,False,3,0,,0.0,False
+443,1168.793,1170.128,"Look, the volcano.",False,False,3,3,townsman,1.0,False
+444,1170.253,1172.255,"Quick, duck and cover!",False,False,4,4,townsman,1.0,False
+445,1175.091,1178.344,That lava is coming right for us.,False,False,7,5,jimbo,1.0,False
+446,1178.469,1180.597,"Oh, no, look.",False,False,3,3,chef,1.0,False
+447,1181.931,1184.142,What the hell is this trench doing here?,False,False,8,8,jimbo,1.0,False
+448,1184.267,1185.894,We can't get across!,False,False,4,4,jimbo,1.0,False
+449,1186.019,1187.896,It now looks as if the missing children,False,False,8,8,newscaster,1.0,False
+450,1188.021,1190.231,"are trapped in the path of hot, nasty lava.",False,False,9,9,newscaster,1.0,False
+451,1190.356,1194.194,"God, please deliver those darling kids from--",False,False,7,7,mayor,1.0,False
+452,1194.319,1197.197,"Wait, wait, wait, wait. Three, two and one.",False,False,8,5,mayor,1.0,False
+453,1197.322,1199.449,"God, please deliver--",False,False,3,2,mayor,1.0,False
+454,1199.574,1201.159,Help!,False,False,1,1,cartman,1.0,True
+455,1210.084,1212.503,"Jiminy, it's the real Scuzzlebutt!",False,False,5,4,jimbo,1.0,False
+456,1212.629,1214.631,What? Scuzzlebutt's real?,False,False,3,3,cartman,1.0,True
+457,1214.756,1216.674,"Oh, my God! Look at his leg!",False,False,7,7,kyle,1.0,False
+458,1216.799,1219.552,"Hi, kids, I'm TV's Patrick Duffy.",False,False,6,6,patrick,1.0,False
+459,1219.677,1221.679,"- Quick, Ned, shoot it!",False,False,4,4,jimbo,1.0,False
+460,1221.804,1225.391,"Oh, no, out of ammo.",False,False,5,4,ned,1.0,False
+461,1226.851,1229.27,What is that thing?,False,False,4,4,mayor,1.0,False
+462,1229.395,1231.272,That's Scuzzlebutt.,False,False,2,2,chef,1.0,False
+463,1231.397,1234.567,"Yeah, he has Patrick Duffy for a leg and weaves baskets.",False,False,11,11,mr. garrison,1.0,False
+464,1234.692,1237.362,"This isn't happening. Everyone look away, please.",False,False,7,7,officer barbrady,1.0,False
+465,1237.487,1239.405,Nothing to see here.,False,False,4,4,officer barbrady,1.0,False
+466,1239.53,1242.909,"Well, boys, I'm sorry I got you all killed.",False,False,9,9,jimbo,1.0,False
+467,1248.539,1250.25,Ahhh!,False,False,1,0,,0.0,False
+468,1252.752,1255.004,"Whoa, he built a wicker basket.",False,False,6,6,stan,1.0,False
+469,1255.129,1257.423,"Hey, he's saving us.",False,False,4,4,jimbo,1.0,False
+470,1261.97,1264.389,Scuzzlebutt saved the day.,False,False,4,4,liane,1.0,False
+471,1264.514,1266.266,And my calculations worked.,False,False,4,4,randy,1.0,False
+472,1266.391,1269.644,The lava's following the trench into the canyon.,False,False,8,7,randy,1.0,False
+473,1269.769,1272.772,"Hmm, where exactly does the canyon go?",False,False,7,6,mayor,1.0,False
+474,1272.897,1274.565,- Uh...,False,False,1,0,,0.0,False
+475,1279.028,1281.99,South Park is saved.,False,False,4,4,mr. garrison,1.0,False
+476,1282.115,1285.785,"Hey, look, Kenny's okay.",False,False,4,4,kyle,1.0,False
+477,1285.91,1288.997,- And now these humble people can rejoice and celebrate,False,False,9,9,newscaster,1.0,False
+478,1289.122,1291.708,their jovial victory over nature.,False,False,5,5,newscaster,1.0,False
+479,1291.833,1294.335,I'm getting word that the chef of the school cafeteria,False,False,10,10,newscaster,1.0,False
+480,1294.46,1298.047,wants to sing a song about this thrilling struggle of humanity.,False,False,11,11,newscaster,1.0,False
+481,1298.172,1301.926,♪ Ooh baby every time that we kiss ♪,False,True,7,0,,0.0,False
+482,1302.051,1303.553,♪ Hot lava ♪,False,True,2,0,,0.0,False
+483,1303.678,1305.805,"♪ Every time that we make love, hot lava ♪",False,True,8,0,,0.0,False
+484,1305.93,1307.39,♪ Hot lava ♪,False,True,2,0,,0.0,False
+485,1307.515,1309.183,♪ Lava so hot it makes me sweat ♪,False,True,7,0,,0.0,False
+486,1309.309,1310.852,♪ Lava so warm and red and wet ♪,False,True,7,0,,0.0,False
+487,1310.977,1312.395,♪ Lava ♪,False,True,1,0,,0.0,False
+488,1312.52,1313.813,"Mayor, what do you have to say",False,False,7,7,newscaster,1.0,False
+489,1313.938,1315.189,about this wonderful outcome?,False,False,4,4,newscaster,1.0,False
+490,1315.315,1317.317,"Well, we owe everything",False,False,4,4,mayor,1.0,False
+491,1317.442,1321.529,"to this friendly, yet misunderstood creature.",False,False,6,6,mayor,1.0,False
+492,1321.654,1324.324,"Thank you, Scuzzlebutt.",False,False,3,3,mayor,1.0,False
+493,1324.449,1325.867,Friend.,False,False,1,1,scuzzlebutt,1.0,False
+494,1325.992,1328.703,"Oh, how sweet.",False,False,3,3,mayor,1.0,False
+495,1331.414,1333.666,"I did it, I did it! I finally killed something.",False,False,10,10,stan,1.0,False
+496,1333.791,1335.168,"Oh, my God, what has he done?",False,False,7,7,newscaster,1.0,False
+497,1335.293,1336.669,Turn off the cameras.,False,False,4,4,mayor,1.0,False
+498,1336.794,1338.338,"Hey, that was easy.",False,False,4,4,stan,1.0,False
+499,1338.463,1340.256,No!,False,False,1,0,,0.0,False
+500,1340.381,1342.383,"Why, God? Why?",False,False,3,3,patrick,1.0,False
+501,1342.508,1344.677,"Damn it, Stan. You shouldn't have done that.",False,False,8,8,jimbo,1.0,False
+502,1344.802,1346.054,"What, why?",False,False,2,2,stan,1.0,False
+503,1346.179,1347.972,"Yeah, make up your mind, dude.",False,False,6,6,kyle,1.0,False
+504,1348.097,1350.35,"Stan, some things you kill and some things you don't. See?",False,False,11,11,jimbo,1.0,False
+505,1350.475,1351.809,No.,False,False,1,1,stan,1.0,False
+506,1351.934,1353.77,"Only now, in this late hour,",False,False,6,6,ned,1.0,False
+507,1353.895,1355.897,do I see the folly of guns.,False,False,7,7,ned,1.0,False
+508,1356.022,1359.275,I'll never use a gun again.,False,False,6,6,ned,1.0,False
+509,1364.614,1366.199,"But I just wanted you to be proud of me,",False,False,10,10,stan,1.0,False
+510,1366.324,1367.45,like you were with Kenny.,False,False,5,5,stan,1.0,False
+511,1367.575,1369.243,"But Kenny's dead now, Stan.",False,False,5,5,jimbo,1.0,False
+512,1369.369,1371.329,And you're always gonna be my nephew.,False,False,7,6,jimbo,1.0,False
+513,1371.454,1373.581,And you just can't kill anything.,False,False,6,5,jimbo,1.0,False
+514,1373.706,1375.291,You understand?,False,False,2,2,jimbo,1.0,False
+515,1375.416,1377.335,"Dude, I don't understand hunting at all.",False,False,7,7,kyle,1.0,False
+516,1377.46,1379.462,"Yeah, it's stupid. Let's go watch cartoons.",False,False,7,7,stan,1.0,False
+517,1379.587,1381.589,"Yeah, cartoons kick ass.",False,False,4,4,cartman,1.0,True

@@ -1,0 +1,185 @@
+{
+ "gt": {
+  "pairs": [
+   0.9275000095367432,
+   0.9563000202178955,
+   0.9743000268936157
+  ],
+  "mean": 0.9526886940002441,
+  "std": 0.019264616072177887
+ },
+ "zs": {
+  "sim_mean": 0.9079108834266663,
+  "sim_std": 0.030729535967111588,
+  "sim_per_ref": [
+   0.925599992275238,
+   0.8849999904632568,
+   0.9132000207901001
+  ],
+  "sim_per_sentence": [
+   0.9301000237464905,
+   0.9120000004768372,
+   0.9050999879837036,
+   0.8845999836921692,
+   0.9322999715805054,
+   0.9205999970436096,
+   0.9230999946594238,
+   0.8809999823570251,
+   0.8820000290870667,
+   0.9082000255584717
+  ],
+  "cer_mean": 0.00975609756097561,
+  "cer": [
+   0.0,
+   0.0,
+   0.0,
+   0.098,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "sec_per_char": [
+   0.108,
+   0.135,
+   0.09,
+   0.232,
+   0.096,
+   0.102,
+   0.111,
+   0.068,
+   0.129,
+   0.121
+  ],
+  "asr": [
+   "For a full hour he had paced up and down, waiting, but he could wait no longer.",
+   "Our mouths open, our lips move, but not a word can be heard.",
+   "For a long time, he had wished to explore the beautiful land of Oz in which they lived.",
+   "The birch canoe slid on smooth planks.",
+   "It is easy to tell the depth of a well.",
+   "The old house at the end of the street has been empty for many years.",
+   "Nobody expected the meeting to last until well after midnight.",
+   "She carried a heavy basket of apples up the narrow stairs.",
+   "If you listen carefully, you can hear the river behind the trees.",
+   "We will need more time, more patience, and a great deal of luck."
+  ]
+ },
+ "1min": {
+  "sim_mean": 0.9378107190132141,
+  "sim_std": 0.024866605177521706,
+  "sim_per_ref": [
+   0.9553999900817871,
+   0.9151999950408936,
+   0.9429000020027161
+  ],
+  "sim_per_sentence": [
+   0.9412000179290771,
+   0.9248999953269958,
+   0.9355999827384949,
+   0.9010999798774719,
+   0.9247999787330627,
+   0.944599986076355,
+   0.948199987411499,
+   0.944599986076355,
+   0.9585000276565552,
+   0.9545000195503235
+  ],
+  "cer_mean": 0.06881010237803743,
+  "cer": [
+   0.0,
+   0.0,
+   0.176,
+   0.195,
+   0.184,
+   0.0,
+   0.0,
+   0.018,
+   0.0,
+   0.115
+  ],
+  "sec_per_char": [
+   0.116,
+   0.223,
+   0.145,
+   0.171,
+   0.237,
+   0.164,
+   0.173,
+   0.11,
+   0.129,
+   0.17
+  ],
+  "asr": [
+   "For a full hour, he had paced up and down, waiting, but he could wait no longer.",
+   "Our mouths open, our lips move, but not a word can be heard.",
+   "for a long did wish to explore the beautiful land of ours in which they live.",
+   "The birch canoe sleds upon the smooth past.",
+   "It is easy, easy to tell the depth of a web.",
+   "The old house at the end of the street has been empty for many years.",
+   "Nobody expected the meeting to last until well after midnight.",
+   "She carried a heavy basket of apples up the narrow stair.",
+   "If you listen carefully, you can hear the river behind the trees.",
+   "We will need more time, more patience, and a great dear hug."
+  ]
+ },
+ "full": {
+  "sim_mean": 0.9323486685752869,
+  "sim_std": 0.02667941339313984,
+  "sim_per_ref": [
+   0.9477999806404114,
+   0.9143000245094299,
+   0.9348999857902527
+  ],
+  "sim_per_sentence": [
+   0.9429000020027161,
+   0.9451000094413757,
+   0.8851000070571899,
+   0.9381999969482422,
+   0.948199987411499,
+   0.9451000094413757,
+   0.9315999746322632,
+   0.8991000056266785,
+   0.9577000141143799,
+   0.930400013923645
+  ],
+  "cer_mean": 0.14494577813869292,
+  "cer": [
+   0.0,
+   0.281,
+   0.529,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.639
+  ],
+  "sec_per_char": [
+   0.125,
+   0.263,
+   0.109,
+   0.178,
+   0.17,
+   0.136,
+   0.162,
+   0.206,
+   0.18,
+   0.149
+  ],
+  "asr": [
+   "For a full hour he had paced up and down, waiting, but he could wait no longer.",
+   "Our lips move, but not a word can be heard.",
+   "For a long time, he had wished to explore.",
+   "The birch canoe slid on the smooth planks.",
+   "It is easy to tell the depth of a well.",
+   "The old house at the end of the street has been empty for many years.",
+   "Nobody expected the meeting to last until well after midnight.",
+   "She carried a heavy basket of apples up the narrow stairs.",
+   "If you listen carefully, you can hear the river behind the trees.",
+   "We will need more time."
+  ]
+ }
+}

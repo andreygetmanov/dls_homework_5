@@ -1,0 +1,145 @@
+        3  $ pip install -q coqui-tts==0.28.0 transformers==4.57.6 2>&1 | tail -3
+       24  gradio 6.30.0 requires huggingface-hub<3.0,>=1.16.0, but you have huggingface-hub 0.36.2 which is incompatible.
+       24  gradio 6.30.0 requires pillow<13.0,>=8.0, but you have pillow 13.0.0 which is incompatible.
+       24  diffusers 0.42.0 requires huggingface-hub<3.0,>=1.32.0, but you have huggingface-hub 0.36.2 which is incompatible.
+       37  $ /usr/bin/python3 -c "import torch, torchaudio, transformers, TTS; print(torch.__version__, torchaudio.__version__, transformers.__version__, TTS.__version__, torch.cuda.get_device_name(0))" | tee /kaggle/working/versions.txt
+       50  2.11.0+cu130 2.11.0+cu130 4.57.6 0.28.0 Tesla T4
+       52  $ /usr/bin/python3 /kaggle/input/datasets/andreygetmanov/dls-hw5-smaug/scripts/train_xtts.py --data /kaggle/input/datasets/andreygetmanov/dls-hw5-smaug/ljs/smaug --meta metadata_1min.csv --out /kaggle/working/runs/1min --steps 300 --eval_every 10 --files /kaggle/working/xtts_files 2>&1 | grep -v -i warn
+      517  I0000 00:00:1795463699.074460      71 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+      517  device cuda; train 10 фраз, eval 6; обучаемых параметров 441.0M из 518.4M
+      517  step    0 eval loss_mel_ce 4.6004 text 0.0211 *
+      517  Consider using tensor.detach() first. (Triggered internally at /pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:836.)
+      517    run.append([float(ld[k]) for k in ('loss', 'loss_mel_ce', 'loss_text_ce')])
+      517  step   10 train loss_mel_ce 4.2792 (2.25 с/шаг)
+      517  step   10 eval loss_mel_ce 4.4690 text 0.0215 *
+      517  step   20 train loss_mel_ce 4.1192 (1.83 с/шаг)
+      517  step   20 eval loss_mel_ce 4.3951 text 0.0210 *
+      517  step   30 train loss_mel_ce 3.8957 (1.65 с/шаг)
+      517  step   30 eval loss_mel_ce 4.3496 text 0.0205 *
+      517  step   40 train loss_mel_ce 3.7274 (1.61 с/шаг)
+      517  step   40 eval loss_mel_ce 4.3280 text 0.0202 *
+      517  step   50 train loss_mel_ce 3.6478 (1.59 с/шаг)
+      517  step   50 eval loss_mel_ce 4.3482 text 0.0202
+      517  step   60 train loss_mel_ce 3.4741 (1.52 с/шаг)
+      517  step   60 eval loss_mel_ce 4.3470 text 0.0201
+      517  step   70 train loss_mel_ce 3.4362 (1.50 с/шаг)
+      517  step   70 eval loss_mel_ce 4.4093 text 0.0201
+      517  step   80 train loss_mel_ce 3.2561 (1.47 с/шаг)
+      517  step   80 eval loss_mel_ce 4.3967 text 0.0201
+      517  step   90 train loss_mel_ce 3.0382 (1.44 с/шаг)
+      517  step   90 eval loss_mel_ce 4.4474 text 0.0201
+      517  step  100 train loss_mel_ce 2.9797 (1.42 с/шаг)
+      517  step  100 eval loss_mel_ce 4.5765 text 0.0200
+      517  step  110 train loss_mel_ce 2.6851 (1.40 с/шаг)
+      517  step  110 eval loss_mel_ce 4.6513 text 0.0200
+      517  step  120 train loss_mel_ce 2.4408 (1.38 с/шаг)
+      517  step  120 eval loss_mel_ce 4.7693 text 0.0200
+      517  step  130 train loss_mel_ce 2.4590 (1.37 с/шаг)
+      517  step  130 eval loss_mel_ce 4.8319 text 0.0200
+      517  step  140 train loss_mel_ce 2.1802 (1.36 с/шаг)
+      517  step  140 eval loss_mel_ce 5.0045 text 0.0201
+      517  step  150 train loss_mel_ce 2.0823 (1.35 с/шаг)
+      517  step  150 eval loss_mel_ce 5.1381 text 0.0201
+      517  step  160 train loss_mel_ce 1.8897 (1.34 с/шаг)
+      517  step  160 eval loss_mel_ce 5.2902 text 0.0201
+      517  step  170 train loss_mel_ce 1.7462 (1.34 с/шаг)
+      517  step  170 eval loss_mel_ce 5.4266 text 0.0201
+      517  step  180 train loss_mel_ce 1.7557 (1.33 с/шаг)
+      517  step  180 eval loss_mel_ce 5.5823 text 0.0202
+      517  step  190 train loss_mel_ce 1.4644 (1.33 с/шаг)
+      517  step  190 eval loss_mel_ce 5.6372 text 0.0202
+      517  step  200 train loss_mel_ce 1.4138 (1.32 с/шаг)
+      517  step  200 eval loss_mel_ce 5.8702 text 0.0202
+      517  step  210 train loss_mel_ce 1.2980 (1.32 с/шаг)
+      517  step  210 eval loss_mel_ce 6.0248 text 0.0202
+      517  step  220 train loss_mel_ce 0.9704 (1.32 с/шаг)
+      517  step  220 eval loss_mel_ce 6.1372 text 0.0202
+      517  step  230 train loss_mel_ce 0.9478 (1.31 с/шаг)
+      517  step  230 eval loss_mel_ce 6.3187 text 0.0203
+      517  step  240 train loss_mel_ce 0.9216 (1.31 с/шаг)
+      517  step  240 eval loss_mel_ce 6.4453 text 0.0203
+      517  step  250 train loss_mel_ce 0.8085 (1.31 с/шаг)
+      517  step  250 eval loss_mel_ce 6.5373 text 0.0203
+      517  step  260 train loss_mel_ce 0.9077 (1.31 с/шаг)
+      517  step  260 eval loss_mel_ce 6.6066 text 0.0204
+      517  step  270 train loss_mel_ce 0.7667 (1.30 с/шаг)
+      517  step  270 eval loss_mel_ce 6.7801 text 0.0204
+      517  step  280 train loss_mel_ce 0.6776 (1.30 с/шаг)
+      517  step  280 eval loss_mel_ce 6.8547 text 0.0204
+      517  step  290 train loss_mel_ce 0.6839 (1.30 с/шаг)
+      517  step  290 eval loss_mel_ce 6.8108 text 0.0205
+      517  step  300 train loss_mel_ce 0.4844 (1.30 с/шаг)
+      517  step  300 eval loss_mel_ce 6.9326 text 0.0205
+      517  best eval loss_mel_ce 4.328 -> /kaggle/working/runs/1min/best_model.pth
+      518  1min: обучение 465 с
+      518  $ /usr/bin/python3 /kaggle/input/datasets/andreygetmanov/dls-hw5-smaug/scripts/train_xtts.py --data /kaggle/input/datasets/andreygetmanov/dls-hw5-smaug/ljs/smaug --meta metadata_full.csv --out /kaggle/working/runs/full --steps 600 --eval_every 25 --files /kaggle/working/xtts_files 2>&1 | grep -v -i warn
+     1431  I0000 00:00:1795464148.532414      96 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+     1431  device cuda; train 50 фраз, eval 6; обучаемых параметров 441.0M из 518.4M
+     1431  step    0 eval loss_mel_ce 4.6004 text 0.0211 *
+     1431  Consider using tensor.detach() first. (Triggered internally at /pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:836.)
+     1431    run.append([float(ld[k]) for k in ('loss', 'loss_mel_ce', 'loss_text_ce')])
+     1431  step   25 train loss_mel_ce 4.2688 (2.02 с/шаг)
+     1431  step   25 eval loss_mel_ce 4.2754 text 0.0212 *
+     1431  step   50 train loss_mel_ce 4.0170 (1.80 с/шаг)
+     1431  step   50 eval loss_mel_ce 4.2033 text 0.0204 *
+     1431  step   75 train loss_mel_ce 3.8957 (1.69 с/шаг)
+     1431  step   75 eval loss_mel_ce 4.1757 text 0.0200 *
+     1431  step  100 train loss_mel_ce 3.8229 (1.66 с/шаг)
+     1431  step  100 eval loss_mel_ce 4.1445 text 0.0199 *
+     1431  step  125 train loss_mel_ce 3.7074 (1.63 с/шаг)
+     1431  step  125 eval loss_mel_ce 4.1548 text 0.0198
+     1431  step  150 train loss_mel_ce 3.5910 (1.60 с/шаг)
+     1431  step  150 eval loss_mel_ce 4.1754 text 0.0198
+     1431  step  175 train loss_mel_ce 3.5539 (1.58 с/шаг)
+     1431  step  175 eval loss_mel_ce 4.1942 text 0.0198
+     1431  step  200 train loss_mel_ce 3.4242 (1.56 с/шаг)
+     1431  step  200 eval loss_mel_ce 4.2225 text 0.0198
+     1431  step  225 train loss_mel_ce 3.3182 (1.55 с/шаг)
+     1431  step  225 eval loss_mel_ce 4.2643 text 0.0197
+     1431  step  250 train loss_mel_ce 3.2861 (1.54 с/шаг)
+     1431  step  250 eval loss_mel_ce 4.2865 text 0.0196
+     1431  step  275 train loss_mel_ce 3.1424 (1.53 с/шаг)
+     1431  step  275 eval loss_mel_ce 4.3150 text 0.0196
+     1431  step  300 train loss_mel_ce 3.1802 (1.52 с/шаг)
+     1431  step  300 eval loss_mel_ce 4.3697 text 0.0195
+     1431  step  325 train loss_mel_ce 2.9491 (1.51 с/шаг)
+     1431  step  325 eval loss_mel_ce 4.4700 text 0.0195
+     1431  step  350 train loss_mel_ce 2.8483 (1.51 с/шаг)
+     1431  step  350 eval loss_mel_ce 4.4819 text 0.0195
+     1431  step  375 train loss_mel_ce 2.8521 (1.50 с/шаг)
+     1431  step  375 eval loss_mel_ce 4.5540 text 0.0194
+     1431  step  400 train loss_mel_ce 2.6857 (1.50 с/шаг)
+     1431  step  400 eval loss_mel_ce 4.6670 text 0.0194
+     1431  step  425 train loss_mel_ce 2.5283 (1.49 с/шаг)
+     1431  step  425 eval loss_mel_ce 4.7835 text 0.0194
+     1431  step  450 train loss_mel_ce 2.5183 (1.49 с/шаг)
+     1431  step  450 eval loss_mel_ce 4.7639 text 0.0194
+     1431  step  475 train loss_mel_ce 2.3881 (1.49 с/шаг)
+     1431  step  475 eval loss_mel_ce 4.8693 text 0.0194
+     1431  step  500 train loss_mel_ce 2.3894 (1.49 с/шаг)
+     1431  step  500 eval loss_mel_ce 4.9618 text 0.0194
+     1431  step  525 train loss_mel_ce 2.2105 (1.48 с/шаг)
+     1431  step  525 eval loss_mel_ce 5.0917 text 0.0194
+     1431  step  550 train loss_mel_ce 2.1730 (1.48 с/шаг)
+     1431  step  550 eval loss_mel_ce 5.1436 text 0.0194
+     1431  step  575 train loss_mel_ce 2.0370 (1.48 с/шаг)
+     1431  step  575 eval loss_mel_ce 5.2926 text 0.0194
+     1431  step  600 train loss_mel_ce 1.9821 (1.48 с/шаг)
+     1431  step  600 eval loss_mel_ce 5.3987 text 0.0194
+     1431  best eval loss_mel_ce 4.1445 -> /kaggle/working/runs/full/best_model.pth
+     1431  full: обучение 914 с
+     1443  WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+     1443  I0000 00:00:1795465060.955744       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+     1445  /kaggle/input/datasets/andreygetmanov/dls-hw5-smaug/scripts/xtts_eval.py:50: UserWarning: Xtts.init_from_config(config) is deprecated and will be removed soon, just initialize with Xtts(config)
+     1445    model = Xtts.init_from_config(config)
+     1495  zs: генерация 63 с
+     1556  1min: генерация 60 с
+     1616  full: генерация 60 с
+     1616  $ rm -rf /kaggle/working/xtts_files
+     1616  DONE
+     1620  /usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\|'
+     1620    cells[i][c] = re.sub('\\\\\|', '|', cell)
+     1621  /usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\_'
+     1621    text = re.sub(r'_', '\_', text) # Escape underscores in display text
+     1621  [NbConvertApp] Converting notebook __script__.ipynb to html
+     1622  [NbConvertApp] Writing 286911 bytes to __results__.html

@@ -1,0 +1,60 @@
+id,source,start,end,dur,text,dup,srt,asr,wer,spk_sim,split,in_1min
+dos_0823130,dos,8231.3,8241.17,9.86,Well thief. I smell you.,False,"1868,1869,1870","Well, thief, I spell you.",0.2,0.9288780689239502,full,False
+dos_0824162,dos,8241.63,8249.06,7.43,I hear your breath. I feel your air.,False,"1871,1872,1873","I hear your breath, I feel your a-",0.125,0.9561585187911987,full,False
+dos_0825248,dos,8252.48,8258.06,5.58,Where are you? Where are you?,False,"1874,1875",Where are you?  Where are you?,0.0,0.9129899144172668,eval,False
+dos_0827802,dos,8278.02,8284.51,6.48,"Come, now don't be shy. Step into the light.",False,"1876,1877,1878","Come now, don't be shy. Step into the light.",0.0,0.9729987382888794,test,False
+dos_0829137,dos,8291.38,8294.67,3.29,Hmm. There is something about you.,False,"1879,1880",There is something about you.,0.167,0.9302053451538086,full,False
+dos_0829791,dos,8297.91,8303.99,6.08,Something you carry. Something made of gold.,False,"1881,1882,1883","Something you carry, something made of gold.",0.0,0.9627073407173157,full,False
+dos_0830424,dos,8304.24,8309.59,5.35,But far more precious.,False,"1884,1885",But far more crucial.,0.25,0.8878478407859802,full,True
+dos_0831458,dos,8314.59,8320.1,5.52,There you are Thief in the Shadows.,False,"1887,1888,1889","There you are, thief in the shadows.",0.0,0.9649456739425659,full,False
+dos_0834626,dos,8346.26,8350.54,4.28,And do you now?!,False,1897,And to you now!,0.25,0.8607912659645081,full,False
+dos_0836345,dos,8363.46,8366.83,3.37,Do you think flattery will keep you alive?,False,1902,Do you think fluttery will keep you alive?,0.125,0.9488314986228943,full,False
+dos_0837221,dos,8372.21,8378.67,6.46,You seem familiar with my name but I don't remember smelling your kind before.,False,"1905,1906","You seem familiar with my name, but I don't remember smelling your cunt before.",0.071,0.9848971962928772,full,False
+dos_0837927,dos,8379.28,8386.38,7.1,Who are you and where do you come from may I ask?,False,"1907,1908,1909","Who are you, and where do you come from, may I ask?",0.0,0.9654629230499268,full,False
+dos_0841113,dos,8411.14,8415.63,4.49,Impressive. What else do you claim to be?,False,"1916,1917",Impressive. What else do you claim to-,0.125,0.9628068208694458,full,True
+dos_0842448,dos,8424.48,8428.43,3.95,Lovely titles. Go on.,False,"1921,1922",Lovely titles.  Go on.,0.0,0.939666748046875,full,True
+dos_0842961,dos,8429.61,8433.5,3.89,Barrels? Now that is interesting.,False,1924,parents. Now that is  interesting.,0.2,0.7002091407775879,full,False
+dos_0843479,dos,8434.8,8441.26,6.46,And what about your little Dwarf friends? Where are they hiding?,False,"1925,1926,1927",and what about your little dwarf friends where are they hiding,0.0,0.9759637117385864,eval,False
+dos_0845092,dos,8450.92,8461.43,10.51,"Oh, I don't think so, Barrel-rider! They sent you in here to do their dirty work while they skulk about outside.",False,"1932,1933,1934,1935","Oh, I don't think so.  Feral rider.  They sent you in here to do their dirty work while they skunk about outside.",0.091,0.9763431549072266,full,False
+dos_0846881,dos,8468.81,8476.06,7.25,You have nice manners for a thief and a liar!,False,"1939,1940,1941",You have nice manners for a thief and a liar.,0.0,0.9480097889900208,eval,False
+dos_0847692,dos,8476.92,8480.82,3.9,I know the smell and taste of Dwarf.,False,1942,I know the smell and taste of dwarf.,0.0,0.9640795588493347,full,False
+dos_0848075,dos,8480.76,8489.67,8.91,No one better! It is the gold! They are drawn to treasure like flies to dead flesh.,False,"1943,1944,1945,1946,1947",no one better it is the gold they are drawn to treasure like flies to dead flesh,0.0,0.9361893534660339,full,False
+dos_0849271,dos,8492.72,8496.24,3.52,Did you think I did not know this day would come?!,False,"1948,1949",Did you think I did not know this day would come?,0.0,0.9476702213287354,full,False
+dos_0849775,dos,8497.76,8505.46,7.7,That a pack of canting Dwarves would come crawling back to the mountain?!,False,"1950,1951,1952,1953",that a pack of counting dogs would come crawling back to the mountain?,0.154,0.9626795649528503,full,False
+dos_0856380,dos,8563.81,8574.14,10.34,The King Under the Mountain is dead. I took his throne. I ate his people like a wolf among sheep.,False,"1973,1974,1975,1976",The king under the mountain is dead.  I took his throne.  I ate his people like a wolf among sheep.,0.0,0.9777990579605103,full,True
+dos_0857740,dos,8577.4,8586.22,8.82,"I kill where I wish, when I wish. My armor is iron.",False,"1977,1978,1979,1980","I kill where I wish, when I wish.  My armor is iron!",0.0,0.9750668406486511,full,False
+dos_0859487,dos,8594.88,8597.83,2.95,No blade can pierce me.,False,1981,No blade can pierce me!,0.0,0.9653527736663818,full,False
+dos_0874208,dos,8742.08,8747.63,5.55,"So, Oakenshield that filthy Dwarvish usurper.",False,"2019,2020","So concealed, that filthy torvish usurper.",0.333,0.960246741771698,full,False
+dos_0874937,dos,8749.38,8754.91,5.53,"He sent you in here for the Arkenstone, didn't he?",False,"2021,2022","He sent you in here for the Arkenstone, didn't he?",0.0,0.9253659248352051,full,False
+dos_0875877,dos,8758.78,8763.59,4.81,Don't bother denying it. I guessed his foul purpose some time ago.,False,"2025,2026",Don't bother denying it. I guessed his foul purpose some time ago,0.0,0.9601305723190308,full,True
+dos_0876609,dos,8766.09,8771.31,5.22,But it matters not. Oakenshield's quest will fail.,False,"2027,2028",But it matters not.  Oak Shield's quest will fail.,0.25,0.9738658666610718,eval,False
+dos_0877308,dos,8773.08,8779.88,6.8,The darkness is coming. It will spread to every corner of the land.,False,"2029,2030",The darkness is coming. It will spread to every corner of the land.,0.0,0.8814404010772705,full,False
+dos_0882200,dos,8822.0,8829.42,7.42,"You are being used, Thief in the Shadows. You were only ever a means to an end.",False,"2035,2036,2037",You are being used. Thief in the shadows. You are only ever a means to an end.,0.059,0.9690027832984924,full,False
+dos_0883024,dos,8830.25,8838.18,7.93,The coward Oakenshield has weighed the value of your life and found it worth nothing.,False,"2038,2039,2040,2041","The coward, oh confused, has weighed the value of your life and found it worth nothing.",0.133,0.9748020172119141,full,False
+dos_0884340,dos,8843.4,8847.58,4.18,What did he promise you? A share of the treasure?,False,"2045,2046",What did he promise you? A share of the treasure?,0.0,0.9529268741607666,full,True
+dos_0884825,dos,8848.26,8858.11,9.85,As if it was his to give. I will not part with a single coin. Not one piece of it.,False,"2047,2048,2049,2050,2051",As if it was easy to give.  I will not part with a single coin.  Not one piece of it.,0.05,0.9737002849578857,full,True
+dos_0886176,dos,8861.76,8864.31,2.54,My teeth are swords.,False,"2052,2053",My teeth are sore.,0.25,0.9566775560379028,eval,False
+dos_0886467,dos,8864.68,8874.95,10.27,My claws are spears. My Wings are a hurricane.,False,"2054,2055,2056",My claws are spears.  My wings are a hurricane.,0.0,0.9409007430076599,full,False
+dos_0890008,dos,8900.08,8908.29,8.21,I am almost tempted to let you take it. If only to see Oakenshield suffer.,False,"2064,2065,2066,2067","I am almost tempted to let you take it, if only to see Oakenshield suffer.",0.0,0.9443277716636658,full,False
+dos_0890927,dos,8909.27,8918.91,9.64,Watch it destroy him. Watch it corrupt his heart and drive him mad.,False,"2068,2069,2070,2071","Watch it destroy him, watch it corrupt his heart, and drive him mad!",0.0,0.9294626712799072,full,False
+dos_0892171,dos,8921.72,8932.87,11.15,But I think not. I think our little game ends here. So tell me thief how do you choose to die?,False,"2072,2073,2074,2075,2076","But I think not.  I think our little game ends here.  So tell me, thief, how do you choose to die?",0.0,0.961135983467102,full,False
+dos_0926764,dos,9267.64,9270.27,2.63,You will burn!,False,2112,You will  die.,0.333,0.8893061876296997,full,False
+dos_0964629,dos,9646.29,9656.51,10.22,Flee. Flee. Run for your lives. There is nowhere to hide.,False,"2170,2171,2172,2173,2174",Flee. Flee. Run for your lives. There is nowhere to hide.,0.0,0.9105424880981445,full,True
+dos_1029532,dos,10295.33,10298.71,3.38,"You think you could deceive me, Barrel-rider?",False,"2229,2230",YOU THINK YOU COULD DECEIVE ME?  WOW,0.25,0.9625377655029297,full,False
+dos_1030210,dos,10302.1,10304.86,2.76,You have come from Lake-town.,False,2231,You have come from Laketown!,0.333,0.9521931409835815,full,True
+dos_1030648,dos,10306.48,10315.18,8.7,This is some sordid scheme hatched between these filthy Dwarves and those miserable tub-trading Lakemen.,False,"2232,2233,2234",This is some sort of scheme match between these filthy dwarves and those miserable top-trading lichmen.,0.312,0.9696801900863647,full,False
+dos_1031591,dos,10315.92,10322.71,6.8,Those sniveling cowards with their long bows and Black Arrows.,False,"2235,2236,2237",Those sniveling cowards with their long bows and black arrows!,0.0,0.9728180170059204,test,False
+dos_1032304,dos,10323.04,10327.31,4.27,Perhaps it is time I paid them a visit.,False,"2238,2239",Perhaps it is time I paid them a visit.,0.0,0.963497519493103,eval,False
+dos_1033717,dos,10337.18,10345.67,8.49,You care about them do you? Good. Then you can watch them die.,False,"2244,2245,2246,2247,2248","You care about them, do you?  We could.  Then you could watch them die.",0.231,0.9492015242576599,full,False
+dos_1036947,dos,10369.47,10374.62,5.15,You will take nothing from me Dwarf.,False,"2253,2254,2255,2256","You will take nothing from me, dwarf.",0.0,0.9389866590499878,full,False
+dos_1037572,dos,10375.72,10380.86,5.14,I laid low your warriors of old.,False,"2257,2258",I laid low your warriors of old.,0.0,0.9701554775238037,full,False
+dos_1038064,dos,10380.64,10391.95,11.31,I instilled terror in the hearts of Men. I am King Under the Mountain.,False,"2259,2260,2261,2262,2263",I instilled terror in the hearts of men.  I am king under the mountain.,0.0,0.9443383812904358,full,False
+dos_1048780,dos,10487.8,10494.66,6.86,Revenge?! I will show you revenge!,False,"2273,2274",Revenge! I will show you revenge!,0.0,0.8273190259933472,full,False
+bofa_0054648,bofa,546.48,551.3,4.82,Who are you that would stand against me?,False,,Who are you that would stand against me?,0.0,0.975979208946228,full,False
+bofa_0055510,bofa,555.11,557.9,2.79,"Now, that is a pity.",False,,Now that is a pity.,0.0,0.9668018817901611,full,False
+bofa_0055929,bofa,559.3,564.4,5.1,"What will you do now, bowman?",False,,What will you do now?,0.167,0.9738162755966187,full,False
+bofa_0056529,bofa,565.3,571.9,6.6,You are forsaken. No help will come.,False,,You are forsaken.  No help will come.,0.0,0.9511581063270569,full,True
+bofa_0058090,bofa,580.9,589.85,8.95,Is that your child? You cannot save him from the fire.,False,,Is that your child?  You cannot save him from the fire.,0.0,0.9623010158538818,full,False
+bofa_0058985,bofa,589.85,592.7,2.85,He will burn.,False,,He will burn.,0.0,0.8351061344146729,full,False
+bofa_0061654,bofa,616.54,624.6,8.06,"Tell me, wretch. How now shall you challenge me?",False,,"Tell me, wretch, how now shall you challenge me?",0.0,0.9759873151779175,test,False
+bofa_0062885,bofa,628.86,635.6,6.74,You have nothing left but your death.,False,,"You have nothing left, but your death.",0.0,0.9427554607391357,full,False

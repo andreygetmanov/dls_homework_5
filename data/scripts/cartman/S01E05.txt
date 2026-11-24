@@ -1,0 +1,473 @@
+{{TabScript|episode=An Elephant Makes Love to a Pig|code=2ly7rt/south-park-an-elephant-makes-love-to-a-pig-season-1-ep-5|nav={{SP navigation|Big Gay Al's Big Gay Boat Ride|Death}}}}{{Official Script|e=105}}
+==Cast==
+*[[Stan Marsh]]
+*[[Kyle Broflovski]]
+*[[Eric Cartman]]
+*[[Kenny McCormick]]
+*[[Veronica Crabtree|Ms. Crabtree]]
+*[[Herbert Garrison|Mr. Garrison]]
+*[[Mr. Hat]]
+*[[Bebe Stevens]]
+*[[Pip Pirrip]]
+*[[Clyde Donovan]]
+*[[Jason White]]
+*[[Terrance Mephesto]]
+*[[Bill Allen]]
+*[[Fosse McDonald]]
+*[[Shelly Marsh]]
+*[[Jesus Christ]]
+*[[Dr. Alphonse Mephesto|Mephesto]]
+*Kids
+*[[Clone Stan Marsh]]
+*[[Jerome "Chef" McElroy|Chef]]
+*[[Elton John]]
+*[[Jimbo Kern]]
+*[[Officer Barbrady]]
+*[[Randy Marsh]]
+*[[Sharon Marsh]]
+
+==Script==
+{{EpisodeScript|
+{{ScriptScene|Bus Stop.}}
+{{ScriptDialog|Cartman|Hey Stan, where'd you get that black eye?}}
+{{ScriptDialog|Stan|Nothing, I mu-I mean, nowhere.}}
+{{ScriptDialog|Cartman|Your sister beat you up again, huh?}}
+{{ScriptDialog|Stan|No!}}
+{{ScriptDialog|Cartman|Eheh, you know, heh, your sister kicked your ass.}}
+{{ScriptDialog|Stan|She's just pissed off 'cause she got headgear at the dentist. She's taking it out on me.}}
+{{ScriptDialog|Kyle|Yeah, but that sucks, to get your butt kicked by a girl, Stan.}}
+{{ScriptDialog|Cartman|I would never let a woman kick my ass. If she tried anything, I'd be like, "hey, you get your b**** ass back in the kitchen, and make me some pie!"}}
+{{ScriptDialog|Stan|My parents don't even believe that she beats me up. They think she's all innocent and sweet, but I know that she's an evil b****!}}
+{{ScriptDialog|Cartman|Be a man Stan. Just say, "Hey woman, ye-you shut your mouth and make babies."}}
+{{ScriptDialog|Stan|Hey Kyle, what's that elephant doing?}}
+{{ScriptScene|The camera pulls back to get the elephant in the picture.}}
+{{ScriptDialog|Kyle|You mean this one?}}
+{{ScriptDialog|Stan|Yeah.}}
+{{ScriptDialog|Kyle|He's my new pet elephant.}}
+{{ScriptDialog|Stan|Whoa dude! Where'd you get a pet elephant?}}
+{{ScriptDialog|Kyle|I got it mail ordered from Africa. The ad said it would take 4 to 6 weeks, but it only took three.}}
+{{ScriptDialog|Stan|Wow, that's cool!}}
+{{ScriptDialog|Kyle|No it's not cool! My mom won't let me keep him in the house. She says he's too big, and that his poop is bigger than our couch.}}
+{{ScriptDialog|Cartman|That's why my mom got me a pot-bellied pig. Cause its poop is small.}}
+{{ScriptDialog|Kenny|(Hey you guys, I talked to Garrison and he told me that they're almost the same.)}}
+{{ScriptDialog|Stan|Well yeah, but pigs aren't smart, like elephants.}}
+{{ScriptScene|Ms. Crabtree's bus arrives.}}
+{{ScriptDialog|Ms. Crabtree|Hey. Wait a minute. What is that thing?}}
+{{ScriptDialog|Kyle|Uh, oh, this, this is, the new r******* kid.}}
+{{ScriptDialog|Ms. Crabtree|Oh—I'm sorry little girl. But you still can't get on. You have to take the special ed bus.}}
+{{ScriptScene|Shot of r******* kid bus. r******* noises of protest are heard.}}
+{{ScriptDialog|Kyle|Boy, it looks like you're not welcome anywhere elephant. See ya.}}
+{{ScriptScene|He enters the bus with Stan and Kenny.}}
+{{ScriptDialog|Cartman|''[Entering.]'' If a woman ever gave me crap, I'd say, "Hey, you go do my laundry and-"}}
+{{ScriptDialog|Ms. Crabtree|SIT DOWN KID!!!}}
+{{ScriptDialog|Cartman|''[Stung.]'' Yes ma'am.}}
+{{ScriptScene|Mr. Garrison's Classroom.}}
+{{ScriptDialog|Mr. Garrison|And now children, our friend Mr. Hat is going to tell us all about genetic engineering.}}
+{{ScriptDialog|Mr. Hat|That's right Mr. Garrison, genetic engineering is an exciting new science. You can splice the DNA from some animals, and make them better.}}
+{{ScriptDialog|Kyle|Mr. Garrison?}}
+{{ScriptDialog|Mr. Garrison|Yes Kyle.}}
+{{ScriptDialog|Kyle|With genetic engineering, can you make an elephant smaller?}}
+{{ScriptDialog|Mr. Garrison|Well, uh, ye, yes, I suppose you could. You could, splice elephant genes with a dog, or cat, or a, pot-bellied pig genes.}}
+{{ScriptDialog|Kyle|That's it. I'm going to combine my elephant with a pot-bellied pig and make...pot-bellied elephants.}}
+{{ScriptScene|The class gasps.}}
+{{ScriptDialog|Kyle|They'd be smart like elephants, but small like pigs.}}
+{{ScriptDialog|Stan|That'd be cool!}}
+{{ScriptDialog|Bebe|I want a pot-bellied elephant.}}
+{{ScriptDialog|Pip|Yes, I'll pay fifty dollars for one.}}
+{{ScriptDialog|Terrance Mephesto|That's stupid.}}
+{{ScriptDialog|Kyle|Shut up Terrance, we can geneti-cal engineer anything we want.}}
+{{ScriptDialog|Terrance|Oh yeah, I bet I can genetically clone a whole human being before you crossbreed and elephant and a pig.}}
+{{ScriptDialog|Kyle|I'll bet you can't.}}
+{{ScriptDialog|Terrance|Watch me plebeian.}}
+{{ScriptDialog|Mr. Garrison|Well, spank my ass and call me Charlie. Isn't this exciting, two A+ students in a cloning war.}}
+{{ScriptDialog|Mr. Hat|Yes Mr. Garrison, genetic engineering lets us correct God's horrible, horrible mistakes, like German people.}}
+{{ScriptDialog|Mr. Garrison|You know, you boys might want to visit the Genetic Engineering Ranch outside of town for some help. And you could both use this for your science fair projects next month.}}
+{{ScriptScene|The bell rings. Most of the class leaves, but the boys stay behind.}}
+{{ScriptDialog|Kyle|Genetic Engineering Ranch! Sweet!}}
+{{ScriptDialog|Stan|Wait, wait. We still need a pig.}}
+{{ScriptDialog|Kyle|We can use Cartman's pig.}}
+{{ScriptDialog|Cartman|Ehh, you leave Fluffy out of this!}}
+{{ScriptDialog|Kyle|We're not gonna hurt her, we just need some of her blood.}}
+{{ScriptDialog|Cartman|You're not using any of Fluffy's blood, or else I'll kick you in the nuts. Kyle, Kyle no!}}
+{{ScriptScene|The boys leave.}}
+{{ScriptScene|Mr. Garrison steps forward to stop Stan.}}
+{{ScriptDialog|Mr. Garrison|Uh, uhuh, Stanley, can I talk to you for a minute?}}
+{{ScriptDialog|Stan|Okay.}}
+{{ScriptDialog|Mr. Garrison|I couldn't help but notice that black eye you have. Are there problems at home?}}
+{{ScriptDialog|Stan|''[Despondantly.]'' Yes...}}
+{{ScriptDialog|Mr. Garrison|Oh dear. Here Stanley, sit down, have some cocoa, and tell your friend Mr. Hat all about it.}}
+{{ScriptScene|Stan sits down.}}
+{{ScriptDialog|Mr. Hat|I'm your friend, Mr. Hat, Stan. You can tell me anything. Now, who hits you, is it your father, or your mother?}}
+{{ScriptDialog|Stan|Oh, neither. It's my sister.}}
+{{ScriptDialog|Mr. Garrison|''[Indignantly.]'' Your sister?! Oh for Pete's sake, don't be such a little wuss. Stop wasting Mr. Hat's time with pansy little foo-foo problems, and, ''give me back my cocoa!''}}
+{{ScriptScene|Stan's house. A TV is heard.}}
+{{ScriptDialog|Jesus|Let's open the phone lines back up for some questions...}}
+{{ScriptScene|Shelly turns to see Stan coming out of the sofa's shadow.}}
+{{ScriptDialog|Shelly Marsh|Hey!}}
+{{ScriptDialog|Robert|Yeah, is this Jesus?}}
+{{ScriptDialog|Jesus|Yes, my son.}}
+{{ScriptDialog|Stan|Hi Shelly.}}
+{{ScriptDialog|Shelly|Are you looking at my headgear?}}
+{{ScriptDialog|Stan|Headgear? What headgear?}}
+{{ScriptDialog|Shelly|Are you looking at my headgear?}}
+{{ScriptDialog|Stan|Oh, uh gosh uh, I didn't really notice.}}
+{{ScriptScene|Shelly gets up and glowers at him.}}
+{{ScriptDialog|Shelly|You little liar.}}
+{{ScriptScene|She starts advancing, and Stan starts retreating.}}
+{{ScriptDialog|Stan|No, I think it looks terrific. It matches your AAAAAH!}}
+{{ScriptScene|Stan turns to run, but she has his arm, she proceeds to beat the living hell out of him. She tosses him down the stairs into the basement, then approaches the doorway. He climbs out, but she flips him back towards the living room, then goes for the TV and drops it on his head. After the TV shorts out, he removes it, but she throws him like a basketball out the window, where his friends are waiting.}}
+{{ScriptDialog|Kyle|Ready to go Stan?}}
+{{ScriptDialog|Stan|Go where?}}
+{{ScriptDialog|Kyle|To the Genetical Engineering Ranch.}}
+{{ScriptDialog|Kyle|We got Cartman's pig so we can splice its genes with my elephant's.}}
+{{ScriptDialog|Cartman|Nobody's splicin' nothing from Fluffy!}}
+{{ScriptScene|From the broken window.}}
+{{ScriptDialog|Shelly|I swear I'm gonna kill you Stan!}}
+{{ScriptDialog|Kyle|Why's your sister so mean to you dude?}}
+{{ScriptDialog|Cartman|Yeah, if some sissy chick tried to kick my ass, I'd be all like, "Hey, listen, missy, eh, yewhy don't you go knit me sweater before I slap you in the face!"}}
+{{ScriptScene|She appears at the broken window.}}
+{{ScriptDialog|Shelly|Who said that?}}
+{{ScriptScene|All stay quiet. Cartman points to Kenny.}}
+{{ScriptScene|South Park Engineering Ranch, night. The boys approach the entrance.}}
+{{ScriptDialog|Kyle|This must be it.}}
+{{ScriptScene|Lightning strikes the ranch.}}
+{{ScriptDialog|Cartman|''[A bit wary.]'' Well, looks like nobody's home. Guess we should come back some other time.}}
+{{ScriptDialog|Kyle|No, Cartman, we're going in there and splicing Fluffy and my elephant together.}}
+{{ScriptDialog|Cartman|It's okay Fluffy, I won't let them hurt you.}}
+{{ScriptDialog|Kyle|It's just a stupid pig.}}
+{{ScriptDialog|Stan|Yeah, quit being such a baby.}}
+{{ScriptDialog|Cartman|Baby?! Well, at least I don't get my ass kicked by a girl!}}
+{{ScriptDialog|Stan|At least I'm not a little pig-fucker!}}
+{{ScriptDialog|Cartman|Hey! I'm taking my pig and...Screw you guys! I'm going home! This whole idea's stupid anyway.}}
+{{ScriptDialog|Kyle|What the hell would you know you fat sweaty mongoloid, you never get higher than a 'D'!}}
+{{ScriptDialog|Cartman|Hey! Why don't you go back to San Francisco with the rest of the Jews?!}}
+{{ScriptDialog|Kyle|There's no Jews in San Francisco, you r*****!}}
+{{ScriptDialog|Cartman|I'll kick you in the nuts!}}
+{{ScriptDialog|Dr. Alphonse Mephesto|Can I help you?}}
+{{ScriptScene|The boys all gasp, and Kenny pulls his hood closed.}}
+{{ScriptDialog|Kenny|Mmmmmm!}}
+{{ScriptDialog|Kyle|Uh... yeah... we want to crossbreed an elephant with a pig.}}
+{{ScriptDialog|Mephesto|Brilliant idea, huge elephant-sized pigs.}}
+{{ScriptDialog|Kyle|No, no, no. We want to make little pot-bellied elephants that people can keep in their houses as pets.}}
+{{ScriptDialog|Mephesto|Ohh, that's an even better idea. Come on in.}}
+{{ScriptScene|Inside the South Park Genetic Engineering Ranch.}}
+{{ScriptDialog|Mephesto|I'm so pleased that you children are interested in genetic engineering.}}
+{{ScriptDialog|Cartman|Eh, it's okay Fluffy, nobody's going to hurt you.}}
+{{ScriptDialog|Mephesto|It's thanks to the wonders of genetic engineering that soon there will be an end to hunger, disease, pollution, even war. I have created things that will change the world for the better. For instance, here is a monkey with four asses.}}
+{{ScriptDialog|Monkey|Mhhh.}}
+{{ScriptDialog|Kyle|How does that make the world better?}}
+{{ScriptDialog|Mephesto|And here, of course, is my four-assed ostrich. And my four-assed mongoose.}}
+{{ScriptDialog|Stan|Do you have anything besides just animals with four asses?}}
+{{ScriptDialog|Mephesto|Oh, uh, I suppose so uh. Oh yes, over here. Here I have rats splice with ducks, and gorillas spliced with mosquitos, and here I have rabbits spliced with fish to make little bunnyfish.}}
+{{ScriptDialog|Cartman|Heyyy, these bunny ears are tied on with little strings.}}
+{{ScriptDialog|Mephesto|And over here, Swiss cheese spliced with chalk, and a beard.}}
+{{ScriptDialog|Kyle|Well, what about our pot-bellied elephant?}}
+{{ScriptDialog|Mephesto|Oh. Well I'm sorry children, but, pig and elephant DNA just won't splice. Haven't you ever heard that song by 'Loverboy'?}}
+{{ScriptDialog|Kyle|Which song is that?}}
+{{ScriptDialog|Mephesto|<poem><i>Diindoon - pig and elephant DNA just won't splice!</i></poem>
+Although, maybe I could help you add a few asses to that swine of yours.}}
+{{ScriptDialog|Cartman|You can keep your hands off of Fluffy's ass!}}
+{{ScriptDialog|Mephesto|You know, it's amazing what we can do with a little blood sample these days.}}
+{{ScriptScene|Mephesto pricks Stan with the syringe.}}
+{{ScriptDialog|Stan|Ow!}}
+{{ScriptDialog|Mephesto|Hmm? What? Oh, excuse me.}}
+{{ScriptDialog|Kyle|Wait, what are you taking Stan's blood for?}}
+{{ScriptDialog|Mephesto|Oh, pardon me, I tripped. Could I have some hair please?}}
+{{ScriptDialog|Kyle|Watch out Stan! Genetic engineers are crazy.}}
+{{ScriptScene|The boys quickly move away.}}
+{{ScriptDialog|Cartman|Come on Fluffy!}}
+{{ScriptScene|Fluffy Squeals.}}
+{{ScriptScene|Inside the Cafeteria.}}
+{{ScriptDialog|Jewish Kid|This fish is just hurting my anus.}}
+{{ScriptDialog|Jason|Naw, it's pretty fresh.}}
+{{ScriptDialog|Cartman|UUuuhh. I sure am hungry.}}
+{{ScriptDialog|Pip|'Ello gentlemen, any of you blokes know what's for lunch today?}}
+{{ScriptScene|Silence. The boys stare back.}}
+{{ScriptDialog|Pip|Lunchy munchies, hmmm?}}
+{{ScriptDialog|Cartman|Go away, Pip! Nobody likes you!}}
+{{ScriptDialog|Stan|Yeah, what kind of name is Pip anyway?!}}
+{{ScriptDialog|Pip|Well, my father's family name being Pirrip, and my Christian name being Phillip, my infant tongue...}}
+{{ScriptDialog|Cartman|God Damnit, would you shut the hell up?! Nobody gives a rat's ass.}}
+{{ScriptDialog|Stan|Yeah! Go away, Pip!}}
+{{ScriptDialog|Pip|Righto.}}
+{{ScriptScene|Pip walks off.}}
+{{ScriptDialog|Cartman|Gah, French people piss me off.}}
+{{ScriptScene|Terrance, Bill, & Fosse Approach.}}
+{{ScriptDialog|Terrance|Hey dumb-asses. You morons give up on your stupid science fair project yet?}}
+{{ScriptDialog|Kyle|No! We're already halfway done.}}
+{{ScriptDialog|Terrance|Halfway? Then all you've got is a stupid pig.}}
+{{ScriptDialog|Bill|Yeah, it's probably a gay pig too.}}
+{{ScriptDialog|Fosse|Stupid gay pig.}}
+{{ScriptDialog|Kyle|It's more than you've got!}}
+{{ScriptDialog|Terrance|Wroong. We've already got our human clone well under way.}}
+{{ScriptScene|One of the bullies opens a bag and drops it. A foot pops out.}}
+{{ScriptDialog|Kyle|Oh my God! They cloned a foot.}}
+{{ScriptScene|The foot kicks Cartman in the face.}}
+{{ScriptDialog|Cartman|Ugh!... Hey! I'll kick your ass!}}
+{{ScriptScene|Cartman kicks it away, and it lands in Pip's lunch tray and bounces away.}}
+{{ScriptDialog|Pip|Eho!}}
+{{ScriptDialog|Terrance|By Friday, we're gonna clone a whole human being. Good luck with your stupid little pig.}}
+{{ScriptScene|In the kitchen}}
+{{ScriptDialog|Chef|Hello there children.}}
+{{ScriptDialog|Kyle|Hey Chef.}}
+{{ScriptDialog|Chef|How you doin'?}}
+{{ScriptDialog|Boys|Bad.}}
+{{ScriptDialog|Chef|Why bad?}}
+{{ScriptDialog|Kyle|We need to genetically engineer our pig and an elephant, but their genes won't splice.}}
+{{ScriptDialog|Chef|Ahhhh, of course they won't splice children. Haven't you ever heard that song by 'Loverboy'?}}
+{{ScriptDialog|Chef|<poem><i>Dooodnnndoodnn - A pig and an elephant DNA just won't...</i></poem>
+A pig-elephant. Say, now that's not a bad idea.}}
+{{ScriptDialog|Kyle|I told you guys.}}
+{{ScriptDialog|Chef|Imagine, a pint sized elephant that you could keep in the house. Children, we could make a fortune with this.}}
+{{ScriptDialog|Kyle|You hear that dudes? We'll be rich!}}
+{{ScriptDialog|Chef|Forget about all that genetic engineering whoosafudge. If you want to combine a pig and an elephant, just get them to make sweeet love.}}
+{{ScriptDialog|Cartman|Whaaat?!}}
+{{ScriptDialog|Stan|I don't think an elephant would make love to a pig.}}
+{{ScriptDialog|Cartman|I don't think my pig would want to make love to that stupid elephant.}}
+{{ScriptDialog|Chef|Sure they would. But you're gonna have to get 'em in the mood.}}
+{{ScriptDialog|Stan|So how do we do that?}}
+{{ScriptDialog|Chef|Do what I do, get 'em goood and drunk.}}
+{{ScriptScene|Boys get off the bus later that day.}}
+{{ScriptDialog|Stan|Hey uh, you guys want to come over to my house?}}
+{{ScriptDialog|Kyle|We've got work to do Stan, I think it takes a while for an elephant to get drunk.}}
+{{ScriptDialog|Stan|Really, you, you guys don't want to come over for just a little bit?}}
+{{ScriptDialog|Cartman|Why? Is your sister gonna kick your ass again?}}
+{{ScriptDialog|Stan|Shut up Cartman!}}
+{{ScriptDialog|Kenny|(Or are you gonna hit her with your hand?)}}
+{{ScriptDialog|Kyle|Yeah Stan, she's just a girl.}}
+{{ScriptDialog|Cartman|Yeah, if some girl tried to kick my ass, I'd be like, "hey, why don't you stop dressin' me up like a mailman, annnd making me dance for you while you go and smoke crack in your bedroom and have sex with some guy I don't even know, on my dad's bed!"}}
+{{ScriptScene|Astonished looks from the other guys.}}
+{{ScriptDialog|Stan|Cartman, what the hell are you talking about?!}}
+{{ScriptDialog|Cartman|I'm just saying you're just a little wuss, that's all.}}
+{{ScriptDialog|Kyle|Stan, you can use family love as a weapon against Shelly. The next time she's gonna kick your ass, just tell her, "Shelly, you're my sister, and I love you."}}
+{{ScriptDialog|Kenny|("And I want to see you handling your breasts.")}}
+{{ScriptDialog|Stan|Sick dude, she's my sister.}}
+{{ScriptDialog|Kyle|Try it. We'll see you in a while, we got to go get Cartman's pig.}}
+{{ScriptDialog|Cartman|No, you don't gotta get Cartman's pig! You leave Fluffy out of this!}}
+{{ScriptDialog|Kyle|Come on Kenny.}}
+{{ScriptDialog|Cartman|Kyle no, seriously. No fuckin' elephant is going to make love to my Fluffy, I... Kyle, I will kick you in the nnnnuts.}}
+{{ScriptDialog|Stan|Crap.}}
+{{ScriptScene|Stan's house. Stan sneaks through the front door.}}
+{{ScriptDialog|TV Voice|And now back to Jesus and Pals on South Park Public Access...}}
+{{ScriptDialog|Shelly|Are you staring at my neck-brace?}}
+{{ScriptDialog|Stan|No, I mean, yes, I mean, what neck-brace?}}
+{{ScriptScene|She jumps off the sofa and grabs him by the throat.}}
+{{ScriptDialog|Stan|Shelly, before you beat my face into a bloody pulp again, I just want you to know that... that you're my sister, and I love you.}}
+{{ScriptScene|Shelly smiles, Stan smiles, it looks like she's gonna let him go... yeah, right! She throws him off to a clear space on the floor, where he lies defeated.}}
+{{ScriptDialog|Stan|No. Ahh! Someday, Shelly, I'm gonna be bigger than you, and you're gonna wish you'd never done any of this to me.}}
+{{ScriptDialog|Shelly|You'll never be bigger than me Stan. Never!}}
+{{ScriptScene|Inside the South Park Genetic Engineering Ranch.}}
+{{ScriptScene|Mephesto is marveling at his creation.}}
+{{ScriptDialog|Mephesto|Beautiful, it's absolutely beautiful. My son, I think we've finally done it.}}
+{{ScriptScene|A fetal version of Stan is seen in the incubator.}}
+{{ScriptDialog|Terrance|Yes, we have dad. My very own human clone.}}
+{{ScriptDialog|Bill|Hopefully not a gay clone.}}
+{{ScriptDialog|Fosse|Yeah, that was stupid.}}
+{{ScriptDialog|Bill|Stupid.}}
+{{ScriptDialog|Fosse|That was stupid.}}
+{{ScriptScene|Out in the hills somewhere, Kyle is pumping a keg that the elephant is drinking from.}}
+{{ScriptDialog|Kyle|Come on elephant, keep drinking.}}
+{{ScriptDialog|Stan|Damn, I wonder how drunk he needs to be to make sweet love to the pig.}}
+{{ScriptScene|Fluffy is drinking from a trough labeled "Beer".}}
+{{ScriptDialog|Kyle|Dammit! This is never gonna work.}}
+{{ScriptScene|Chef comes into view.}}
+{{ScriptDialog|Chef|Hello children. I thought I'd check and see how our little entrepreneurial venture is going.}}
+{{ScriptDialog|Kyle|Rotten, they're both really drunk, but the won't have sex.}}
+{{ScriptDialog|Chef|Ohh, children, you just can't stick a drunk pig with a drunk elephant, and, and, expect them to do the mattress mambo. You need to set the mood.}}
+{{ScriptScene|He moves over to a boombox with a mic attached.}}
+{{ScriptDialog|Chef|Let me show you boys what I'm talking about.
+<poem><i>Tonight is a-right for love,
+you know I -- want tuh touch you where the lights don't go.
+Tonight is a-right for love, love gravy.
+Expressing love so sweet.
+I want tuh -- keep you burnin' like a dog in heat.
+Tonight is a-right for love, love graaavaaay.</i></poem>}}
+{{ScriptScene|The elephant and pig approach each other. Fluffy smiles at the elephant, then turns around in order to receive him.}}
+{{ScriptDialog|Chef|Ladies and gentlemen, Mr. Elton John!}}
+{{ScriptScene|Enter Elton John. Intermingled shots of Fluffy and elephant getting interested.}}
+{{ScriptDialog|Elton John|<poem><i>Oooo tonight
+Oooo it's all right
+Oooo tonight is right for love, love gravy.</i></poem>}}
+{{ScriptScene|The boys applaud}}
+{{ScriptDialog|Chef|Thank you Elton.}}
+{{ScriptScene|slowing the tempo. Houses all over the hill show couples embracing.}}
+{{ScriptDialog|Chef|<poem><i>Tonight is right for love, love graaavaaaaaay.</i></poem>}}
+{{ScriptScene|Elephant is about to mount Fluffy.}}
+{{ScriptDialog|Kyle|Hey look! It's working.}}
+{{ScriptDialog|Chef|Now children, gather around, and watch the wonders of life. The beauty of Mother Nature.}}
+{{ScriptScene|Squish. Squeals follow.}}
+{{ScriptDialog|Kyle|Aah!}}
+{{ScriptDialog|Stan|Sick!}}
+{{ScriptDialog|Cartman|Fluffy!}}
+{{ScriptDialog|Chef|Hmm, now I know how all those ''white'' women must have felt.}}
+{{ScriptScene|Squealing continues.}}
+{{ScriptScene|Inside the South Park Genetic Engineering Ranch. A big mutant version of Stan is in the incubator, with a very long left arm.}}
+{{ScriptDialog|Mephesto|How luscious. Our creature has come to fruition, boys.}}
+{{ScriptDialog|Terrance|Dad, you're the best.}}
+{{ScriptDialog|Mephesto|Oh my God! He only has one ass. He's of no use to me, I'll have to burn the room.}}
+{{ScriptScene|Clone Stan breaks out of the incubator.}}
+{{ScriptDialog|Mephesto|Oh no, this entire experiment is turning out very bad.}}
+{{ScriptDialog|Clone Stan|Me bad??}}
+{{ScriptScene|Clone Stan throws four-assed frog against wall, killing it.}}
+{{ScriptDialog|Mephesto|Eeegads, he's out of control. We'll have to destroy him.}}
+{{ScriptDialog|Terrance|But he's our science fair project!}}
+{{ScriptDialog|Clone Stan|Uhhh, me baad, aba-ba-chewy-chomp.}}
+{{ScriptDialog|Mephesto|He's too dangerous son.}}
+{{ScriptDialog|Terrance|But dad! I want a human clone.}}
+{{ScriptDialog|Mephesto|Son, no.}}
+{{ScriptScene|Clone Stan jumps through window, then tears down the ranch gate entrance.}}
+{{ScriptDialog|Mephesto|Oh son, you've made a horrible mistake. You've put all the people of South Park in jeopardy.}}
+{{ScriptDialog|Terrance|They're all stupid anyway. Come on guys, let's go.}}
+{{ScriptDialog|Bill|Yeahh, they're all gay.}}
+{{ScriptScene|Back on the Hill. Shot of Fluffy and elephant sleeping together.}}
+{{ScriptDialog|Kyle|Aren't they ever gonna wake up?}}
+{{ScriptDialog|Chef|Oh, they will. It's gonna be one uuuugly sight.}}
+{{ScriptDialog|Kyle|I thought you said the wonder of Mother Nature was a beautiful thing.}}
+{{ScriptDialog|Stan|Yeah, when does Mother Nature go from beautiful to ugly?}}
+{{ScriptDialog|Chef|Usually about 9:30 in the morning, children.}}
+{{ScriptScene|The elephant begins to wake up.}}
+{{ScriptDialog|Chef|Uh oh, here we go.}}
+{{ScriptScene|Elephant looks down at Fluffy with surprise and bellows.}}
+{{ScriptDialog|Chef|Yeahhh, there's nothing worse than getting all drunk and waking up the next morning next to a pig.}}
+{{ScriptScene|Fluffy looks up at elephant, begins crying.}}
+{{ScriptDialog|Chef|Or a big fat elephant.}}
+{{ScriptDialog|Kyle|Hey, how do we know if she's pregnant?}}
+{{ScriptDialog|Chef|Well boys, we might not know that for a couple of days.}}
+{{ScriptDialog|Kyle|Couple of days? But Terrance is going to have his human clone by tomorrow.}}
+{{ScriptDialog|Cartman|Well, good job Einstein, why don't we just build a rocket in the meantime?}}
+{{ScriptScene|Kyle punches Cartman.}}
+{{ScriptDialog|Cartman|Hey!}}
+{{ScriptScene|Mephesto approaches.}}
+{{ScriptDialog|Mephesto|Oh thank Buddha I found you boys. You must tell me, have you seen anything odd lately?}}
+{{ScriptDialog|Stan|Uh, we saw an elephant have sex with a pig.}}
+{{ScriptDialog|Mephesto|No, no, I said odd.}}
+{{ScriptDialog|Chef|Hey, you're that crazy cracker from up on the hill.}}
+{{ScriptDialog|Mephesto|Sir, if making mutant animals spliced with humans is crazy... then... uhhhhh... hmmm... oh, never mind. I'm afraid there's been a bit of an incident at the ranch. You see, I've created a large mutant clone of that little boy there, and he's broken free.}}
+{{ScriptDialog|Kenny|(A big mutant Stan?!)}}
+{{ScriptDialog|Stan|A big mutant version of me?}}
+{{ScriptDialog|Kyle|Is he bigger than a regular clone?}}
+{{ScriptDialog|Mephesto|He's terribly dangerous. His brain is identical to yours. I need you to help me find him.}}
+{{ScriptScene|Downtown South Park. Clone Stan is wreaking havoc on the town. People are running in fear. Clone Stan has a car in one hand, he's destroying it. A woman screams. Clone Stan tosses car aside effortlessly.}}
+{{ScriptDialog|Clone Stan|Ah chewy-chewy-chomp.}}
+{{ScriptDialog|Woman|Oh my Gooodd!}}
+{{ScriptDialog|Mr. Garrison|Stan, are you wearing a different hat?}}
+{{ScriptDialog|Clone Stan|Uhhhyahhuhhh.}}
+{{ScriptScene|picks up Mr. Garrison and begins beating him against the ground}}
+{{ScriptDialog|Mr. Garrison|Hey, I know a certain young man who's itching for a detention.}}
+{{ScriptScene|Clone Stan throws Mr. Garrison aside.}}
+{{ScriptDialog|Mr. Garrison|Aaaaaah!}}
+{{ScriptScene|Mr. Garrison flies through Jimbo's Guns window.}}
+{{ScriptDialog|Mr. Garrison|Ooooh.}}
+{{ScriptScene|Boys in Downtown South Park.}}
+{{ScriptDialog|Stan|How big do you think he is? I bet he weighs four hundred pounds.}}
+{{ScriptDialog|Kyle|Come on Stan, don't you even know where you would go?}}
+{{ScriptDialog|Kenny|(Look at that! What's he doin'?)}}
+{{ScriptDialog|Stan|Oh my God!}}
+{{ScriptDialog|Townsman|Aaaah!}}
+{{ScriptScene|Clone Stan is running by with two people in his arms.}}
+{{ScriptScene|Newscaster on TV.}}
+{{ScriptDialog|Tom|It appears that the horrible, destructive creature is actually eight-year-old Stan Marsh of South Park. When asked why he was wreaking so much havoc on his home town, the little boy replies simply, "Me Stan, ba-chomp, ba-chewy-chomp, ba-chewy-chomp. Back to you in the studio.}}
+{{ScriptDialog|TV Newscaster|Thanks Tom, police are requesting that if you see this little eight-year-old boy you immediately kill him and burn his body. That's all for now.}}
+{{ScriptDialog|TV Voice|Now back to Jesus and Pals.}}
+{{ScriptDialog|Jesus|Yea, the way is paved with gold for ye who seek truth and-}}
+{{ScriptScene|Clone Stan breaks through wall on set of show.}}
+{{ScriptDialog|Clone Stan|Ba-ba-chomp-betchaba-chewy-chewy-chomp-aaah.}}
+{{ScriptDialog|Jesus|Jesus!}}
+{{ScriptDialog|Clone Stan|its-to-the-left-mayoueyea.}}
+{{ScriptScene|On the streets of South Park. Officer Barbrady is directing traffic.}}
+{{ScriptDialog|Stan|Officer Barbrady, my evil genetic clone is destroying the town. We have to find him.}}
+{{ScriptDialog|Officer Barbrady|You boys have been watching the "X-Files" too much, there's no such thing as genetic clone - }}
+{{ScriptDialog|Clone Stan|Ahhhh.}}
+{{ScriptScene|Clone Stan grabs Officer Barbrady and throws him into nearby pond.}}
+{{ScriptDialog|Officer Barbrady|Whoa! ''[From under the surface.]'' Listen, uh, you kids go on home, there's nothing to see here.}}
+{{ScriptDialog|Kyle|Come on, let's go!}}
+{{ScriptScene|Stan's Uncle Jimbo approaches.}}
+{{ScriptDialog|Jimbo|There you are! Stanley, you tore up my entire gun shop, you better have a ''good explanation'' for this mister!}}
+{{ScriptDialog|Stan|It wasn't me Uncle Jimbo, it was my evil genetic clone.}}
+{{ScriptScene|Mr. Garrison walks up looking like hell.}}
+{{ScriptDialog|Mr. Garrison|Stanley, what the hell has gotten in to you?! You have got severe lunchroom duty mister!}}
+{{ScriptDialog|Jimbo|I'm gonna go have a word with your father Stanley.}}
+{{ScriptDialog|Mr. Garrison|Yeah, you wait 'til your father hears about this.}}
+{{ScriptDialog|Kyle|Wait, Stan, there he goes.}}
+{{ScriptDialog|Stan|Stop!}}
+{{ScriptDialog|Clone Stan|Ahhh, ba-ba-chomp?}}
+{{ScriptDialog|Kyle|He recognizes you dude.}}
+{{ScriptDialog|Stan|That's good, that's good dude. Just calm down.}}
+{{ScriptScene|Clone Stan is now seated in the road.}}
+{{ScriptDialog|Clone Stan|Ba-chomp, eh mee ahh jaran.}}
+{{ScriptDialog|Kyle|What should we do with him?}}
+{{ScriptScene|Stan looks at Clone Stan, then smiles mischievously.}}
+{{ScriptDialog|Stan|Stan, how would you like to go home and meet your sister?}}
+{{ScriptDialog|Clone Stan|Ahhhh, yeahhh.}}
+{{ScriptScene|Outside Stan's house. The boys and Clone Stan approach the front door. Sparky can be seen off to the side.}}
+{{ScriptDialog|Stan|...So remember, Shelly's the one with the big wire coming out of her mouth and a metal plate on her back. When you see Shelly, kick her ass. Shelly bad, Shelly very bad.}}
+{{ScriptDialog|Clone Stan|Me bad??}}
+{{ScriptDialog|Stan|No! Shelly bad, you good.}}
+{{ScriptScene|Clone Stan proceeds to destroy the house.}}
+{{ScriptDialog|Stan|He's tearing up the house, stop him!}}
+{{ScriptScene|Clone Stan is hitting a chair against the ground. Kenny runs towards Clone Stan, who uses the chair to chuck him into the microwave in the kitchen. The microwave starts up, cooking Kenny.}}
+{{ScriptDialog|Stan|Come on Kyle, Cartman.}}
+{{ScriptScene|The boys run at Clone Stan, and he knocks each one aside.}}
+{{ScriptDialog|Clone Stan|Ah.}}
+{{ScriptDialog|Shelly|What the hell do ''you'' want?}}
+{{ScriptDialog|Clone Stan|Chewy-chewy-chomp.}}
+{{ScriptScene|Shelly head butts him onto the ground.}}
+{{ScriptDialog|Clone Stan|Ahhh. Uhhh.}}
+{{ScriptScene|Mephesto rushes in followed shortly by Terrance with Bill & Fosse.}}
+{{ScriptDialog|Mephesto|Boys! Boys, I'm lusciously sorry for everything.}}
+{{ScriptDialog|Terrance|Hey, they've got our clone. He belongs to us.}}
+{{ScriptDialog|Mephesto|No son, this beast is a disgrace to genetic engineers everywhere. Boys, I'm sorry I've caused you such - inconvenience. I tried to play God, and I failed.}}
+{{ScriptScene|Mephesto shoots Clone Stan through the head.}}
+{{ScriptDialog|Terrance|Daddy! Nooooo!}}
+{{ScriptDialog|Mephesto|All I ever wanted was to genetically engineer something useful, but I failed. Perhaps we shouldn't be toying with God's creations. Perhaps we should just leave nature alone, to its simple one assed schematics.}}
+{{ScriptDialog|Terrance|You cheating bastards. This isn't over, just wait until tomorrow.}}
+{{ScriptScene|Kyle just now noticed something.}}
+{{ScriptDialog|Kyle|Oh my God, they killed Kenny! You bastards!}}
+{{ScriptScene|Stan sees his parents drive up.}}
+{{ScriptDialog|Stan|Mom and dad are home. My house is a disaster, you guy- you guys have got to help me.}}
+{{ScriptDialog|Cartman|I ain't helpin' crap! I want to eat some paeh.}}
+{{ScriptDialog|Stan|You can't just leave me here alone.}}
+{{ScriptDialog|Cartman|Oh yeah, watch me. ''[Zips away.]''}}
+{{ScriptDialog|Kyle|Yeah Stan, we have to go find out if Cartman's pig is pregnant or not. See ya. ''[Leaves.]''}}
+{{ScriptDialog|Stan|''Thanks a lot.''}}
+{{ScriptDialog|Shelly|Ohh boy, you are gonna get it now.}}
+{{ScriptScene|Jimbo and Mr. Garrison are shown outside, talking to Stan's parents.}}
+{{ScriptDialog|Stan|It isn't fair! Everybody hates me! The whole town wants me killed! Mom and dad are gonna send me away! I don't want to be sent away! I want to stay here! (Starts sobbing)!}}
+{{ScriptScene|Randy and Sharon enter.}}
+{{ScriptDialog|Randy|Stanley, what, what in God's name have you been doing?}}
+{{ScriptDialog|Sharon Marsh|Everybody in town is upset with you young man. What's going on? Are you on drugs?}}
+{{ScriptDialog|Shelly|It's not Stan's fault.}}
+{{ScriptDialog|Randy|Huh?}}
+{{ScriptDialog|Shelly|It wasn't Stan, he was... he was with me the whole time.}}
+{{ScriptDialog|Randy|Oh, well Stan, we're uh, we're sorry we jumped to conclusions.}}
+{{ScriptDialog|Sharon|Oh honey, please forgive us son.}}
+{{ScriptDialog|Stan|Shelly, you, you saved my life. And yet, you've done so much more than that. Today you've taught me the meaning of family. Sure, families don't always get along, but when the forces of evil descend upon us, we conquer them, by sticking together.}}
+{{ScriptScene|Shelly begins beating the crap out of Stan.}}
+{{ScriptDialog|Stan|Uh, ahh, oooh.}}
+{{ScriptScene|rats drag away Kenny's charred corpse as Shelly takes a lawnmower to Stan's face.}}
+{{ScriptScene|Mr. Garrison's Class. The science projects are due.}}
+{{ScriptDialog|Mr. Garrison|Everyone, let's give Casey and his weed a big hand.}}
+{{ScriptScene|Only Clyde claps.}}
+{{ScriptDialog|Mr. Garrison|Okay Kyle, we're ready to see your science project.}}
+{{ScriptDialog|Kyle|Well, our pig hasn't given birth yet, but she should anytime now.}}
+{{ScriptDialog|Mr. Garrison|Oh, well then I guess you get an 'F'. Okay, Terrance, I know the class can hardly wait to see your science fair project.}}
+{{ScriptDialog|Terrance|Thank you Mr. Garrison. Boys, Mr. Garrison, fellow students, for our science fair project Bill, Fosse, and I have spawned a creature genetically far superior to man. I present to you, the five-assed monkey.}}
+{{ScriptScene|Shot of Monkey with five asses.}}
+{{ScriptDialog|Monkey|Ahhheh.}}
+{{ScriptDialog|Mr. Garrison|Oh, Mr. Hat, isn't it beautiful.}}
+{{ScriptScene|More students clap.}}
+{{ScriptDialog|Stan|Wait, wait, the pig just gave birth. It, it had a baby!}}
+{{ScriptDialog|Kid 1|It had a baby?}}
+{{ScriptDialog|Kid 2|Oh wow!}}
+{{ScriptDialog|Clyde|What's it look like?}}
+{{ScriptDialog|Kyle|Does it look like a pig, or an elephant?}}
+{{ScriptDialog|Cartman|Hey, it kind of looks like Mr. Garrison.}}
+{{ScriptDialog|Mr. Garrison|Ohh, uh, gee, isn't that an amazing coincidence? Hmm, what are the odds of that?}}
+{{ScriptDialog|Hat|Hmmm. You boys get first prize.}}
+{{ScriptScene|Red, Butters, Bebe, Clyde, and Tolkien clap for the boys.}}
+{{ScriptDialog|Cartman|That'll do pig.}}
+}}
+{{Episodemedia01|episode=05}}
+[[fr:Un éléphant fait l'amour à un cochon/Script]]
+[[zh:象猪交配/剧本]]
+[[Category:Scripts From Season One]]

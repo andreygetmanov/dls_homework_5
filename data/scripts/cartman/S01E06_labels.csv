@@ -1,0 +1,570 @@
+i,a,c,text,two,song,n,matched,who,purity,cartman
+1,2.9619999999999997,4.672,"Oh, jeez.",False,False,2,0,,0.0,False
+2,4.797,6.257,We should get your bitch ass back in the kitchen,False,False,10,0,,0.0,False
+3,6.382,8.843,and make me some pie.,False,False,5,0,,0.0,False
+4,8.968,11.679,That is a hoot and a holler.,False,False,7,0,,0.0,False
+5,11.804,13.472,"Anyway, this next episode",False,False,4,0,,0.0,False
+6,13.597,15.474,is definitely Trey and I's most favorite episode.,False,False,8,0,,0.0,False
+7,15.599,17.059,"It's called ""Death.""",False,False,3,0,,0.0,False
+8,17.184,19.061,"In it, Stan's grandpa wants to die,",False,False,7,0,,0.0,False
+9,19.186,22.69,and all the parents in South Park are protesting a TV show.,False,False,12,0,,0.0,False
+10,22.815,24.942,"Matt and Trey, let's get right to the point.",False,False,9,0,,0.0,False
+11,25.067,26.527,Should old people legally be allowed to die,False,False,8,0,,0.0,False
+12,26.652,28.404,at the hand of a loved one?,False,False,7,0,,0.0,False
+13,28.529,30.698,Matt and I are both firm believers in euthanasia.,False,False,9,0,,0.0,False
+14,30.823,32.7,"We think that once you get to be a certain age,",False,False,11,0,,0.0,False
+15,32.825,35.369,"things just get to be too boring and painful,",False,False,9,0,,0.0,False
+16,35.494,37.872,"and you should be able to, well, you know,",False,False,9,0,,0.0,False
+17,37.997,39.29,by people you love.,False,False,4,0,,0.0,False
+18,39.415,41.083,That's why I've asked my family,False,False,6,0,,0.0,False
+19,41.208,43.127,to put a bullet in my head when I turn 30.,False,False,11,0,,0.0,False
+20,43.252,45.421,"So, who are this Terrance and Phillip,",False,False,7,0,,0.0,False
+21,45.546,46.881,and why do they sound so different?,False,False,7,0,,0.0,False
+22,47.006,48.716,"""Terrance and Phillip"" is a show",False,False,6,0,,0.0,False
+23,48.841,50.509,"that the boys in South Park like to watch,",False,False,9,0,,0.0,False
+24,50.634,52.511,"and the truth is, they're Canadian.",False,False,6,0,,0.0,False
+25,52.636,54.972,That's why they're so silly.,False,False,5,0,,0.0,False
+26,55.097,57.933,How many lives would you say that Kenny has left?,False,False,10,0,,0.0,False
+27,58.059,61.562,"Will they eventually run out, kind of like a video game?",False,False,11,0,,0.0,False
+28,61.687,63.314,There's something that people have to understand,False,False,7,0,,0.0,False
+29,63.439,65.107,about this whole Kenny mess.,False,False,5,0,,0.0,False
+30,65.232,66.901,"Trey and I created Kenny,",False,False,5,0,,0.0,False
+31,67.026,68.903,"so if we want to kill him, we can.",False,False,9,0,,0.0,False
+32,69.028,69.904,That's our right.,False,False,3,0,,0.0,False
+33,70.029,72.031,Leave us alone.,False,False,3,0,,0.0,False
+34,72.156,73.741,"So, are you guys as anti-Semitic",False,False,7,0,,0.0,False
+35,73.866,75.91,as some might believe?,False,False,4,0,,0.0,False
+36,76.035,77.328,"You know, a lot of people have accused",False,False,8,0,,0.0,False
+37,77.453,79.121,"""South Park"" of anti-Semitism,",False,False,5,0,,0.0,False
+38,79.246,81.54,"but I am Jewish and proud of my heritage,",False,False,9,0,,0.0,False
+39,81.665,82.917,and so I can say with some certainty,False,False,8,0,,0.0,False
+40,83.042,85.461,that I am not anti-Semitic.,False,False,6,0,,0.0,False
+41,85.586,87.922,"I am, however.",False,False,3,0,,0.0,False
+42,88.047,90.925,"So now, sit back, relax, and enjoy ""Death.""",False,False,8,0,,0.0,False
+43,104.605,105.981,♪ I'm going down to South Park ♪,False,True,6,0,,0.0,False
+44,106.107,107.775,♪ Gonna have myself a time ♪,False,True,5,0,,0.0,False
+45,107.9,109.568,♪ Friendly faces everywhere ♪,False,True,3,0,,0.0,False
+46,109.693,111.445,♪ Humble folks without temptation ♪,False,True,4,0,,0.0,False
+47,111.57,112.905,♪ Going down to South Park ♪,False,True,5,0,,0.0,False
+48,113.03,114.615,♪ Gonna leave my woes behind ♪,False,True,5,0,,0.0,False
+49,114.74,116.325,♪ Ample parking day or night ♪,False,True,5,0,,0.0,False
+50,116.45,118.035,"♪ People spouting: ""Howdy neighbor."" ♪",False,True,4,0,,0.0,False
+51,118.16,119.537,♪ Headed on up to South Park ♪,False,True,6,0,,0.0,False
+52,119.662,120.871,♪ Gonna see if I can't unwind ♪,False,True,6,0,,0.0,False
+53,124.792,126.168,♪ So come on down to South Park ♪,False,True,7,0,,0.0,False
+54,126.293,128.546,♪ And meet some friends of mine ♪,False,True,6,0,,0.0,False
+55,128.671,131.674,♪ Happy birthday to you ♪,False,True,4,4,marsh,1.0,False
+56,131.799,133.926,♪ Happy birthday to you ♪,False,True,4,4,marsh,1.0,False
+57,134.051,136.679,"♪ Happy birthday, dear Grandpa ♪",False,True,4,4,marsh,1.0,False
+58,138.222,140.558,♪ Happy birthday to you ♪,False,True,4,4,marsh,1.0,False
+59,140.683,143.644,"Now, blow out the candles, Grandpa.",False,False,6,6,sharon,1.0,False
+60,145.896,147.148,Hooray!,False,False,1,0,,0.0,False
+61,147.273,149.316,"How's it feel to be 102, Paps?",False,False,7,7,randy,1.0,False
+62,149.441,152.027,"Shoot me! - Make a wish, Grandpa.",True,False,6,6,sharon,0.6666666666666666,False
+63,152.153,153.487,I wish I were dead!,False,False,5,5,grandpa,1.0,False
+64,153.612,156.031,That's our silly Grandpa.,False,False,4,4,randy,1.0,False
+65,156.157,157.867,"I'm not being silly, kill me!",False,False,6,6,grandpa,1.0,False
+66,157.992,160.035,"I'd do it myself, but I'm too damn old!",False,False,9,9,grandpa,1.0,False
+67,160.161,162.746,"Ooh, who wants ice cream with their cake?",False,False,8,8,sharon,1.0,False
+68,162.872,164.331,Me. - I will!,True,False,3,2,shelly,1.0,False
+69,164.456,166.041,It's 8:00. My favorite TV show is on.,False,False,9,7,stan,1.0,False
+70,166.167,167.793,That show's for babies.,False,False,4,4,shelly,1.0,False
+71,167.918,169.67,It's so stupid!,False,False,3,3,shelly,1.0,False
+72,169.795,170.921,"Can I eat my cake in the living room, Mom?",False,False,10,10,stan,1.0,False
+73,171.046,172.256,"Please, can I?",False,False,3,3,stan,1.0,False
+74,172.381,173.507,"Oh, all right.",False,False,3,1,sharon,1.0,False
+75,173.632,175.509,But take your Grampy with you.,False,False,6,5,sharon,1.0,False
+76,175.634,177.761,"Ah, damn it! - Language!",True,False,4,1,sharon,1.0,False
+77,177.887,180.181,"And now back to ""Terrance and Phillip.""",False,False,7,6,tv,1.0,False
+78,180.306,182.683,"Hey, Terrance, I think I have to fart.",False,False,8,8,phillip,1.0,False
+79,182.808,185.769,"Wait, before you do, pull my thumb.",False,False,7,7,terrance,1.0,False
+80,190.774,193.319,"Ah, damn it!",False,False,3,1,grandpa,1.0,False
+81,193.444,195.821,"How would you like to make a dollar, Billy?",False,False,9,9,granpa,1.0,False
+82,195.946,197.698,"My name's not Billy, Grandpa, it's Stan.",False,False,7,7,stan,1.0,False
+83,197.823,200.117,"Damn it, Billy, do you want a dollar or don't you?",False,False,11,8,grandpa,1.0,False
+84,200.242,201.744,Sure. - Okay.,True,False,2,2,grandpa,0.5,False
+85,201.869,203.996,You just have to do one thing for me.,False,False,9,9,grandpa,1.0,False
+86,204.121,205.915,"I'm not gonna kill you, Grandpa.",False,False,6,6,stan,1.0,False
+87,206.04,207.666,Why not? - 'Cause I'll get in trouble.,True,False,7,7,stan,0.7142857142857143,False
+88,207.791,210.252,I killed my grandpa when I was your age!,False,False,9,9,grandpa,1.0,False
+89,210.377,211.67,"Leave me alone, Grandpa.",False,False,4,4,stan,1.0,False
+90,213.339,215.174,What has America's youth come to?,False,False,6,6,grandpa,1.0,False
+91,215.299,218.01,Kids won't even kill their own grandparents!,False,False,7,7,grandpa,1.0,False
+92,219.803,221.931,"Hey, Terrance, now that you've farted,",False,False,6,6,phillip,1.0,False
+93,222.056,223.849,I think I might fart too.,False,False,6,6,phillip,1.0,False
+94,225.059,226.685,Oh! You farted!,False,False,3,2,terrance,1.0,False
+95,228.771,230.856,"Kyle, bubby, what are you watching?",False,False,6,5,sheila,1.0,False
+96,230.981,232.9,"Hey, Phillip, would you like a flower?",False,False,7,7,terrance,1.0,False
+97,233.025,234.526,"I sure would, Terrance.",False,False,4,4,phillip,1.0,False
+98,234.652,236.195,"All righty, then, here's a tulip.",False,False,6,3,terrance,1.0,False
+99,238.155,239.865,What is this? It's horrible!,False,False,5,5,sheila,1.0,False
+100,239.99,241.825,"Dude, it's ""Terrance and Phillip.""",False,False,5,4,kyle,1.0,False
+101,241.951,243.619,"Take that, you stupid dick.",False,False,5,5,phillip,1.0,False
+102,243.744,245.246,What did he say?,False,False,4,4,sheila,1.0,False
+103,245.371,246.872,"You're an asshole, Phillip.",False,False,4,4,terrance,1.0,False
+104,246.997,248.832,Wh-wh-what?!,False,False,3,0,,0.0,False
+105,248.958,250.417,"Young man,",False,False,2,2,shiela,1.0,False
+106,250.542,252.169,you are not to watch that show anymore.,False,False,8,8,shiela,1.0,False
+107,252.294,254.046,It's immature toilet humor.,False,False,4,4,shiela,1.0,False
+108,254.171,256.09,"But everybody watches ""Terrance and Phillip.""",False,False,6,5,kyle,1.0,False
+109,256.215,259.218,"Oh, really? Is that so?",False,False,5,5,sheila,1.0,False
+110,259.343,261.47,"Oh, no, Phillip, looks like you're about to fart.",False,False,9,9,terrance,1.0,False
+111,261.595,262.93,"You're exactly right, Terrance.",False,False,4,4,phillip,1.0,False
+112,264.139,265.766,"Oh, no!",False,False,2,2,phillip,0.5,False
+113,265.891,267.851,Sweet.,False,False,1,1,cartman,1.0,True
+114,267.977,270.187,"Eric, dear, I just got a call",False,False,7,7,liane,1.0,False
+115,270.312,272.856,from your friend Kyle's mother.,False,False,5,5,liane,1.0,False
+116,272.982,275.317,She said that this show is naughty,False,False,7,7,liane,1.0,False
+117,275.442,277.82,and might make you a potty mouth.,False,False,7,7,liane,1.0,False
+118,277.945,279.113,That's a bunch of crap!,False,False,5,5,cartman,1.0,True
+119,279.238,281.073,Kyle's mom is a dirty Jew!,False,False,6,6,cartman,1.0,True
+120,281.198,283.075,"Oh. Okay, hon.",False,False,3,2,liane,1.0,False
+121,289.29,291.292,"I'm not going to kill you, Grandpa!",False,False,7,7,stan,1.0,False
+122,291.417,292.668,Ingrate!,False,False,1,1,grandpa,1.0,False
+123,292.793,294.336,"Good night, Grandpa!",False,False,3,3,stan,1.0,False
+124,294.461,296.13,You pompous son of a whore!,False,False,6,5,grandpa,1.0,False
+125,299.133,300.968,Ow! What the hell was that for?,False,False,7,7,kyle,1.0,False
+126,301.093,302.72,That's for your stupid mother!,False,False,5,5,cartman,1.0,True
+127,302.845,304.68,"She made me miss ""Terrance and Phillip"" last night.",False,False,9,8,cartman,1.0,True
+128,304.805,306.307,"Yeah, what's the big idea",False,False,5,5,clyde,1.0,False
+129,306.432,308.392,having your mom call all our moms last night?,False,False,9,9,clyde,1.0,False
+130,308.517,309.476,"Well, I didn't have her do it.",False,False,7,7,kyle,1.0,False
+131,309.601,311.061,She did it on her own.,False,False,6,6,kyle,1.0,False
+132,311.186,312.771,Why does this happen every month?,False,False,6,6,cartman,1.0,True
+133,312.896,315.107,It seems like right about the same time every month,False,False,10,9,cartman,1.0,True
+134,315.232,317.568,Kyle's mom gets a hair up her ass about something,False,False,10,10,cartman,1.0,True
+135,317.693,319.445,and I always end up getting screwed by it.,False,False,9,9,cartman,1.0,True
+136,319.57,320.696,"Children, children,",False,False,2,2,mr. garrison,1.0,False
+137,320.821,321.947,a certain student's mother,False,False,4,4,mr. garrison,1.0,False
+138,322.072,323.407,called me last night.,False,False,4,4,mr. garrison,1.0,False
+139,323.532,324.783,"Ah, gee, I wonder whose mother",False,False,6,4,cartman,1.0,True
+140,324.908,326.118,that could've been.,False,False,3,2,cartman,1.0,True
+141,326.243,327.494,She informed me that some of you,False,False,7,7,mr. garrison,1.0,False
+142,327.619,329.371,might be watching a naughty show,False,False,6,6,mr. garrison,1.0,False
+143,329.496,332.082,"called ""Terrance and Phillip.""",False,False,4,3,mr. garrison,1.0,False
+144,332.207,334.668,"Watching that show is bad, Mr. Garrison.",False,False,7,7,mr. hat,1.0,False
+145,334.793,336.17,"That's right, Mr. Hat.",False,False,4,4,mr. garrison,1.0,False
+146,336.295,337.588,"Shows like ""Terrance and Phillip""",False,False,5,4,mr. garrison,1.0,False
+147,337.713,339.465,"are what we call ""toilet humor.""",False,False,6,4,mr. garrison,1.0,False
+148,339.59,341.675,They don't expand your minds.,False,False,5,5,mr. garrison,1.0,False
+149,343.093,344.887,"You see, children, these kind of shows",False,False,7,7,mr. garrison,1.0,False
+150,345.012,347.097,"are senseless, vile trash.",False,False,4,4,mr. garrison,1.0,False
+151,347.222,349.266,"Kenny, why are you late to class?",False,False,7,7,mr. garrison,1.0,False
+152,352.936,355.189,"Oh, okay, Kenny, be seated.",False,False,5,5,mr. garrison,1.0,False
+153,355.314,357.024,"Now, as I was saying, the reason",False,False,7,7,mr. garrison,1.0,False
+154,357.149,359.443,the parents of South Park are so upset is because--,False,False,10,9,mr. garrison,1.0,False
+155,359.568,361.904,"Yes, Kenny, what is it?",False,False,5,5,mr. garrison,1.0,False
+156,362.029,363.655,I thought you just came from the bathroom.,False,False,8,8,mr. garrison,1.0,False
+157,365.074,367.618,"Okay, okay, go ahead.",False,False,4,4,mr. garrison,1.0,False
+158,367.743,369.912,"As I was saying, you all seem to enjoy the show",False,False,11,10,mr. garrison,1.0,False
+159,370.037,371.789,even though it isn't based in reality.,False,False,7,7,mr. garrison,1.0,False
+160,371.914,373.999,There's much more to life than two young men,False,False,9,9,mr. garrison,1.0,False
+161,374.124,375.876,farting on each other.,False,False,4,4,mr. garrison,1.0,False
+162,376.001,377.669,"And throughout history, there have always been shows",False,False,8,8,mr. garrison,1.0,False
+163,377.795,379.838,"that have come and gone that have been very bad,",False,False,10,10,mr. garrison,1.0,False
+164,379.963,382.091,and usually they get taken right off the air.,False,False,9,9,mr. garrison,1.0,False
+165,382.216,384.134,"You see, you should be spending your time",False,False,8,8,mr. garrison,1.0,False
+166,384.259,388.055,enlightening your mind with more intelligent entertainment.,False,False,7,6,mr. garrison,1.0,False
+167,388.18,389.848,Whoa! Smells like you slaughtered a cow,False,False,7,7,stan,1.0,False
+168,389.973,392.184,"in there, Kenny! - Pay attention, children!",True,False,6,6,mr. garrison,0.5,False
+169,392.309,394.186,I'm going to join your parents in requesting,False,False,8,8,mr. garrison,1.0,False
+170,394.311,397.231,"that you don't watch ""Terrance and Phillip"" anymore ever.",False,False,9,7,mr. garrison,1.0,False
+171,397.356,398.857,What?,False,False,1,1,cartman,1.0,True
+172,398.982,400.109,"Not watch ""Terrance and Phillip"" ever?",False,False,6,5,clyde,1.0,False
+173,400.234,401.61,"That's right, children.",False,False,3,3,mr. garrison,1.0,False
+174,401.735,403.862,"Are there any questions? Yes, Stanley?",False,False,6,6,mr. garrison,1.0,False
+175,403.987,405.989,Is it okay to kill somebody if they want you to?,False,False,11,11,stan,1.0,False
+176,407.783,408.992,Wh-what do you mean?,False,False,5,4,mr. garrison,1.0,False
+177,409.118,410.244,My grandpa keeps asking,False,False,4,4,stan,1.0,False
+178,410.369,411.745,"that I kill him all the time,",False,False,7,7,stan,1.0,False
+179,411.87,413.539,and sometimes I wonder if I should.,False,False,7,7,stan,1.0,False
+180,413.664,415.124,"Well, then, you should-- I think that a person has",False,False,10,10,kyle,1.0,False
+181,415.249,416.792,a right to die if they wanna. - Really?,True,False,8,8,kyle,0.875,False
+182,416.917,418.669,"Yeah, there's this guy named Jack Laborkian",False,False,7,6,kyle,1.0,False
+183,418.794,420.379,"that goes around and murders people that ask him to,",False,False,10,10,kyle,1.0,False
+184,420.504,421.88,and he doesn't get into any trouble at all.,False,False,9,8,kyle,1.0,False
+185,422.005,423.507,Wow! - Hey!,True,False,2,2,cartman,0.5,False
+186,423.632,426.26,Maybe we can get him to kill Kyle's mom!,False,False,9,9,cartman,1.0,True
+187,426.385,427.803,So is it okay to assist somebody,False,False,7,7,stan,1.0,False
+188,427.928,429.304,"with suicide, Mr. Garrison?",False,False,4,4,stan,1.0,False
+189,429.43,431.181,"Uh, Stan,",False,False,2,2,mr. garrison,1.0,False
+190,431.306,434.143,I'm not touching that one with a 20-foot pole.,False,False,10,9,mr. garrison,1.0,False
+191,443.026,444.695,"Man, I can't believe we're gonna miss",False,False,7,7,cartman,1.0,True
+192,444.82,446.28,"""Terrance and Phillip"" today.",False,False,4,3,cartman,1.0,True
+193,446.405,447.781,I think I'm already having withdrawal.,False,False,6,6,cartman,1.0,True
+194,450.409,452.327,"Don't worry, dude, we can all go watch it at my house.",False,False,12,12,stan,1.0,False
+195,452.453,453.787,My parents don't get home until late.,False,False,7,7,stan,1.0,False
+196,453.912,455.247,But won't your grandpa be there?,False,False,6,6,kyle,1.0,False
+197,455.372,457.166,"Yeah. - Just kill him, dude.",True,False,5,4,cartman,0.75,False
+198,457.291,458.876,Maybe he'll give you some money.,False,False,6,6,cartman,1.0,True
+199,459.001,460.669,"Hello there, children. - Hey, Chef.",True,False,5,5,chef,0.6,False
+200,460.794,462.129,How's it going? - Bad.,True,False,4,3,chef,0.6666666666666666,False
+201,462.254,463.755,Why bad?,False,False,2,2,chef,1.0,False
+202,463.881,465.132,"Chef, is it okay to kill your grandpa?",False,False,8,8,stan,1.0,False
+203,465.257,467.134,"You can't kill my grandpa, Stan.",False,False,6,6,chef,1.0,False
+204,467.259,470.262,"He's already passed on. - No, I mean kill my grandpa.",True,False,10,10,stan,0.6,False
+205,470.387,472.097,"No, I don't think that's okay, Stan.",False,False,7,7,chef,1.0,False
+206,472.222,474.433,"In fact, I think that's illegal.",False,False,6,6,chef,1.0,False
+207,474.558,476.101,"See, I told you, dude.",False,False,5,5,stan,1.0,False
+208,476.226,478.061,"Well, yeah, but what if the grandpa wants to die",False,False,10,10,kyle,1.0,False
+209,478.187,480.355,'cause he's really old and he's just asking for help?,False,False,10,9,kyle,1.0,False
+210,480.481,483.108,"Yeah, like assisted suicide, what about that?",False,False,7,7,cartman,1.0,True
+211,485.152,487.404,I don't want to touch that with a 40-foot pole.,False,False,11,10,chef,1.0,False
+212,488.947,490.157,What's the big deal?,False,False,4,4,stan,1.0,False
+213,490.282,491.742,Why won't anybody talk about this?,False,False,6,6,stan,1.0,False
+214,491.867,493.327,And I myself was not aware,False,False,6,6,sheila,1.0,False
+215,493.452,495.37,of this horrible show until recently.,False,False,6,6,sheila,1.0,False
+216,495.496,498.415,I have a clip to demonstrate exactly what I mean.,False,False,10,10,sheila,1.0,False
+217,498.54,500.709,"Hey, Phillip, guess what? - What?",True,False,5,5,terrance,0.8,False
+218,500.834,503.42,Fart.,False,False,1,1,terrance,1.0,False
+219,503.545,506.298,"Now, apparently, that's supposed to be funny.",False,False,7,7,sheila,1.0,False
+220,506.423,509.384,He farted right on his head.,False,False,6,6,randy,1.0,False
+221,510.969,512.346,Not allowing our kids,False,False,4,4,sheila,1.0,False
+222,512.471,514.932,to watch this show is not enough.,False,False,7,7,sheila,1.0,False
+223,515.057,518.268,We need to boycott the entire network!,False,False,7,7,sheila,1.0,False
+224,518.393,520.437,All those in favor?,False,False,4,4,sheila,1.0,False
+225,525.317,527.152,"Oh, I think I've caught a touch of the flu",False,False,10,9,mr. garrison,1.0,False
+226,527.277,528.737,from little Kenny this morning.,False,False,5,5,mr. garrison,1.0,False
+227,528.862,530.948,I've got the green apple splatters.,False,False,6,6,mr. garrison,1.0,False
+228,531.073,533.45,"Heh, green apple splatters.",False,False,4,3,townsman,1.0,False
+229,537.371,538.664,"Hi, Grandpa, I brought my friends over",False,False,7,7,stan,1.0,False
+230,538.789,540.582,to watch TV if that's okay.,False,False,6,6,stan,1.0,False
+231,540.707,543.669,"Billy, help Grandpa stick this fork in the outlet!",False,False,9,9,grandpa,1.0,False
+232,543.794,545.337,"No, Grandpa, I'll get in trouble.",False,False,6,6,stan,1.0,False
+233,545.462,546.672,"Kill me, God damn it!",False,False,5,3,grandpa,1.0,False
+234,546.797,548.799,"No, I can't even kill a deer.",False,False,7,7,stan,1.0,False
+235,548.924,550.384,"Well, then, have one of your little friends do it.",False,False,10,10,grandpa,1.0,False
+236,550.509,551.802,"You can kill me, can't you?",False,False,6,5,grandpa,1.0,False
+237,551.927,553.47,I would never kill somebody.,False,False,5,5,cartman,1.0,True
+238,553.595,554.846,Not unless they pissed me off.,False,False,6,5,cartman,1.0,True
+239,554.972,556.431,"Oh, is that a fact?",False,False,5,4,grandpa,1.0,False
+240,556.557,558.809,"Well, let me tell you something, porky,",False,False,7,7,grandpa,1.0,False
+241,558.934,560.769,"your mom was over here earlier,",False,False,6,6,grandpa,1.0,False
+242,560.894,562.938,and I humped her like a little bitch.,False,False,8,7,grandpa,1.0,False
+243,563.063,564.022,What? - That's right.,True,False,3,3,grandpa,0.6666666666666666,False
+244,564.147,565.065,Grandpa!,False,False,1,1,stan,1.0,False
+245,565.19,566.316,And then I dug up,False,False,5,5,grandpa,1.0,False
+246,566.441,567.818,your great-grandma's skeleton,False,False,4,4,grandpa,1.0,False
+247,567.943,569.57,and had my way with her too. - Hey!,True,False,8,8,grandpa,0.875,False
+248,569.695,571.446,"Choice piece of ass, your great-grandma.",False,False,7,7,grandpa,1.0,False
+249,571.572,573.407,"You piece of crap, I'll kill you!",False,False,7,7,cartman,1.0,True
+250,573.532,575.158,"That's the spirit, tubby!",False,False,4,4,grandpa,1.0,False
+251,575.284,576.66,"C'mon, Cartman, he's just trying to get to you.",False,False,9,8,stan,1.0,False
+252,576.785,578.62,Don't talk about my mom like that!,False,False,7,7,cartman,1.0,True
+253,578.745,580.163,"We can go watch ""Terrance and Phillip"" in the kitchen.",False,False,10,9,stan,1.0,False
+254,580.289,581.665,I ever tell you about the time,False,False,7,7,grandpa,1.0,False
+255,581.79,583.542,"I boofed your dad, fatso?",False,False,5,5,grandpa,1.0,False
+256,583.667,586.169,Ah! I can't believe that son of a bitch!,False,False,9,8,cartman,1.0,True
+257,586.295,588.005,"Here, Cartman, have some Snacky Cakes.",False,False,6,6,stan,1.0,False
+258,588.13,589.423,"Ooh, Snacky Cakes? Good deal.",False,False,5,2,cartman,1.0,False
+259,589.548,590.716,"I don't know what to do, dude.",False,False,7,7,stan,1.0,False
+260,590.841,592.05,My grandpa really wants to die.,False,False,6,6,stan,1.0,False
+261,592.175,593.719,"I'm telling you, it's okay.",False,False,5,5,kyle,1.0,False
+262,593.844,595.22,Maybe you should ask the Lord for guidance.,False,False,8,8,kyle,1.0,False
+263,595.345,596.888,"Hey, yeah.",False,False,2,2,stan,1.0,False
+264,597.014,598.181,"And now back to ""Jesus and Pals""",False,False,7,5,tv,1.0,False
+265,598.307,599.808,On South Park public access.,False,False,5,5,tv,1.0,False
+266,599.933,602.06,"Yea, believe in me and ye shall find peace.",False,False,9,9,jesus,1.0,False
+267,602.185,604.062,"First caller, you're on ""Jesus and Pals.""",False,False,7,5,jesus,1.0,False
+268,604.187,605.856,"Yeah, is this Jesus?",False,False,4,4,caller,1.0,False
+269,605.981,607.649,"Yes, caller, you need to turn your TV down.",False,False,9,9,jesus,1.0,False
+270,607.774,609.359,That's why you're getting that weird feedback.,False,False,7,7,jesus,1.0,False
+271,609.484,611.028,"Oh, sorry. This is Martin.",False,False,5,5,caller,1.0,False
+272,611.153,612.529,"Martin from Aspen Park, yes, I know.",False,False,7,7,jesus,1.0,False
+273,612.654,614.406,How the hell'd you know that?,False,False,6,6,martin,1.0,False
+274,614.531,615.907,"Well, maybe because I'm the son of God, brainiac.",False,False,9,9,jesus,1.0,False
+275,616.033,617.075,"Now, do you have a question?",False,False,6,6,jesus,1.0,False
+276,618.201,621.58,"Uh, yeah, I have this cousin who cheated on the SATs--",False,False,11,10,martin,1.0,False
+277,621.705,623.415,Tell little Gregory that cheating is lying,False,False,7,7,jesus,1.0,False
+278,623.54,625.917,and lying is wrong no matter what the circumstance.,False,False,9,9,jesus,1.0,False
+279,626.043,629.254,"Oh. Okay, thanks for the advice, Jesus.",False,False,7,7,martin,1.0,False
+280,629.379,631.089,"Next caller, you're on the air.",False,False,6,6,jesus,1.0,False
+281,631.214,633.05,"Jesus? - Yes, my son?",False,False,4,4,jesus,0.75,False
+282,633.175,635.469,"Jesus, is it okay to kill somebody if they ask you to",False,False,12,12,stan,1.0,False
+283,635.594,637.012,"because they're in a lot of pain, you know,",False,False,9,9,stan,1.0,False
+284,637.137,639.848,"like assisted suicide, is that okay?",False,False,6,6,stan,1.0,False
+285,639.973,641.558,My son... - Yes?,True,False,3,3,jesus,0.6666666666666666,False
+286,641.683,643.185,I'm not touching that with a 60-foot pole.,False,False,9,8,jesus,1.0,False
+287,643.31,644.603,Next caller.,False,False,2,2,jesus,1.0,False
+288,644.728,646.271,God damn it! - I heard that.,True,False,6,3,jesus,1.0,False
+289,646.396,647.773,What the hell is wrong with everybody?,False,False,7,7,stan,1.0,False
+290,647.898,649.441,"Hey, you guys!",False,False,3,3,cartman,1.0,True
+291,649.566,651.443,"""Terrance and Phillip"" is on! - Yeah!",True,False,6,5,cartman,0.8,False
+292,651.568,652.778,"Hey, do you think we'll get in trouble for watching it?",False,False,11,11,kyle,1.0,False
+293,652.903,654.571,"Kyle, don't be such a butthole.",False,False,6,5,stan,1.0,False
+294,654.696,656.239,"Yeah, just 'cause your mom is a stupid bitch",False,False,9,7,cartman,1.0,True
+295,656.365,657.741,doesn't mean the whole world has to suffer.,False,False,8,8,cartman,1.0,True
+296,657.866,659.201,"Don't call my mom a bitch, Cartman!",False,False,7,6,kyle,1.0,False
+297,659.326,661.37,A. Bitch.,False,False,2,0,,0.0,False
+298,661.495,664.915,Your mom is a b-b-b-bitch.,False,False,8,4,cartman,1.0,True
+299,665.04,667.042,"And now back to ""Terrance and Phillip.""",False,False,7,6,tv,1.0,False
+300,667.167,669.211,"Hey, Phillip, would you like to eat some beans?",False,False,9,9,terrance,1.0,False
+301,669.336,671.463,"Oh, yeah, I love beans!",False,False,5,4,phillip,1.0,False
+302,671.588,673.84,"Uh-oh, I bet I know what's coming.",False,False,8,8,cartman,1.0,True
+303,673.965,677.219,"Billy, would you mind holding this for Grandpa, please?",False,False,9,9,grandpa,1.0,False
+304,677.344,679.262,"Okay, Grandpa, okay, just, get out of the way of the TV.",False,False,12,12,stan,1.0,False
+305,679.388,680.972,"Hey, Phillip, it looks like",False,False,5,5,terrance,1.0,False
+306,681.098,682.683,those beans might make me fart.,False,False,6,6,terrance,1.0,False
+307,682.808,684.559,"Well, don't fart on me, Terrance.",False,False,6,6,phillip,1.0,False
+308,684.685,686.937,"Dude, he's gonna fart on his head again!",False,False,8,8,cartman,1.0,True
+309,688.563,691.108,"Hey, you're gonna miss it, Kenny!",False,False,6,6,cartman,1.0,True
+310,691.233,692.818,"You're such an asshole, Terrance!",False,False,5,5,phillip,1.0,False
+311,692.943,694.403,"That's right, I am!",False,False,4,2,terrance,1.0,False
+312,699.032,700.951,"Hurry up, Kenny, you're gonna miss the fart!",False,False,8,8,cartman,1.0,True
+313,701.076,703.537,"Jesus, what the hell are you doing?",False,False,7,7,shelly,1.0,False
+314,703.662,705.455,"We're not watching ""Terrance and Phillip,"" I swear.",False,False,8,7,stan,1.0,False
+315,705.58,707.249,"I mean, Cartman was watching it.",False,False,6,6,stan,1.0,False
+316,707.374,711.253,"No, I mean what the hell are you doing to Grandpa?",False,False,11,11,shelly,1.0,False
+317,713.505,716.383,"Tug a little harder, Billy.",False,False,5,5,grandpa,1.0,False
+318,716.508,719.72,Ah! - You little jerk!,True,False,4,3,shelly,1.0,False
+319,719.845,721.638,You were trying to kill Grandpa!,False,False,6,6,shelly,1.0,False
+320,721.763,722.848,I'm telling Mom!,False,False,3,3,shelly,1.0,False
+321,722.973,725.058,"Damn it, I was so close.",False,False,6,4,grandpa,1.0,False
+322,725.183,727.519,"Four third graders from South Park, Colorado,",False,False,7,7,tv,1.0,False
+323,727.644,729.646,were found trying to viciously murder,False,False,6,6,tv,1.0,False
+324,729.771,731.523,an innocent grandfather.,False,False,3,3,tv,1.0,False
+325,731.648,733.775,"Boys, how did you get driven so far to the edge?",False,False,11,11,talk,1.0,False
+326,733.9,736.778,What changed you into such demonic little bastards?,False,False,8,8,talk,1.0,False
+327,736.903,738.196,We didn't know what we were doing.,False,False,7,7,stan,1.0,False
+328,738.321,739.448,We were just sitting there watching,False,False,6,6,stan,1.0,False
+329,739.573,740.699,"""Terrance and Phillip,"" and--",False,False,4,3,stan,1.0,False
+330,740.824,742.325,"""Terrance and Phillip""? Aha!",False,False,4,3,talk,1.0,False
+331,742.451,743.952,So it is that show that is to blame.,False,False,9,9,talk,1.0,False
+332,744.077,745.787,These boys' minds have been tainted,False,False,6,5,sheila,1.0,False
+333,745.912,749.458,"by the garbage on television that they see,",False,False,8,8,sheila,1.0,False
+334,749.583,751.084,and we are fed up!,False,False,5,5,sheila,1.0,False
+335,751.209,752.085,Huh?,False,False,1,1,townsman,1.0,False
+336,752.21,754.045,"Oh, God, oh, God!",False,False,4,4,townsman,1.0,False
+337,754.171,757.466,We have to stop this smut from going on the air!,False,False,11,11,sheila,1.0,False
+338,757.591,760.135,We will march to the network and protest,False,False,8,8,sheila,1.0,False
+339,760.26,762.637,until our demands are met.,False,False,5,5,sheila,1.0,False
+340,762.763,764.931,"New York, here we come!",False,False,5,5,sheila,1.0,False
+341,771.98,775.108,We are spreading the word to this establishment,False,False,8,8,sheila,1.0,False
+342,775.233,777.569,that we demand better television,False,False,5,5,sheila,1.0,False
+343,777.694,779.362,for our children!,False,False,3,3,sheila,1.0,False
+344,781.031,784.034,"We want more quality television,",False,False,5,5,sheila,1.0,False
+345,784.159,785.535,"like ""Full House""!",False,False,3,3,sheila,1.0,False
+346,787.621,790.457,"Ugh, I think you gave me the stomach flu, Mr. Garrison.",False,False,11,10,randy,1.0,False
+347,790.582,792.459,"No, no, it was that little Kenny bastard",False,False,8,8,mr. garrison,1.0,False
+348,792.584,794.252,that gave it to me.,False,False,5,5,mr. garrison,1.0,False
+349,794.377,797.047,"Whoa, Mayor, you, uh, making gravy in there?",False,False,8,8,randy,1.0,False
+350,797.172,798.924,I just had a brown baby boy.,False,False,7,7,mayor,1.0,False
+351,803.178,805.722,"Dude, this is sweet not having parents around.",False,False,8,8,kyle,1.0,False
+352,805.847,808.058,"Yeah, I hope they protest TV shows forever.",False,False,8,8,stan,1.0,False
+353,808.183,809.267,Whoopee!,False,False,1,0,,0.0,False
+354,809.392,810.477,"C'mere, Billy.",False,False,2,1,grandpa,1.0,False
+355,810.602,811.895,I wanna show you something.,False,False,5,4,grandpa,1.0,False
+356,812.02,813.438,"Aw, do I have to?",False,False,5,4,stan,1.0,False
+357,813.563,815.732,"Yes, you do, you little pecker!",False,False,6,6,grandpa,1.0,False
+358,815.857,818.485,I realized that the reason you won't kill me,False,False,9,9,grandpa,1.0,False
+359,818.61,821.53,"is because you don't understand how I feel, Billy.",False,False,9,9,grandpa,1.0,False
+360,821.655,824.157,But now I found a way to show you,False,False,9,9,grandpa,1.0,False
+361,824.282,827.953,what it feels like to be Grandpa.,False,False,7,7,grandpa,1.0,False
+362,828.078,829.704,"Hey, what are you doing?",False,False,5,5,stan,1.0,False
+363,832.666,833.75,What are they doing in there?,False,False,6,6,kyle,1.0,False
+364,833.875,835.585,I don't know.,False,False,3,3,cartman,1.0,True
+365,835.71,837.295,Now you're about to see what it's like,False,False,8,8,grandpa,1.0,False
+366,837.42,838.755,to be as old as me.,False,False,6,6,grandpa,1.0,False
+367,838.88,840.173,"Are you ready, Billy?",False,False,4,4,grandpa,1.0,False
+368,840.298,842.717,I-I guess.,False,False,3,2,stan,1.0,False
+369,852.853,854.271,"Okay, you can let me out now.",False,False,7,7,stan,1.0,False
+370,854.396,856.731,Not just yet.,False,False,3,3,grandpa,1.0,False
+371,856.857,859.609,"Let me out, Grandpa!",False,False,4,4,stan,1.0,False
+372,859.734,860.861,I can't take it anymore!,False,False,5,5,stan,1.0,False
+373,860.986,862.112,This music is terrible!,False,False,4,4,stan,1.0,False
+374,862.237,863.613,It's-it's cheesy but lame,False,False,5,5,stan,1.0,False
+375,863.738,865.991,and eerily soothing at the same time!,False,False,7,7,stan,1.0,False
+376,866.116,869.661,That's it! Now you know what it feels like to be Grandpa!,False,False,12,12,grandpa,1.0,False
+377,872.998,876.167,"Grandpa, I had no idea how bad it was for you.",False,False,11,11,stan,1.0,False
+378,876.293,877.586,Now I understand.,False,False,3,3,stan,1.0,False
+379,877.711,880.255,"So now will you kill me, Billy?",False,False,7,7,grandpa,1.0,False
+380,880.38,882.924,"Sure I will, Grandpa. I will.",False,False,6,6,stan,1.0,False
+381,884.175,886.928,It doesn't look like our protest is working.,False,False,8,8,liane,1.0,False
+382,887.053,889.014,It'll work. It has to.,False,False,5,5,sheila,1.0,False
+383,889.139,891.975,"Look, it's the president of the network.",False,False,7,7,townsman,1.0,False
+384,892.1,895.145,"Ladies and gentlemen, my name is John Warsog.",False,False,8,8,john,1.0,False
+385,895.27,898.315,I've prepared a statement for you on behalf of the network.,False,False,11,11,john,1.0,False
+386,901.484,903.695,you.,False,False,1,1,john,1.0,False
+387,903.82,905.488,"Thank you, ladies and gentlemen.",False,False,5,5,john,1.0,False
+388,905.614,907.157,"If there are any questions, you may direct them",False,False,9,9,john,1.0,False
+389,907.282,908.825,to that brick wall over there.,False,False,6,6,john,1.0,False
+390,910.201,913.33,Hey! You will not get away with this!,False,False,8,8,sheila,1.0,False
+391,917.417,918.71,That does it!,False,False,3,3,sheila,1.0,False
+392,918.835,921.546,No more Mr. Nice Protesters!,False,False,5,5,sheila,1.0,False
+393,921.671,923.924,It's time for plan B.,False,False,5,3,sheila,1.0,False
+394,924.049,927.928,"Ooh, Carol, where are the porta-potties?",False,False,7,5,liane,1.0,False
+395,928.053,929.596,"Over there, hon-- what, do you need",False,False,7,6,sheila,1.0,False
+396,929.721,931.848,to drop some friends off at the pool?,False,False,8,8,sheila,1.0,False
+397,931.973,933.683,"Oh, yes, indeedy.",False,False,3,2,liane,1.0,False
+398,936.811,938.605,"Okay, Grandpa, all you have to do is sit there.",False,False,10,10,stan,1.0,False
+399,938.73,939.814,We'll do the rest.,False,False,4,4,stan,1.0,False
+400,939.94,941.358,You got the cow all tied up?,False,False,7,7,stan,1.0,False
+401,941.483,942.692,"Yep, all done.",False,False,3,3,kyle,1.0,False
+402,942.817,944.569,"Okay, c'mon, guys.",False,False,3,1,stan,1.0,False
+403,946.863,947.948,Why don't we just shoot him?,False,False,6,6,cartman,1.0,True
+404,948.073,949.115,"You dumb-ass, Cartman.",False,False,4,2,stan,1.0,False
+405,949.24,950.367,"It has to look natural,",False,False,5,5,stan,1.0,False
+406,950.492,951.701,or else we'll all get busted.,False,False,6,6,stan,1.0,False
+407,951.826,953.036,"Yeah, stupid.",False,False,2,2,kyle,1.0,False
+408,953.161,954.829,"That's good, Billy.",False,False,3,3,grandpa,1.0,False
+409,954.955,956.581,"Little higher, now.",False,False,3,3,grandpa,1.0,False
+410,958.541,961.252,The network is not taking us seriously.,False,False,7,7,sheila,1.0,False
+411,961.378,963.964,"In the past, people have had to die",False,False,8,8,sheila,1.0,False
+412,964.089,965.715,"for what they believed in,",False,False,5,5,sheila,1.0,False
+413,965.84,968.301,and we are prepared to do the same!,False,False,8,8,sheila,1.0,False
+414,968.426,969.427,Ready?,False,False,1,1,sheila,1.0,False
+415,970.553,974.766,"Mr. McKormick, you shall be a martyr to us all.",False,False,10,9,sheila,1.0,False
+416,974.891,976.351,Godspeed.,False,False,1,0,,0.0,False
+417,976.476,979.521,We will not let these corporate half-wits,False,False,8,8,sheila,1.0,False
+418,979.646,981.982,ruin our children's minds!,False,False,4,4,sheila,1.0,False
+419,982.107,983.441,Launch!,False,False,1,1,sheila,1.0,False
+420,987.237,990.782,We will all follow suit one by one,False,False,8,8,sheila,1.0,False
+421,990.907,992.242,if that's what it takes!,False,False,5,5,sheila,1.0,False
+422,994.119,995.662,"Are you ready, Grandpa?",False,False,4,4,stan,1.0,False
+423,995.787,997.622,Does the pope crap in the woods?,False,False,7,7,grandpa,1.0,False
+424,1007.757,1010.051,Carry on.,False,False,2,2,officer barbrady,1.0,False
+425,1010.176,1011.553,"Okay, here we go.",False,False,4,3,stan,1.0,False
+426,1011.678,1013.43,"Bye, Grandpa, it was nice knowing you.",False,False,7,7,stan,1.0,False
+427,1013.555,1015.432,Cut the damn rope already!,False,False,5,5,grandpa,1.0,False
+428,1015.557,1018.56,"Whoa, what is that?",False,False,4,3,stan,1.0,False
+429,1018.685,1022.23,"Whoa, it-it looks like Death!",False,False,6,5,kyle,0.8,False
+430,1023.773,1024.858,"It's about time,",False,False,3,3,grandpa,1.0,False
+431,1024.983,1027.444,you lazy-ass son of a whore!,False,False,7,6,grandpa,1.0,False
+432,1027.569,1029.738,"C'mon, let's go!",False,False,3,2,grandpa,1.0,False
+433,1029.863,1031.239,What the...,False,False,2,2,grandpa,1.0,False
+434,1031.364,1033.199,"Hey, he's coming towards us.",False,False,5,5,stan,1.0,False
+435,1033.324,1034.451,Why is Death coming after us?,False,False,6,6,kyle,1.0,False
+436,1037.287,1040.206,Ah! - Ah!,True,False,2,0,,0.0,False
+437,1041.708,1044.044,"Help! - Run, run, run!",True,False,4,0,,0.0,False
+438,1045.712,1046.796,What are we gonna do?,False,False,5,5,kyle,1.0,False
+439,1048.256,1049.883,"As the day progresses,",False,False,4,4,newscaster,1.0,False
+440,1050.008,1051.551,more and more South Park residents,False,False,6,6,newscaster,1.0,False
+441,1051.676,1053.72,continue to slingshot their bodies,False,False,5,4,newscaster,1.0,False
+442,1053.845,1056.598,into the side of the Toon Central building.,False,False,8,7,newscaster,1.0,False
+443,1056.723,1059.142,Toon Central is now under incredible pressure,False,False,7,7,newscaster,1.0,False
+444,1059.267,1060.31,to cancel the show,False,False,4,4,newscaster,1.0,False
+445,1060.435,1061.519,and has already lost,False,False,4,4,newscaster,1.0,False
+446,1061.644,1063.772,over 20% of their sponsors.,False,False,5,5,newscaster,1.0,False
+447,1063.897,1066.191,"Here, Carol, I think it's your boy.",False,False,7,7,sheila,1.0,False
+448,1066.316,1067.4,"Oh, thanks.",False,False,2,2,sharon,1.0,False
+449,1067.525,1068.86,"What is it, Stanley, hon?",False,False,5,5,sharon,1.0,False
+450,1068.985,1070.153,Did you break something?,False,False,4,4,sharon,1.0,False
+451,1070.278,1072.28,"Mom, Death is here,",False,False,4,4,stan,1.0,False
+452,1072.405,1074.199,and he's trying to take us all away with him!,False,False,10,10,stan,1.0,False
+453,1074.324,1076.451,"Stanley, honey, you need to leave Mommy alone.",False,False,8,8,sharon,1.0,False
+454,1076.576,1078.62,"I'm doing something very, very important",False,False,6,6,sharon,1.0,False
+455,1078.745,1079.746,for your little well-being there.,False,False,6,6,sharon,1.0,False
+456,1079.871,1081.331,"Yeah, but Mom!",False,False,3,3,stan,1.0,False
+457,1081.456,1082.749,"Here, honey, talk to your father.",False,False,6,6,sharon,1.0,False
+458,1082.874,1083.917,Did you turn the heat down?,False,False,6,6,randy,1.0,False
+459,1084.042,1085.21,"Dad, Death is coming--",False,False,4,4,stan,1.0,False
+460,1085.335,1086.669,Keep the thermostat under 70.,False,False,5,5,randy,1.0,False
+461,1086.795,1087.921,Take care of your grandfather.,False,False,5,5,randy,1.0,False
+462,1090.298,1092.342,"Damn it! You know, I think that if parents",False,False,9,7,stan,1.0,False
+463,1092.467,1094.177,would spend less time worrying about,False,False,6,6,stan,1.0,False
+464,1094.302,1095.929,what their kids watch on TV and more time worrying,False,False,10,10,stan,1.0,False
+465,1096.054,1097.555,"about what's going on in their kids' lives,",False,False,8,6,stan,1.0,False
+466,1097.68,1099.349,this world would be a much better place.,False,False,8,8,stan,1.0,False
+467,1099.474,1101.351,"Yeah, I think that parents only get so offended",False,False,9,9,kyle,1.0,False
+468,1101.476,1102.936,by television because they rely on it as a babysitter,False,False,10,9,kyle,1.0,False
+469,1103.061,1104.646,and the sole educator of their kids.,False,False,7,7,kyle,1.0,False
+470,1114.781,1116.032,"Totally, dude. - Good point, man.",True,False,5,5,stan,0.6,False
+471,1116.157,1117.867,Ah!,False,False,1,0,,0.0,False
+472,1117.992,1119.202,Quick! Jump through the window!,False,False,5,5,kyle,1.0,False
+473,1127.252,1130.964,"Come back here, you pompous son of a pansy!",False,False,9,8,grandpa,1.0,False
+474,1131.089,1132.966,- Ah! - Don't let him touch you!,True,False,6,5,kyle,1.0,False
+475,1133.091,1134.968,You die if he touches you!,False,False,6,6,kyle,1.0,False
+476,1135.093,1137.262,"I'm over here, you son of a whore!",False,False,8,6,grandpa,1.0,False
+477,1142.35,1144.06,"Oh, Terrance?",False,False,2,2,phillip,1.0,False
+478,1144.185,1146.187,What color is the wind?,False,False,5,5,phillip,1.0,False
+479,1146.312,1148.731,"Hmm, I don't know, why don't you check?",False,False,8,7,terrance,1.0,False
+480,1150.692,1151.776,"Oh, you farted!",False,False,3,3,phillip,1.0,False
+481,1155.363,1158.074,"Hey, Phillip, you know what my spacesuit smells like?",False,False,9,8,terrance,1.0,False
+482,1158.199,1159.951,"No, Terrance, why don't you tell me?",False,False,7,7,phillip,1.0,False
+483,1160.076,1163.079,"Well, it smells like a dirty fart.",False,False,7,7,terrance,1.0,False
+484,1166.332,1167.375,"Hey, look!",False,False,2,2,stan,1.0,False
+485,1168.793,1170.378,"Oh, there's one!",False,False,3,3,phillip,1.0,False
+486,1173.923,1177.135,"Hours have passed, and still, the die-hard South Park parents",False,False,11,11,newscaster,1.0,False
+487,1177.26,1179.888,are killing themselves in front of the Toon Central building,False,False,10,9,newscaster,1.0,False
+488,1180.013,1181.598,one by one.,False,False,3,3,newscaster,1.0,False
+489,1181.723,1183.224,"Worse yet, the stomach flu",False,False,5,5,newscaster,1.0,False
+490,1183.349,1185.602,that seems to be going around is...,False,False,7,7,newscaster,1.0,False
+491,1185.727,1187.061,"wait, wait, I'm getting word",False,False,5,5,newscaster,1.0,False
+492,1187.187,1188.396,that the president of the network,False,False,6,6,newscaster,1.0,False
+493,1188.521,1191.024,is going to make a statement.,False,False,6,6,newscaster,1.0,False
+494,1192.317,1193.359,"Wait, wait.",False,False,2,2,townsman,1.0,False
+495,1193.484,1195.069,"Ladies and gentlemen,",False,False,3,3,john,1.0,False
+496,1195.195,1197.614,your Nazi-ass tactics of trying to stink us out,False,False,10,8,john,1.0,False
+497,1197.739,1202.243,with your rancid feces... has worked.,False,False,6,6,john,1.0,False
+498,1202.368,1204.204,"Therefore,",False,False,1,1,john,1.0,False
+499,1204.329,1205.955,"today, we will officially be taking",False,False,6,5,john,1.0,False
+500,1206.08,1208.082,"""Terrance and Phillip"" off the network",False,False,6,5,john,1.0,False
+501,1208.208,1210.668,"and replacing it with reruns of ""She's the Sheriff,""",False,False,9,9,john,1.0,False
+502,1210.793,1213.546,starring Suzanne Somers.,False,False,3,3,john,1.0,False
+503,1213.671,1214.923,"Now, get away from here,",False,False,5,5,john,1.0,False
+504,1215.048,1216.424,and take your diarrhea with you!,False,False,6,6,john,1.0,False
+505,1218.718,1220.595,Huh?,False,False,1,1,townsman,1.0,False
+506,1220.72,1223.389,"Now, at last, we can return to normality.",False,False,8,7,sheila,1.0,False
+507,1223.514,1225.558,"Hey, Phillip? - Yes, Terrance?",True,False,4,4,phillip,0.5,False
+508,1225.683,1228.603,Is there a penny stuck in my butt?,False,False,8,8,terrance,1.0,False
+509,1228.728,1230.647,"I don't know, Terrance, let me check.",False,False,7,7,phillip,1.0,False
+510,1230.772,1232.482,"Uh-oh, don't look there, Phillip.",False,False,6,6,cartman,1.0,True
+511,1232.607,1234.025,You're gonna get farted on.,False,False,5,5,cartman,1.0,True
+512,1236.486,1238.905,We interrupt this program to bring you loud static.,False,False,9,9,tv,1.0,False
+513,1243.534,1244.535,Ah!,False,False,1,0,,0.0,False
+514,1246.329,1250.625,"Oh, my God, they killed Kenny! You bastard!",False,False,8,8,kyle,1.0,False
+515,1250.75,1252.21,"Wow, I guess Death was just coming",False,False,7,7,stan,1.0,False
+516,1252.335,1253.711,after Kenny the whole time.,False,False,5,5,stan,1.0,False
+517,1253.836,1256.631,"Hey, you were supposed to kill me!",False,False,7,7,grandpa,1.0,False
+518,1256.756,1259.842,"That's not fair, God damn it!",False,False,6,3,grandpa,1.0,False
+519,1259.968,1262.553,My grandpa asked me to kill him and I did it!,False,False,11,11,grandpa,1.0,False
+520,1265.598,1266.975,Whoa!,False,False,1,1,stan,1.0,False
+521,1267.1,1270.478,Billy...,False,False,1,0,,0.0,False
+522,1270.603,1271.854,Grandpa?,False,False,1,1,grandpa,1.0,False
+523,1271.98,1273.564,"That's right, Billy.",False,False,3,3,great-great-grandpa,1.0,False
+524,1273.69,1275.441,"My name's not Billy, Grandpa.",False,False,5,5,grandpa,1.0,False
+525,1275.566,1276.651,And what's wrong with you?,False,False,5,5,grandpa,1.0,False
+526,1276.776,1278.194,Why do you look all haggard?,False,False,6,6,grandpa,1.0,False
+527,1278.319,1280.405,"I asked you to kill me, Billy.",False,False,7,7,great-great-grandpa,1.0,False
+528,1280.53,1282.156,"But I was wrong,",False,False,4,4,great-great-grandpa,1.0,False
+529,1282.282,1285.493,and now I'm forced to spend eternity in limbo.,False,False,9,9,great-great-grandpa,1.0,False
+530,1285.618,1287.12,Limbo?,False,False,1,1,grandpa,1.0,False
+531,1287.245,1289.539,"I was wrong to put you in that position, Billy.",False,False,10,10,great-great-grandpa,1.0,False
+532,1289.664,1293.126,Just like you're wrong to put little Billy in it now.,False,False,11,11,great-great-grandpa,1.0,False
+533,1293.251,1294.961,"You're so obsessed with ending your life,",False,False,7,7,great-great-grandpa,1.0,False
+534,1295.086,1297.63,you're not thinking about what you're doing to his.,False,False,9,9,great-great-grandpa,1.0,False
+535,1297.755,1301.05,You must wait to die of natural causes.,False,False,8,8,great-great-grandpa,1.0,False
+536,1301.175,1303.761,But I've been waiting for 25 years!,False,False,7,7,grandpa,1.0,False
+537,1303.886,1308.057,"Let nature run its course, or else end up in limbo!",False,False,11,11,great-great-grandpa,1.0,False
+538,1308.182,1310.435,"Natural causes, Billy.",False,False,3,3,great-great-grandpa,1.0,False
+539,1310.56,1312.437,Natural causes...,False,False,2,2,great-great-grandpa,1.0,False
+540,1316.774,1318.776,"C'mon, you guys, let's go home.",False,False,6,5,stan,1.0,False
+541,1326.034,1328.661,"Here they are. - Well, we did it, son.",True,False,8,8,randy,0.625,False
+542,1328.786,1331.164,We fought a battle for your well-being and won.,False,False,10,10,randy,1.0,False
+543,1331.289,1332.749,What do you mean?,False,False,4,4,stan,1.0,False
+544,1332.874,1333.75,"We got ""Terrance and Phillip""",False,False,5,4,sharon,1.0,False
+545,1333.875,1335.376,taken off the air.,False,False,4,4,sharon,1.0,False
+546,1335.501,1337.42,You son of a bitch! Your mom sucks!,False,False,8,7,cartman,1.0,True
+547,1337.545,1340.256,But look what they put on.,False,False,6,6,sheila,1.0,False
+548,1340.381,1342.925,"And now back to ""She's the Sheriff.""",False,False,7,7,tv,1.0,False
+549,1343.051,1345.219,"No! God, no!",False,False,3,2,cartman,1.0,True
+550,1345.345,1348.222,You were the one behind all these shenanigans!,False,False,8,7,suzanne,1.0,False
+551,1348.348,1350.433,"Yeah, well, you're the stupid ho that started it.",False,False,9,9,dude,1.0,False
+552,1350.558,1352.268,What did he say?,False,False,4,4,sheila,1.0,False
+553,1352.393,1354.187,"Up yours, butt-munch!",False,False,4,4,suzanne,1.0,False
+554,1354.312,1355.646,Wh-wh-what?!,False,False,3,0,,0.0,False
+555,1355.772,1359.275,"C'mon, everybody, back to New York!",False,False,6,5,sheila,1.0,False
+556,1359.4,1360.818,"Hey, Stan, now that ""Terrance and Phillip""",False,False,7,6,kyle,1.0,False
+557,1360.943,1362.403,"has been taken off the air,",False,False,6,6,kyle,1.0,False
+558,1362.528,1364.405,what are we gonna do for entertainment?,False,False,7,6,kyle,1.0,False
+559,1364.53,1366.574,"I don't know, we-we could start breathing gas fumes.",False,False,10,10,stan,1.0,False
+560,1366.699,1369.035,My uncle says that smoking crack is kinda cool.,False,False,9,9,cartman,1.0,True
+561,1369.16,1370.62,"Hey, why don't we go watch",False,False,6,5,kyle,1.0,False
+562,1370.745,1371.829,some of those porno movie thingies?,False,False,6,6,kyle,1.0,False
+563,1371.954,1373.748,Cool! - Yeah!,True,False,2,2,cartman,0.5,False
+564,1373.873,1375.416,"What are you doing, Grandpa?",False,False,5,5,stan,1.0,False
+565,1375.541,1377.543,I'm planning a trip to Africa.,False,False,6,6,grandpa,1.0,False
+566,1377.668,1380.588,Did you know over 400 people are eaten naturally,False,False,9,9,grandpa,1.0,False
+567,1380.713,1383.091,by lions in Africa every year?,False,False,6,6,grandpa,1.0,False
+568,1383.216,1384.801,That's my silly Grandpa.,False,False,4,4,stan,1.0,False
+569,1387.845,1388.721,Oh!,False,False,1,0,,0.0,False

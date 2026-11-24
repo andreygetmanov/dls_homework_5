@@ -1,0 +1,548 @@
+i,a,c,text,two,song,n,matched,who,purity,cartman
+1,4.046,6.173,"Howdy-haw, you South Park-eteers out there.",False,False,8,0,,0.0,False
+2,6.298,7.675,Howdy-ho!,False,False,2,0,,0.0,False
+3,7.8,9.218,I'm rootin'-tootin' Trey Parker.,False,False,5,0,,0.0,False
+4,9.343,10.928,And I'm pistol-slingin' Matt Stone.,False,False,6,0,,0.0,False
+5,11.053,12.221,"This here's Old Scratch. Say hi, old fella.",False,False,8,0,,0.0,False
+6,12.346,13.806000000000001,"Howdy, Scratch!",False,False,2,0,,0.0,False
+7,13.931000000000001,15.599,Trey and I are right excited about now,False,False,8,0,,0.0,False
+8,15.725,17.101,"because this first episode of ""South Park"" is, well,",False,False,9,0,,0.0,False
+9,17.226,18.811,our favorite episode.,False,False,3,0,,0.0,False
+10,18.936,20.521,"That's right, Matt. It's called ""Pinkeye.""",False,False,6,0,,0.0,False
+11,20.646,22.398,It originally aired as our Halloween special.,False,False,7,0,,0.0,False
+12,22.523,24.692,"It's all about an epidemic going through ""South Park""",False,False,9,0,,0.0,False
+13,24.817,27.069,and the boys having to save the day.,False,False,8,0,,0.0,False
+14,27.194,29.155,"Trey and I wanted to do an episode about disease,",False,False,10,0,,0.0,False
+15,29.28,31.365,"and well, we figured pinkeye was the right one.",False,False,9,0,,0.0,False
+16,31.49,32.95,That's right.,False,False,2,0,,0.0,False
+17,33.075,34.452,"You know, pinkeye is a real disease.",False,False,7,0,,0.0,False
+18,34.577,36.037,Anybody can get it.,False,False,4,0,,0.0,False
+19,36.162,38.748,"So kids, be careful who you been with.",False,False,8,0,,0.0,False
+20,38.873,40.708,"To fight this horrible disease,",False,False,5,0,,0.0,False
+21,40.833,43.294,all proceeds from this video will go to pinkeye research.,False,False,10,0,,0.0,False
+22,43.419,44.795,"Yeah, right.",False,False,2,0,,0.0,False
+23,44.92,46.13,Right.,False,False,1,0,,0.0,False
+24,46.255,47.673,We're not gonna give away money.,False,False,6,0,,0.0,False
+25,47.798,49.467,"Oh, look, it's our Indian friend,",False,False,6,1,comrade,1.0,False
+26,49.592,50.634,Indian Companion.,False,False,2,0,,0.0,False
+27,50.76,51.677,"Hello, Indian Companion.",False,False,3,0,,0.0,False
+28,51.802,53.679,Someone coming.,False,False,2,0,,0.0,False
+29,58.142,59.351,Thanks.,False,False,1,0,,0.0,False
+30,62.396,63.898,"Anyway, all y'all sit back,",False,False,5,0,,0.0,False
+31,64.023,66.025,"relax, and enjoy...",False,False,3,0,,0.0,False
+32,66.15,67.193,"""Pinkeye.""",False,False,1,0,,0.0,False
+33,67.318,68.694,Hooray!,False,False,1,0,,0.0,False
+34,80.498,81.874,♪ I'm going down to South Park ♪,False,True,6,0,,0.0,False
+35,81.999,83.876,♪ Gonna have myself a time ♪,False,True,5,0,,0.0,False
+36,84.001,85.586,♪ Friendly faces everywhere ♪,False,True,3,0,,0.0,False
+37,85.711,87.129,♪ Humble folks without temptation ♪,False,True,4,0,,0.0,False
+38,87.254,88.589,♪ Going down to South Park ♪,False,True,5,0,,0.0,False
+39,88.714,90.424,♪ Gonna leave my woes behind ♪,False,True,5,0,,0.0,False
+40,90.549,92.134,♪ Ample parking day or night ♪,False,True,5,0,,0.0,False
+41,92.259,93.636,"♪ People spouting: ""Howdy neighbor."" ♪",False,True,4,0,,0.0,False
+42,93.761,95.137,♪ Headed on up to South Park ♪,False,True,6,0,,0.0,False
+43,95.262,96.889,♪ Gonna see if I can't unwind ♪,False,True,6,0,,0.0,False
+44,100.184,101.56,♪ So come on down to South Park ♪,False,True,7,0,,0.0,False
+45,101.685,103.354,♪ And meet some friends of mine ♪,False,True,6,0,,0.0,False
+46,114.365,116.242,Graah! - Aieee!,True,False,2,0,,0.0,False
+47,133.717,135.886,"Oh, my God, they killed Kenny!",False,False,6,6,stan,1.0,False
+48,136.011,137.304,You bastards!,False,False,2,2,kyle,1.0,False
+49,137.429,138.556,What the hell is that thing?,False,False,6,6,cartman,1.0,True
+50,138.681,139.932,It looks like a UFO.,False,False,5,5,kyle,1.0,False
+51,140.057,141.35,There's no such thing as UFOs.,False,False,6,6,cartman,1.0,True
+52,144.186,146.063,Let's get him to the morgue.,False,False,6,5,paramedic,1.0,False
+53,151.61,153.404,"Hey, wait till you guys see my Halloween",False,False,8,6,cartman,1.0,True
+54,153.529,155.531,costume tomorrow. It kicks ass.,False,False,5,5,cartman,1.0,True
+55,155.656,156.991,"Dude, it can't be cooler than mine.",False,False,7,7,kyle,1.0,False
+56,157.116,158.409,"Hey, man, we ought to get home",False,False,7,5,stan,1.0,False
+57,158.534,159.577,and get our Costumes ready.,False,False,5,5,stan,1.0,False
+58,169.211,171.463,"You know, I think death is least funny",False,False,8,8,mortician,1.0,False
+59,171.589,172.923,when it happens to a child.,False,False,6,6,mortician,1.0,False
+60,173.048,176.218,"Oh, man, I know what you mean.",False,False,7,6,mortician,1.0,False
+61,176.343,178.596,"Marty, do you have to put that stuff on everything?",False,False,10,10,mortician,1.0,False
+62,178.721,181.098,"I don't know, it just makes everything taste so...",False,False,9,9,marty,1.0,False
+63,181.223,182.474,English.,False,False,1,1,marty,1.0,False
+64,182.6,183.726,"Well, let's let him drain.",False,False,5,5,mortician,1.0,False
+65,200.951,202.62,"So then the necrophiliac says,",False,False,5,5,mortician,1.0,False
+66,202.745,204.538,"""If this ain't a cadaver, then I...""",False,False,7,7,mortician,1.0,False
+67,206.207,207.75,Hey! - Argh!,True,False,2,1,mortician,1.0,False
+68,207.875,209.668,"God damn, that little turd bit me!",False,False,7,7,marty,1.0,False
+69,209.793,210.711,Me too!,False,False,2,2,mortician,1.0,False
+70,220.638,221.931,You look like a pansy.,False,False,5,5,kyle,1.0,False
+71,222.056,223.474,"Shut up, Kyle!",False,False,3,3,stan,1.0,False
+72,223.599,224.725,What--what are you supposed to be?!,False,False,7,7,kyle,1.0,False
+73,224.85,226.268,I'm Raggedy Andy.,False,False,3,3,stan,1.0,False
+74,226.393,227.561,Why the hell did you dress up,False,False,7,7,kyle,1.0,False
+75,227.686,229.021,"like Raggedy Andy, dude?",False,False,4,4,kyle,1.0,False
+76,229.146,231.065,Wendy's going as Raggedy Anne.,False,False,5,4,stan,1.0,False
+77,231.19,232.483,And she said this way we'd win the costume contest for sure.,False,False,12,12,stan,1.0,False
+78,232.608,233.984,"No way, dude.",False,False,3,3,kyle,1.0,False
+79,234.109,235.486,I'm gonna win the costume contest,False,False,6,6,kyle,1.0,False
+80,235.611,237.363,with this sweet Chewbacca costume!,False,False,5,5,kyle,1.0,False
+81,237.488,239.49,Wendy said that first prize is two tons of candy.,False,False,10,10,stan,1.0,False
+82,239.615,240.491,"Wow, cool!",False,False,2,2,kyle,1.0,False
+83,240.616,242.159,"Hey, dudes.",False,False,2,2,cartman,1.0,True
+84,242.284,243.452,"Cartman, what kind of costume is that?",False,False,7,7,kyle,1.0,False
+85,243.577,245.537,It's Adolph Hitler costume.,False,False,4,3,cartman,1.0,True
+86,245.663,247.331,Sieg Heil! Sieg Heil!,False,False,4,4,cartman,1.0,True
+87,247.456,248.707,Where'd you get that?,False,False,4,4,stan,1.0,False
+88,248.832,250.417,My mom made it. Isn't it cool?,False,False,7,7,cartman,1.0,True
+89,250.542,252.169,"No, it's not cool!",False,False,4,4,kyle,1.0,False
+90,252.294,254.046,"What are you supposed to be, Stan? Howdy Doody?",False,False,9,9,cartman,1.0,True
+91,254.171,256.298,"No, I'm Raggedy Andy, fat ass!",False,False,6,5,stan,1.0,False
+92,256.423,257.675,Oh. Wow.,False,False,2,1,cartman,1.0,True
+93,257.8,258.926,You look pretty cool.,False,False,4,4,cartman,1.0,True
+94,260.511,261.595,Sissy.,False,False,1,1,kyle,1.0,False
+95,261.72,263.347,"I'll kick your ass, Kyle!",False,False,5,5,stan,1.0,False
+96,263.472,265.266,"Oh, look out! Holly Hobby's all pissed off.",False,False,8,8,cartman,1.0,True
+97,265.391,267.059,"Hey, look. Kenny's not dead.",False,False,5,5,stan,1.0,False
+98,268.227,269.27,"You forgot to wear a costume, Kenny.",False,False,7,7,kyle,1.0,False
+99,269.395,271.021,"Yeah, what's the matter?",False,False,4,4,stan,1.0,False
+100,271.146,272.69,Couldn't your family afford a costume for you?,False,False,8,8,stan,1.0,False
+101,272.815,274.275,"Yeah, why is your family so poor, Kenny?",False,False,8,6,kyle,1.0,False
+102,274.4,276.151,Kenny's family is so poor,False,False,5,5,cartman,1.0,True
+103,276.277,279.154,that yesterday they had to put their cardboard box up,False,False,10,10,cartman,1.0,True
+104,279.28,280.406,for a second mortgage.,False,False,4,4,cartman,1.0,True
+105,284.702,287.621,"I said, your family had to put a cardboard box up",False,False,11,11,cartman,1.0,True
+106,287.746,289.415,"for a second mortgage, Kenny!",False,False,5,5,cartman,1.0,True
+107,290.666,293.294,"I'm talking to you, Kenny! Achtung!",False,False,6,6,cartman,1.0,True
+108,293.419,294.962,Poor piece of crap.,False,False,4,4,cartman,1.0,True
+109,296.338,298.34,"Come on, we're running late!",False,False,5,5,ms. crabtree,1.0,False
+110,298.465,300.426,"Ah, we're always running late, you ugly skank.",False,False,8,6,stan,1.0,False
+111,300.551,302.219,What did you say?!,False,False,4,4,ms. crabtree,1.0,False
+112,302.344,304.221,I said I can't wait to own a fishing tank.,False,False,10,10,stan,1.0,False
+113,304.346,306.432,Oh. Neither can I.,False,False,4,4,ms. crabtree,1.0,False
+114,308.809,311.52,"Very interesting. - Wh-what is it, doc?",True,False,7,6,mortician,0.6666666666666666,False
+115,311.645,314.523,"Well, your temperature is only 55 degrees,",False,False,7,7,doctor,1.0,False
+116,314.648,316.358,"you have no pulse, no heartbeat,",False,False,6,6,doctor,1.0,False
+117,316.483,319.278,and your--your eyes are all puffy and sticky.,False,False,9,9,doctor,1.0,False
+118,319.403,321.071,"Oh, no. You mean...",False,False,4,4,mortician,1.0,False
+119,321.196,322.948,"Yeah, I'm afraid the two of you have pinkeye.",False,False,9,8,doctor,1.0,False
+120,324.491,325.951,"I'd give you topical medicine,",False,False,5,5,doctor,1.0,False
+121,326.076,327.995,but I don't want to touch you.,False,False,7,4,doctor,1.0,False
+122,328.12,329.83,"Oh, I'm so hungry and all I can think about eating is...",False,False,12,12,marty,1.0,False
+123,329.955,331.665,is brains!,False,False,2,1,marty,1.0,False
+124,331.79,333.625,"Yeah, well, for God's sake don't touch your eyes.",False,False,9,9,doctor,1.0,False
+125,333.751,335.461,I'll prescribe some antibiotics.,False,False,4,4,doctor,1.0,False
+126,337.629,339.673,Just wait till everyone sees my sweet Chewbacca costume.,False,False,9,9,kyle,1.0,False
+127,339.798,341.3,They're gonna be so jealous.,False,False,5,5,kyle,1.0,False
+128,343.886,346.013,"Whoa, dude. - Everyone came as Chewbacca?!",True,False,6,6,kyle,0.6666666666666666,False
+129,346.138,348.098,It sure does seem to be a popular costume,False,False,9,9,mr. garrison,1.0,False
+130,348.223,349.975,"this year, Kyle.",False,False,3,3,mr. garrison,1.0,False
+131,350.1,351.268,Rar.,False,False,1,0,,0.0,False
+132,352.019,353.02,Damn it!,False,False,2,0,,0.0,False
+133,353.145,354.897,"Wendy? - Hi, Stan.",True,False,3,3,wendy,0.6666666666666666,False
+134,355.022,356.774,You said we were going to be Raggedy Anne and Andy.,False,False,11,10,stan,1.0,False
+135,356.899,358.692,Remember? - Yeah.,True,False,2,1,stan,1.0,False
+136,358.817,360.694,We were going to enter the costume contest as a pair.,False,False,11,11,stan,1.0,False
+137,360.819,362.363,"I know, but then",False,False,4,4,wendy,1.0,False
+138,362.488,363.864,I guess I just realized,False,False,5,5,wendy,1.0,False
+139,363.989,366.241,how stupid we would look. - You what?!,True,False,7,7,wendy,0.7142857142857143,False
+140,366.367,368.327,"I thought you would reach the same conclusion,",False,False,8,8,wendy,1.0,False
+141,368.452,370.662,so I came as Chewbacca.,False,False,5,5,wendy,1.0,False
+142,371.997,373.791,"Hey Stan,",False,False,2,2,fosse,1.0,False
+143,373.916,375.501,you look almost pretty enough to kiss.,False,False,7,7,fosse,1.0,False
+144,375.626,377.211,"Yeah, you want to be my girlfriend?",False,False,7,7,bill,1.0,False
+145,379.004,380.589,"Hey, you see? All of a sudden my costume",False,False,9,8,cartman,1.0,True
+146,380.714,382.424,"is pretty badass, huh?",False,False,4,4,cartman,1.0,True
+147,382.549,385.01,"Dude, dressing up like Hitler is not badass.",False,False,8,8,kyle,1.0,False
+148,385.135,386.845,You're just jealous.,False,False,3,3,cartman,1.0,True
+149,386.97,388.472,"Why don't you go back to Endor, you stupid Wookie!",False,False,10,10,cartman,1.0,True
+150,388.597,389.681,Wookies don't live on Endor!,False,False,5,5,kyle,1.0,False
+151,389.807,391.308,Mimi ma mi mo momo!,False,False,5,0,,0.0,False
+152,391.433,392.476,Well at least my mom's not on the cover,False,False,9,9,kyle,1.0,False
+153,392.601,393.685,of Crack Whore Magazine!,False,False,4,3,kyle,1.0,False
+154,393.811,395.604,What? What did you say?!,False,False,5,5,cartman,1.0,True
+155,395.729,398.816,"Okay now, all you little Chewbaccas take your seats.",False,False,9,9,mr. garrison,1.0,False
+156,398.941,400.901,"Children, since today is Halloween,",False,False,5,5,mr. garrison,1.0,False
+157,401.026,402.528,I thought we should learn something about,False,False,7,7,mr. garrison,1.0,False
+158,402.653,404.863,the great horror writer Jackie Collins.,False,False,6,6,mr. garrison,1.0,False
+159,404.988,406.49,"You see, when Jackie Collins",False,False,5,5,mr. garrison,1.0,False
+160,406.615,408.325,first wrote her novel...,False,False,4,4,mr. garrison,1.0,False
+161,408.45,409.535,Ew!,False,False,1,0,,0.0,False
+162,409.66,411.12,"Is there a problem, Kenny?",False,False,5,5,mr. garrison,1.0,False
+163,412.287,414.832,"Let's try to keep our hands and arms to ourselves, okay?",False,False,11,11,mr. garrison,1.0,False
+164,416.041,417.209,I'm never gonna win that two tons of candy,False,False,9,9,kyle,1.0,False
+165,417.334,419.461,looking like everybody else.,False,False,4,4,kyle,1.0,False
+166,419.586,423.715,"♪ Ooh, I'm gonna decorate the house for Halloween ♪",False,True,8,0,,0.0,False
+167,423.841,427.761,♪ With scary ghosts and bats and creepy crawly things ♪,False,True,9,0,,0.0,False
+168,427.886,430.556,"Hello, there. Happy Halloween.",False,False,4,4,liane,1.0,False
+169,430.681,433.183,Must... eat... brains.,False,False,3,3,zombie,1.0,False
+170,433.308,435.227,Brains!,False,False,1,0,,0.0,False
+171,435.352,438.439,♪ It's the most wonderful time of the year ♪,False,True,8,0,,0.0,False
+172,441.859,443.694,I'm gonna make a new costume during recess.,False,False,8,8,kyle,1.0,False
+173,443.819,444.945,I can still win that candy.,False,False,6,6,kyle,1.0,False
+174,445.07,446.363,"Hey, Kenny.",False,False,2,2,cartman,1.0,True
+175,446.488,448.157,Are you gonna eat your pudding?,False,False,6,6,cartman,1.0,True
+176,448.282,452.077,"""No, Eric, go ahead and take my pudding if you like.""",False,False,11,10,cartman,1.0,True
+177,452.202,453.579,"Why, thank you, Kenny.",False,False,4,4,cartman,1.0,True
+178,453.704,454.913,How nice of you.,False,False,4,4,cartman,1.0,True
+179,455.038,456.165,"Aren't you hungry, Kenny?",False,False,4,4,kyle,1.0,False
+180,457.166,459.001,He hasn't moved an inch or said anything.,False,False,8,8,stan,1.0,False
+181,459.126,460.335,"Hello, children.",False,False,2,2,chef,1.0,False
+182,460.461,461.67,"Hey, Chef.",False,False,2,2,"kyle,",1.0,False
+183,463.589,465.924,What in the hell are you doing dressed up like that?,False,False,11,11,chef,1.0,False
+184,466.049,467.593,Eating Kenny's pudding.,False,False,3,3,cartman,1.0,True
+185,467.718,469.052,"Hello there, children.",False,False,3,3,principal,1.0,False
+186,469.178,470.804,"Oh, love the Elvis costume, Chef.",False,False,6,5,principal,1.0,False
+187,470.929,473.14,Elvis? I'm Evel Knievel!,False,False,4,4,chef,1.0,False
+188,473.265,475.142,Why the hell would I dress up like Elvis?,False,False,9,9,chef,1.0,False
+189,475.267,477.311,Why the hell would you dress up like Evel Knievel?,False,False,10,10,principal,1.0,False
+190,477.436,479.229,"Anyway, I hope that you kids are--",False,False,7,7,principal,1.0,False
+191,479.354,480.814,aaagh!,False,False,1,0,,0.0,False
+192,480.939,482.399,Eric! God bless it.,False,False,4,4,principal,1.0,False
+193,482.524,483.942,What do you think you're doing?,False,False,6,6,principal,1.0,False
+194,484.067,485.861,"Hey, he said I could have his pudding.",False,False,8,8,cartman,1.0,True
+195,485.986,487.362,Ask him yourself.,False,False,3,3,cartman,1.0,True
+196,487.488,489.907,"""That's right, Principal Victoria.",False,False,4,4,cartman,1.0,True
+197,490.032,492.868,"It's okay with me, 'cause Eric is cool.""",False,False,8,7,cartman,1.0,True
+198,492.993,495.245,"Where did you get that costume, young man?",False,False,8,8,principal,1.0,False
+199,495.37,496.371,My mom made it.,False,False,4,4,cartman,1.0,True
+200,496.497,498.457,Sieg heil! Sieg heil!,False,False,4,4,cartman,1.0,True
+201,498.582,500.751,"Shh! Oh, God bless America.",False,False,5,4,principal,1.0,False
+202,500.876,503.712,You get into my office before anyone else sees you.,False,False,10,10,principal,1.0,False
+203,503.837,506.131,I have to show you an educational video.,False,False,8,8,principal,1.0,False
+204,506.256,509.676,I don't want to see an educational video.,False,False,8,7,cartman,1.0,True
+205,511.261,513.514,Ow! You bit my arm!,False,False,5,4,clyde,1.0,False
+206,513.639,515.14,"Oh, good. Kenny's back to normal.",False,False,6,6,kyle,1.0,False
+207,515.265,517.017,"Watch the video, Eric.",False,False,4,4,principal,1.0,False
+208,517.142,519.52,"Adolf Hitler was a very, very naughty man.",False,False,8,8,narrator,1.0,False
+209,540.666,542.125,"So remember, kids,",False,False,3,3,puffy,1.0,False
+210,542.251,544.044,dressing up like Hitler in school,False,False,6,6,puffy,1.0,False
+211,544.169,545.712,isn't cool.,False,False,2,2,puffy,1.0,False
+212,545.837,548.048,"Now, do you have any questions?",False,False,6,6,principal,1.0,False
+213,548.173,550.217,Can I see that again? That was cool.,False,False,8,7,cartman,1.0,True
+214,550.342,552.886,You must remove that costume immediately.,False,False,6,6,principal,1.0,False
+215,553.011,555.681,I can't. I have to win those two tons of candy.,False,False,11,11,cartman,1.0,True
+216,555.806,558.183,"Well, how about we make you a new costume?",False,False,9,9,principal,1.0,False
+217,558.308,560.06,Let's see now.,False,False,3,3,principal,1.0,False
+218,560.185,561.895,Aha. Thought of something.,False,False,4,4,principal,1.0,False
+219,562.02,564.189,"How about we make you a nice, scary ghost costume?",False,False,10,10,principal,1.0,False
+220,564.314,566.692,I don't want to be a stupid scary ghost.,False,False,9,7,cartman,1.0,True
+221,566.817,570.445,"And let me just make a few quickie alterations,",False,False,9,8,principal,1.0,False
+222,570.571,572.781,"and there you go, young man.",False,False,6,5,principal,1.0,False
+223,577.327,579.371,"Oh, looks like they got a touch of that pinkeye",False,False,10,8,jogger,1.0,False
+224,579.496,580.664,that's going around.,False,False,3,3,jogger,1.0,False
+225,587.004,588.589,Boo. I'm a ghost.,False,False,4,4,cartman,1.0,True
+226,588.714,590.966,"Oh, man, I feel like a total chode.",False,False,8,7,stan,1.0,False
+227,591.091,592.301,"Aw, come on, Stan.",False,False,4,4,cartman,1.0,True
+228,592.426,593.51,Maybe that's just because,False,False,4,4,cartman,1.0,True
+229,593.635,594.761,you look like a total chode.,False,False,6,5,cartman,1.0,True
+230,594.886,596.305,"Hello, children.",False,False,2,2,chef,1.0,False
+231,596.43,597.472,"Hey, Chef.",False,False,2,2,cartman,1.0,True
+232,599.308,601.351,"Whoa, Chef's really scared of ghosts, huh?",False,False,7,7,cartman,1.0,True
+233,601.476,602.811,"Hey, where's Kyle?",False,False,3,3,stan,1.0,False
+234,602.936,604.479,Check this out.,False,False,3,3,kyle,1.0,False
+235,604.605,605.606,"Whoa, dude.",False,False,2,2,stan,1.0,False
+236,605.731,606.857,What is that?,False,False,3,3,cartman,1.0,True
+237,606.982,608.525,I'm the whole solar system.,False,False,5,5,kyle,1.0,False
+238,608.65,610.027,The planets even all revolve the right way.,False,False,8,8,kyle,1.0,False
+239,610.152,611.57,That tub of candy is as good as mine.,False,False,9,9,kyle,1.0,False
+240,611.695,613.488,"Okay, children.",False,False,2,2,mr. garrison,1.0,False
+241,613.614,615.324,Let's get you lined up so the judge,False,False,8,8,mr. garrison,1.0,False
+242,615.449,617.326,can get a good look at your stupid little costumes.,False,False,10,10,mr. garrison,1.0,False
+243,618.118,620.537,"Children, this year we have a celebrity judge:",False,False,8,8,mr. garrison,1.0,False
+244,620.662,623.582,"the star of ""Family Ties,"" Miss Tina Yothers.",False,False,8,6,mr. garrison,1.0,False
+245,623.707,624.875,Who?,False,False,1,1,cartman,1.0,True
+246,625.0,625.959,"Dude, I thought she was dead.",False,False,6,6,kyle,1.0,False
+247,626.084,627.127,"Yeah, me too.",False,False,3,3,stan,1.0,False
+248,627.252,628.754,"Thank you, Miss Yothers.",False,False,4,4,mr. garrison,1.0,False
+249,628.879,632.591,"Okay, the second-place award for best costume",False,False,8,8,mr. garrison,1.0,False
+250,632.716,634.259,goes to...,False,False,2,2,mr. garrison,1.0,False
+251,634.384,637.22,"Kenny, for his Edward James Olmos costume!",False,False,7,7,mr. garrison,1.0,False
+252,639.473,641.808,And the award for the very best costume,False,False,8,8,mr. garrison,1.0,False
+253,641.933,643.06,goes to...,False,False,2,2,mr. garrison,1.0,False
+254,644.019,647.856,"Wendy, for her Chewbacca costume.",False,False,5,5,mr. garrison,1.0,False
+255,647.981,650.859,What?! But she looks just like everybody else.,False,False,8,8,kyle,1.0,False
+256,650.984,652.319,"Up yours, Tina Yothers!",False,False,4,4,kyle,1.0,False
+257,653.32,656.49,And the award for worst costume this year goes to...,False,False,10,10,mr. garrison,1.0,False
+258,656.615,659.493,"Stan, for his stupid little clown thing costume.",False,False,8,8,mr. garrison,1.0,False
+259,659.618,661.578,"Let's all point at Stan and laugh, children.",False,False,8,8,mr. garrison,1.0,False
+260,661.703,663.705,Yeah.,False,False,1,1,mr. garrison,1.0,False
+261,663.83,664.79,"Thanks a lot, Wendy.",False,False,4,4,stan,1.0,False
+262,664.915,666.249,You ruined my Halloween.,False,False,4,4,stan,1.0,False
+263,666.375,668.126,"Relax, Stan.",False,False,2,2,wendy,1.0,False
+264,668.251,670.003,You'll feel better once we're out trick-or-treating.,False,False,9,9,wendy,1.0,False
+265,670.128,671.505,I don't want to trick-or-treat with you!,False,False,9,7,stan,1.0,False
+266,671.63,673.59,"You lied to me! Okay, children,",False,False,6,6,stan,0.6666666666666666,False
+267,673.715,676.051,let's all gather round and bob for stupid apples now.,False,False,10,9,mr. garrison,1.0,False
+268,676.176,678.762,"You go first, Bebe.",False,False,4,4,mr. garrison,1.0,False
+269,678.887,680.639,That's good. Just use those mouth muscles,False,False,7,7,mr. garrison,1.0,False
+270,680.764,681.932,like the girls in Beijing.,False,False,5,5,mr. garrison,1.0,False
+271,682.057,683.517,Brains!,False,False,1,0,,0.0,False
+272,685.268,686.937,"Wait your turn, Clyde!",False,False,4,4,mr. garrison,1.0,False
+273,690.774,692.609,"Argh! Damn, Johnson.",False,False,3,2,chef,1.0,False
+274,692.734,694.569,What the hell has gotten into you?,False,False,7,5,chef,1.0,False
+275,694.695,697.28,Piiinnnkkk... eyyeee...,False,False,2,0,,0.0,False
+276,697.406,698.99,"Get the hell out of here, Johnson!",False,False,7,7,chef,1.0,False
+277,699.116,701.827,I don't want no goddamn pinkeye!,False,False,6,4,chef,1.0,False
+278,703.036,705.247,"And the President responded to the incident by saying,",False,False,9,9,tom,1.0,False
+279,705.372,707.332,"quote, ""Screw those commie bastards,",False,False,5,5,tom,1.0,False
+280,707.457,709.876,"and screw their little wussy space station.""",False,False,7,7,tom,1.0,False
+281,710.001,711.753,"In other news, a pinkeye epidemic",False,False,6,5,tom,1.0,False
+282,711.878,714.297,is now sweeping the town of South Park.,False,False,8,8,tom,1.0,False
+283,714.423,716.758,Here with a live report is a midget wearing a bikini.,False,False,11,11,tom,1.0,False
+284,716.883,719.094,"Thanks, Tom. Already more than half the townspeople",False,False,8,8,midget,1.0,False
+285,719.219,720.762,here in South Park have been infected,False,False,7,7,midget,1.0,False
+286,720.887,722.514,with the pinkeye virus.,False,False,4,3,midget,1.0,False
+287,725.058,727.769,"Symptoms include a complete loss of heart functions,",False,False,8,8,midget,1.0,False
+288,727.894,729.438,"blood pressure, lung activity,",False,False,4,4,midget,1.0,False
+289,729.563,732.441,"and of course, sticky, puffy, eyes.",False,False,6,6,midget,1.0,False
+290,732.566,733.9,Pinkeye my ass.,False,False,3,2,chef,1.0,False
+291,734.025,736.111,I've seen this kind of thing before.,False,False,7,7,chef,1.0,False
+292,738.155,739.573,Where the hell is Kyle?,False,False,5,5,cartman,1.0,True
+293,739.698,741.116,We don't have all night to wait for him.,False,False,9,9,cartman,1.0,True
+294,741.241,742.909,"I bet I get more candy than you, dude.",False,False,9,9,stan,1.0,False
+295,743.034,744.286,Are you crazy?,False,False,3,3,cartman,1.0,True
+296,744.411,745.662,I'm the Candy Master!,False,False,4,4,cartman,1.0,True
+297,745.787,746.997,"No, no, you're the Ass Master.",False,False,6,6,stan,1.0,False
+298,747.122,748.749,There's a difference.,False,False,3,3,stan,1.0,False
+299,748.874,750.333,Hey! I'm not the one who walked around all day,False,False,10,10,cartman,1.0,True
+300,750.459,752.043,looking like Pippi Longstockings!,False,False,4,3,cartman,1.0,True
+301,752.169,754.087,"Oh, yeah? Well at least my mom's not on the cover",False,False,11,11,stan,1.0,False
+302,754.212,755.672,of Crack Whore Magazine.,False,False,4,3,stan,1.0,False
+303,755.797,757.716,Goddammit! My mom is not on the cover,False,False,8,7,cartman,1.0,True
+304,757.841,759.259,of Crack Whore Magazine!,False,False,4,3,cartman,1.0,True
+305,759.384,761.052,"Hey, dudes. - Oh, good, you're here.",True,False,6,6,stan,0.6666666666666666,False
+306,761.178,762.471,"Now, let's make sure we've got everything.",False,False,7,6,stan,1.0,False
+307,762.596,763.889,Flashlight? - Check.,True,False,2,2,cartman,0.5,False
+308,764.014,765.39,Plastic pumpkin pails? - Check.,True,False,4,4,stan,0.75,False
+309,765.515,767.058,Taser? - What's that?,True,False,3,3,kyle,0.6666666666666666,False
+310,767.184,768.435,For shocking people who try to give us,False,False,8,8,stan,1.0,False
+311,768.56,769.686,granola treats or something.,False,False,4,4,stan,1.0,False
+312,769.811,771.813,"Yeah, granola pisses me off.",False,False,5,5,cartman,1.0,True
+313,771.938,773.148,"Hey, Kenny.",False,False,2,2,"kyle,",1.0,False
+314,773.273,776.234,"Whew! You stink, Kenny!",False,False,4,4,cartman,1.0,True
+315,776.359,778.278,"You still didn't get a costume, Kenny?",False,False,7,7,kyle,1.0,False
+316,779.07,781.531,"Eh, too bad drinking Scotch isn't a paying job,",False,False,9,9,cartman,1.0,True
+317,781.656,783.825,or else Kenny's dad would be a millionaire.,False,False,8,8,cartman,1.0,True
+318,785.327,787.621,"I said your dad would be a millionaire, Kenny!",False,False,9,8,cartman,1.0,True
+319,787.746,790.624,"Kenny! Your family is poor, Kenny!",False,False,6,6,cartman,1.0,True
+320,790.749,792.167,Your family's poor!,False,False,3,3,cartman,1.0,True
+321,793.21,794.961,I don't like Kenny anymore.,False,False,5,5,cartman,1.0,True
+322,795.086,797.756,He just doesn't communicate.,False,False,4,4,cartman,1.0,True
+323,797.881,799.8,"Hi, guys. - Hi, Wendy.",True,False,4,4,cartman,0.5,False
+324,799.925,801.51,"How's your barrel full of candy, Wendy?",False,False,7,7,stan,1.0,False
+325,801.635,804.095,"Oh, I didn't want all that sweet stuff.",False,False,8,8,wendy,1.0,False
+326,804.221,807.057,I gave it away to hungry children in Nairobi.,False,False,9,9,wendy,1.0,False
+327,807.182,809.684,You what?! Are you insane?!,False,False,5,5,cartman,1.0,True
+328,809.81,811.353,Let's go trick-or-treats!,False,False,5,5,wendy,1.0,False
+329,811.478,813.063,"I don't think so, Wendy.",False,False,5,5,stan,1.0,False
+330,813.188,815.148,I think you've had enough candy for one day.,False,False,9,9,stan,1.0,False
+331,815.273,818.401,"Stan, I'm awful sorry you got dressed up like Raggedy Andy.",False,False,11,11,wendy,1.0,False
+332,818.527,820.403,Please don't be mad.,False,False,4,4,wendy,1.0,False
+333,820.529,822.614,How can he be mad with such pretty hair and rosy cheeks?,False,False,12,12,cartman,1.0,True
+334,822.739,824.491,"Trick-or-treat with yourself, Wendy!",False,False,6,6,stan,1.0,False
+335,824.616,826.743,"But Stan... - No buts, Wendy.",True,False,5,5,stan,0.6,False
+336,826.868,827.953,I wish you were dead!,False,False,5,5,stan,1.0,False
+337,833.959,836.086,"Doctor! - Why hello, Chef.",True,False,4,4,doctor,0.75,False
+338,836.211,837.879,"Let me guess--pinkeye, right?",False,False,5,4,doctor,1.0,False
+339,838.004,839.673,"No. No, Doctor.",False,False,3,3,chef,1.0,False
+340,839.798,841.383,I've seen this type of thing before.,False,False,7,7,chef,1.0,False
+341,841.508,843.844,This ain't no pinkeye. It's the Living Dead.,False,False,8,7,chef,1.0,False
+342,843.969,845.679,What the hell are you talking about?,False,False,7,7,doctor,1.0,False
+343,845.804,847.389,Think about it.,False,False,3,3,chef,1.0,False
+344,847.514,848.765,Dead people getting up and walking around...,False,False,7,7,chef,1.0,False
+345,848.89,850.267,and Tina Yothers come to town?,False,False,6,5,chef,1.0,False
+346,850.392,852.31,"Coincidence? Oh, I don't think so.",False,False,6,5,chef,1.0,False
+347,852.435,854.479,"Chef, I think maybe the pinkeye has made you",False,False,9,8,doctor,1.0,False
+348,854.604,855.981,a little delirious.,False,False,3,3,doctor,1.0,False
+349,856.106,858.066,Let me give you some topical cream.,False,False,7,7,doctor,1.0,False
+350,858.191,859.734,"Damn it, don't you see?",False,False,5,5,chef,1.0,False
+351,859.86,861.319,These people have been zombified!,False,False,5,4,chef,1.0,False
+352,861.444,863.071,"They got no heartbeat, no feeling--",False,False,6,6,chef,1.0,False
+353,863.196,864.364,I'll show you.,False,False,3,3,chef,1.0,False
+354,866.366,869.202,"Uh, Mr. Torres was here for a routine checkup, Chef.",False,False,10,8,doctor,1.0,False
+355,870.662,871.788,"Oh, sorry.",False,False,2,2,chef,1.0,False
+356,871.913,873.665,But my point is,False,False,4,4,chef,1.0,False
+357,873.79,875.959,that topical cream ain't gonna fix what's wrong here!,False,False,9,9,chef,1.0,False
+358,876.084,879.087,"Hey now, now there have been a lot of incredible advances",False,False,11,11,doctor,1.0,False
+359,879.212,881.59,in topical creams over the last few years.,False,False,8,8,doctor,1.0,False
+360,881.715,883.8,"Doctor, who was the first person to come in here",False,False,10,9,chef,1.0,False
+361,883.925,885.26,with the sickness?,False,False,3,3,chef,1.0,False
+362,885.385,887.012,"Well, uh, it was the mortician",False,False,6,6,doctor,1.0,False
+363,887.137,888.972,"and his assistant at the morgue, yeah.",False,False,7,7,doctor,1.0,False
+364,894.227,895.812,"Now, now, fellas, let's form a line.",False,False,7,6,doctor,1.0,False
+365,895.937,898.398,I've got enough topical cream for everybody.,False,False,7,7,doctor,1.0,False
+366,900.191,901.318,Trick-or-treat!,False,False,3,3,the boys,1.0,False
+367,902.986,905.655,"Oh, how cute.",False,False,3,2,elderly,1.0,False
+368,907.115,909.034,"Dude, Kenny!",False,False,2,2,stan,1.0,False
+369,909.159,912.037,"Oh, my God! Call 911!",False,False,5,5,elderly,1.0,False
+370,912.162,914.706,"Call 911! Nice going, Kenny.",False,False,5,5,cartman,0.6,False
+371,914.831,916.249,She was about to give us candy!,False,False,7,7,cartman,1.0,True
+372,916.374,918.001,Yeah! She had Sweetie Pops!,False,False,5,5,stan,1.0,False
+373,918.126,920.211,"You owe me a Sweetie Pop, asshole!",False,False,7,7,cartman,1.0,True
+374,922.213,924.591,"Mayor, we've got a big problem.",False,False,6,6,chef,1.0,False
+375,924.716,928.094,"Why-why Chef, what a surprise.",False,False,6,6,mayor,1.0,False
+376,928.219,930.221,You're probably wondering why we're standing here,False,False,7,7,officer barbrady,1.0,False
+377,930.347,932.849,with a pile of money and no pants on.,False,False,9,9,officer barbrady,1.0,False
+378,932.974,933.892,"Actually, uh--",False,False,2,2,chef,1.0,False
+379,934.017,935.393,"Well, I can assure you",False,False,5,5,mayor,1.0,False
+380,935.518,937.02,that it has absolutely nothing,False,False,5,5,mayor,1.0,False
+381,937.145,939.105,to do with the Japanese Mafia.,False,False,6,6,mayor,1.0,False
+382,939.23,941.066,Not a thingy-dingy.,False,False,4,4,officer barbrady,1.0,False
+383,941.191,942.776,I don't really give a crap.,False,False,6,6,chef,1.0,False
+384,942.901,944.444,We've got to do something about the Living Dead!,False,False,9,9,chef,1.0,False
+385,944.569,946.321,You mean Tina Yothers?,False,False,4,4,mayor,1.0,False
+386,949.574,951.451,"No, dammit! I'm talking about the zombies",False,False,7,7,chef,1.0,False
+387,951.576,953.37,that have taken over South Park!,False,False,6,6,chef,1.0,False
+388,953.495,956.081,"Well, Evel Knievel, why don't you jump over them",False,False,9,9,officer barbrady,1.0,False
+389,956.206,957.666,with your rocket cycle?,False,False,4,4,officer barbrady,1.0,False
+390,960.46,962.087,"Aw, to hell with you both!",False,False,6,5,chef,1.0,False
+391,963.505,965.966,"Well, let's get back to it. - Righty-o.",True,False,8,8,mayor,0.75,False
+392,966.091,968.969,Trick-or-treat!,False,False,3,3,the boys,1.0,False
+393,969.094,971.805,Hope you kids like chocolate peanut butter cream puffies.,False,False,9,9,dude,1.0,False
+394,971.93,974.808,Get it off! Get it off me!,False,False,7,7,dude,1.0,False
+395,982.148,983.441,Dammit! We'll never get any candy,False,False,6,5,cartman,1.0,True
+396,983.566,985.193,if Kenny keeps eating people!,False,False,5,5,cartman,1.0,True
+397,985.318,986.778,"Yeah! That's it, Kenny!",False,False,4,4,stan,1.0,False
+398,986.903,988.613,You can't trick-or-treat with us anymore!,False,False,8,8,stan,1.0,False
+399,989.823,991.449,"Oh, God!",False,False,2,2,somebody,1.0,False
+400,993.284,994.703,Trick-or-treat.,False,False,3,3,the boys,1.0,False
+401,995.954,999.207,"Hey, they're all dressed up like ghosts too.",False,False,8,7,cartman,1.0,True
+402,999.332,1002.669,One Tootie bar? You cheap bastards!,False,False,6,6,cartman,1.0,True
+403,1009.801,1011.636,Trick-or--aaargh!,False,False,3,2,the boys,1.0,False
+404,1011.761,1014.681,Get off my property you brain eatin' zombie bastards!,False,False,9,9,chef,1.0,False
+405,1014.806,1016.599,"No, Chef, No!",False,False,3,2,"stan,",1.0,False
+406,1016.725,1018.935,"Oh, sorry children, I thought you were one of them!",False,False,10,10,chef,1.0,False
+407,1019.06,1021.062,"Can we have some candy now, please?",False,False,7,7,cartman,1.0,True
+408,1021.187,1024.024,"Dammit boy, what the hell are you doing dressed up like that?",False,False,12,10,chef,1.0,False
+409,1024.149,1025.942,"I'm trying to trick-or-treat, goddammit!",False,False,7,6,cartman,1.0,True
+410,1026.067,1028.194,Remind me to whoop your ass good next time I see you.,False,False,12,10,chef,1.0,False
+411,1028.319,1030.53,Now get in here before those zombies get you.,False,False,9,7,chef,1.0,False
+412,1032.032,1033.575,"What are you talking about, Chef?",False,False,6,6,stan,1.0,False
+413,1033.7,1035.827,"Zombies, children. South Park is overrun",False,False,6,6,chef,1.0,False
+414,1035.952,1037.537,with the Living Dead.,False,False,4,4,chef,1.0,False
+415,1037.662,1040.582,Haven't you noticed anything strange lately?,False,False,6,6,chef,1.0,False
+416,1040.707,1042.042,"Well, not really, except that Kenny keeps",False,False,7,7,kyle,1.0,False
+417,1042.167,1043.126,eating people's brains.,False,False,3,3,kyle,1.0,False
+418,1043.251,1044.669,Don't you children see?,False,False,4,4,chef,1.0,False
+419,1044.794,1046.129,"Kenny's turned into a zombie,",False,False,5,5,chef,1.0,False
+420,1046.254,1047.756,along with everyone else in town.,False,False,6,6,chef,1.0,False
+421,1047.881,1049.299,"Oh, my God. That means...",False,False,5,5,stan,1.0,False
+422,1049.424,1051.134,If everyone has turned into zombies...,False,False,6,5,kyle,1.0,False
+423,1051.259,1054.429,Then there won't be anyone to give us candy!,False,False,9,9,cartman,1.0,True
+424,1056.347,1057.557,Chef! You've got to help us!,False,False,6,4,kyle,1.0,False
+425,1057.682,1059.142,"I'm working on it, children.",False,False,5,5,chef,1.0,False
+426,1060.185,1061.728,"Wait, where are we going?",False,False,5,5,stan,1.0,False
+427,1061.853,1063.271,The doctor said the first people he treated,False,False,8,8,chef,1.0,False
+428,1063.396,1065.607,were the mortician and his assistant.,False,False,6,6,chef,1.0,False
+429,1065.732,1068.109,"Now, I've got a hunch we'll get to the bottom of this",False,False,12,10,chef,1.0,False
+430,1068.234,1069.11,at the morgue.,False,False,3,3,chef,1.0,False
+431,1072.197,1073.198,It was Kyle.,False,False,3,3,cartman,1.0,True
+432,1076.826,1078.078,"I don't know about this, Chef.",False,False,6,6,stan,1.0,False
+433,1078.203,1079.579,"Yeah, I'm scared.",False,False,3,3,kyle,1.0,False
+434,1079.704,1083.792,Remember candy. Focus on the candy.,False,False,6,6,cartman,1.0,True
+435,1083.917,1085.418,"What are we doing here, Chef?",False,False,6,6,stan,1.0,False
+436,1085.543,1088.046,Just look for anything suspicious.,False,False,5,5,chef,1.0,False
+437,1088.171,1089.881,I found it! I found it!,False,False,6,6,kyle,1.0,False
+438,1090.006,1091.508,"What? See, Cartman?",False,False,3,3,kyle,0.6666666666666666,False
+439,1091.633,1093.718,Your mom is on the cover.,False,False,6,6,kyle,1.0,False
+440,1093.843,1096.346,"We told you, dude.",False,False,4,4,stan,1.0,False
+441,1098.223,1100.225,"You better let me take that, Kyle.",False,False,7,7,chef,1.0,False
+442,1100.35,1102.435,"Hey, Chef, look.",False,False,3,3,stan,1.0,False
+443,1107.982,1110.777,"I got to call this hotline number, children.",False,False,8,6,chef,1.0,False
+444,1110.902,1112.904,Piiink eyyyeee.,False,False,2,1,pip,1.0,False
+445,1113.029,1114.28,It's the British kid!,False,False,4,4,cartman,1.0,True
+446,1114.405,1115.74,He's a little limey zombie now!,False,False,6,6,cartman,1.0,True
+447,1117.033,1118.201,"Look out, children!",False,False,3,3,chef,1.0,False
+448,1126.501,1127.961,"Ow! Oh, God!",False,False,3,1,zombie,1.0,False
+449,1128.086,1129.504,"Okay, Chef, dial the hotline number!",False,False,6,6,stan,1.0,False
+450,1129.629,1132.257,Chef?,False,False,1,1,stan,1.0,False
+451,1132.382,1133.341,Chef!,False,False,1,1,kyle,1.0,False
+452,1135.093,1136.97,♪ I'm gonna make love ♪,False,True,4,0,,0.0,False
+453,1137.095,1139.264,♪ Even when I'm dead ♪,False,True,4,0,,0.0,False
+454,1139.389,1141.182,♪ My body might get cold ♪,False,True,5,0,,0.0,False
+455,1141.307,1143.393,♪ But it's always hot in my bed ♪,False,True,7,0,,0.0,False
+456,1143.518,1145.311,♪ Make love ♪,False,True,2,0,,0.0,False
+457,1145.436,1147.063,♪ Don't you be afraid ♪,False,True,4,0,,0.0,False
+458,1147.188,1149.274,♪ Just because my heart ain't beating ♪,False,True,6,0,,0.0,False
+459,1149.399,1151.818,♪ It don't mean you won't get laid ♪,False,True,7,0,,0.0,False
+460,1151.943,1153.945,♪ Yee-hee! ♪,False,True,2,0,,0.0,False
+461,1154.07,1155.572,Let's get out of here!,False,False,5,5,stan,1.0,False
+462,1155.697,1158.241,Ohhhh!,False,False,1,0,,0.0,False
+463,1158.366,1160.535,We gotta call that Worcestershire sauce hotline!,False,False,7,6,stan,1.0,False
+464,1160.66,1162.245,"Hey, there's a payphone!",False,False,4,3,cartman,1.0,True
+465,1162.37,1163.58,"You call the number, Kyle.",False,False,5,5,stan,1.0,False
+466,1163.705,1164.581,But the zombies are coming!,False,False,5,5,kyle,1.0,False
+467,1165.79,1167.125,We'll hold them off.,False,False,4,3,stan,1.0,False
+468,1168.585,1169.669,Welcome to the Worcestershire sauce,False,False,5,5,hotline,1.0,False
+469,1169.794,1171.629,customer service hotline.,False,False,3,3,hotline,1.0,False
+470,1171.754,1172.922,"For Worcestershire sauce recipes, please press 1",False,False,7,7,hotline,1.0,False
+471,1173.047,1174.716,followed by the pound sign.,False,False,5,5,hotline,1.0,False
+472,1174.841,1175.925,"For Worcestershire sauce product placement,",False,False,5,5,hotline,1.0,False
+473,1176.05,1177.886,please press 2.,False,False,3,3,hotline,1.0,False
+474,1178.011,1179.22,"If Worcestershire sauce has been used as embalming,",False,False,8,8,hotline,1.0,False
+475,1179.345,1180.763,please press--,False,False,2,1,hotline,1.0,False
+476,1180.889,1182.39,Nobody screws up my trick-or-treats,False,False,7,7,cartman,1.0,True
+477,1182.515,1183.725,and gets away with it!,False,False,5,5,cartman,1.0,True
+478,1183.85,1186.603,"Yeah, cool!",False,False,2,0,,0.0,False
+479,1186.728,1187.729,Sweet!,False,False,1,1,stan,1.0,False
+480,1192.233,1193.401,Worcestershire sauce emergency hotline.,False,False,4,4,hotline,1.0,False
+481,1193.526,1195.153,This call might be monitored,False,False,5,5,hotline,1.0,False
+482,1195.278,1196.279,to ensure you the highest quality service.,False,False,7,7,hotline,1.0,False
+483,1196.404,1197.614,How may I help you?,False,False,5,5,hotline,1.0,False
+484,1197.739,1198.656,There's a bunch of zombies here!,False,False,6,6,kyle,1.0,False
+485,1198.781,1200.158,Please hold.,False,False,2,2,hotline,1.0,False
+486,1208.833,1209.834,Wendy?,False,False,1,1,stan,1.0,False
+487,1211.586,1213.296,"Finish her, dude. She's a zombie now.",False,False,7,7,cartman,1.0,True
+488,1213.421,1214.547,"I know, but...",False,False,3,3,stan,1.0,False
+489,1214.672,1216.466,"But-- - Come on, Stan!",True,False,4,4,cartman,0.75,False
+490,1216.591,1218.301,Remember how she dissed you at the costume contest?,False,False,9,9,cartman,1.0,True
+491,1218.426,1219.594,"Hey, yeah!",False,False,2,2,stan,1.0,False
+492,1221.471,1223.097,"With the regular sauce, the first thing you need to do",False,False,11,9,hotline,1.0,False
+493,1223.223,1224.474,is make sure that you do not just go out,False,False,10,10,hotline,1.0,False
+494,1224.599,1225.975,and start decapitating zombies,False,False,4,4,hotline,1.0,False
+495,1226.1,1227.727,"left and right, do you understand?",False,False,6,6,hotline,1.0,False
+496,1227.852,1230.313,Do not start decapitating zombies left and right!,False,False,8,8,hotline,1.0,False
+497,1230.438,1232.065,"Uh, okay. Then what?",False,False,4,4,kyle,1.0,False
+498,1233.65,1234.776,"Wendy, I know we had a fight,",False,False,7,7,stan,1.0,False
+499,1234.901,1236.319,"and I did wish you were dead,",False,False,7,7,stan,1.0,False
+500,1236.444,1238.446,"but I didn't mean it. Kill her, Stan!",False,False,8,8,stan,0.625,False
+501,1238.571,1239.989,"All you have to do is kill the original zombie,",False,False,10,10,hotline,1.0,False
+502,1240.114,1241.491,the one that started the whole mess.,False,False,7,7,hotline,1.0,False
+503,1241.616,1243.201,"Once you kill the original zombie,",False,False,6,6,hotline,1.0,False
+504,1243.326,1244.619,all the other zombies will turn back to normal.,False,False,9,8,hotline,1.0,False
+505,1244.744,1246.621,Original zombie?,False,False,2,2,kyle,1.0,False
+506,1246.746,1248.581,"Well, how the hell do we know who the original zombie is?",False,False,12,12,kyle,1.0,False
+507,1248.706,1250.166,We realize you have a choice in Worcestershire sauces.,False,False,9,9,hotline,1.0,False
+508,1250.291,1251.793,We are delighted that--,False,False,4,4,hotline,1.0,False
+509,1251.918,1253.002,Wait a minute.,False,False,3,3,kyle,1.0,False
+510,1253.127,1254.629,That thing landed on Kenny.,False,False,5,5,kyle,1.0,False
+511,1254.754,1256.422,And they took him to the mortuary.,False,False,7,7,kyle,1.0,False
+512,1257.632,1258.675,I--I can't.,False,False,3,3,stan,1.0,False
+513,1267.267,1269.102,"Oh, my God! I killed Kenny!",False,False,6,6,kyle,1.0,False
+514,1269.227,1270.937,You bastard!,False,False,2,2,kyle,1.0,False
+515,1271.062,1273.398,Oh... What happened?,False,False,3,3,wendy,1.0,False
+516,1273.523,1276.15,"Stan? - Don't worry, babe.",True,False,4,4,stan,0.75,False
+517,1276.276,1277.944,Everything's gonna be okay.,False,False,4,3,stan,1.0,False
+518,1278.069,1279.737,It's working. They're turning back to normal.,False,False,7,7,kyle,1.0,False
+519,1279.862,1281.572,"You did it, children!",False,False,4,4,chef,1.0,False
+520,1281.698,1282.699,"Okay, let's go trick-or-treating now.",False,False,7,5,cartman,1.0,True
+521,1282.824,1284.45,Come on.,False,False,2,2,cartman,1.0,True
+522,1284.575,1286.911,"I'm sorry I dissed you at school like that, Stan.",False,False,10,10,wendy,1.0,False
+523,1287.036,1290.456,I guess I just wasn't very considerate of your feelings.,False,False,10,10,wendy,1.0,False
+524,1290.581,1293.209,"That's okay, Wendy. I'm sorry I wished you were dead.",False,False,10,10,stan,1.0,False
+525,1293.334,1298.172,"Maybe we could actually kiss tonight, Stan.",False,False,7,7,wendy,1.0,False
+526,1299.799,1302.051,"Ew, gross, Stan!",False,False,3,2,wendy,1.0,False
+527,1302.176,1305.138,Sick! Barf is gross!,False,False,4,4,wendy,1.0,False
+528,1310.518,1312.729,"Oh, man. I can't believe he's gone.",False,False,7,7,stan,1.0,False
+529,1312.854,1314.981,"Yeah, he was too young to be taken from us.",False,False,10,10,kyle,1.0,False
+530,1315.106,1316.983,"Dude, you're the one who cut him in half with a chainsaw.",False,False,12,11,stan,1.0,False
+531,1317.108,1319.527,Let us remember the good times.,False,False,6,6,cartman,1.0,True
+532,1319.652,1322.03,Kenny would have wanted it that way.,False,False,7,7,cartman,1.0,True
+533,1326.701,1328.202,"You know, I've really learned something today.",False,False,7,7,stan,1.0,False
+534,1328.328,1330.955,Halloween isn't about costumes or candy.,False,False,6,6,stan,1.0,False
+535,1331.08,1332.582,It's about being good to one another,False,False,7,7,stan,1.0,False
+536,1332.707,1334.125,and giving and loving.,False,False,4,4,stan,1.0,False
+537,1334.25,1336.294,"No, dude, that's Christmas.",False,False,4,4,kyle,1.0,False
+538,1336.419,1338.421,Oh. Then what's Halloween about?,False,False,5,5,stan,1.0,False
+539,1338.546,1340.381,Costumes and candy. - Oh.,True,False,4,4,kyle,0.75,False
+540,1342.3,1344.552,"Well, let's get home and start eating that candy.",False,False,9,7,cartman,1.0,True
+541,1344.677,1346.22,We can eat it at Cartman's house,False,False,7,7,kyle,1.0,False
+542,1346.346,1347.68,and see more naughty pictures of his mom!,False,False,8,8,kyle,1.0,False
+543,1347.805,1349.39,"Yeah. - Knock it off, you guys!",True,False,6,6,cartman,0.8333333333333334,False
+544,1349.515,1351.225,She said she was young and needed the money!,False,False,9,9,cartman,1.0,True
+545,1351.351,1353.311,"Cartman, those pictures were taken, like, last month.",False,False,8,8,stan,1.0,False
+546,1353.436,1356.272,Screw you guys!,False,False,3,3,cartman,1.0,True
+547,1366.407,1367.617,Ugh!,False,False,1,0,,0.0,False

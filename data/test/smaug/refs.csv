@@ -1,0 +1,4 @@
+id,source,start,end,dur,text,dup,srt,asr,wer,spk_sim,split,in_1min
+dos_0827802,dos,8278.02,8284.51,6.48,"Come, now don't be shy. Step into the light.",False,"1876,1877,1878","Come now, don't be shy. Step into the light.",0.0,0.9729987382888794,test,False
+dos_1031591,dos,10315.92,10322.71,6.8,Those sniveling cowards with their long bows and Black Arrows.,False,"2235,2236,2237",Those sniveling cowards with their long bows and black arrows!,0.0,0.9728180170059204,test,False
+bofa_0061654,bofa,616.54,624.6,8.06,"Tell me, wretch. How now shall you challenge me?",False,,"Tell me, wretch, how now shall you challenge me?",0.0,0.9759873151779175,test,False

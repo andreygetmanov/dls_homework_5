@@ -1,0 +1,561 @@
+{{TabScript|episode=Death|code=u9aiib/south-park-death-season-1-ep-6|nav={{SP navigation|An Elephant Makes Love to a Pig|Pinkeye}}}}
+{{Official Script|e=106}}
+==Cast==
+*[[Stan Marsh]]
+*[[Kyle Broflovski]]
+*[[Eric Cartman]]
+*[[Kenny McCormick]]
+*[[Randy Marsh]]
+*[[Sharon Marsh]]
+*[[Marvin Marsh]]
+*[[Shelly Marsh]]
+*[[Sheila Broflovski]]
+*[[Terrance and Phillip|Terrance]]
+*[[Terrance and Phillip|Phillip]]
+*[[Clyde Donovan]]
+*[[Liane Cartman]]
+*[[Herbert Garrison|Mr. Garrison]]
+*[[Mr. Hat]]
+*[[Jerome "Chef" McElroy|Chef]]
+*[[Jesus Christ]]
+*[[Mayor McDaniels]]
+*[[Officer Barbrady]]
+*[[John Warsog]]
+*[[Death (Character)|Death]]
+*[[Great-Great-Grandpa Marsh]]
+*[[Suzanne Somers]]
+*Dude
+
+==Script==
+{{EpisodeScript|
+{{ScriptScene|Stan's House.}}
+{{ScriptDialog|Marsh Family|<poem><i>Happy Birthday to you, happy birthday to you, happy birthday dear grandpa...</i></poem>}}
+{{ScriptDialog|Marvin "Grandpa" Marsh|Uhhhhh.}}
+{{ScriptDialog|Marsh Family|<poem><i>...Happy birthday to you.</i></poem>}}
+{{ScriptDialog|Sharon|Now blow out the candles grandpa.}}
+{{ScriptScene|Grandpa blows, but nothing comes out but a low moan.}}
+{{ScriptDialog|All|Hurray!!!}}
+{{ScriptDialog|Randy|How's it feel to be 102, paps?}}
+{{ScriptDialog|Grandpa|Shoot me.}}
+{{ScriptDialog|Sharon|Make a wish, grandpa.}}
+{{ScriptDialog|Grandpa|I wish I were dead.}}
+{{ScriptDialog|Randy|Ha, ha, ha, that's our silly grandpa.}}
+{{ScriptDialog|Grandpa|I'm ''not'' being silly! Kill me. I'd do it myself, but I'm too damn old.}}
+{{ScriptDialog|Sharon|Ooh, who wants ice cream with their cake?}}
+{{ScriptDialog|Shelly|I will.}}
+{{ScriptDialog|Randy|Me.}}
+{{ScriptDialog|Stan|It's eight o'clock, my favorite TV show is on.}}
+{{ScriptDialog|Shelly|That show's for babies, it's so stupid.}}
+{{ScriptDialog|Stan|Can I eat my cake in the living room, mom? Please, can I?}}
+{{ScriptDialog|Sharon|Oh, alright, but take your grandpa with you.}}
+{{ScriptDialog|Stan|Aw, dammit!}}
+{{ScriptDialog|Sharon|Language.}}
+{{ScriptScene|In front of the TV. Stan has his slice of cake with him.}}
+{{ScriptDialog|TV Announcer|And now back to ''Terrance & Phillip''.}}
+{{ScriptDialog|Phillip|Hey Terrance, I think I have to fart.}}
+{{ScriptDialog|Terrance|Wait, before you do, pull my thumb.}}
+{{ScriptScene|Phillip pulls, and Terrance lets loose with a juicy fart. They both laugh.}}
+{{ScriptDialog|Stan|Heheheh hehehe...}}
+{{ScriptDialog|Grandpa|Uhhhhh}}
+{{ScriptScene|Grandpa lines a shotgun up to his face, but it leaves a big hole in the picture behind him when he shoots.}}
+{{ScriptDialog|Grandpa|Ah, dammit!}}
+{{ScriptScene|Stan looks at him.}}
+{{ScriptDialog|Granpa|How would you like to make a dollar, Billy?}}
+{{ScriptDialog|Stan|My name's not Billy, grandpa. It's Stan.}}
+{{ScriptDialog|Grandpa|Dammit, Billy, do you want a dollar or don't ya?}}
+{{ScriptDialog|Stan|Sure.}}
+{{ScriptDialog|Grandpa|Okay. You just have to do one thing for me.}}
+{{ScriptDialog|Stan|I'm not gonna kill you, grandpa.}}
+{{ScriptDialog|Grandpa|Why not?}}
+{{ScriptDialog|Stan|'Cause I'll get in trouble.}}
+{{ScriptDialog|Grandpa|I killed my grandpa when I was your age.}}
+{{ScriptDialog|Stan|Leave me alone, grandpa.}}
+{{ScriptScene|On the TV there's a fart, and more laughter.}}
+{{ScriptDialog|Grandpa|What has America's youth come to? Kids won't even kill their own grandparents.}}
+{{ScriptScene|Kyle's House. Ike and Kyle are watching 'Terrance & Phillip'}}
+{{ScriptDialog|Phillip|Hey Terrance, now that you've farted, I think I might fart too.}}
+{{ScriptScene|Phillip farts, and they laugh.}}
+{{ScriptDialog|Terrance|Ohhh, you farted.}}
+{{ScriptScene|Kyle is laughing pretty hard.}}
+{{ScriptDialog|Sheila Broflovski|Kyle, bubbe, what are you watching?}}
+{{ScriptDialog|Terrance|Hey Phillip, would you like a flower?}}
+{{ScriptDialog|Phillip|I sure would Terrance.}}
+{{ScriptDialog|Terrance|Alrighty then, here's a two-lip.}}
+{{ScriptScene|Terrance farts, and they laugh.}}
+{{ScriptDialog|Sheila|What is this?}}
+{{ScriptScene|Kyle falls off the armchair laughing.}}
+{{ScriptDialog|Sheila|It's horrible!}}
+{{ScriptScene|Kyle gets up off the floor.}}
+{{ScriptDialog|Kyle|Dude, it's ''Terrance & Phillip''.}}
+{{ScriptScene|Phillip knocks Terrance's head to one side.}}
+{{ScriptDialog|Phillip|Take that, you stupid dick.}}
+{{ScriptDialog|Sheila|What did he say?}}
+{{ScriptDialog|Terrance|You're an asshole, Phillip.}}
+{{ScriptDialog|Sheila|Whatwhatwhaaat?!!?}}
+{{ScriptScene|Laughter. She turns the set off.}}
+{{ScriptDialog|Shiela|Young man, you are not to watch that show anymore! It's immature toilet humor!}}
+{{ScriptDialog|Kyle|But everybody watches ''Terrance & Phillip''.}}
+{{ScriptScene|Sheila with her arms akimbo.}}
+{{ScriptDialog|Sheila|Oh really? Is that so?}}
+{{ScriptScene|Cartman's House.}}
+{{ScriptDialog|Terrance|Oh no, Phillip, looks like you're about to fart.}}
+{{ScriptDialog|Phillip|You're exactly right, Terrance. Oh.}}
+{{ScriptScene|Fart. Laughter.}}
+{{ScriptDialog|Terrance|Oh no.}}
+{{ScriptScene|Laughter.}}
+{{ScriptDialog|Cartman|Ha, ha, ha, that's sweet!}}
+{{ScriptDialog|Liane|Eric dear? I just got a call from your friend Kyle's mother. She said that this show is naughty, and might make you a potty mouth.}}
+{{ScriptDialog|Cartman|That's a bunch of crap! Kyle's mom is a dirty Jew!}}
+{{ScriptDialog|Liane|Ohhh, okay hon.}}
+{{ScriptScene|Stan's House. Stan is going to bed, but before entering he reviews his chores for the morrow. Grandpa has added one more...}}
+{{ScriptDialog|Stan|I'm not going to kill you, grandpa!}}
+{{ScriptDialog|Grandpa|Ingrate!}}
+{{ScriptDialog|Stan|Good night, grandpa.}}
+{{ScriptDialog|Grandpa|You pompous son of a w****!}}
+{{ScriptScene|Mr. Garrison's Class.}}
+{{ScriptDialog|Student|Huh huh, I had another ...}}
+{{ScriptScene|Cartman punches Kyle on the shoulder.}}
+{{ScriptDialog|Kyle|Ow! What the hell was that for?!}}
+{{ScriptDialog|Cartman|That's for your stupid mother! She made me miss ''Terrance & Phillip'' last night!}}
+{{ScriptDialog|Clyde|Yeah, what's the big idea having your mom call all our moms last night?}}
+{{ScriptDialog|Kyle|Well I didn't have her do it. She did it on her own.}}
+{{ScriptDialog|Cartman|Why does this happen every month? It seems like, right around the same time every month, Kyle's mom gets a hair up her ass about something and I always end up getting screwed by it!}}
+{{ScriptDialog|Mr. Garrison|Children! Children! A certain student's mother called me last night.}}
+{{ScriptDialog|Cartman|''[Tauntingly.]'' Oh, gee, I wonder who's mother that could have been?}}
+{{ScriptDialog|Mr. Garrison|She informed me that some of you might be watching a, a naughty show called ''Terrance & Phillip''.}}
+{{ScriptDialog|Class|Yeahh, woohoo!}}
+{{ScriptDialog|Mr. Hat|Watching that show is bad, Mr. Garrison.}}
+{{ScriptDialog|Mr. Garrison|That's right, Mr. Hat. Shows like ''Terrance & Phillip'' are what we call 'toilet humor'. They don't expand your minds.}}
+{{ScriptScene|Silence.}}
+{{ScriptDialog|Mr. Garrison|You see children, these kind of shows are senseless, vile trash.}}
+{{ScriptScene|Kenny walks in.}}
+{{ScriptDialog|Mr. Garrison|Kenny, why are you late to class?}}
+{{ScriptScene|Kenny hands Mr. Garrison a note. The note reads 'Please excuse me for being late. I have explosive Diarrhea. signed -K'}}
+{{ScriptDialog|Mr. Garrison|Oh, okay Kenny, be seated.}}
+{{ScriptScene|Addressing the class.}}
+{{ScriptDialog|Mr. Garrison|Now, as I was saying, the reason that parents of South Park are so upset is because...}}
+{{ScriptScene|Kenny is waving his hand frantically.}}
+{{ScriptDialog|Mr. Garrison|Yes, Kenny, what is it?}}
+{{ScriptDialog|Kenny|(I have to go poop.)}}
+{{ScriptDialog|Mr. Garrison|I thought you just came from the bathroom.}}
+{{ScriptDialog|Kenny|(I did, I gotta go again...)}}
+{{ScriptDialog|Mr. Garrison|Okay, okay, go ahead.}}
+{{ScriptScene|Kenny goes in the restroom.}}
+{{ScriptDialog|Mr. Garrison|As I was saying, you all seem to enjoy this show, even though it isn't based in reality. There's much more to life than two young men farting on each other. And throughout history there have always been shows that have come and gone that have been very bad, and usually they get taken right off the air. You see, you should be spending your time enlightening your minds with more intelligent entertainment.}}
+{{ScriptScene|Throughout the lecture, sounds of some serious diarrhea come from the bathroom. The sounds get progressively worse as Kenny moans loudly. Kenny reenters the classroom at the end of the lecture. Kenny sits back at his desk and Stan, reacting to the diarrhea's smell, waves his hand in front of his face.}}
+{{ScriptDialog|Stan|Whoa! Smells like you slaughtered a cow in there, Kenny!}}
+{{ScriptDialog|Mr. Garrison|Pay attention children!}}
+{{ScriptScene|Pounds on the lectern.}}
+{{ScriptDialog|Mr. Garrison|I'm going to join your parents in requesting that you don't watch ''Terrance & Phillip'' any more, ever.}}
+{{ScriptDialog|Cartman|What?}}
+{{ScriptDialog|Clyde|Not watch ''Terrance & Phillip'' ever?}}
+{{ScriptScene|Kyle's face drops.}}
+{{ScriptDialog|Mr. Garrison|That's right, children. Are there any questions?}}
+{{ScriptScene|Stan raises his hand.}}
+{{ScriptDialog|Mr. Garrison|Yes, Stanley?}}
+{{ScriptDialog|Stan|Is it okay to kill somebody if they want you to?}}
+{{ScriptScene|After a moment of reflection.}}
+{{ScriptDialog|Mr. Garrison|What, what do you mean?}}
+{{ScriptDialog|Stan|My grandpa keeps asking that I kill him all the time, and sometimes I wonder if I should.}}
+{{ScriptDialog|Kyle|Well, then you should. I think that a person has a right to die if they wanna.}}
+{{ScriptDialog|Stan|Really??}}
+{{ScriptDialog|Kyle|Yeah, there's this guy named Jack Leborkian that goes around and murders people that ask him to, and he doesn't get in any trouble at all.}}
+{{ScriptDialog|Stan|Wow!}}
+{{ScriptDialog|Cartman|Hey, maybe we can get him to kill Kyle's mom!}}
+{{ScriptDialog|Stan|So, is it okay to assist somebody with suicide, Mr. Garrison?}}
+{{ScriptDialog|Mr. Garrison|Uh, Stan, I'm not touching that one with a twenty-foot pole.}}
+{{ScriptDialog|Kenny|('''OH MY GOD!''')}}
+{{ScriptScene|Kenny runs into the bathroom and releases a large splatter of diarrhea.}}
+{{ScriptDialog|Kenny|(Owww!) ''[Splatterrrrr!]''}}
+{{ScriptScene|School Cafeteria.}}
+{{ScriptDialog|Cartman|Man! I can't believe we're gonna miss ''Terrance & Phillip'' today. I think I'm already having withdrawal.}}
+{{ScriptScene|He starts convulsing and making seizure related sounds.}}
+{{ScriptDialog|Stan|Don't worry dude, we can all go watch it at my house. My parents don't get home until late.}}
+{{ScriptDialog|Kyle|But won't your grandpa be there?}}
+{{ScriptDialog|Stan|Yeah...}}
+{{ScriptDialog|Cartman|Just kill 'im dude, maybe he'll give you some money.}}
+{{ScriptDialog|Chef|Hello there, children.}}
+{{ScriptDialog|Stan|Hey, Chef.}}
+{{ScriptDialog|Chef|How's it goin'?}}
+{{ScriptDialog|Stan|Bad.}}
+{{ScriptDialog|Chef|Why bad?}}
+{{ScriptDialog|Stan|Chef, is it okay to kill your grandpa?}}
+{{ScriptDialog|Chef|You can't kill my grandpa, Stan, he's already passed on.}}
+{{ScriptDialog|Stan|No, I mean, kill my grandpa.}}
+{{ScriptDialog|Chef|No, I don't think that's okay, Stan. In fact, I think that's illegal.}}
+{{ScriptDialog|Stan|See, I told you dude.}}
+{{ScriptDialog|Kyle|Well, yeah, but what if the grandpa wants to die, cause he's really old, and he's just asking for help?}}
+{{ScriptDialog|Cartman|Yeah, like assisted suicide. What about that?}}
+{{ScriptScene|Chef stops himself twice before responding}}
+{{ScriptDialog|Chef|I don't want to touch that with a forty foot pole.}}
+{{ScriptDialog|Stan|What's the big deal? Why won't anybody talk about this???}}
+{{ScriptScene|South Park PTA Meeting.}}
+{{ScriptDialog|Sheila|And I myself was not aware of this horrible show until recently. I have a clip to demonstrate exactly what I mean.}}
+{{ScriptScene|She puts the tape in and starts the VCR.}}
+{{ScriptDialog|Terrance|Hey, Phillip, guess what?}}
+{{ScriptDialog|Phillip|What?}}
+{{ScriptScene|Rips a fart.}}
+{{ScriptDialog|Terrance|Fart.}}
+{{ScriptDialog|Sheila|Now apparently, that's supposed to be funny.}}
+{{ScriptDialog|Randy|Heh, heh, heh, he farted right on his head, heh heh.}}
+{{ScriptScene|Other PTA members stare at Randy in shock. He looks around chagrined.}}
+{{ScriptDialog|Sheila|Not allowing our kids to watch this show is not enough. We need to boycott the entire network! All those in favor...}}
+{{ScriptScene|Loud, juicy fart comes from the little boys room. Mr. Garrison exits.}}
+{{ScriptDialog|Mr. Garrison|Ohh, I think I've caught a touch of the flu from little Kenny this morning. I've got the green apple splatters.}}
+{{ScriptScene|Amid peals of laughter.}}
+{{ScriptDialog|Townsman|Ha ha, green apple splatters.}}
+{{ScriptScene|Stan's House.}}
+{{ScriptDialog|Grandpa|Uhhhh.}}
+{{ScriptDialog|Stan|Hi grandpa, I brought my friends over to watch TV, if that's okay.}}
+{{ScriptDialog|Grandpa|Billy, help grandpa stick this fork in the outlet.}}
+{{ScriptDialog|Stan|No grandpa, I'll get in trouble.}}
+{{ScriptDialog|Grandpa|Kill me, God dammit!}}
+{{ScriptDialog|Stan|No, I can't even kill a deer.}}
+{{ScriptDialog|Grandpa|Well then, have one of your little friends do it. You can kill me can't ya?}}
+{{ScriptDialog|Cartman|I would never kill somebody... not unless they piss me off.}}
+{{ScriptScene|Seizing the opportunity.}}
+{{ScriptDialog|Grandpa|Ohh, is that a fact? Well, let me tell you something, Porky. Your mom was over here earlier, and I humped her like a little b****.}}
+{{ScriptDialog|Cartman|What!}}
+{{ScriptDialog|Grandpa|That's right.}}
+{{ScriptDialog|Stan|Grandpa!}}
+{{ScriptDialog|Grandpa|And then, I dug up your great-grandma's skeleton, and had my way with her too.}}
+{{ScriptDialog|Cartman|Hey!}}
+{{ScriptDialog|Grandpa|Choice piece of ass, your great-grandma.}}
+{{ScriptDialog|Cartman|You piece of crap! I'll kill you!}}
+{{ScriptDialog|Grandpa|That's the spirit, Tubby.}}
+{{ScriptScene|Restraining Cartman.}}
+{{ScriptDialog|Stan|Come on, Cartman, he's just trying to get to you.}}
+{{ScriptDialog|Cartman|Don't talk about my mom like that!}}
+{{ScriptScene|Dragging Cartman away.}}
+{{ScriptDialog|Stan|We can go watch Terrance & Phillip in the kitchen.}}
+{{ScriptDialog|Grandpa|I ever tell you about the time I boofed your dad, Fatso?}}
+{{ScriptDialog|Cartman|Ah, I can't believe that son of a b****!}}
+{{ScriptDialog|Stan|Here Cartman, have some Snacky Cakes.}}
+{{ScriptDialog|Cartman|Oooh, Snacky Cakes, god dang.}}
+{{ScriptDialog|Stan|I don't know what to do dude, my grandpa really wants to die.}}
+{{ScriptDialog|Kyle|I'm telling you, it's okay. Maybe you should ask the Lord for guidance.}}
+{{ScriptDialog|Stan|Hey, yeah!}}
+{{ScriptScene|Stan's House, kitchen.}}
+{{ScriptDialog|TV Announcer|And now, back to 'Jesus and Pals' on South Park Public Access.}}
+{{ScriptDialog|Jesus|Yea, believe in me and ye shall find peace.}}
+{{ScriptScene|Jesus presses a button on the phone.}}
+{{ScriptDialog|Jesus|First caller, you're on 'Jesus and Pals'.}}
+{{ScriptScene|There's an echo.}}
+{{ScriptDialog|Caller|Yeah, is this Jesus?}}
+{{ScriptDialog|Jesus|Yes, yes caller, you need to turn your TV down, that's why you're getting that weird feedback.}}
+{{ScriptDialog|Caller|Oh, sorry.}}
+{{ScriptScene|Caller fixes the echo.}}
+{{ScriptDialog|Caller|Uh, this is Martin...}}
+{{ScriptDialog|Jesus|Martin, from Aspen Park, yes, I know.}}
+{{ScriptDialog|Martin|How the hell'd you know that?}}
+{{ScriptDialog|Jesus|Well, maybe because I'm the Son of God, brainiac, now, do you have a question?}}
+{{ScriptDialog|Martin|Uh, yeah, uh, I have this cousin who, who cheated on the SAT's and-}}
+{{ScriptDialog|Jesus|Tell little Gregory that cheating is lying and lying is wrong, no matter what the circumstance.}}
+{{ScriptDialog|Martin|Oh, oh, okay, thanks for the advice, Jesus.}}
+{{ScriptScene|Jesus presses a button on the phone.}}
+{{ScriptDialog|Jesus|Next caller, you're on the air.}}
+{{ScriptDialog|Stan|Jesus?}}
+{{ScriptDialog|Jesus|Yes my son?}}
+{{ScriptDialog|Stan|Jesus, is, is it okay to kill somebody if they ask you to, because they're in a lot of pain, you know, like, assisted suicide, is that okay?}}
+{{ScriptDialog|Jesus|My son...}}
+{{ScriptDialog|Stan|Yes?}}
+{{ScriptDialog|Jesus|I'm not touching that with a sixty foot pole.}}
+{{ScriptScene|He presses a button on the phone.}}
+{{ScriptDialog|Jesus|Next caller.}}
+{{ScriptDialog|Stan|Goddammit!}}
+{{ScriptDialog|Jesus|I heard that.}}
+{{ScriptDialog|Stan|What the hell is wrong with everybody?}}
+{{ScriptDialog|Cartman|Hey you guys, Terrance & Phillip is on!}}
+{{ScriptDialog|Kyle|Yeah, hey, do you think we'll get in trouble for watching it?}}
+{{ScriptDialog|Stan|Kyle, don't be such a butt-hole!}}
+{{ScriptDialog|Cartman|Yeah, just cause your mom is a stupid b**** doesn't mean the whole world has to suffer.}}
+{{ScriptDialog|Kyle|Don't call my mom a b****, Cartman!}}
+{{ScriptDialog|Cartman|Oh, biiitch.}}
+{{ScriptScene|Turns around and hoists his ass up to simulate a woman with a big ass.}}
+{{ScriptDialog|Cartman|Your—mom—is--a--bi-bi-bii-biittchh.}}
+{{ScriptDialog|TV Announcer|And now back to Terrance & Phillip.}}
+{{ScriptDialog|Terrance|Hey Phillip, would you like to eat some beans.}}
+{{ScriptDialog|Phillip|Oho yeah, I love beans.}}
+{{ScriptDialog|Cartman|Uh oh, I bet I know what's coming.}}
+{{ScriptDialog|Grandpa|Billy, would you mind holding this for grandpa, please?}}
+{{ScriptDialog|Stan|Okay, grandpa, okay. Just get out of the way of the TV.}}
+{{ScriptDialog|Terrance|Hey Phillip, it looks like those beans might make me fart.}}
+{{ScriptDialog|Phillip|Well, don't fart on me, Terrance.}}
+{{ScriptDialog|Cartman|Dude, he's gonna fart on his head again.}}
+{{ScriptDialog|Kenny|(Oh my God!)}}
+{{ScriptScene|Kenny runs to the bathroom.}}
+{{ScriptDialog|Cartman|Hey, you're gonna miss it, Kenny.}}
+{{ScriptScene|After receiving the dreaded fart.}}
+{{ScriptDialog|Phillip|You're such an asshole, Terrance.}}
+{{ScriptDialog|Terrance|Haha, that I am!}}
+{{ScriptScene|Laughter.}}
+{{ScriptScene|Disgusting diarrhea sounds.}}
+{{ScriptDialog|Kenny|(Ow!)}}
+{{ScriptDialog|Cartman|Hurry up Kenny, you're gonna miss the fart.}}
+{{ScriptScene|Shelly walks in.}}
+{{ScriptDialog|Shelly|Jesus! What the hell are you doing?}}
+{{ScriptDialog|Stan|We're not watching Terrance & Phillip, I swear. I, I mean, Cartman was watching it.}}
+{{ScriptDialog|Shelly|No, I mean, what the hell are you doing to grandpa?!}}
+{{ScriptScene|Stan traces the rope and realizes that Grandpa has hung himself, but hasn't died.}}
+{{ScriptDialog|Grandpa|Tug - a - little harder, Billy.}}
+{{ScriptDialog|Stan|Aaah!!}}
+{{ScriptScene|Releases the rope. Grandpa falls to the ground, landing on his side.}}
+{{ScriptDialog|Grandpa|Uh, ow.}}
+{{ScriptDialog|Shelly|You little jerk!}}
+{{ScriptScene|Slugs Stan in the face}}
+{{ScriptDialog|Shelly|You were trying to kill grandpa! I'm telling mom!}}
+{{ScriptDialog|Grandpa|Dammit! I was so close.}}
+{{ScriptScene|Some time later the kids are the ones on television.}}
+{{ScriptDialog|TV Announcer|Four third graders from South Park, Colorado, were found trying to viciously murder an innocent grandfather.}}
+{{ScriptDialog|Talk Show Host|Boys, how did you get driven so far to the edge? What changed you into such demonic little bastards?}}
+{{ScriptDialog|Stan|We didn't know what we were doing. We were just sitting there, watching Terrance & Phillip and...}}
+{{ScriptDialog|Talk Show Host|Terrance & Phillip, aha! So it is that show that is to blame.}}
+{{ScriptScene|In front of Tom's Rhinoplasty.}}
+{{ScriptDialog|Sheila|These boys minds have been tainted by the garbage on television that they see, and we are fed up!}}
+{{ScriptDialog|Crowd|Woooo!}}
+{{ScriptDialog|Townsman|Huh? Oh god! Oh god!}}
+{{ScriptScene|Runs into a Port-a-Potty for some quick relief.}}
+{{ScriptDialog|Sheila|We have to stop this smut from going on the air. We will march to the network and protest until our demands are met. New York, here we come!}}
+{{ScriptScene|Sound of a deep, wet, sonorous fart.}}
+{{ScriptScene|In front of Cartoon Central.}}
+{{ScriptScene|Cartoon faces of Tragedy and Comedy adorn the signs.}}
+{{ScriptDialog|Sheila|We are spreading the word to this establishment that we demand better television, for our children!}}
+{{ScriptScene|Loud cheering from the crowd.}}
+{{ScriptDialog|Sheila|We want more quality television, like ''Full House''.}}
+{{ScriptScene|More cheering.}}
+{{ScriptScene|In line to use the Port-a-Potty.}}
+{{ScriptDialog|Randy|Oh, I think you gave me the stomach flu, Mr. Garrison.}}
+{{ScriptDialog|Mr. Garrison|No, no, it was that little Kenny bastard that gave it to me.}}
+{{ScriptScene|The Mayor exits the Port-a-Potty.}}
+{{ScriptDialog|Randy|Whoa, Mayor, you, uh, making gravy in there? Heh, heh, heh, heh.}}
+{{ScriptDialog|Mayor McDaniels|I just had a brown baby boy.}}
+{{ScriptScene|Laughter.}}
+{{ScriptScene|Stan's House, in disarray. Kyle is jumping on the sofa, Stan and Cartman are tossing the football, and Kenny is flying a kite.}}
+{{ScriptDialog|Kyle|Dude, this is sweet, not having parents around.}}
+{{ScriptScene|The others scramble to the sofa and start jumping.}}
+{{ScriptDialog|Stan|Yeah, I hope they protest TV shows forever.}}
+{{ScriptDialog|All|Whoopeee!}}
+{{ScriptDialog|Grandpa|Come here Billy, I want to show you something.}}
+{{ScriptDialog|Stan|Aww, do I have to?}}
+{{ScriptDialog|Grandpa|Yes you do, you little pecker! I realized that the reason you won't kill me...}}
+{{ScriptScene|Stan jumps off and follows Grandpa towards his room.}}
+{{ScriptDialog|Grandpa|...is because you don't understand how I feel, Billy, but now I found a way to show you what it feels like to be a grandpa.}}
+{{ScriptScene|They both enter, Grandpa shuts the door.}}
+{{ScriptDialog|Stan|Hey, what are you doing?!}}
+{{ScriptScene|Grandpa loads a cassette into a tape player.}}
+{{ScriptScene|Outside the room with Kenny and Cartman}}
+{{ScriptDialog|Kyle|What are they doing in there?}}
+{{ScriptDialog|Cartman|I don't know.}}
+{{ScriptDialog|Grandpa|Now, you're about to see what it's like to be as old as me. Are you ready, Billy?}}
+{{ScriptDialog|Stan|Uh, I guess.}}
+{{ScriptScene|Grandpa starts the tape, which plays a bit of Muzak that evokes Enya's 'Orinoco Flow (Sail Away)'}}
+{{ScriptDialog|Stan|Okay, you, you can let me out now.}}
+{{ScriptDialog|Grandpa|Not just yet.}}
+{{ScriptScene|He turns up the volume.}}
+{{ScriptDialog|Stan|Let me out, grandpa!}}
+{{ScriptScene|Stan tries to open the door.}}
+{{ScriptDialog|Stan|I can't take it anymore, this music is terrible, it's, it's cheesy, but lame and eerily soothing at the same time.}}
+{{ScriptScene|Singer|<poem><i>'Gonna fly, gonna fly, gonna fly. Gonna fly, gonna fly, gonna fly.'</i></poem>}}
+{{ScriptDialog|Grandpa|That's it, now you know what it feels like to be grandpa.}}
+{{ScriptScene|Stan falls out of the room, looking very haggard.}}
+{{ScriptDialog|Singer|<poem><i>'Gonna fly, gonna fly, gonna fly'</i></poem>}}
+{{ScriptScene|Grandpa turns off the radio and follows.}}
+{{ScriptDialog|Stan|Eh, grandpa, I had no idea how bad it was for you. Now I understand.}}
+{{ScriptDialog|Grandpa|So now will you kill me, Billy?}}
+{{ScriptDialog|Stan|Sure I will grandpa, I will.}}
+{{ScriptScene|In front of Cartoon Central, New York.}}
+{{ScriptDialog|Liane|Hehh, it doesn't look like our protest is working.}}
+{{ScriptDialog|Sheila|It'll work, it has to.}}
+{{ScriptDialog|Townsman|Look! It's the president of the network.}}
+{{ScriptDialog|John Warsog|Ladies and gentlemen, my name is John Warsog, I've prepared a statement for you on behalf of the network.}}
+{{ScriptScene|He clears his throat a couple of times.}}
+{{ScriptDialog|John Warsog|Fuck you.}}
+{{ScriptScene|A slight pause.}}
+{{ScriptDialog|John Warsog|Thank you ladies and gentlemen. If there are any questions, you may direct them to that brick wall over there.}}
+{{ScriptScene|He turns back towards the building.}}
+{{ScriptDialog|Sheila|Hey, you will not get away with this!}}
+{{ScriptScene|He moons the crowd. They gasp in shock. He goes inside and shuts the door.}}
+{{ScriptDialog|Sheila|That does it, no more Mr. Nice Protesters. It's time for 'Plan B'.}}
+{{ScriptDialog|Liane|Ohho, Carol, where are the Porto-Potties?}}
+{{ScriptDialog|Sheila|Over there hon. What, you need to drop some friends off at the pool?}}
+{{ScriptDialog|Liane|''[Lustily.]'' Ohhh, yes, indeedy.}}
+{{ScriptScene|They laugh.}}
+{{ScriptScene|Outside of Stan's house.}}
+{{ScriptDialog|Stan|Okay grandpa, all you have to do is sit there. We'll do the rest. ''[To Kyle.]'' You got the cow all tied up?}}
+{{ScriptDialog|Kyle|Yep, all done.}}
+{{ScriptDialog|Stan|'Kay, come on guys.}}
+{{ScriptScene|The boys struggle to lift the cow over grandpa's head.}}
+{{ScriptDialog|Cartman|Why don't we just shoot him?}}
+{{ScriptDialog|Stan|You dumbass Cartman, it has to look natural, or else we'll all get busted.}}
+{{ScriptDialog|Kyle|Yeah, stupid!}}
+{{ScriptDialog|Grandpa|That's good Billy, a little higher now.}}
+{{ScriptDialog|Cow|Moooo!}}
+{{ScriptScene|In front of Cartoon Central.}}
+{{ScriptDialog|Sheila|The network is not taking us seriously. In the past, people have had to die for what they believed in, and we are prepared to do the same. Ready?}}
+{{ScriptScene|Mr. McCormick positions himself in front of a large sling shot.}}
+{{ScriptDialog|Sheila|Mr. McCormick, you shall be a martyr to us all. God Speed. We will not let these corporate half-wits ruin our children's minds. Launch!}}
+{{ScriptScene|Mr. McCormick is flung into the front of the Cartoon Central building, splattering into bloody death. The crowd gasps.}}
+{{ScriptDialog|Sheila|We will all follow suit, one by one if that's what it takes.}}
+{{ScriptScene|Sounds of abdominal pain as people line up to the Porto-potties.}}
+{{ScriptScene|Outside of Stan's house somewhere.}}
+{{ScriptDialog|Stan|Are you ready, grandpa?}}
+{{ScriptDialog|Grandpa|Does the pope crap in the woods?}}
+{{ScriptScene|Officer Barbrady drives up. He is staring at the scene of a cow dangling above Grandpa by a rope. Stan stands off to the side, knife in hand, ready to cut the rope.}}
+{{ScriptDialog|Police Radio|7 Mary 5, code 6 - 105 North Avenue 52.}}
+{{ScriptDialog|Cow|Mooo!}}
+{{ScriptDialog|Officer Barbrady|Carry on.}}
+{{ScriptScene|He starts the car back up and drives away.}}
+{{ScriptDialog|Stan|Ok, here we go. Bye grandpa, it was nice knowing you.}}
+{{ScriptDialog|Grandpa|Uhh, cut the damn rope already!}}
+{{ScriptScene|Sounds of thunder. Lightning flashes. Death appears and disappears.}}
+{{ScriptDialog|Stan|What is that?!}}
+{{ScriptDialog|Kyle|Well, it, it looks like...}}
+{{ScriptDialog|All|Death!}}
+{{ScriptDialog|Death|Mrrrrr!}}
+{{ScriptScene|He points at them.}}
+{{ScriptDialog|Grandpa|It's about time you lazy-ass son of a w****.}}
+{{ScriptScene|Death approaches grandpa.}}
+{{ScriptDialog|Grandpa|Come on, let's go.}}
+{{ScriptScene|Death continues past grandpa, towards the kids.}}
+{{ScriptDialog|Grandpa|What the...?}}
+{{ScriptDialog|Stan|Hey, he's coming towards us.}}
+{{ScriptDialog|Kyle|Why is Death coming after us?}}
+{{ScriptDialog|Death|Mrrr.}}
+{{ScriptDialog|Kids|Ahhh!}}
+{{ScriptScene|The kids run into Stan's house and towards his room, Death in hot pursuit. Stan struggles to open the door.}}
+{{ScriptDialog|Cartman|Aaaah, runrunruuun!}}
+{{ScriptScene|They enter the room. Stan bars the door with his body.}}
+{{ScriptDialog|Death|Mrrr.}}
+{{ScriptScene|Death bangs on the door.}}
+{{ScriptDialog|Kyle|What are we gonna do?}}
+{{ScriptDialog|Death|Mooorrrr!}}
+{{ScriptScene|In front of Cartoon Central.}}
+{{ScriptDialog|Newscaster|As the day progresses, more and more South Park residents continue to sling shot their bodies into the side of the 'Toon Central building. Toon Central is now under incredible pressure to cancel the show, and has already lost over 20% of their sponsors.}}
+{{ScriptDialog|Sheila|Here Carol, I think it's your boy.}}
+{{ScriptDialog|Sharon|Oh thanks. What is it Stanley-hon, did you break something?}}
+{{ScriptDialog|Stan|Mom! Death is here, and and he's trying to take us all away with him!}}
+{{ScriptDialog|Sharon|Stanley, honey, you need to leave mommy alone, I'm doing something very, very important for your little well-being there.}}
+{{ScriptDialog|Stan|Yeah, but, mom!}}
+{{ScriptDialog|Sharon|Here honey, talk to your father.}}
+{{ScriptDialog|Randy|Did you turn the heat down?}}
+{{ScriptDialog|Stan|Dad, Death is coming!}}
+{{ScriptDialog|Randy|Keep the thermostat under 70, and take care of your grandfather.}}
+{{ScriptScene|He hangs up.}}
+{{ScriptScene|Stan's room. Death is trying to enter.}}
+{{ScriptDialog|Death|Mrrrr!}}
+{{ScriptDialog|Stan|Dammit! You know, I think that if parents would spend less time worrying about what their kids watch on TV, and more time worrying about what's going in in their kid's lives, this world would be a much better place.}}
+{{ScriptDialog|Kyle|Yeah, I think that parents only get so offended by television because the rely on it as a babysitter, and the sole educator of their kids.}}
+{{ScriptDialog|Kenny|(You know what I think? Basically, if you let the decision of what you watch stop at the parents' control, then what can you see? It'll stay the same because they'll just get offended although their kids are not delighted with the television series they put on for their kids.)}}
+{{ScriptDialog|Kyle|Totally dude.}}
+{{ScriptDialog|Stan|Good point man.}}
+{{ScriptDialog|Death|Mrrrr!}}
+{{ScriptScene|Death cuts through the door with his scythe.}}
+{{ScriptDialog|Stan|Ahhhh!}}
+{{ScriptDialog|Kyle|Quick, jump through the window.}}
+{{ScriptDialog|Cartman|Ehh, eh, ehhhh!}}
+{{ScriptScene|Kenny pushes Cartman out the window and follows.}}
+{{ScriptDialog|Death|Mrrrr!}}
+{{ScriptScene|South Park Main Street.}}
+{{ScriptDialog|Kids|Aaaah! Aaaah! Aaaah!}}
+{{ScriptScene|Death is following the kids on a tricycle. Grandpa tries to keep up on his electric wheelchair.}}
+{{ScriptDialog|Grandpa|Come back here, you pompousy son of a pansy!}}
+{{ScriptDialog|Kids|Aaaah!}}
+{{ScriptScene|Kyle sees Death close to Kenny.}}
+{{ScriptDialog|Kyle|Don't let him touch you! You die if he touches you!}}
+{{ScriptDialog|Grandpa|Come over here, you son of a w****!}}
+{{ScriptScene|Death ignores him, but something in T.V. World makes Death take a second look. Terrance and Phillip are on TV floating in spacesuits. There are seven screens - a giant central one flanked by three smaller ones on each side.}}
+{{ScriptDialog|Phillip|Uhh, oh Terrance? What color is the wind?}}
+{{ScriptDialog|Terrance|Hmmm, I don't know, why don't you check?}}
+{{ScriptScene|Farts. Canned laughter.}}
+{{ScriptDialog|Phillip|Oh, you farted.}}
+{{ScriptScene|Death laughs.}}
+{{ScriptDialog|Terrance|Ohho God.}}
+{{ScriptScene|Death is laughing uncontrollably.}}
+{{ScriptDialog|Terrance|Hey Phillip, you know what my space suit smells like?}}
+{{ScriptDialog|Phillip|No, Terrance, why don't you tell me?}}
+{{ScriptDialog|Terrance|Well, it smells like, a dirty fart!}}
+{{ScriptScene|Laughter. Death laughs.}}
+{{ScriptDialog|Stan|''[Noticing.]'' Hey look!}}
+{{ScriptScene|After Terrance farts.}}
+{{ScriptDialog|Phillip|Oh, there's one.}}
+{{ScriptScene|The kids go back to watch the show with Death. They are all laughing.}}
+{{ScriptScene|In front of Cartoon Central.}}
+{{ScriptDialog|Newscaster|Hours have passed, and still the die hard South Park parents are killing themselves in front of the 'Toon Central building, one by one. Worse yet, the stomach flu that seems to be going around is...}}
+{{ScriptScene|He puts his hand to his earphone.}}
+{{ScriptDialog|Newscaster|Wait, wait, I'm getting word that the president of the network is going to make a statement!}}
+{{ScriptScene|The door to Cartoon Central opens. The president emerges wearing a gas-mask.}}
+{{ScriptDialog|Townsman|Wait, wait.}}
+{{ScriptDialog|John Warsog|Ladies and gentlemen, your n***-esque tactics of trying to stink us out with your rancid feces ... has worked.}}
+{{ScriptScene|Shot of a large pile of crap lying in front of the two Porto-potties.}}
+{{ScriptDialog|John Warsog|Therefore, today we will be officially taking Terrance & Phillip off the network and replacing it with reruns of She's the Sheriff, starring Suzanne Somers.}}
+{{ScriptScene|The crowd cheers.}}
+{{ScriptDialog|John Warsog|Now get away from here, and take your diarrhea with you!}}
+{{ScriptScene|The crowd continues to cheer.}}
+{{ScriptDialog|Townsman|Huh, oh no!}}
+{{ScriptScene|He is launched, and he leaves a bloody mess on the sign.}}
+{{ScriptDialog|Sheila|At last, now we can return to normality.}}
+{{ScriptScene|Television store in downtown South Park.}}
+{{ScriptDialog|Terrance|Hey, Phillip.}}
+{{ScriptDialog|Phillip|Yes, Terrance?}}
+{{ScriptDialog|Terrance|Is there a penny stuck in my butt?}}
+{{ScriptDialog|Phillip|Well I don't know, Terrance, let me check.}}
+{{ScriptDialog|Cartman|Uh oh, don't look there, Phillip, you're gonna get farted on.}}
+{{ScriptScene|Static appears on the TV, and then a new screen comes up.}}
+{{ScriptDialog|TV Announcer|We interrupt this program to bring you loud static.}}
+{{ScriptScene|Loud Static. Death is upset and resumes his mission.}}
+{{ScriptDialog|Death|Mrrrrr!}}
+{{ScriptDialog|Kids|Ahhh!}}
+{{ScriptScene|South Park Main Street. Death turns and touches Kenny, and Kenny falls over, dead.}}
+{{ScriptDialog|Kyle|Oh my God, they killed Kenny! You bastard!!!}}
+{{ScriptDialog|Stan|Wow, I guess Death was just coming after Kenny the whole time.}}
+{{ScriptDialog|Grandpa|Hey, you were supposed to kill me!}}
+{{ScriptDialog|Death|''[shaking his head]'' No.}}
+{{ScriptDialog|Grandpa|That's not fair, Goddammit! My grandpa asked me to kill him and I did it.}}
+{{ScriptScene|Death points a cold finger up the street. From a misty haze emerges an incredibly haggard looking ghost of a man.}}
+{{ScriptDialog|Stan|Whoa!}}
+{{ScriptDialog|Great-Great-Grandpa|Billllyyyy...}}
+{{ScriptDialog|Grandpa|Grandpa?}}
+{{ScriptDialog|Great-Great-Grandpa|That's right, Billy.}}
+{{ScriptDialog|Grandpa|My name's not Billy, grandpa. And what's wrong with you? Why do you look all haggard?}}
+{{ScriptDialog|Great-Great-Grandpa|I asked you to kill me, Billy, but I was wrong. And now I'm forced to spend eternity in limbo.}}
+{{ScriptDialog|Grandpa|Limbo?}}
+{{ScriptDialog|Great-Great-Grandpa|I was wrong to put you in that position, Billy, just like you're wrong to put Little Billy in it now. You're so obsessed with ending your life, you're not thinking about what you're doing to his. You must wait to die of natural causes.}}
+{{ScriptDialog|Grandpa|But I've been waiting for 25 years.}}
+{{ScriptDialog|Great-Great-Grandpa|Let nature run its course, or else end up in limbo. Natural causes Billy, natural causes...}}
+{{ScriptScene|Death, Great-great-grandpa and Kenny's ghost fade away into the mist.}}
+{{ScriptDialog|Stan|Come on you guys, let's go home.}}
+{{ScriptScene|A rat comes up and takes Kenny's corpse away.}}
+{{ScriptScene|Stan's House.}}
+{{ScriptDialog|Sheila|Here they are!}}
+{{ScriptDialog|Randy|Well, we did it son, we fought a battle for your well being, and won.}}
+{{ScriptDialog|Stan|What do you mean?}}
+{{ScriptDialog|Sharon|We got Terrance & Phillip taken off the air.}}
+{{ScriptDialog|Cartman|You son of a b****, your mom sucks!}}
+{{ScriptDialog|Sheila|But look what they put on.}}
+{{ScriptScene|Turns on the TV.}}
+{{ScriptDialog|TV Announcer|And now back to She's the Sheriff.}}
+{{ScriptDialog|Cartman|Ohhh, God, No!}}
+{{ScriptDialog|Suzanne Somers|You are the one behind all these shenanigans.}}
+{{ScriptDialog|Dude|Yeah, well you're the stupid ho that started it.}}
+{{ScriptDialog|Sheila|What did he say?}}
+{{ScriptDialog|Suzanne|Up yours, butt-munch.}}
+{{ScriptDialog|Sheila|Whatwhatwhaaat!!!}}
+{{ScriptScene|She turns on her heel and takes up her sign.}}
+{{ScriptDialog|Sheila|Come on everybody, back to New York!}}
+{{ScriptScene|The Marshes follow her out the door.}}
+{{ScriptDialog|Kyle|Hey Stan, now that Terrance & Phillip has been taken off the air, what are we going to do for entertainment?}}
+{{ScriptDialog|Stan|I don't know. We, we could start breathing gas fumes.}}
+{{ScriptDialog|Cartman|My uncle says that smoking crack is kinda cool.}}
+{{ScriptDialog|Kyle|Hey, why don't we watch some of those porno movie thingies?}}
+{{ScriptDialog|Stan|Cool!}}
+{{ScriptDialog|Cartman|Yeah!}}
+{{ScriptScene|Grandpa wheels up wearing a touristy shirt, carrying an Africa brochure.}}
+{{ScriptDialog|Stan|What are you doing grandpa?}}
+{{ScriptDialog|Grandpa|I'm planning a trip to Africa. Did you know that over 400 people are eaten naturally by lions in Africa every year?}}
+{{ScriptDialog|Stan|That's my silly grandpa.}}
+{{ScriptScene|All laugh. Kyle farts.}}
+}}
+{{Episodemedia01|episode=6}}
+[[fr:La Mort/Script]]
+[[zh:寻死/剧本]]
+[[Category:Scripts From Season One]]

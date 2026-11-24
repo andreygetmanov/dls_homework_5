@@ -1,0 +1,3 @@
+wavs/S01E07_027432.wav
+wavs/S01E06_031111.wav
+wavs/S01E02_101297.wav

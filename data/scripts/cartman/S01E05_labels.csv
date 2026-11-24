@@ -1,0 +1,608 @@
+i,a,c,text,two,song,n,matched,who,purity,cartman
+1,2.003,3.838,And now a fireside chat,False,False,5,0,,0.0,False
+2,3.963,5.214,"with the creators of Comedy Central's ""South Park, """,False,False,8,0,,0.0,False
+3,5.673,7.8,Matt Stone and Trey Parker.,False,False,5,0,,0.0,False
+4,12.972,13.931000000000001,With a--,False,False,2,0,,0.0,False
+5,18.602,19.687,"Hello, I'm Trey Parker.",False,False,4,0,,0.0,False
+6,19.812,20.855,And I'm Matt Stone.,False,False,4,0,,0.0,False
+7,20.98,21.981,And this is ole Scratch.,False,False,5,0,,0.0,False
+8,22.106,23.983,"Say hi, old fella.",False,False,4,0,,0.0,False
+9,24.108,26.36,"This episode is called ""An Elephant Fucks a Pig.""",False,False,9,0,,0.0,False
+10,26.485,28.07,But the networks had it changed,False,False,6,0,,0.0,False
+11,28.195,29.864,"to ""An Elephant Makes Love to a Pig.""",False,False,8,0,,0.0,False
+12,29.989,31.532,"Which is kind of silly,",False,False,5,0,,0.0,False
+13,31.657,33.075,"because if an elephant was on top of a pig,",False,False,10,0,,0.0,False
+14,33.2,34.535,"it wouldn't be making love to it,",False,False,7,0,,0.0,False
+15,34.66,37.663,it would be fucking it.,False,False,5,0,,0.0,False
+16,37.788,39.29,"Would you agree with the statement, ""This episode",False,False,8,0,,0.0,False
+17,39.415,41.292,confirms that Matt Stone and Trey Parker,False,False,7,0,,0.0,False
+18,41.417,43.627,"are nothing but sick weirdos""?",False,False,5,0,,0.0,False
+19,43.753,46.213,"You know, what is so sick and wrong about two beings",False,False,11,0,,0.0,False
+20,46.338,47.882,sharing the most intimate of moments?,False,False,6,0,,0.0,False
+21,48.007,50.217,That's what I want to know.,False,False,6,0,,0.0,False
+22,50.342,52.678,Do you come at the gene splicing of DNA,False,False,9,0,,0.0,False
+23,52.803,54.305,from personal experience?,False,False,3,0,,0.0,False
+24,54.43,56.015,"Well, yes, I actually made Trey",False,False,6,0,,0.0,False
+25,56.14,58.642,from splicing a tomato and a flounder.,False,False,7,0,,0.0,False
+26,58.768,61.52,"Guys, do you have strong ethical views",False,False,7,0,,0.0,False
+27,61.645,64.106,on whether we should tamper with nature in real life?,False,False,10,0,,0.0,False
+28,64.231,65.691,"Well, both Matt and I think",False,False,6,0,,0.0,False
+29,65.816,67.735,"that genetic engineering is great,",False,False,5,0,,0.0,False
+30,67.86,70.112,and that everything should be spliced with everything.,False,False,8,0,,0.0,False
+31,70.237,71.906,"Why, that's the only way",False,False,5,0,,0.0,False
+32,72.031,73.532,we're ever gonna become perfect beings.,False,False,6,0,,0.0,False
+33,73.657,75.159,"Isn't that right, ole Scratch?",False,False,5,0,,0.0,False
+34,75.284,77.203,I think we should splice pigs with elephants,False,False,8,0,,0.0,False
+35,77.328,79.121,and tomatoes with apples.,False,False,4,0,,0.0,False
+36,79.246,81.707,I myself would like to be spliced with Fiona Apple.,False,False,10,0,,0.0,False
+37,86.045,88.005,"And so now, sit back, relax,",False,False,6,0,,0.0,False
+38,88.13,91.05,"and enjoy ""An Elephant Fucks a Pig.""",False,False,7,0,,0.0,False
+39,103.479,104.855,♪ I'm going down to South Park ♪,False,True,6,0,,0.0,False
+40,104.98,106.857,♪ Gonna have myself a time ♪,False,True,5,0,,0.0,False
+41,106.982,108.567,♪ Friendly faces everywhere ♪,False,True,3,0,,0.0,False
+42,108.692,110.111,♪ Humble folks without temptation ♪,False,True,4,0,,0.0,False
+43,110.236,111.57,♪ Going down to South Park ♪,False,True,5,0,,0.0,False
+44,111.695,113.405,♪ Gonna leave my woes behind ♪,False,True,5,0,,0.0,False
+45,113.531,115.116,♪ Ample parking day or night ♪,False,True,5,0,,0.0,False
+46,115.241,116.617,"♪ People spouting: ""Howdy neighbor."" ♪",False,True,4,0,,0.0,False
+47,116.742,118.119,♪ Headed on up to South Park ♪,False,True,6,0,,0.0,False
+48,118.244,119.87,♪ Gonna see if I can't unwind ♪,False,True,6,0,,0.0,False
+49,123.165,124.542,♪ So come on down to South Park ♪,False,True,7,0,,0.0,False
+50,124.667,126.627,♪ And meet some friends of mine ♪,False,True,6,0,,0.0,False
+51,127.628,129.547,"Stan, where'd you get that black eye?",False,False,7,7,cartman,1.0,True
+52,129.672,131.757,"Nothing, I mean nowhere.",False,False,4,4,stan,1.0,False
+53,131.882,133.467,"Your sister beat you up again, huh?",False,False,7,7,cartman,1.0,True
+54,133.592,134.844,No!,False,False,1,1,stan,1.0,False
+55,134.969,137.388,"Yeah, your sister kicked your ass!",False,False,6,5,cartman,1.0,True
+56,137.513,139.014,She's just pissed off,False,False,4,4,stan,1.0,False
+57,139.14,140.182,'cause she got headgear at the dentist.,False,False,7,7,stan,1.0,False
+58,140.307,141.35,She's taking it out on me.,False,False,6,6,stan,1.0,False
+59,141.475,142.935,"Yeah, but that sucks you",False,False,5,4,kyle,1.0,False
+60,143.06,144.562,"get your butt kicked by a girl, Stan.",False,False,8,8,kyle,1.0,False
+61,144.687,145.896,I would never let a woman kick my ass.,False,False,9,9,cartman,1.0,True
+62,146.021,147.523,"If she tried anything,",False,False,4,4,cartman,1.0,True
+63,147.648,150.025,"I'd be like, ""Hey, you get your bitch-ass",False,False,9,8,cartman,1.0,True
+64,150.151,152.57,"back in the kitchen and make me some pie!""",False,False,9,9,cartman,1.0,True
+65,152.695,154.53,My parents don't even believe that she beats me up.,False,False,10,10,stan,1.0,False
+66,154.655,156.323,They think she's all innocent and sweet.,False,False,7,7,stan,1.0,False
+67,156.448,157.992,But I know that she's an evil bitch.,False,False,8,7,stan,1.0,False
+68,158.117,159.326,"Be a man, Stan.",False,False,4,4,cartman,1.0,True
+69,159.451,161.328,"Just say, ""Hey, woman!",False,False,4,4,cartman,1.0,True
+70,161.453,164.373,"You shut your mouth and make babies!""",False,False,7,7,cartman,1.0,True
+71,164.498,166.125,"Hey, Kyle, what's that elephant doing?",False,False,6,6,stan,1.0,False
+72,166.25,167.668,You mean this one?,False,False,4,4,kyle,1.0,False
+73,167.793,169.461,Yeah. - He's my new pet elephant.,True,False,6,6,kyle,0.8333333333333334,False
+74,169.587,171.755,"Wow, dude. Where'd you get a pet elephant?",False,False,8,7,stan,1.0,False
+75,171.881,173.465,I got it mail order from Africa.,False,False,7,6,kyle,1.0,False
+76,173.591,174.842,"The ad said it would take 4 to 6 weeks,",False,False,10,10,kyle,1.0,False
+77,174.967,176.468,but it only took 3!,False,False,5,4,kyle,1.0,False
+78,176.594,178.429,"Wow, that's cool! - No, it's not cool!",True,False,7,7,kyle,0.5714285714285714,False
+79,178.554,180.139,My mom won't let me keep him in the house!,False,False,10,10,kyle,1.0,False
+80,180.264,181.39,She says he's too big and that its poop,False,False,9,8,kyle,1.0,False
+81,181.515,182.975,is bigger than our couch.,False,False,5,5,kyle,1.0,False
+82,183.1,185.186,That's why my mom got me a potbellied pig,False,False,9,8,cartman,1.0,True
+83,185.311,187.062,because its poop is small.,False,False,5,4,cartman,1.0,True
+84,189.815,193.319,"Well, yeah, but pigs aren't smart like elephants.",False,False,8,8,stan,1.0,False
+85,193.444,195.779,Hey! Wait a minute!,False,False,4,4,ms. crabtree,1.0,False
+86,195.905,197.531,What is that thing?,False,False,4,4,ms. crabtree,1.0,False
+87,197.656,201.285,"Uh, oh. This is the new retarded kid.",False,False,8,7,kyle,1.0,False
+88,201.41,203.871,"Oh, I'm sorry, little girl.",False,False,5,5,ms. crabtree,1.0,False
+89,203.996,205.706,But you still can't get on.,False,False,6,6,ms. crabtree,1.0,False
+90,205.831,208.876,You have to take the special ed bus!,False,False,8,8,ms. crabtree,1.0,False
+91,211.045,213.047,"Boy, it looks like you're not welcome anywhere, elephant.",False,False,9,9,kyle,1.0,False
+92,213.172,214.798,See you!,False,False,2,1,kyle,1.0,False
+93,214.924,216.842,"If a woman ever gave me crap,",False,False,7,7,cartman,1.0,True
+94,216.967,219.678,"I'd say, ""Hey, you go do my laundry!""",False,False,8,8,cartman,1.0,True
+95,219.803,221.513,"Sit down, kid!",False,False,3,3,ms. crabtree,1.0,False
+96,221.639,223.098,"Yes, ma'am.",False,False,2,2,cartman,1.0,True
+97,223.224,225.684,"And now, children, our friend Mr. Hat",False,False,7,7,mr. garrison,1.0,False
+98,225.809,229.063,is going to tell us all about genetic engineering.,False,False,9,9,mr. garrison,1.0,False
+99,229.188,230.856,"That's right, Mr. Garrison,",False,False,4,4,mr. hat,1.0,False
+100,230.981,234.068,genetic engineering is an exciting new science.,False,False,7,7,mr. hat,1.0,False
+101,234.193,236.487,You can splice DNA from some animals,False,False,7,7,mr. hat,1.0,False
+102,236.612,238.155,and make them better.,False,False,4,4,mr. hat,1.0,False
+103,238.28,239.949,"Mr. Garrison? - Yes, Kyle.",True,False,4,4,mr. garrison,0.5,False
+104,240.074,241.408,"With genetic engineering,",False,False,3,3,kyle,1.0,False
+105,241.533,242.868,can you make an elephant smaller?,False,False,6,6,kyle,1.0,False
+106,242.993,245.704,"Well, yes, I suppose you could.",False,False,6,6,mr. garrison,1.0,False
+107,245.829,247.79,You could splice elephant genes,False,False,5,5,mr. garrison,1.0,False
+108,247.915,250.251,with a dog or cat or potbellied pig genes.,False,False,9,8,mr. garrison,1.0,False
+109,250.376,251.71,That's it!,False,False,2,2,kyle,1.0,False
+110,251.835,253.587,I'm going to combine my elephant,False,False,6,6,kyle,1.0,False
+111,253.712,255.256,with a potbellied pig and make potbellied elephants.,False,False,8,6,kyle,1.0,False
+112,256.799,257.716,"They'd be smart like elephants,",False,False,5,5,kyle,1.0,False
+113,257.841,259.009,but small like pigs.,False,False,4,4,kyle,1.0,False
+114,259.134,260.302,That'd be cool!,False,False,3,3,stan,1.0,False
+115,260.427,261.512,I want a potbellied elephant.,False,False,5,4,bebe,1.0,False
+116,261.637,263.055,"Yes, I'll pay $50 for one.",False,False,6,5,pip,1.0,False
+117,263.18,264.181,That's stupid.,False,False,2,2,terrance,1.0,False
+118,264.306,265.724,"Shut up, Terrance!",False,False,3,3,kyle,1.0,False
+119,265.849,267.309,We can genetical engineer anything we want.,False,False,7,6,kyle,1.0,False
+120,267.434,268.811,"Oh, yeah? I bet I can",False,False,6,6,terrance,1.0,False
+121,268.936,270.521,genetically clone a whole human being,False,False,6,6,terrance,1.0,False
+122,270.646,272.356,before you crossbreed an elephant and a pig.,False,False,8,7,terrance,1.0,False
+123,272.481,274.525,"I'll bet you can't! - Watch me, plebeian!",True,False,7,7,kyle,0.5714285714285714,False
+124,274.65,276.318,"Well, spank my ass and call me Charlie.",False,False,8,8,mr. garrison,1.0,False
+125,276.443,277.778,Isn't this exciting?,False,False,3,3,mr. garrison,1.0,False
+126,277.903,280.114,Two A+ students in a cloning war.,False,False,7,7,mr. garrison,1.0,False
+127,280.239,282.241,"Yes, Mr. Garrison, genetic engineering",False,False,5,5,mr. hat,1.0,False
+128,282.366,284.743,"lets us correct God's horrible, horrible mistakes,",False,False,7,7,mr. hat,1.0,False
+129,284.868,286.245,like German people.,False,False,3,3,mr. hat,1.0,False
+130,286.37,287.538,"You know, you boys might want to visit",False,False,8,8,mr. garrison,1.0,False
+131,287.663,289.248,the genetic engineering ranch,False,False,4,4,mr. garrison,1.0,False
+132,289.373,291.208,outside of town for help.,False,False,5,5,mr. garrison,1.0,False
+133,291.333,292.668,And you could both use this for your,False,False,8,8,mr. garrison,1.0,False
+134,292.793,294.67,science fair projects next month.,False,False,5,5,mr. garrison,1.0,False
+135,296.338,298.173,Genetic engineering ranch? Sweet!,False,False,4,4,kyle,1.0,False
+136,298.299,299.55,"Wait, wait. We still need a pig.",False,False,7,7,stan,1.0,False
+137,299.675,301.093,We can use Cartman's pig.,False,False,5,5,kyle,1.0,False
+138,301.218,303.137,Hey! You leave Fluffy out of this!,False,False,7,6,cartman,1.0,True
+139,303.262,305.514,We're not gonna hurt her. We just need some of her blood.,False,False,12,12,kyle,1.0,False
+140,305.639,307.266,You're not using any of Fluffy's blood!,False,False,7,7,cartman,1.0,True
+141,307.391,308.934,Else I'll kick you in the nuts!,False,False,7,7,cartman,1.0,True
+142,309.059,311.186,"Kyle? Kyle, no!",False,False,3,3,cartman,1.0,True
+143,311.312,312.98,"Stanley, can I talk to you for a minute?",False,False,9,9,mr. garrison,1.0,False
+144,313.105,314.732,Okay. - I couldn't help notice,True,False,5,5,mr. garrison,0.8,False
+145,314.857,316.317,that black eye you have.,False,False,5,5,mr. garrison,1.0,False
+146,316.442,318.193,Are there problems at home?,False,False,5,5,mr. garrison,1.0,False
+147,318.319,319.653,Yes.,False,False,1,1,stan,1.0,False
+148,319.778,322.281,"Oh, dear. Here, Stanley, sit down.",False,False,6,6,mr. garrison,1.0,False
+149,322.406,323.949,"Have some cocoa,",False,False,3,3,mr. garrison,1.0,False
+150,324.074,325.909,and tell your friend Mr. Hat all about it.,False,False,9,9,mr. garrison,1.0,False
+151,326.035,328.037,"I'm your friend Mr. Hat, Stan.",False,False,6,6,mr. hat,1.0,False
+152,328.162,329.872,You can tell me anything.,False,False,5,5,mr. hat,1.0,False
+153,329.997,331.498,"Now, who hit you?",False,False,4,3,mr. hat,1.0,False
+154,331.623,333.625,Is it your father or your mother?,False,False,7,7,mr. hat,1.0,False
+155,333.751,335.669,Neither. It's my sister.,False,False,4,4,stan,1.0,False
+156,335.794,337.713,"Your sister? Oh, for Pete's sake.",False,False,6,6,mr. garrison,1.0,False
+157,337.838,339.173,Don't be such a little wuss!,False,False,6,6,mr. garrison,1.0,False
+158,339.298,340.591,Stop wasting Mr. Hat's time,False,False,5,5,mr. garrison,1.0,False
+159,340.716,342.176,with pansy little foo-foo problems,False,False,6,6,mr. garrison,1.0,False
+160,342.301,344.553,and give me back my cocoa!,False,False,6,6,mr. garrison,1.0,False
+161,348.724,352.019,Let's open the phone lines back up for some questions.,False,False,10,10,jesus,1.0,False
+162,352.144,353.145,Hey!,False,False,1,1,shelly,1.0,False
+163,355.647,356.94,"Hi, Shelly.",False,False,2,2,stan,1.0,False
+164,357.066,358.609,Are you looking at my headgear?,False,False,6,6,shelly,1.0,False
+165,358.734,360.152,Headgear? What headgear?,False,False,3,3,stan,1.0,False
+166,360.277,361.779,Are you looking at my headgear?,False,False,6,6,shelly,1.0,False
+167,361.904,363.697,"Oh, gosh, I didn't really notice.",False,False,6,6,stan,1.0,False
+168,363.822,365.199,You little liar!,False,False,3,3,shelly,1.0,False
+169,365.324,366.95,"No, I think it looks terrific!",False,False,6,6,stan,1.0,False
+170,367.076,368.41,It matches your--,False,False,3,3,stan,1.0,False
+171,384.802,386.678,"Ready to go, Stan? - Go where?",True,False,6,6,kyle,0.6666666666666666,False
+172,386.804,388.305,To the genetical engineering ranch.,False,False,5,5,kyle,1.0,False
+173,388.43,389.807,We got Cartman's pig so we can splice,False,False,8,8,kyle,1.0,False
+174,389.932,391.433,its genes with my elephant.,False,False,5,4,kyle,1.0,False
+175,391.558,393.435,Nobody's splicing nothing from Fluffy!,False,False,5,4,cartman,1.0,True
+176,393.56,396.355,"I swear I'm gonna kill you, Stan!",False,False,7,7,shelly,1.0,False
+177,396.48,398.107,"Why is your sister so mean to you, dude?",False,False,9,7,kyle,1.0,False
+178,398.232,399.983,"Yeah, If some sissy chick tried to",False,False,7,7,cartman,1.0,True
+179,400.109,403.237,"kick my ass, I'd be like, ""Hey, listen,",False,False,8,8,cartman,1.0,True
+180,403.362,406.448,"missy, why don't you go knit me a sweater",False,False,9,7,cartman,1.0,True
+181,406.573,408.242,"before I slap you in the face?""",False,False,7,7,cartman,1.0,True
+182,408.367,409.868,Who said that?,False,False,3,3,shelly,1.0,False
+183,415.874,417.876,This must be it.,False,False,4,4,kyle,1.0,False
+184,418.001,419.545,"Yeah, looks like nobody's home.",False,False,5,4,cartman,1.0,True
+185,419.67,421.672,Guess we should come back some other time.,False,False,8,8,cartman,1.0,True
+186,421.797,423.34,"No, Cartman. We're going in there",False,False,6,6,kyle,1.0,False
+187,423.465,425.092,and splicing Fluffy and my elephant together.,False,False,7,7,kyle,1.0,False
+188,425.217,427.511,"It's okay, Fluffy, I won't let them hurt you.",False,False,9,9,cartman,1.0,True
+189,427.636,428.929,It's just a stupid pig.,False,False,5,5,kyle,1.0,False
+190,429.054,430.556,"Yeah, quit being such a baby.",False,False,6,6,stan,1.0,False
+191,430.681,431.89,"Baby? Well, at least I don't get my ass",False,False,9,9,cartman,1.0,True
+192,432.015,433.517,kicked by a girl!,False,False,4,4,cartman,1.0,True
+193,433.642,434.768,At least I'm not a little pig!,False,False,7,7,stan,1.0,False
+194,434.893,436.353,Hey! I'm taking my pig and--,False,False,6,6,cartman,1.0,True
+195,436.478,438.522,Screw you guys! I'm going home!,False,False,6,6,cartman,1.0,True
+196,438.647,440.566,This whole idea is stupid anyway!,False,False,6,4,cartman,1.0,True
+197,440.691,442.609,"What the hell would you know, you fat, sweaty Mongoloid?",False,False,10,10,kyle,1.0,False
+198,442.734,444.153,You never get higher than a D!,False,False,7,6,kyle,1.0,False
+199,444.278,445.779,Hey! Why don't you go back to,False,False,7,7,cartman,1.0,True
+200,445.904,447.906,San Francisco with the rest of the Jews?,False,False,8,8,cartman,1.0,True
+201,448.031,450.909,"There's no Jews in San Francisco, retard!",False,False,7,6,kyle,1.0,False
+202,451.034,453.704,I'll kick you in the nuts!,False,False,6,6,cartman,1.0,True
+203,453.829,454.913,Can I help you?,False,False,4,4,dr. alphonse mephesto,1.0,False
+204,457.416,459.001,"Uh, yeah.",False,False,2,2,kyle,1.0,False
+205,459.126,461.336,We wanna crossbreed an elephant with a pig.,False,False,8,7,kyle,1.0,False
+206,461.462,462.671,Brilliant idea.,False,False,2,2,mephesto,1.0,False
+207,462.796,464.965,"Huge, elephant-sized pigs.",False,False,4,4,mephesto,1.0,False
+208,465.09,466.925,"No, no, we want to make little potbellied elephants",False,False,9,8,kyle,1.0,False
+209,467.05,469.178,that people can keep in their houses as pets.,False,False,9,9,kyle,1.0,False
+210,469.303,470.721,"Oh, that's an even better idea.",False,False,6,5,mephesto,1.0,False
+211,470.846,472.514,Come on in.,False,False,3,3,mephesto,1.0,False
+212,472.639,474.433,I'm so pleased that you children are interested,False,False,8,8,mephesto,1.0,False
+213,474.558,476.101,in genetic engineering.,False,False,3,3,mephesto,1.0,False
+214,476.226,479.188,"It's okay, Fluffy. Nobody's gonna hurt you.",False,False,7,6,cartman,1.0,True
+215,479.313,481.315,"It's thanks to the wonders of genetic engineering,",False,False,8,8,mephesto,1.0,False
+216,481.44,483.192,"that soon there will be an end to hunger,",False,False,9,9,mephesto,1.0,False
+217,483.317,485.527,"disease, pollution, even war.",False,False,4,4,mephesto,1.0,False
+218,485.652,487.112,I've created things that,False,False,4,3,mephesto,1.0,False
+219,487.237,488.78,will change the world for the better.,False,False,7,7,mephesto,1.0,False
+220,488.906,491.992,"For instance, here's a monkey with four asses.",False,False,8,7,mephesto,1.0,False
+221,493.702,495.245,How does that make the world better?,False,False,7,7,kyle,1.0,False
+222,495.37,497.664,"And here, of course, is my four-assed ostrich",False,False,9,9,mephesto,1.0,False
+223,497.789,499.875,and my four-assed mongoose.,False,False,5,5,mephesto,1.0,False
+224,500.0,502.211,Do you have anything besides just animals with four asses?,False,False,10,10,stan,1.0,False
+225,502.336,504.463,"Oh, well, I suppose so.",False,False,5,4,mephesto,1.0,False
+226,504.588,506.715,"Oh, yes, over here.",False,False,4,4,mephesto,1.0,False
+227,506.84,508.842,Here I have rats spliced with ducks,False,False,7,6,mephesto,1.0,False
+228,508.967,510.886,and gorillas spliced with mosquitoes.,False,False,5,4,mephesto,1.0,False
+229,511.011,513.347,And here I have rabbits spliced with fish,False,False,8,8,mephesto,1.0,False
+230,513.472,515.682,to make little bunny fish.,False,False,5,3,mephesto,1.0,False
+231,515.807,518.602,"Hey, these bunny ears are tied on with little strings!",False,False,10,9,cartman,1.0,True
+232,518.727,520.229,"And over here, a Swiss cheese",False,False,6,5,mephesto,1.0,False
+233,520.354,522.314,spliced with chalk and a beard.,False,False,6,6,mephesto,1.0,False
+234,522.439,524.066,"Well, what about our potbellied elephant?",False,False,6,5,kyle,1.0,False
+235,524.191,526.193,"Oh. Well, I'm sorry, children.",False,False,5,5,mephesto,1.0,False
+236,526.318,529.78,But pig and elephant DNA just won't splice.,False,False,8,8,mephesto,1.0,False
+237,529.905,532.366,Haven't you ever heard that song by Loverboy?,False,False,8,7,mephesto,1.0,False
+238,532.491,533.492,Which song?,False,False,2,2,kyle,1.0,False
+239,534.785,536.078,♪ Pig and elephant DNA ♪,False,True,4,0,,0.0,False
+240,536.203,537.704,♪ Just won't splice ♪,False,True,3,0,,0.0,False
+241,537.829,539.331,"However, maybe I could help you",False,False,6,0,,0.0,False
+242,539.456,541.291,add a few asses to that swine of yours.,False,False,9,1,kyle,1.0,False
+243,541.416,543.585,You can keep your hands off of Fluffy's ass!,False,False,9,9,cartman,1.0,True
+244,543.71,545.087,"You know, it's amazing what we can do",False,False,8,8,mephesto,1.0,False
+245,545.212,547.256,with a little blood sample these days.,False,False,7,7,mephesto,1.0,False
+246,547.381,548.423,Ow! - Hmm?,True,False,2,2,stan,0.5,False
+247,548.549,550.175,What? Excuse me.,False,False,3,3,mephesto,1.0,False
+248,550.3,552.094,"Wait, what are you taking Stan's blood for?",False,False,8,8,kyle,1.0,False
+249,552.219,553.512,"Oh, pardon me, I tripped.",False,False,5,5,mephesto,1.0,False
+250,553.637,555.264,"Could I have some hair, please?",False,False,6,6,mephesto,1.0,False
+251,555.389,557.224,"Watch out, Stan, genetic engineers are crazy!",False,False,7,7,kyle,1.0,False
+252,557.349,558.517,"Come on, Fluffy!",False,False,3,3,cartman,1.0,True
+253,562.938,564.815,This gas is hurting my anus.,False,False,6,5,jewish,1.0,False
+254,564.94,566.358,"Yeah, that's pretty fresh.",False,False,4,2,jason,1.0,False
+255,566.483,568.652,"Ooh, I sure am hungry.",False,False,5,4,cartman,1.0,True
+256,568.777,570.153,"Hello, gentlemen. Any of you blokes know",False,False,7,6,pip,1.0,False
+257,570.279,571.989,what's for lunch today?,False,False,4,4,pip,1.0,False
+258,573.323,575.701,Lunchy munchies? Hmm?,False,False,3,2,pip,1.0,False
+259,575.826,577.411,"Go away, Pip, nobody likes you!",False,False,6,6,cartman,1.0,True
+260,577.536,579.538,"Yeah, what kind of a name is Pip anyway?",False,False,9,8,stan,1.0,False
+261,579.663,581.373,"Well, my father's family name being Pirrip",False,False,7,7,pip,1.0,False
+262,581.498,583.458,"and my Christian name, Phillip, my infant tongue--",False,False,8,8,pip,1.0,False
+263,583.584,585.419,God damn it! Would you shut the hell up?,False,False,9,7,cartman,1.0,True
+264,585.544,586.628,Nobody gives a rat's ass!,False,False,5,5,cartman,1.0,True
+265,586.753,587.963,"Yeah, go away, Pip.",False,False,4,4,stan,1.0,False
+266,588.088,589.59,Right-o.,False,False,2,0,,0.0,False
+267,589.715,592.217,God. French people piss me off.,False,False,6,5,cartman,1.0,True
+268,592.342,594.261,"Hey, dumb asses! You morons give up",False,False,7,7,terrance,1.0,False
+269,594.386,596.346,on your stupid science fair project yet?,False,False,7,7,terrance,1.0,False
+270,596.471,598.265,"No, we're already halfway done.",False,False,5,5,kyle,1.0,False
+271,598.39,600.267,Halfway? Then all you've got,False,False,5,5,terrance,1.0,False
+272,600.392,601.685,is a stupid pig.,False,False,4,4,terrance,1.0,False
+273,601.81,602.769,Yeah. - Probably a gay pig too.,True,False,6,6,bill,1.0,False
+274,602.894,603.979,Stupid gay pig.,False,False,3,3,fosse,1.0,False
+275,604.104,605.147,It's more than you've got!,False,False,5,5,kyle,1.0,False
+276,605.272,606.44,Wrong! We've already got,False,False,4,3,terrance,1.0,False
+277,606.565,609.735,our human clone well under way.,False,False,6,6,terrance,1.0,False
+278,609.86,611.862,"Oh, my God! They cloned a foot!",False,False,7,7,kyle,1.0,False
+279,611.987,615.157,"Hey, I'll kick your ass!",False,False,5,5,cartman,1.0,True
+280,615.282,616.95,"Oh, ho!",False,False,2,0,,0.0,False
+281,617.075,619.453,"By Friday, we're gonna clone a whole human being.",False,False,9,9,terrance,1.0,False
+282,619.578,621.413,Good luck with your stupid little pig.,False,False,7,7,terrance,1.0,False
+283,621.538,622.998,"Hello there, children. - Hey, Chef.",True,False,5,5,chef,0.6,False
+284,623.123,624.791,- How you doing? - Bad.,True,False,4,3,chef,0.6666666666666666,False
+285,624.916,626.084,Why bad?,False,False,2,2,chef,1.0,False
+286,626.209,627.169,We need to genetically engineer,False,False,5,5,kyle,1.0,False
+287,627.294,628.42,"a pig and an elephant,",False,False,5,4,kyle,1.0,False
+288,628.545,630.13,but their genes won't splice.,False,False,5,5,kyle,1.0,False
+289,630.255,632.007,"Oh, of course they won't splice, children.",False,False,7,6,chef,1.0,False
+290,632.132,634.092,Haven't you ever heard that song by Loverboy?,False,False,8,7,chef,1.0,False
+291,636.011,637.471,♪ Pig and elephant DNA just won't splice ♪,False,True,7,0,,0.0,False
+292,637.596,639.473,A pig-elephant?,False,False,3,0,,0.0,False
+293,639.598,642.309,"Say, that's not a bad idea.",False,False,6,0,,0.0,False
+294,642.434,643.685,I told you guys.,False,False,4,4,kyle,1.0,False
+295,643.81,645.896,Imagine a pint-sized elephant,False,False,5,5,chef,1.0,False
+296,646.021,647.981,that you could keep in the house.,False,False,7,7,chef,1.0,False
+297,648.106,651.485,"Children, we could make a fortune with this.",False,False,8,8,chef,1.0,False
+298,651.61,653.362,"You hear that, dudes? We'll be rich!",False,False,7,7,kyle,1.0,False
+299,653.487,655.697,Forget about all that genetic engineering hoosa fudge.,False,False,8,6,chef,1.0,False
+300,655.822,658.325,"If you want to combine a pig and an elephant,",False,False,10,10,chef,1.0,False
+301,658.45,661.37,just get them to make sweet love.,False,False,7,6,chef,1.0,False
+302,661.495,662.454,What? - I don't think an elephant,True,False,6,5,stan,1.0,False
+303,662.579,663.955,would make love to a pig.,False,False,6,6,stan,1.0,False
+304,664.081,665.457,I don't think my pig would wanna,False,False,7,6,cartman,1.0,True
+305,665.582,667.334,make love to that stupid elephant!,False,False,6,6,cartman,1.0,True
+306,667.459,669.002,"Sure they would,",False,False,3,3,chef,1.0,False
+307,669.127,670.462,but you're gonna have to get them in the mood.,False,False,10,9,chef,1.0,False
+308,670.587,671.63,"Well, how do we do that?",False,False,6,5,stan,1.0,False
+309,671.755,672.673,"Do what I do,",False,False,4,4,chef,1.0,False
+310,672.798,674.966,get them good and drunk.,False,False,5,3,chef,1.0,False
+311,675.092,676.968,"Hey, uh, you guys wanna come over?",False,False,7,6,stan,1.0,False
+312,677.094,678.011,We've got work to do.,False,False,5,5,kyle,1.0,False
+313,678.136,679.262,I think it takes a while,False,False,6,6,kyle,1.0,False
+314,679.388,680.806,for an elephant to get drunk.,False,False,6,6,kyle,1.0,False
+315,680.931,681.89,"Really, you guys don't wanna come over",False,False,7,6,stan,1.0,False
+316,682.015,683.684,for just a little bit?,False,False,5,5,stan,1.0,False
+317,683.809,684.976,"Why, is your sister gonna kick your ass again?",False,False,9,9,cartman,1.0,True
+318,685.102,686.061,"Shut up, Cartman!",False,False,3,3,stan,1.0,False
+319,687.771,689.523,"Yeah, Stan, she's just a girl.",False,False,6,6,kyle,1.0,False
+320,689.648,692.442,"Yeah, if some girl tried to kick my ass, I'd be like,",False,False,12,12,cartman,1.0,True
+321,692.567,694.528,"""Hey, why don't you stop",False,False,5,5,cartman,1.0,True
+322,694.653,696.363,dressing me up like a mailman,False,False,6,5,cartman,1.0,True
+323,696.488,698.365,and making me dance for you,False,False,6,5,cartman,1.0,True
+324,698.49,700.742,while you smoke crack in your bedroom,False,False,7,7,cartman,1.0,True
+325,700.867,703.161,and have sex with some guy I don't even know,False,False,10,10,cartman,1.0,True
+326,703.286,705.038,"on my dad's bed!""",False,False,4,4,cartman,1.0,True
+327,708.5,711.002,"Cartman, what the hell are you talking about?",False,False,8,8,stan,1.0,False
+328,711.128,712.087,I'm just saying you're just a little wuss.,False,False,8,8,cartman,1.0,True
+329,712.212,713.422,That's all.,False,False,2,2,cartman,1.0,True
+330,713.547,714.631,"Stan, you can use family love",False,False,6,6,kyle,1.0,False
+331,714.756,716.299,as a weapon against Shelly.,False,False,5,5,kyle,1.0,False
+332,716.425,717.884,"The next time she's going to kick your ass,",False,False,9,7,kyle,1.0,False
+333,718.009,719.72,"just tell her, ""Shelly, you're my sister.",False,False,7,7,kyle,1.0,False
+334,719.845,720.721,"And I love you.""",False,False,4,4,kyle,1.0,False
+335,722.18,723.557,"Sick, dude. She's my sister!",False,False,5,5,stan,1.0,False
+336,723.682,725.058,Try it. We'll see you in a while.,False,False,8,8,kyle,1.0,False
+337,725.183,726.601,We've gotta go get Cartman's pig.,False,False,6,4,kyle,1.0,False
+338,726.727,727.894,"No, you don't gotta get Cartman's pig!",False,False,7,7,cartman,1.0,True
+339,728.019,729.646,You leave Fluffy out of this!,False,False,6,6,cartman,1.0,True
+340,729.771,731.273,"Come on, Kenny. - Kyle, no!",True,False,5,5,kyle,0.6,False
+341,731.398,733.483,No elephant is gonna make love to Fluffy!,False,False,8,7,cartman,1.0,True
+342,733.608,737.195,"I -Kyle, I will kick you in the nuts!",False,False,9,8,cartman,1.0,True
+343,737.32,738.447,Crap!,False,False,1,1,stan,1.0,False
+344,738.572,740.198,And now back to,False,False,4,4,tv,1.0,False
+345,740.323,741.783,"""Jesus and Pals"" on South Park public--",False,False,7,7,tv,1.0,False
+346,741.908,744.286,Are you staring at my neck brace?,False,False,7,7,shelly,1.0,False
+347,744.411,745.579,"No. I mean, yes?",False,False,4,4,stan,1.0,False
+348,745.704,747.497,"I mean, what neck brace?",False,False,5,5,stan,1.0,False
+349,747.622,748.915,"Shelly,",False,False,1,1,stan,1.0,False
+350,749.04,750.5,before you beat my face,False,False,5,5,stan,1.0,False
+351,750.625,752.085,"into a bloody pulp again, I just want you",False,False,9,9,stan,1.0,False
+352,752.21,754.254,"to know that you're my sister,",False,False,6,6,stan,1.0,False
+353,754.379,755.589,and I love you.,False,False,4,4,stan,1.0,False
+354,761.636,763.513,"Someday, Shelly, I'm gonna be bigger than you.",False,False,8,8,stan,1.0,False
+355,763.638,765.974,And you're gonna wish you'd never done any of this to me.,False,False,12,12,stan,1.0,False
+356,766.099,768.977,"You'll never be bigger than me, Stan.",False,False,7,7,shelly,1.0,False
+357,769.102,770.27,Never!,False,False,1,1,shelly,1.0,False
+358,772.022,773.064,Beautiful.,False,False,1,1,mephesto,1.0,False
+359,773.19,774.858,It's absolutely beautiful.,False,False,3,3,mephesto,1.0,False
+360,774.983,776.359,"My son,",False,False,2,2,mephesto,1.0,False
+361,776.485,777.944,I think we've finally done it.,False,False,6,6,mephesto,1.0,False
+362,778.069,779.321,"Yes, we have, Dad.",False,False,4,4,terrance,1.0,False
+363,779.446,781.448,My very own human clone.,False,False,5,5,terrance,1.0,False
+364,781.573,783.533,Hope it's not a gay clone.,False,False,6,4,bill,1.0,False
+365,783.658,786.453,Yeah. That was stupid. - That's so stupid.,True,False,7,5,fosse,1.0,False
+366,786.578,788.371,"Come on, elephant, keep drinking.",False,False,5,5,kyle,1.0,False
+367,788.497,789.831,"Damn, I wonder how drunk he needs to be",False,False,9,9,stan,1.0,False
+368,789.956,791.625,to make sweet love to the pig.,False,False,7,7,stan,1.0,False
+369,795.587,796.838,Damn it! This is never gonna work!,False,False,7,5,kyle,1.0,False
+370,796.963,798.298,"Hello, children.",False,False,2,2,chef,1.0,False
+371,798.423,799.925,I thought I'd check and see how,False,False,7,7,chef,1.0,False
+372,800.05,802.719,our little entrepreneurial venture is going.,False,False,6,6,chef,1.0,False
+373,802.844,803.845,"Rotten. They're both really drunk,",False,False,5,5,kyle,1.0,False
+374,803.97,805.388,but won't have sex!,False,False,4,4,kyle,1.0,False
+375,805.514,807.682,"Oh, children, you just can't stick",False,False,6,5,chef,1.0,False
+376,807.808,809.726,a drunk pig with a drunk elephant,False,False,7,7,chef,1.0,False
+377,809.851,812.854,and expect them to do the mattress mambo.,False,False,8,8,chef,1.0,False
+378,812.979,814.564,You need to set the mood.,False,False,6,6,chef,1.0,False
+379,814.689,816.525,Let me show you boys what I'm talking about.,False,False,9,0,,0.0,False
+380,818.026,821.029,♪ Tonight is right for love ♪,False,True,5,0,,0.0,False
+381,821.154,822.989,♪ You know I wanna touch you ♪,False,True,6,0,,0.0,False
+382,823.114,825.283,♪ Where the lights don't go ♪,False,True,5,0,,0.0,False
+383,825.408,827.911,♪ Tonight is right for love ♪,False,True,5,0,,0.0,False
+384,828.036,832.958,♪ Love gravy ♪,False,True,2,0,,0.0,False
+385,833.083,835.502,♪ Expressing love so sweet ♪,False,True,4,0,,0.0,False
+386,835.627,837.712,♪ I want to keep you burnin' ♪,False,True,6,0,,0.0,False
+387,837.838,839.798,♪ Like a dog in heat ♪,False,True,5,0,,0.0,False
+388,839.923,842.3,♪ Tonight is right for love ♪,False,True,5,0,,0.0,False
+389,842.425,847.013,♪ Love gravy ♪,False,True,2,0,,0.0,False
+390,847.138,850.308,"Ladies and gentlemen, Mr. Elton John!",False,False,6,6,chef,1.0,False
+391,850.433,853.436,"♪ Ooh, tonight ♪",False,True,2,0,,0.0,False
+392,853.562,857.357,"♪ Oh, it's right ♪",False,True,3,0,,0.0,False
+393,857.482,859.693,"♪ Ooh, tonight is right for love ♪",False,True,6,0,,0.0,False
+394,859.818,861.82,♪ Love gravy ♪,False,True,2,0,,0.0,False
+395,863.28,864.656,"Thank you, Elton.",False,False,3,3,chef,1.0,False
+396,864.781,866.825,♪ Tonight is right for love ♪,False,True,5,5,chef,1.0,False
+397,866.95,872.163,♪ Love gravy ♪,False,True,2,1,chef,1.0,False
+398,872.289,874.916,"Hey, look! It's working!",False,False,4,4,kyle,1.0,False
+399,875.041,877.335,"Now, children, gather round",False,False,4,3,chef,1.0,False
+400,877.46,880.338,and watch the wonders of life.,False,False,6,6,chef,1.0,False
+401,880.463,882.591,The beauty of Mother Nature.,False,False,5,5,chef,1.0,False
+402,884.301,885.802,"Oh, sick!",False,False,2,1,stan,1.0,False
+403,885.927,887.053,Fluffy!,False,False,1,1,cartman,1.0,True
+404,887.178,888.221,Hmm.,False,False,1,1,chef,1.0,False
+405,888.346,889.556,Now I know how all those,False,False,6,6,chef,1.0,False
+406,889.681,891.683,white women must have felt.,False,False,5,5,chef,1.0,False
+407,895.186,896.688,"Oh, how luscious.",False,False,3,2,mephesto,1.0,False
+408,896.813,897.939,"Our creature has come to fruition, boys.",False,False,7,7,mephesto,1.0,False
+409,898.064,899.691,"Dad, you're the best.",False,False,4,4,terrance,1.0,False
+410,899.816,900.775,"Oh, my God!",False,False,3,3,mephesto,1.0,False
+411,900.901,902.235,He only has one ass!,False,False,5,5,mephesto,1.0,False
+412,902.36,903.445,He's of no use to me.,False,False,6,6,mephesto,1.0,False
+413,903.57,905.488,I'll have to burn the room.,False,False,6,6,mephesto,1.0,False
+414,906.865,907.866,"Oh, no.",False,False,2,2,mephesto,1.0,False
+415,907.991,908.992,This entire experiment,False,False,3,3,mephesto,1.0,False
+416,909.117,910.619,is turning out very bad.,False,False,5,5,mephesto,1.0,False
+417,910.744,913.246,Me bad?,False,False,2,2,clone,1.0,False
+418,914.706,916.666,Egads! He's out of control.,False,False,5,4,mephesto,1.0,False
+419,916.791,918.209,We'll have to destroy him!,False,False,5,5,mephesto,1.0,False
+420,918.335,919.502,But he's our science fair project!,False,False,6,6,terrance,1.0,False
+421,922.714,924.341,"He's too dangerous, son.",False,False,4,4,mephesto,1.0,False
+422,924.466,926.843,"But, Dad, I want a human clone!",False,False,7,7,terrance,1.0,False
+423,926.968,928.72,"Son, no!",False,False,2,2,mephesto,1.0,False
+424,931.89,934.684,"Oh, son, you've made a horrible mistake.",False,False,7,7,mephesto,1.0,False
+425,934.809,936.227,You've put all the people of South Park,False,False,8,8,mephesto,1.0,False
+426,936.353,937.437,in jeopardy!,False,False,2,2,mephesto,1.0,False
+427,937.562,938.73,They're all stupid anyway.,False,False,4,4,terrance,1.0,False
+428,938.855,940.69,"Come on, guys, let's go.",False,False,5,5,terrance,1.0,False
+429,940.815,942.692,"Yeah, they're all gay.",False,False,4,3,bill,1.0,False
+430,942.817,945.028,Aren't they ever gonna wake up?,False,False,6,6,kyle,1.0,False
+431,945.153,946.613,"Oh, they will.",False,False,3,3,chef,1.0,False
+432,946.738,948.99,It's gonna be one ugly sight.,False,False,6,5,chef,1.0,False
+433,949.115,950.659,I thought you said the wonder of Mother Nature,False,False,9,9,kyle,1.0,False
+434,950.784,952.035,was a beautiful thing.,False,False,4,4,kyle,1.0,False
+435,952.16,953.244,"Yeah, when does Mother Nature",False,False,5,5,stan,1.0,False
+436,953.37,954.871,go from beautiful to ugly?,False,False,5,5,stan,1.0,False
+437,954.996,957.791,"Usually about 9:30 in the morning, children.",False,False,8,8,chef,1.0,False
+438,959.084,960.752,Uh oh. Here we go.,False,False,5,5,chef,1.0,False
+439,965.006,967.55,"Ah, there's nothing worse than getting all drunk",False,False,8,7,chef,1.0,False
+440,967.676,970.261,and waking up the next morning next to a pig.,False,False,10,10,chef,1.0,False
+441,972.555,974.182,"Or a big, fat elephant.",False,False,5,5,chef,1.0,False
+442,974.307,975.725,"Hey, how do we know if she's pregnant?",False,False,8,8,kyle,1.0,False
+443,975.85,977.31,"Well, boys, we might not know that",False,False,7,7,chef,1.0,False
+444,977.435,979.813,for a couple of days. - Couple of days?,True,False,8,8,chef,0.625,False
+445,979.938,982.148,But Terrance is going to have his human clone by tomorrow.,False,False,11,11,kyle,1.0,False
+446,982.273,983.9,"Well, good job, Einstein!",False,False,4,4,cartman,1.0,True
+447,984.025,985.443,Why don't we just build a rocket in the meantime?,False,False,10,10,cartman,1.0,True
+448,985.568,987.821,"Oh, thank Buddha I found you boys.",False,False,7,7,mephesto,1.0,False
+449,987.946,990.532,"You must tell me, have you seen anything odd lately?",False,False,10,10,mephesto,1.0,False
+450,990.657,993.284,"Uh, we saw an elephant have sex with a pig.",False,False,10,10,stan,1.0,False
+451,993.41,995.078,"No, no, I said odd.",False,False,5,5,mephesto,1.0,False
+452,995.203,997.831,"Hey, you're that crazy cracker from up on the hill.",False,False,10,10,chef,1.0,False
+453,997.956,1001.668,"Sir, if making mutant animals spliced with humans is crazy,",False,False,10,10,mephesto,1.0,False
+454,1001.793,1003.837,then...,False,False,1,1,mephesto,1.0,False
+455,1003.962,1006.214,Uh...,False,False,1,0,,0.0,False
+456,1006.339,1007.34,Hmm.,False,False,1,0,,0.0,False
+457,1007.465,1009.426,"Oh, never mind.",False,False,3,3,mephesto,1.0,False
+458,1009.551,1010.802,I'm afraid there's been a bit,False,False,6,6,mephesto,1.0,False
+459,1010.927,1012.47,of an incident at the ranch.,False,False,6,6,mephesto,1.0,False
+460,1012.595,1013.847,"You see, I've created a large mutant clone",False,False,8,8,mephesto,1.0,False
+461,1013.972,1015.473,"of that little boy there,",False,False,5,5,mephesto,1.0,False
+462,1015.598,1017.976,and he's broken free.,False,False,4,4,mephesto,1.0,False
+463,1019.352,1020.77,"A big, mutant version of me?",False,False,6,6,stan,1.0,False
+464,1020.895,1021.938,Is he bigger than a regular clone?,False,False,7,7,kyle,1.0,False
+465,1022.063,1023.857,He's terribly dangerous.,False,False,3,3,mephesto,1.0,False
+466,1023.982,1025.984,His brain is identical to yours.,False,False,6,6,mephesto,1.0,False
+467,1026.109,1028.153,I need you to help me find him.,False,False,8,8,mephesto,1.0,False
+468,1032.741,1037.12,"Stan, are you wearing a different hat?",False,False,7,7,mr. garrison,1.0,False
+469,1037.245,1038.413,Hey!,False,False,1,1,mr. garrison,1.0,False
+470,1038.538,1039.622,I know a certain young man,False,False,6,6,mr. garrison,1.0,False
+471,1039.748,1041.166,who's itching for detention!,False,False,4,4,mr. garrison,1.0,False
+472,1044.419,1045.962,How big do you think he is?,False,False,7,7,stan,1.0,False
+473,1046.087,1047.088,I bet he weighs 400 pounds!,False,False,6,5,stan,1.0,False
+474,1047.213,1048.715,"Come on, Stan,",False,False,3,3,kyle,1.0,False
+475,1048.84,1049.716,don't you even know where you would go?,False,False,8,8,kyle,1.0,False
+476,1051.593,1052.761,"Oh, my God!",False,False,3,3,stan,1.0,False
+477,1054.929,1056.89,"It appears that the horrible, destructive creature",False,False,7,7,tom,1.0,False
+478,1057.015,1060.31,is 8-year-old Stan Marsh of South Park.,False,False,9,8,tom,1.0,False
+479,1060.435,1062.52,When asked why he was wreaking havoc,False,False,7,7,tom,1.0,False
+480,1062.645,1065.69,"on his hometown, the little boy replied simply,",False,False,8,6,tom,1.0,False
+481,1065.815,1069.319,"""Me Stan.""",False,False,2,2,tom,1.0,False
+482,1069.444,1071.154,Back to you in the studio.,False,False,6,6,tom,1.0,False
+483,1071.279,1073.073,"Thanks, Tom. Police are requesting that",False,False,6,6,tv,1.0,False
+484,1073.198,1074.866,"if you see this little 8-year-old boy,",False,False,9,8,tv,1.0,False
+485,1074.991,1076.242,you immediately kill him and burn his body.,False,False,8,8,tv,1.0,False
+486,1076.367,1077.827,That's all for now.,False,False,4,4,tv,1.0,False
+487,1077.952,1079.788,"And now back to ""Jesus and Pals.""",False,False,7,6,tv,1.0,False
+488,1079.913,1081.664,"Yea, the way is paved with gold",False,False,7,7,jesus,1.0,False
+489,1081.79,1083.333,for ye who seek truth and--,False,False,6,6,jesus,1.0,False
+490,1086.92,1087.962,Jesus!,False,False,1,1,jesus,1.0,False
+491,1090.131,1091.925,"Officer Barbrady, my evil genetic clone",False,False,6,6,stan,1.0,False
+492,1092.05,1092.967,is destroying the town.,False,False,4,4,stan,1.0,False
+493,1093.093,1094.886,We have to find him.,False,False,5,5,stan,1.0,False
+494,1095.011,1096.93,"You boys have been watching ""The X Files"" too much.",False,False,10,10,officer barbrady,1.0,False
+495,1097.055,1099.349,There's no such thing as genetic clone--,False,False,7,7,officer barbrady,1.0,False
+496,1099.474,1100.35,Whoa!,False,False,1,1,officer barbrady,1.0,False
+497,1101.684,1102.852,You kids go on home.,False,False,5,5,officer barbrady,1.0,False
+498,1102.977,1104.479,There's nothing to see here.,False,False,5,5,officer barbrady,1.0,False
+499,1104.604,1105.939,"Come on, let's go!",False,False,4,4,kyle,1.0,False
+500,1106.064,1107.565,There you are!,False,False,3,3,jimbo,1.0,False
+501,1107.69,1110.276,"Stanley, you tore up my entire gun shop!",False,False,8,8,jimbo,1.0,False
+502,1110.401,1113.071,"You better have a good explanation for this, mister!",False,False,9,9,jimbo,1.0,False
+503,1113.196,1114.322,"It wasn't me, Uncle Jimbo.",False,False,5,5,stan,1.0,False
+504,1114.447,1115.949,It was my evil genetic clone.,False,False,6,6,stan,1.0,False
+505,1116.074,1118.243,"Stanley, what the hell has gotten into you?",False,False,8,7,mr. garrison,1.0,False
+506,1118.368,1120.912,"You have got severe lunchroom duty, mister!",False,False,7,7,mr. garrison,1.0,False
+507,1121.037,1123.665,"I'm gonna have a word with your father, Stanley!",False,False,9,9,jimbo,1.0,False
+508,1123.79,1124.707,"Yeah, you wait till your father",False,False,6,5,mr. garrison,1.0,False
+509,1124.833,1125.917,hears about this.,False,False,3,3,mr. garrison,1.0,False
+510,1126.042,1128.586,"Wait, Stan, there he goes.",False,False,5,5,kyle,1.0,False
+511,1128.711,1129.712,Stop!,False,False,1,1,stan,1.0,False
+512,1132.715,1134.05,"He recognizes you, dude.",False,False,4,4,kyle,1.0,False
+513,1134.175,1135.885,"That's good. That's good, dude.",False,False,5,5,stan,1.0,False
+514,1136.01,1137.011,Just calm down.,False,False,3,3,stan,1.0,False
+515,1141.099,1143.643,What should we do with him?,False,False,6,6,kyle,1.0,False
+516,1143.768,1146.104,"Stan, how would you like to go home",False,False,8,8,stan,1.0,False
+517,1146.229,1147.522,and meet your sister?,False,False,4,4,stan,1.0,False
+518,1152.277,1153.736,"So remember, Shelly's the one",False,False,5,5,stan,1.0,False
+519,1153.862,1154.988,with a big wire coming out of her mouth,False,False,9,8,stan,1.0,False
+520,1155.113,1156.489,and a metal plate on her back.,False,False,7,7,stan,1.0,False
+521,1156.614,1157.824,"When you see Shelly, kick her ass.",False,False,7,7,stan,1.0,False
+522,1157.949,1160.076,Shelly bad. Shelly very bad!,False,False,5,5,stan,1.0,False
+523,1160.201,1161.286,Me bad?,False,False,2,2,clone,1.0,False
+524,1161.411,1164.08,"No, Shelly bad. You good.",False,False,5,5,stan,1.0,False
+525,1167.25,1168.168,He's tearing up the house.,False,False,5,5,stan,1.0,False
+526,1168.293,1169.169,Stop him!,False,False,2,2,stan,1.0,False
+527,1179.22,1183.349,What the hell do you want?,False,False,6,6,shelly,1.0,False
+528,1187.854,1190.94,"Boys! Boys, I'm lusciously sorry for everything.",False,False,7,7,mephesto,1.0,False
+529,1191.065,1193.443,"Hey, they got our clone. He belongs to us.",False,False,9,8,terrance,1.0,False
+530,1193.568,1195.278,"No, son, this beast is a disgrace",False,False,7,7,mephesto,1.0,False
+531,1195.403,1197.197,to genetic engineers everywhere.,False,False,4,4,mephesto,1.0,False
+532,1197.322,1200.867,"Boys, I'm sorry I've caused you such inconvenience.",False,False,8,8,mephesto,1.0,False
+533,1200.992,1202.452,I tried to play God and I failed.,False,False,8,8,mephesto,1.0,False
+534,1203.995,1206.372,"Daddy, no!",False,False,2,1,terrance,1.0,False
+535,1206.497,1208.249,All I ever wanted was to genetically,False,False,7,7,mephesto,1.0,False
+536,1208.374,1210.168,engineer something useful.,False,False,3,3,mephesto,1.0,False
+537,1210.293,1212.045,But I failed.,False,False,3,3,mephesto,1.0,False
+538,1212.17,1214.13,Perhaps we shouldn't be toying with God's creations.,False,False,8,8,mephesto,1.0,False
+539,1214.255,1216.341,Perhaps we should leave nature alone,False,False,6,6,mephesto,1.0,False
+540,1216.466,1218.968,to its simple one-assed schematics.,False,False,6,6,mephesto,1.0,False
+541,1219.093,1221.179,You cheating bastards. This isn't over!,False,False,6,6,terrance,1.0,False
+542,1221.304,1222.972,Just wait until tomorrow!,False,False,4,4,terrance,1.0,False
+543,1224.557,1226.351,"Oh, my God! They killed Kenny!",False,False,6,6,kyle,1.0,False
+544,1226.476,1228.603,You bastard!,False,False,2,1,kyle,1.0,False
+545,1228.728,1229.854,Mom and Dad are home.,False,False,5,5,stan,1.0,False
+546,1229.979,1231.022,My house is a disaster!,False,False,5,5,stan,1.0,False
+547,1231.147,1232.315,You guys gotta help me.,False,False,5,4,stan,1.0,False
+548,1232.44,1233.483,I ain't helping crap.,False,False,4,3,cartman,1.0,True
+549,1233.608,1234.943,I wanna eat some pie.,False,False,5,3,cartman,1.0,True
+550,1235.068,1236.319,You can't just leave me here alone!,False,False,7,7,stan,1.0,False
+551,1236.444,1237.862,"Oh, yeah? Watch me.",False,False,4,4,cartman,1.0,True
+552,1237.987,1239.322,"Yeah, Stan, we have to go find out",False,False,8,8,kyle,1.0,False
+553,1239.447,1240.615,if Cartman's pig is pregnant or not.,False,False,7,7,kyle,1.0,False
+554,1240.74,1242.617,See ya! - Thanks a lot!,True,False,5,5,stan,0.6,False
+555,1242.742,1243.952,"Oh, boy,",False,False,2,1,shelly,1.0,False
+556,1244.077,1246.996,you are gonna get it now.,False,False,6,6,shelly,1.0,False
+557,1247.121,1249.165,It isn't fair.,False,False,3,3,stan,1.0,False
+558,1249.29,1250.5,Everybody hates me.,False,False,3,3,stan,1.0,False
+559,1250.625,1252.293,The whole town wants me killed.,False,False,6,6,stan,1.0,False
+560,1252.418,1254.921,Mom and Dad are gonna send me away.,False,False,8,8,stan,1.0,False
+561,1255.046,1256.923,I don't wanna be sent away.,False,False,6,5,stan,1.0,False
+562,1257.048,1258.508,I wanna stay here!,False,False,4,3,stan,1.0,False
+563,1260.677,1262.053,"Stanley, what-- what in God's name",False,False,6,6,randy,1.0,False
+564,1262.178,1263.888,have you been doing?,False,False,4,4,randy,1.0,False
+565,1264.013,1266.432,"Everybody in town is upset with you, young man.",False,False,9,9,sharon,1.0,False
+566,1266.557,1267.642,What's going on?,False,False,3,3,sharon,1.0,False
+567,1267.767,1269.102,Are you on drugs?,False,False,4,4,sharon,1.0,False
+568,1269.227,1271.604,It's not Stan's fault.,False,False,4,4,shelly,1.0,False
+569,1271.729,1273.523,Huh? - It wasn't Stan.,True,False,4,4,shelly,0.75,False
+570,1273.648,1275.358,He was--,False,False,2,2,shelly,1.0,False
+571,1275.483,1278.027,He was with me the whole time.,False,False,7,7,shelly,1.0,False
+572,1278.152,1280.363,"Oh. Well, Stan, we're, uh--",False,False,5,5,randy,1.0,False
+573,1280.488,1282.615,we're sorry we jumped to conclusions.,False,False,6,6,randy,1.0,False
+574,1282.74,1283.741,"Oh, honey.",False,False,2,2,sharon,1.0,False
+575,1283.866,1285.576,"Please forgive us, son.",False,False,4,4,sharon,1.0,False
+576,1287.996,1290.29,"Shelly, you saved my life.",False,False,5,5,stan,1.0,False
+577,1290.415,1292.75,And yet you've done so much more than that.,False,False,9,9,stan,1.0,False
+578,1292.875,1294.961,Today you've taught me the meaning of family.,False,False,8,8,stan,1.0,False
+579,1295.086,1296.587,"Sure, families don't always get along.",False,False,6,6,stan,1.0,False
+580,1296.713,1298.756,"But when the forces of evil descend upon us,",False,False,9,9,stan,1.0,False
+581,1298.881,1300.675,we conquer them by sticking together.,False,False,6,6,stan,1.0,False
+582,1313.021,1314.981,"Everyone, let's give Casey and his weed a big hand.",False,False,10,10,mr. garrison,1.0,False
+583,1316.649,1317.734,"Okay, Kyle, we're ready to see",False,False,6,6,mr. garrison,1.0,False
+584,1317.859,1319.36,your science project.,False,False,3,3,mr. garrison,1.0,False
+585,1319.485,1321.279,"Well, our pig hasn't given birth yet.",False,False,7,7,kyle,1.0,False
+586,1321.404,1323.114,But she should any time now.,False,False,6,4,kyle,1.0,False
+587,1323.239,1324.699,"Oh, well, then I guess you get an F.",False,False,9,8,mr. garrison,1.0,False
+588,1324.824,1326.159,"Okay, Terrance, I know the class",False,False,6,6,mr. garrison,1.0,False
+589,1326.284,1328.578,can hardly wait to see yours.,False,False,6,5,mr. garrison,1.0,False
+590,1328.703,1330.038,"Thank you, Mr. Garrison.",False,False,4,4,terrance,1.0,False
+591,1330.163,1332.665,"Boys, Mr. Garrison, fellow students,",False,False,5,5,terrance,1.0,False
+592,1332.79,1334.292,for our science fair project,False,False,5,5,terrance,1.0,False
+593,1334.417,1336.002,Bill Fossey and I have spawned a creature,False,False,8,7,terrance,1.0,False
+594,1336.127,1338.129,genetically far superior to man.,False,False,5,5,terrance,1.0,False
+595,1338.254,1339.464,I present to you,False,False,4,4,terrance,1.0,False
+596,1339.589,1341.507,the five-assed monkey.,False,False,4,4,terrance,1.0,False
+597,1343.176,1345.178,"Oh, Mr. Hat, isn't it beautiful?",False,False,6,6,mr. garrison,1.0,False
+598,1347.305,1349.974,"Wait, wait, the pig just gave birth!",False,False,7,7,stan,1.0,False
+599,1350.099,1351.225,It had a baby!,False,False,4,4,stan,1.0,False
+600,1352.727,1354.187,What's it look like?,False,False,4,4,clyde,1.0,False
+601,1354.312,1355.855,Does it look like a pig or elephant?,False,False,8,8,kyle,1.0,False
+602,1360.276,1363.237,It kind of looks like Mr. Garrison.,False,False,7,7,cartman,1.0,True
+603,1363.363,1366.407,"Oh, gee, isn't that an amazing coincidence?",False,False,7,6,mr. garrison,1.0,False
+604,1366.532,1368.493,What are the odds of that?,False,False,6,6,mr. garrison,1.0,False
+605,1368.618,1370.203,Hmm.,False,False,1,0,,0.0,False
+606,1370.328,1372.246,You boys get first prize.,False,False,5,5,hat,1.0,False
+607,1375.083,1376.959,"That'll do, pig.",False,False,3,3,cartman,1.0,True

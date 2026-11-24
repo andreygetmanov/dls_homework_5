@@ -1,0 +1,2751 @@
+1
+00:00:02,003 --> 00:00:03,838
+<i>And now a fireside chat</i>
+
+2
+00:00:03,963 --> 00:00:05,214
+<i>with the creators of Comedy
+Central's "South Park, "</i>
+
+3
+00:00:05,673 --> 00:00:07,800
+<i>Matt Stone and Trey Parker.</i>
+
+4
+00:00:12,972 --> 00:00:13,931
+With a--
+
+5
+00:00:18,602 --> 00:00:19,687
+Hello, I'm Trey Parker.
+
+6
+00:00:19,812 --> 00:00:20,855
+And I'm Matt Stone.
+
+7
+00:00:20,980 --> 00:00:21,981
+And this is ole Scratch.
+
+8
+00:00:22,106 --> 00:00:23,983
+Say hi, old fella.
+
+9
+00:00:24,108 --> 00:00:26,360
+This episode is called
+"An Elephant Fucks a Pig."
+
+10
+00:00:26,485 --> 00:00:28,070
+But the networks had it changed
+
+11
+00:00:28,195 --> 00:00:29,864
+to "An Elephant Makes Love
+to a Pig."
+
+12
+00:00:29,989 --> 00:00:31,532
+Which is kind of silly,
+
+13
+00:00:31,657 --> 00:00:33,075
+because if an elephant
+was on top of a pig,
+
+14
+00:00:33,200 --> 00:00:34,535
+it wouldn't be making love to
+it,
+
+15
+00:00:34,660 --> 00:00:37,663
+it would be fucking it.
+
+16
+00:00:37,788 --> 00:00:39,290
+Would you agree with
+the statement, "This episode
+
+17
+00:00:39,415 --> 00:00:41,292
+confirms that
+Matt Stone and Trey Parker
+
+18
+00:00:41,417 --> 00:00:43,627
+are nothing but sick weirdos"?
+
+19
+00:00:43,753 --> 00:00:46,213
+You know, what is so sick and
+wrong about two beings
+
+20
+00:00:46,338 --> 00:00:47,882
+sharing the most intimate
+of moments?
+
+21
+00:00:48,007 --> 00:00:50,217
+That's what I want to know.
+
+22
+00:00:50,342 --> 00:00:52,678
+Do you come at
+the gene splicing of DNA
+
+23
+00:00:52,803 --> 00:00:54,305
+from personal experience?
+
+24
+00:00:54,430 --> 00:00:56,015
+Well, yes, I actually made
+Trey
+
+25
+00:00:56,140 --> 00:00:58,642
+from splicing a tomato
+and a flounder.
+
+26
+00:00:58,768 --> 00:01:01,520
+Guys, do you have
+strong ethical views
+
+27
+00:01:01,645 --> 00:01:04,106
+on whether we should tamper
+with nature in real life?
+
+28
+00:01:04,231 --> 00:01:05,691
+Well, both Matt and I think
+
+29
+00:01:05,816 --> 00:01:07,735
+that genetic engineering
+is great,
+
+30
+00:01:07,860 --> 00:01:10,112
+and that everything should be
+spliced with everything.
+
+31
+00:01:10,237 --> 00:01:11,906
+Why, that's the only way
+
+32
+00:01:12,031 --> 00:01:13,532
+we're ever gonna become
+perfect beings.
+
+33
+00:01:13,657 --> 00:01:15,159
+Isn't that right, ole Scratch?
+
+34
+00:01:15,284 --> 00:01:17,203
+I think we should
+splice pigs with elephants
+
+35
+00:01:17,328 --> 00:01:19,121
+and tomatoes with apples.
+
+36
+00:01:19,246 --> 00:01:21,707
+I myself would like to be
+spliced with Fiona Apple.
+
+37
+00:01:26,045 --> 00:01:28,005
+And so now, sit back, relax,
+
+38
+00:01:28,130 --> 00:01:31,050
+and enjoy
+"An Elephant Fucks a Pig."
+
+39
+00:01:43,479 --> 00:01:44,855
+♪ I'm going down
+to South Park ♪
+
+40
+00:01:44,980 --> 00:01:46,857
+♪ Gonna have
+myself a time ♪
+
+41
+00:01:46,982 --> 00:01:48,567
+♪ Friendly faces
+everywhere ♪
+
+42
+00:01:48,692 --> 00:01:50,111
+♪ Humble folks
+without temptation ♪
+
+43
+00:01:50,236 --> 00:01:51,570
+♪ Going down
+to South Park ♪
+
+44
+00:01:51,695 --> 00:01:53,405
+♪ Gonna leave my
+woes behind ♪
+
+45
+00:01:53,531 --> 00:01:55,116
+♪ Ample parking
+day or night ♪
+
+46
+00:01:55,241 --> 00:01:56,617
+♪ People spouting:
+"Howdy neighbor." ♪
+
+47
+00:01:56,742 --> 00:01:58,119
+♪ Headed on up
+to South Park ♪
+
+48
+00:01:58,244 --> 00:01:59,870
+♪ Gonna see if
+I can't unwind ♪
+
+49
+00:02:03,165 --> 00:02:04,542
+♪ So come on down
+to South Park ♪
+
+50
+00:02:04,667 --> 00:02:06,627
+♪ And meet some
+friends of mine ♪
+
+51
+00:02:07,628 --> 00:02:09,547
+Stan,
+where'd you get that black eye?
+
+52
+00:02:09,672 --> 00:02:11,757
+Nothing, I mean nowhere.
+
+53
+00:02:11,882 --> 00:02:13,467
+Your sister beat
+you up again, huh?
+
+54
+00:02:13,592 --> 00:02:14,844
+No!
+
+55
+00:02:14,969 --> 00:02:17,388
+Yeah, your sister kicked
+your ass!
+
+56
+00:02:17,513 --> 00:02:19,014
+She's just pissed off
+
+57
+00:02:19,140 --> 00:02:20,182
+'cause she got headgear
+at the dentist.
+
+58
+00:02:20,307 --> 00:02:21,350
+She's taking it out on me.
+
+59
+00:02:21,475 --> 00:02:22,935
+Yeah, but that sucks you
+
+60
+00:02:23,060 --> 00:02:24,562
+get your butt kicked by a girl,
+Stan.
+
+61
+00:02:24,687 --> 00:02:25,896
+I would never let a woman
+kick my ass.
+
+62
+00:02:26,021 --> 00:02:27,523
+If she tried anything,
+
+63
+00:02:27,648 --> 00:02:30,025
+I'd be like,
+"Hey, you get your bitch-ass
+
+64
+00:02:30,151 --> 00:02:32,570
+back in the kitchen
+and make me some pie!"
+
+65
+00:02:32,695 --> 00:02:34,530
+My parents don't even believe
+that she beats me up.
+
+66
+00:02:34,655 --> 00:02:36,323
+They think she's all innocent
+and sweet.
+
+67
+00:02:36,448 --> 00:02:37,992
+But I know that
+she's an evil bitch.
+
+68
+00:02:38,117 --> 00:02:39,326
+Be a man, Stan.
+
+69
+00:02:39,451 --> 00:02:41,328
+Just say, "Hey, woman!
+
+70
+00:02:41,453 --> 00:02:44,373
+You shut your mouth and make
+babies!"
+
+71
+00:02:44,498 --> 00:02:46,125
+Hey, Kyle, what's that
+elephant doing?
+
+72
+00:02:46,250 --> 00:02:47,668
+You mean this one?
+
+73
+00:02:47,793 --> 00:02:49,461
+Yeah.
+- He's my new pet elephant.
+
+74
+00:02:49,587 --> 00:02:51,755
+Wow, dude.
+Where'd you get a pet elephant?
+
+75
+00:02:51,881 --> 00:02:53,465
+I got it mail order
+from Africa.
+
+76
+00:02:53,591 --> 00:02:54,842
+The ad said it would take
+4 to 6 weeks,
+
+77
+00:02:54,967 --> 00:02:56,468
+but it only took 3!
+
+78
+00:02:56,594 --> 00:02:58,429
+Wow, that's cool!
+- No, it's not cool!
+
+79
+00:02:58,554 --> 00:03:00,139
+My mom won't let me keep him
+in the house!
+
+80
+00:03:00,264 --> 00:03:01,390
+She says he's too big
+and that its poop
+
+81
+00:03:01,515 --> 00:03:02,975
+is bigger
+than our couch.
+
+82
+00:03:03,100 --> 00:03:05,186
+That's why my mom got me
+a potbellied pig
+
+83
+00:03:05,311 --> 00:03:07,062
+because
+its poop is small.
+
+84
+00:03:09,815 --> 00:03:13,319
+Well, yeah, but pigs aren't
+smart like elephants.
+
+85
+00:03:13,444 --> 00:03:15,779
+Hey! Wait a minute!
+
+86
+00:03:15,905 --> 00:03:17,531
+What is that thing?
+
+87
+00:03:17,656 --> 00:03:21,285
+Uh, oh. This is the new
+retarded kid.
+
+88
+00:03:21,410 --> 00:03:23,871
+Oh, I'm sorry, little girl.
+
+89
+00:03:23,996 --> 00:03:25,706
+But you still can't get on.
+
+90
+00:03:25,831 --> 00:03:28,876
+You have to take
+the special ed bus!
+
+91
+00:03:31,045 --> 00:03:33,047
+Boy, it looks like you're not
+welcome anywhere, elephant.
+
+92
+00:03:33,172 --> 00:03:34,798
+See you!
+
+93
+00:03:34,924 --> 00:03:36,842
+If a woman ever gave me crap,
+
+94
+00:03:36,967 --> 00:03:39,678
+I'd say,
+"Hey, you go do my laundry!"
+
+95
+00:03:39,803 --> 00:03:41,513
+Sit down, kid!
+
+96
+00:03:41,639 --> 00:03:43,098
+Yes, ma'am.
+
+97
+00:03:43,224 --> 00:03:45,684
+And now, children,
+our friend Mr. Hat
+
+98
+00:03:45,809 --> 00:03:49,063
+is going to tell us all
+about genetic engineering.
+
+99
+00:03:49,188 --> 00:03:50,856
+That's right, Mr. Garrison,
+
+100
+00:03:50,981 --> 00:03:54,068
+genetic engineering
+is an exciting new science.
+
+101
+00:03:54,193 --> 00:03:56,487
+You can splice DNA from some
+animals
+
+102
+00:03:56,612 --> 00:03:58,155
+and make them better.
+
+103
+00:03:58,280 --> 00:03:59,949
+Mr. Garrison?
+- Yes, Kyle.
+
+104
+00:04:00,074 --> 00:04:01,408
+With genetic engineering,
+
+105
+00:04:01,533 --> 00:04:02,868
+can you make
+an elephant smaller?
+
+106
+00:04:02,993 --> 00:04:05,704
+Well, yes,
+I suppose you could.
+
+107
+00:04:05,829 --> 00:04:07,790
+You could splice elephant genes
+
+108
+00:04:07,915 --> 00:04:10,251
+with a dog or cat
+or potbellied pig genes.
+
+109
+00:04:10,376 --> 00:04:11,710
+That's it!
+
+110
+00:04:11,835 --> 00:04:13,587
+I'm going to combine
+my elephant
+
+111
+00:04:13,712 --> 00:04:15,256
+with a potbellied pig
+and make potbellied elephants.
+
+112
+00:04:16,799 --> 00:04:17,716
+They'd be smart
+like elephants,
+
+113
+00:04:17,841 --> 00:04:19,009
+but small like pigs.
+
+114
+00:04:19,134 --> 00:04:20,302
+That'd be cool!
+
+115
+00:04:20,427 --> 00:04:21,512
+I want a potbellied elephant.
+
+116
+00:04:21,637 --> 00:04:23,055
+Yes, I'll pay $50 for one.
+
+117
+00:04:23,180 --> 00:04:24,181
+That's stupid.
+
+118
+00:04:24,306 --> 00:04:25,724
+Shut up, Terrance!
+
+119
+00:04:25,849 --> 00:04:27,309
+We can genetical engineer
+anything we want.
+
+120
+00:04:27,434 --> 00:04:28,811
+Oh, yeah? I bet I can
+
+121
+00:04:28,936 --> 00:04:30,521
+genetically clone
+a whole human being
+
+122
+00:04:30,646 --> 00:04:32,356
+before you crossbreed
+an elephant and a pig.
+
+123
+00:04:32,481 --> 00:04:34,525
+I'll bet you can't!
+- Watch me, plebeian!
+
+124
+00:04:34,650 --> 00:04:36,318
+Well, spank my ass
+and call me Charlie.
+
+125
+00:04:36,443 --> 00:04:37,778
+Isn't this exciting?
+
+126
+00:04:37,903 --> 00:04:40,114
+Two A+ students
+in a cloning war.
+
+127
+00:04:40,239 --> 00:04:42,241
+Yes, Mr. Garrison,
+genetic engineering
+
+128
+00:04:42,366 --> 00:04:44,743
+lets us correct God's
+horrible, horrible mistakes,
+
+129
+00:04:44,868 --> 00:04:46,245
+like German people.
+
+130
+00:04:46,370 --> 00:04:47,538
+You know, you boys might
+want to visit
+
+131
+00:04:47,663 --> 00:04:49,248
+the genetic engineering ranch
+
+132
+00:04:49,373 --> 00:04:51,208
+outside of town for help.
+
+133
+00:04:51,333 --> 00:04:52,668
+And you could both use this for
+your
+
+134
+00:04:52,793 --> 00:04:54,670
+science fair
+projects next month.
+
+135
+00:04:56,338 --> 00:04:58,173
+Genetic engineering ranch?
+Sweet!
+
+136
+00:04:58,299 --> 00:04:59,550
+Wait, wait.
+We still need a pig.
+
+137
+00:04:59,675 --> 00:05:01,093
+We can use Cartman's pig.
+
+138
+00:05:01,218 --> 00:05:03,137
+Hey!
+You leave Fluffy out of this!
+
+139
+00:05:03,262 --> 00:05:05,514
+We're not gonna hurt her.
+We just need some of her blood.
+
+140
+00:05:05,639 --> 00:05:07,266
+You're not using any
+of Fluffy's blood!
+
+141
+00:05:07,391 --> 00:05:08,934
+Else I'll kick you in the nuts!
+
+142
+00:05:09,059 --> 00:05:11,186
+Kyle?
+Kyle, no!
+
+143
+00:05:11,312 --> 00:05:12,980
+Stanley, can I talk to you
+for a minute?
+
+144
+00:05:13,105 --> 00:05:14,732
+Okay.
+- I couldn't help notice
+
+145
+00:05:14,857 --> 00:05:16,317
+that black eye you have.
+
+146
+00:05:16,442 --> 00:05:18,193
+Are there problems at home?
+
+147
+00:05:18,319 --> 00:05:19,653
+Yes.
+
+148
+00:05:19,778 --> 00:05:22,281
+Oh, dear.
+Here, Stanley, sit down.
+
+149
+00:05:22,406 --> 00:05:23,949
+Have some cocoa,
+
+150
+00:05:24,074 --> 00:05:25,909
+and tell your friend Mr. Hat
+all about it.
+
+151
+00:05:26,035 --> 00:05:28,037
+I'm your friend Mr. Hat, Stan.
+
+152
+00:05:28,162 --> 00:05:29,872
+You can tell me anything.
+
+153
+00:05:29,997 --> 00:05:31,498
+Now, who hit you?
+
+154
+00:05:31,623 --> 00:05:33,625
+Is it your father
+or your mother?
+
+155
+00:05:33,751 --> 00:05:35,669
+Neither.
+It's my sister.
+
+156
+00:05:35,794 --> 00:05:37,713
+Your sister?
+Oh, for Pete's sake.
+
+157
+00:05:37,838 --> 00:05:39,173
+Don't be such a little wuss!
+
+158
+00:05:39,298 --> 00:05:40,591
+Stop wasting Mr. Hat's time
+
+159
+00:05:40,716 --> 00:05:42,176
+with pansy little
+foo-foo problems
+
+160
+00:05:42,301 --> 00:05:44,553
+and give me back my cocoa!
+
+161
+00:05:48,724 --> 00:05:52,019
+<i>Let's open the phone lines
+back up for some questions.</i>
+
+162
+00:05:52,144 --> 00:05:53,145
+Hey!
+
+163
+00:05:55,647 --> 00:05:56,940
+Hi, Shelly.
+
+164
+00:05:57,066 --> 00:05:58,609
+Are you looking
+at my headgear?
+
+165
+00:05:58,734 --> 00:06:00,152
+Headgear?
+What headgear?
+
+166
+00:06:00,277 --> 00:06:01,779
+Are you looking
+at my headgear?
+
+167
+00:06:01,904 --> 00:06:03,697
+Oh, gosh,
+I didn't really notice.
+
+168
+00:06:03,822 --> 00:06:05,199
+You little liar!
+
+169
+00:06:05,324 --> 00:06:06,950
+No, I think
+it looks terrific!
+
+170
+00:06:07,076 --> 00:06:08,410
+It matches your--
+
+171
+00:06:24,802 --> 00:06:26,678
+Ready to go, Stan?
+- Go where?
+
+172
+00:06:26,804 --> 00:06:28,305
+To the genetical engineering
+ranch.
+
+173
+00:06:28,430 --> 00:06:29,807
+We got Cartman's pig
+so we can splice
+
+174
+00:06:29,932 --> 00:06:31,433
+its genes with my elephant.
+
+175
+00:06:31,558 --> 00:06:33,435
+Nobody's splicing
+nothing from Fluffy!
+
+176
+00:06:33,560 --> 00:06:36,355
+I swear I'm gonna kill you,
+Stan!
+
+177
+00:06:36,480 --> 00:06:38,107
+Why is your sister
+so mean to you, dude?
+
+178
+00:06:38,232 --> 00:06:39,983
+Yeah, If some sissy chick
+tried to
+
+179
+00:06:40,109 --> 00:06:43,237
+kick my ass, I'd be like, "Hey,
+listen,
+
+180
+00:06:43,362 --> 00:06:46,448
+missy, why don't you go
+knit me a sweater
+
+181
+00:06:46,573 --> 00:06:48,242
+before I slap you in the face?"
+
+182
+00:06:48,367 --> 00:06:49,868
+Who said that?
+
+183
+00:06:55,874 --> 00:06:57,876
+This must be it.
+
+184
+00:06:58,001 --> 00:06:59,545
+Yeah, looks like
+nobody's home.
+
+185
+00:06:59,670 --> 00:07:01,672
+Guess we should come
+back some other time.
+
+186
+00:07:01,797 --> 00:07:03,340
+No, Cartman.
+We're going in there
+
+187
+00:07:03,465 --> 00:07:05,092
+and splicing Fluffy
+and my elephant together.
+
+188
+00:07:05,217 --> 00:07:07,511
+It's okay, Fluffy,
+I won't let them hurt you.
+
+189
+00:07:07,636 --> 00:07:08,929
+It's just a stupid pig.
+
+190
+00:07:09,054 --> 00:07:10,556
+Yeah, quit being
+such a baby.
+
+191
+00:07:10,681 --> 00:07:11,890
+Baby? Well, at least I don't
+get my ass
+
+192
+00:07:12,015 --> 00:07:13,517
+kicked by a girl!
+
+193
+00:07:13,642 --> 00:07:14,768
+At least I'm not
+a little pig!
+
+194
+00:07:14,893 --> 00:07:16,353
+Hey! I'm taking my pig and--
+
+195
+00:07:16,478 --> 00:07:18,522
+Screw you guys!
+I'm going home!
+
+196
+00:07:18,647 --> 00:07:20,566
+This whole idea
+is stupid anyway!
+
+197
+00:07:20,691 --> 00:07:22,609
+What the hell would you know,
+you fat, sweaty Mongoloid?
+
+198
+00:07:22,734 --> 00:07:24,153
+You never get higher than a D!
+
+199
+00:07:24,278 --> 00:07:25,779
+Hey!
+Why don't you go back to
+
+200
+00:07:25,904 --> 00:07:27,906
+San Francisco
+with the rest of the Jews?
+
+201
+00:07:28,031 --> 00:07:30,909
+There's no Jews
+in San Francisco, retard!
+
+202
+00:07:31,034 --> 00:07:33,704
+I'll kick you in the nuts!
+
+203
+00:07:33,829 --> 00:07:34,913
+Can I help you?
+
+204
+00:07:37,416 --> 00:07:39,001
+Uh, yeah.
+
+205
+00:07:39,126 --> 00:07:41,336
+We wanna crossbreed
+an elephant with a pig.
+
+206
+00:07:41,462 --> 00:07:42,671
+Brilliant idea.
+
+207
+00:07:42,796 --> 00:07:44,965
+Huge, elephant-sized pigs.
+
+208
+00:07:45,090 --> 00:07:46,925
+No, no, we want to make
+little potbellied elephants
+
+209
+00:07:47,050 --> 00:07:49,178
+that people can keep
+in their houses as pets.
+
+210
+00:07:49,303 --> 00:07:50,721
+Oh, that's
+an even better idea.
+
+211
+00:07:50,846 --> 00:07:52,514
+Come on in.
+
+212
+00:07:52,639 --> 00:07:54,433
+I'm so pleased that
+you children are interested
+
+213
+00:07:54,558 --> 00:07:56,101
+in genetic engineering.
+
+214
+00:07:56,226 --> 00:07:59,188
+It's okay, Fluffy.
+Nobody's gonna hurt you.
+
+215
+00:07:59,313 --> 00:08:01,315
+It's thanks to the wonders
+of genetic engineering,
+
+216
+00:08:01,440 --> 00:08:03,192
+that soon there will be
+an end to hunger,
+
+217
+00:08:03,317 --> 00:08:05,527
+disease, pollution, even war.
+
+218
+00:08:05,652 --> 00:08:07,112
+I've created things that
+
+219
+00:08:07,237 --> 00:08:08,780
+will change the world
+for the better.
+
+220
+00:08:08,906 --> 00:08:11,992
+For instance, here's
+a monkey with four asses.
+
+221
+00:08:13,702 --> 00:08:15,245
+How does that
+make the world better?
+
+222
+00:08:15,370 --> 00:08:17,664
+And here, of course,
+is my four-assed ostrich
+
+223
+00:08:17,789 --> 00:08:19,875
+and my four-assed mongoose.
+
+224
+00:08:20,000 --> 00:08:22,211
+Do you have anything besides
+just animals with four asses?
+
+225
+00:08:22,336 --> 00:08:24,463
+Oh, well, I suppose so.
+
+226
+00:08:24,588 --> 00:08:26,715
+Oh, yes, over here.
+
+227
+00:08:26,840 --> 00:08:28,842
+Here I have rats
+spliced with ducks
+
+228
+00:08:28,967 --> 00:08:30,886
+and gorillas spliced
+with mosquitoes.
+
+229
+00:08:31,011 --> 00:08:33,347
+And here I have rabbits
+spliced with fish
+
+230
+00:08:33,472 --> 00:08:35,682
+to make little bunny fish.
+
+231
+00:08:35,807 --> 00:08:38,602
+Hey, these bunny ears are
+tied on with little strings!
+
+232
+00:08:38,727 --> 00:08:40,229
+And over here,
+a Swiss cheese
+
+233
+00:08:40,354 --> 00:08:42,314
+spliced with chalk and a beard.
+
+234
+00:08:42,439 --> 00:08:44,066
+Well, what about
+our potbellied elephant?
+
+235
+00:08:44,191 --> 00:08:46,193
+Oh.
+Well, I'm sorry, children.
+
+236
+00:08:46,318 --> 00:08:49,780
+But pig and elephant
+DNA just won't splice.
+
+237
+00:08:49,905 --> 00:08:52,366
+Haven't you ever heard
+that song by Loverboy?
+
+238
+00:08:52,491 --> 00:08:53,492
+Which song?
+
+239
+00:08:54,785 --> 00:08:56,078
+♪ Pig and elephant DNA ♪
+
+240
+00:08:56,203 --> 00:08:57,704
+♪ Just won't splice ♪
+
+241
+00:08:57,829 --> 00:08:59,331
+However,
+maybe I could help you
+
+242
+00:08:59,456 --> 00:09:01,291
+add a few asses
+to that swine of yours.
+
+243
+00:09:01,416 --> 00:09:03,585
+You can keep your hands
+off of Fluffy's ass!
+
+244
+00:09:03,710 --> 00:09:05,087
+You know, it's amazing
+what we can do
+
+245
+00:09:05,212 --> 00:09:07,256
+with a little
+blood sample these days.
+
+246
+00:09:07,381 --> 00:09:08,423
+Ow!
+- Hmm?
+
+247
+00:09:08,549 --> 00:09:10,175
+What? Excuse me.
+
+248
+00:09:10,300 --> 00:09:12,094
+Wait, what are you
+taking Stan's blood for?
+
+249
+00:09:12,219 --> 00:09:13,512
+Oh, pardon me, I tripped.
+
+250
+00:09:13,637 --> 00:09:15,264
+Could I have some hair, please?
+
+251
+00:09:15,389 --> 00:09:17,224
+Watch out, Stan,
+genetic engineers are crazy!
+
+252
+00:09:17,349 --> 00:09:18,517
+Come on, Fluffy!
+
+253
+00:09:22,938 --> 00:09:24,815
+This gas is hurting my anus.
+
+254
+00:09:24,940 --> 00:09:26,358
+Yeah, that's pretty fresh.
+
+255
+00:09:26,483 --> 00:09:28,652
+Ooh, I sure am hungry.
+
+256
+00:09:28,777 --> 00:09:30,153
+Hello, gentlemen.
+Any of you blokes know
+
+257
+00:09:30,279 --> 00:09:31,989
+what's for lunch today?
+
+258
+00:09:33,323 --> 00:09:35,701
+Lunchy munchies?
+Hmm?
+
+259
+00:09:35,826 --> 00:09:37,411
+Go away, Pip,
+nobody likes you!
+
+260
+00:09:37,536 --> 00:09:39,538
+Yeah, what kind of a name
+is Pip anyway?
+
+261
+00:09:39,663 --> 00:09:41,373
+Well, my father's family name
+being Pirrip
+
+262
+00:09:41,498 --> 00:09:43,458
+and my Christian name,
+Phillip, my infant tongue--
+
+263
+00:09:43,584 --> 00:09:45,419
+God damn it!
+Would you shut the hell up?
+
+264
+00:09:45,544 --> 00:09:46,628
+Nobody gives a rat's ass!
+
+265
+00:09:46,753 --> 00:09:47,963
+Yeah, go away, Pip.
+
+266
+00:09:48,088 --> 00:09:49,590
+Right-o.
+
+267
+00:09:49,715 --> 00:09:52,217
+God.
+French people piss me off.
+
+268
+00:09:52,342 --> 00:09:54,261
+Hey, dumb asses!
+You morons give up
+
+269
+00:09:54,386 --> 00:09:56,346
+on your stupid science fair
+project yet?
+
+270
+00:09:56,471 --> 00:09:58,265
+No,
+we're already halfway done.
+
+271
+00:09:58,390 --> 00:10:00,267
+Halfway?
+Then all you've got
+
+272
+00:10:00,392 --> 00:10:01,685
+is a stupid pig.
+
+273
+00:10:01,810 --> 00:10:02,769
+Yeah.
+- Probably a gay pig too.
+
+274
+00:10:02,894 --> 00:10:03,979
+Stupid gay pig.
+
+275
+00:10:04,104 --> 00:10:05,147
+It's more than you've got!
+
+276
+00:10:05,272 --> 00:10:06,440
+Wrong!
+We've already got
+
+277
+00:10:06,565 --> 00:10:09,735
+our human clone well under way.
+
+278
+00:10:09,860 --> 00:10:11,862
+Oh, my God!
+They cloned a foot!
+
+279
+00:10:11,987 --> 00:10:15,157
+Hey, I'll kick your ass!
+
+280
+00:10:15,282 --> 00:10:16,950
+Oh, ho!
+
+281
+00:10:17,075 --> 00:10:19,453
+By Friday, we're gonna
+clone a whole human being.
+
+282
+00:10:19,578 --> 00:10:21,413
+Good luck with your stupid
+little pig.
+
+283
+00:10:21,538 --> 00:10:22,998
+Hello there, children.
+- Hey, Chef.
+
+284
+00:10:23,123 --> 00:10:24,791
+- How you doing?
+- Bad.
+
+285
+00:10:24,916 --> 00:10:26,084
+Why bad?
+
+286
+00:10:26,209 --> 00:10:27,169
+We need to genetically
+engineer
+
+287
+00:10:27,294 --> 00:10:28,420
+a pig and an elephant,
+
+288
+00:10:28,545 --> 00:10:30,130
+but their genes won't splice.
+
+289
+00:10:30,255 --> 00:10:32,007
+Oh, of course
+they won't splice, children.
+
+290
+00:10:32,132 --> 00:10:34,092
+Haven't you ever heard
+that song by Loverboy?
+
+291
+00:10:36,011 --> 00:10:37,471
+♪ Pig and elephant DNA
+just won't splice ♪
+
+292
+00:10:37,596 --> 00:10:39,473
+A pig-elephant?
+
+293
+00:10:39,598 --> 00:10:42,309
+Say, that's not a bad idea.
+
+294
+00:10:42,434 --> 00:10:43,685
+I told you guys.
+
+295
+00:10:43,810 --> 00:10:45,896
+Imagine a pint-sized elephant
+
+296
+00:10:46,021 --> 00:10:47,981
+that you could keep
+in the house.
+
+297
+00:10:48,106 --> 00:10:51,485
+Children, we could
+make a fortune with this.
+
+298
+00:10:51,610 --> 00:10:53,362
+You hear that, dudes?
+We'll be rich!
+
+299
+00:10:53,487 --> 00:10:55,697
+Forget about all that genetic
+engineering hoosa fudge.
+
+300
+00:10:55,822 --> 00:10:58,325
+If you want to combine a pig
+and an elephant,
+
+301
+00:10:58,450 --> 00:11:01,370
+just get them
+to make sweet love.
+
+302
+00:11:01,495 --> 00:11:02,454
+What?
+- I don't think an elephant
+
+303
+00:11:02,579 --> 00:11:03,955
+would make love to a pig.
+
+304
+00:11:04,081 --> 00:11:05,457
+I don't think my pig
+would wanna
+
+305
+00:11:05,582 --> 00:11:07,334
+make love
+to that stupid elephant!
+
+306
+00:11:07,459 --> 00:11:09,002
+Sure they would,
+
+307
+00:11:09,127 --> 00:11:10,462
+but you're gonna have to
+get them in the mood.
+
+308
+00:11:10,587 --> 00:11:11,630
+Well, how do we do that?
+
+309
+00:11:11,755 --> 00:11:12,673
+Do what I do,
+
+310
+00:11:12,798 --> 00:11:14,966
+get them good and drunk.
+
+311
+00:11:15,092 --> 00:11:16,968
+Hey, uh,
+you guys wanna come over?
+
+312
+00:11:17,094 --> 00:11:18,011
+We've got work to do.
+
+313
+00:11:18,136 --> 00:11:19,262
+I think it takes a while
+
+314
+00:11:19,388 --> 00:11:20,806
+for an elephant to get drunk.
+
+315
+00:11:20,931 --> 00:11:21,890
+Really, you guys don't wanna
+come over
+
+316
+00:11:22,015 --> 00:11:23,684
+for just a little bit?
+
+317
+00:11:23,809 --> 00:11:24,976
+Why, is your sister gonna
+kick your ass again?
+
+318
+00:11:25,102 --> 00:11:26,061
+Shut up, Cartman!
+
+319
+00:11:27,771 --> 00:11:29,523
+Yeah, Stan,
+she's just a girl.
+
+320
+00:11:29,648 --> 00:11:32,442
+Yeah, if some girl tried to
+kick my ass, I'd be like,
+
+321
+00:11:32,567 --> 00:11:34,528
+"Hey, why don't you stop
+
+322
+00:11:34,653 --> 00:11:36,363
+dressing me up
+like a mailman
+
+323
+00:11:36,488 --> 00:11:38,365
+and making me dance for you
+
+324
+00:11:38,490 --> 00:11:40,742
+while you smoke crack
+in your bedroom
+
+325
+00:11:40,867 --> 00:11:43,161
+and have sex with some guy
+I don't even know
+
+326
+00:11:43,286 --> 00:11:45,038
+on my dad's bed!"
+
+327
+00:11:48,500 --> 00:11:51,002
+Cartman, what the hell
+are you talking about?
+
+328
+00:11:51,128 --> 00:11:52,087
+I'm just saying
+you're just a little wuss.
+
+329
+00:11:52,212 --> 00:11:53,422
+That's all.
+
+330
+00:11:53,547 --> 00:11:54,631
+Stan, you can use family love
+
+331
+00:11:54,756 --> 00:11:56,299
+as a weapon against Shelly.
+
+332
+00:11:56,425 --> 00:11:57,884
+The next time she's going to
+kick your ass,
+
+333
+00:11:58,009 --> 00:11:59,720
+just tell her, "Shelly,
+you're my sister.
+
+334
+00:11:59,845 --> 00:12:00,721
+And I love you."
+
+335
+00:12:02,180 --> 00:12:03,557
+Sick, dude.
+She's my sister!
+
+336
+00:12:03,682 --> 00:12:05,058
+Try it.
+We'll see you in a while.
+
+337
+00:12:05,183 --> 00:12:06,601
+We've gotta
+go get Cartman's pig.
+
+338
+00:12:06,727 --> 00:12:07,894
+No, you don't
+gotta get Cartman's pig!
+
+339
+00:12:08,019 --> 00:12:09,646
+You leave Fluffy out of this!
+
+340
+00:12:09,771 --> 00:12:11,273
+Come on, Kenny.
+- Kyle, no!
+
+341
+00:12:11,398 --> 00:12:13,483
+No elephant is gonna
+make love to Fluffy!
+
+342
+00:12:13,608 --> 00:12:17,195
+I -Kyle, I will kick you
+in the nuts!
+
+343
+00:12:17,320 --> 00:12:18,447
+Crap!
+
+344
+00:12:18,572 --> 00:12:20,198
+<i>And now back to</i>
+
+345
+00:12:20,323 --> 00:12:21,783
+<i>"Jesus and Pals"
+on South Park public--</i>
+
+346
+00:12:21,908 --> 00:12:24,286
+Are you staring
+at my neck brace?
+
+347
+00:12:24,411 --> 00:12:25,579
+No.
+I mean, yes?
+
+348
+00:12:25,704 --> 00:12:27,497
+I mean, what neck brace?
+
+349
+00:12:27,622 --> 00:12:28,915
+Shelly,
+
+350
+00:12:29,040 --> 00:12:30,500
+before you beat my face
+
+351
+00:12:30,625 --> 00:12:32,085
+into a bloody pulp again,
+I just want you
+
+352
+00:12:32,210 --> 00:12:34,254
+to know that you're my sister,
+
+353
+00:12:34,379 --> 00:12:35,589
+and I love you.
+
+354
+00:12:41,636 --> 00:12:43,513
+Someday, Shelly,
+I'm gonna be bigger than you.
+
+355
+00:12:43,638 --> 00:12:45,974
+And you're gonna wish you'd
+never done any of this to me.
+
+356
+00:12:46,099 --> 00:12:48,977
+You'll never be bigger
+than me, Stan.
+
+357
+00:12:49,102 --> 00:12:50,270
+Never!
+
+358
+00:12:52,022 --> 00:12:53,064
+Beautiful.
+
+359
+00:12:53,190 --> 00:12:54,858
+It's absolutely beautiful.
+
+360
+00:12:54,983 --> 00:12:56,359
+My son,
+
+361
+00:12:56,485 --> 00:12:57,944
+I think we've finally done it.
+
+362
+00:12:58,069 --> 00:12:59,321
+Yes, we have, Dad.
+
+363
+00:12:59,446 --> 00:13:01,448
+My very own human clone.
+
+364
+00:13:01,573 --> 00:13:03,533
+Hope it's not a gay clone.
+
+365
+00:13:03,658 --> 00:13:06,453
+Yeah. That was stupid.
+- That's so stupid.
+
+366
+00:13:06,578 --> 00:13:08,371
+Come on, elephant,
+keep drinking.
+
+367
+00:13:08,497 --> 00:13:09,831
+Damn, I wonder how drunk he
+needs to be
+
+368
+00:13:09,956 --> 00:13:11,625
+to make sweet love to the pig.
+
+369
+00:13:15,587 --> 00:13:16,838
+Damn it!
+This is never gonna work!
+
+370
+00:13:16,963 --> 00:13:18,298
+Hello, children.
+
+371
+00:13:18,423 --> 00:13:19,925
+I thought I'd check
+and see how
+
+372
+00:13:20,050 --> 00:13:22,719
+our little entrepreneurial
+venture is going.
+
+373
+00:13:22,844 --> 00:13:23,845
+Rotten.
+They're both really drunk,
+
+374
+00:13:23,970 --> 00:13:25,388
+but won't have sex!
+
+375
+00:13:25,514 --> 00:13:27,682
+Oh, children,
+you just can't stick
+
+376
+00:13:27,808 --> 00:13:29,726
+a drunk pig
+with a drunk elephant
+
+377
+00:13:29,851 --> 00:13:32,854
+and expect them to do
+the mattress mambo.
+
+378
+00:13:32,979 --> 00:13:34,564
+You need to set the mood.
+
+379
+00:13:34,689 --> 00:13:36,525
+Let me show you boys
+what I'm talking about.
+
+380
+00:13:38,026 --> 00:13:41,029
+♪ Tonight is right for love ♪
+
+381
+00:13:41,154 --> 00:13:42,989
+♪ You know I
+wanna touch you ♪
+
+382
+00:13:43,114 --> 00:13:45,283
+♪ Where the lights don't go ♪
+
+383
+00:13:45,408 --> 00:13:47,911
+♪ Tonight is right for love ♪
+
+384
+00:13:48,036 --> 00:13:52,958
+♪ Love gravy ♪
+
+385
+00:13:53,083 --> 00:13:55,502
+♪ Expressing love so sweet ♪
+
+386
+00:13:55,627 --> 00:13:57,712
+♪ I want to keep you burnin' ♪
+
+387
+00:13:57,838 --> 00:13:59,798
+♪ Like a dog in heat ♪
+
+388
+00:13:59,923 --> 00:14:02,300
+♪ Tonight is right for love ♪
+
+389
+00:14:02,425 --> 00:14:07,013
+♪ Love gravy ♪
+
+390
+00:14:07,138 --> 00:14:10,308
+Ladies and gentlemen,
+Mr. Elton John!
+
+391
+00:14:10,433 --> 00:14:13,436
+♪ Ooh, tonight ♪
+
+392
+00:14:13,562 --> 00:14:17,357
+♪ Oh, it's right ♪
+
+393
+00:14:17,482 --> 00:14:19,693
+♪ Ooh, tonight is right
+for love ♪
+
+394
+00:14:19,818 --> 00:14:21,820
+♪ Love gravy ♪
+
+395
+00:14:23,280 --> 00:14:24,656
+Thank you, Elton.
+
+396
+00:14:24,781 --> 00:14:26,825
+♪ Tonight is right for love ♪
+
+397
+00:14:26,950 --> 00:14:32,163
+♪ Love gravy ♪
+
+398
+00:14:32,289 --> 00:14:34,916
+Hey, look!
+It's working!
+
+399
+00:14:35,041 --> 00:14:37,335
+Now, children, gather round
+
+400
+00:14:37,460 --> 00:14:40,338
+and watch the wonders of life.
+
+401
+00:14:40,463 --> 00:14:42,591
+The beauty of Mother Nature.
+
+402
+00:14:44,301 --> 00:14:45,802
+Oh, sick!
+
+403
+00:14:45,927 --> 00:14:47,053
+Fluffy!
+
+404
+00:14:47,178 --> 00:14:48,221
+Hmm.
+
+405
+00:14:48,346 --> 00:14:49,556
+Now I know how all those
+
+406
+00:14:49,681 --> 00:14:51,683
+white women must have felt.
+
+407
+00:14:55,186 --> 00:14:56,688
+Oh, how luscious.
+
+408
+00:14:56,813 --> 00:14:57,939
+Our creature has come
+to fruition, boys.
+
+409
+00:14:58,064 --> 00:14:59,691
+Dad, you're the best.
+
+410
+00:14:59,816 --> 00:15:00,775
+Oh, my God!
+
+411
+00:15:00,901 --> 00:15:02,235
+He only has one ass!
+
+412
+00:15:02,360 --> 00:15:03,445
+He's of no use to me.
+
+413
+00:15:03,570 --> 00:15:05,488
+I'll have to burn the room.
+
+414
+00:15:06,865 --> 00:15:07,866
+Oh, no.
+
+415
+00:15:07,991 --> 00:15:08,992
+This entire experiment
+
+416
+00:15:09,117 --> 00:15:10,619
+is turning out very bad.
+
+417
+00:15:10,744 --> 00:15:13,246
+Me bad?
+
+418
+00:15:14,706 --> 00:15:16,666
+Egads!
+He's out of control.
+
+419
+00:15:16,791 --> 00:15:18,209
+We'll have to destroy him!
+
+420
+00:15:18,335 --> 00:15:19,502
+But he's our
+science fair project!
+
+421
+00:15:22,714 --> 00:15:24,341
+He's too dangerous, son.
+
+422
+00:15:24,466 --> 00:15:26,843
+But, Dad,
+I want a human clone!
+
+423
+00:15:26,968 --> 00:15:28,720
+Son, no!
+
+424
+00:15:31,890 --> 00:15:34,684
+Oh, son, you've made
+a horrible mistake.
+
+425
+00:15:34,809 --> 00:15:36,227
+You've put all the people
+of South Park
+
+426
+00:15:36,353 --> 00:15:37,437
+in jeopardy!
+
+427
+00:15:37,562 --> 00:15:38,730
+They're all stupid anyway.
+
+428
+00:15:38,855 --> 00:15:40,690
+Come on, guys, let's go.
+
+429
+00:15:40,815 --> 00:15:42,692
+Yeah, they're all gay.
+
+430
+00:15:42,817 --> 00:15:45,028
+Aren't they ever
+gonna wake up?
+
+431
+00:15:45,153 --> 00:15:46,613
+Oh, they will.
+
+432
+00:15:46,738 --> 00:15:48,990
+It's gonna be one ugly sight.
+
+433
+00:15:49,115 --> 00:15:50,659
+I thought you said
+the wonder of Mother Nature
+
+434
+00:15:50,784 --> 00:15:52,035
+was a beautiful thing.
+
+435
+00:15:52,160 --> 00:15:53,244
+Yeah, when does
+Mother Nature
+
+436
+00:15:53,370 --> 00:15:54,871
+go from beautiful to ugly?
+
+437
+00:15:54,996 --> 00:15:57,791
+Usually about 9:30
+in the morning, children.
+
+438
+00:15:59,084 --> 00:16:00,752
+Uh oh.
+Here we go.
+
+439
+00:16:05,006 --> 00:16:07,550
+Ah, there's nothing worse
+than getting all drunk
+
+440
+00:16:07,676 --> 00:16:10,261
+and waking up the next
+morning next to a pig.
+
+441
+00:16:12,555 --> 00:16:14,182
+Or a big, fat elephant.
+
+442
+00:16:14,307 --> 00:16:15,725
+Hey, how do we know
+if she's pregnant?
+
+443
+00:16:15,850 --> 00:16:17,310
+Well, boys,
+we might not know that
+
+444
+00:16:17,435 --> 00:16:19,813
+for a couple of days.
+- Couple of days?
+
+445
+00:16:19,938 --> 00:16:22,148
+But Terrance is going to have
+his human clone by tomorrow.
+
+446
+00:16:22,273 --> 00:16:23,900
+Well, good job, Einstein!
+
+447
+00:16:24,025 --> 00:16:25,443
+Why don't we just build
+a rocket in the meantime?
+
+448
+00:16:25,568 --> 00:16:27,821
+Oh, thank Buddha
+I found you boys.
+
+449
+00:16:27,946 --> 00:16:30,532
+You must tell me, have you seen
+anything odd lately?
+
+450
+00:16:30,657 --> 00:16:33,284
+Uh, we saw an elephant
+have sex with a pig.
+
+451
+00:16:33,410 --> 00:16:35,078
+No, no, I said odd.
+
+452
+00:16:35,203 --> 00:16:37,831
+Hey, you're that crazy
+cracker from up on the hill.
+
+453
+00:16:37,956 --> 00:16:41,668
+Sir, if making mutant animals
+spliced with humans is crazy,
+
+454
+00:16:41,793 --> 00:16:43,837
+then...
+
+455
+00:16:43,962 --> 00:16:46,214
+Uh...
+
+456
+00:16:46,339 --> 00:16:47,340
+Hmm.
+
+457
+00:16:47,465 --> 00:16:49,426
+Oh, never mind.
+
+458
+00:16:49,551 --> 00:16:50,802
+I'm afraid there's been a bit
+
+459
+00:16:50,927 --> 00:16:52,470
+of an incident
+at the ranch.
+
+460
+00:16:52,595 --> 00:16:53,847
+You see, I've created
+a large mutant clone
+
+461
+00:16:53,972 --> 00:16:55,473
+of that little boy there,
+
+462
+00:16:55,598 --> 00:16:57,976
+and he's broken free.
+
+463
+00:16:59,352 --> 00:17:00,770
+A big, mutant version of me?
+
+464
+00:17:00,895 --> 00:17:01,938
+Is he bigger
+than a regular clone?
+
+465
+00:17:02,063 --> 00:17:03,857
+He's terribly dangerous.
+
+466
+00:17:03,982 --> 00:17:05,984
+His brain is
+identical to yours.
+
+467
+00:17:06,109 --> 00:17:08,153
+I need you to help me find him.
+
+468
+00:17:12,741 --> 00:17:17,120
+Stan, are you wearing
+a different hat?
+
+469
+00:17:17,245 --> 00:17:18,413
+Hey!
+
+470
+00:17:18,538 --> 00:17:19,622
+I know a certain young man
+
+471
+00:17:19,748 --> 00:17:21,166
+who's itching for detention!
+
+472
+00:17:24,419 --> 00:17:25,962
+How big do you think he is?
+
+473
+00:17:26,087 --> 00:17:27,088
+I bet he weighs 400 pounds!
+
+474
+00:17:27,213 --> 00:17:28,715
+Come on, Stan,
+
+475
+00:17:28,840 --> 00:17:29,716
+don't you even know
+where you would go?
+
+476
+00:17:31,593 --> 00:17:32,761
+Oh, my God!
+
+477
+00:17:34,929 --> 00:17:36,890
+<i>It appears that the
+horrible, destructive creature</i>
+
+478
+00:17:37,015 --> 00:17:40,310
+<i>is 8-year-old Stan Marsh
+of South Park.</i>
+
+479
+00:17:40,435 --> 00:17:42,520
+<i>When asked why
+he was wreaking havoc</i>
+
+480
+00:17:42,645 --> 00:17:45,690
+<i>on his hometown,
+the little boy replied simply,</i>
+
+481
+00:17:45,815 --> 00:17:49,319
+<i>"Me Stan."</i>
+
+482
+00:17:49,444 --> 00:17:51,154
+<i>Back to you in the studio.</i>
+
+483
+00:17:51,279 --> 00:17:53,073
+<i>Thanks, Tom.
+Police are requesting that</i>
+
+484
+00:17:53,198 --> 00:17:54,866
+<i>if you see this little
+8-year-old boy,</i>
+
+485
+00:17:54,991 --> 00:17:56,242
+<i>you immediately kill him
+and burn his body.</i>
+
+486
+00:17:56,367 --> 00:17:57,827
+<i>That's all for now.</i>
+
+487
+00:17:57,952 --> 00:17:59,788
+<i>And now back to
+"Jesus and Pals."</i>
+
+488
+00:17:59,913 --> 00:18:01,664
+<i>Yea, the way
+is paved with gold</i>
+
+489
+00:18:01,790 --> 00:18:03,333
+<i>for ye who seek truth and--</i>
+
+490
+00:18:06,920 --> 00:18:07,962
+<i>Jesus!</i>
+
+491
+00:18:10,131 --> 00:18:11,925
+Officer Barbrady,
+my evil genetic clone
+
+492
+00:18:12,050 --> 00:18:12,967
+is destroying the town.
+
+493
+00:18:13,093 --> 00:18:14,886
+We have to find him.
+
+494
+00:18:15,011 --> 00:18:16,930
+You boys have been watching
+"The X Files" too much.
+
+495
+00:18:17,055 --> 00:18:19,349
+There's no such thing
+as genetic clone--
+
+496
+00:18:19,474 --> 00:18:20,350
+Whoa!
+
+497
+00:18:21,684 --> 00:18:22,852
+<i>You kids go on home.</i>
+
+498
+00:18:22,977 --> 00:18:24,479
+<i>There's nothing to see here.</i>
+
+499
+00:18:24,604 --> 00:18:25,939
+Come on, let's go!
+
+500
+00:18:26,064 --> 00:18:27,565
+There you are!
+
+501
+00:18:27,690 --> 00:18:30,276
+Stanley, you tore up
+my entire gun shop!
+
+502
+00:18:30,401 --> 00:18:33,071
+You better have a good
+explanation for this, mister!
+
+503
+00:18:33,196 --> 00:18:34,322
+It wasn't me, Uncle Jimbo.
+
+504
+00:18:34,447 --> 00:18:35,949
+It was my evil genetic clone.
+
+505
+00:18:36,074 --> 00:18:38,243
+Stanley, what the hell
+has gotten into you?
+
+506
+00:18:38,368 --> 00:18:40,912
+You have got severe
+lunchroom duty, mister!
+
+507
+00:18:41,037 --> 00:18:43,665
+I'm gonna have a word
+with your father, Stanley!
+
+508
+00:18:43,790 --> 00:18:44,707
+Yeah, you wait
+till your father
+
+509
+00:18:44,833 --> 00:18:45,917
+hears about this.
+
+510
+00:18:46,042 --> 00:18:48,586
+Wait, Stan, there he goes.
+
+511
+00:18:48,711 --> 00:18:49,712
+Stop!
+
+512
+00:18:52,715 --> 00:18:54,050
+He recognizes you, dude.
+
+513
+00:18:54,175 --> 00:18:55,885
+That's good.
+That's good, dude.
+
+514
+00:18:56,010 --> 00:18:57,011
+Just calm down.
+
+515
+00:19:01,099 --> 00:19:03,643
+What should we do with him?
+
+516
+00:19:03,768 --> 00:19:06,104
+Stan, how would you like to
+go home
+
+517
+00:19:06,229 --> 00:19:07,522
+and meet your sister?
+
+518
+00:19:12,277 --> 00:19:13,736
+So remember, Shelly's the one
+
+519
+00:19:13,862 --> 00:19:14,988
+with a big
+wire coming out of her mouth
+
+520
+00:19:15,113 --> 00:19:16,489
+and a metal plate on her back.
+
+521
+00:19:16,614 --> 00:19:17,824
+When you see Shelly,
+kick her ass.
+
+522
+00:19:17,949 --> 00:19:20,076
+Shelly bad.
+Shelly very bad!
+
+523
+00:19:20,201 --> 00:19:21,286
+Me bad?
+
+524
+00:19:21,411 --> 00:19:24,080
+No, Shelly bad.
+You good.
+
+525
+00:19:27,250 --> 00:19:28,168
+He's tearing up the house.
+
+526
+00:19:28,293 --> 00:19:29,169
+Stop him!
+
+527
+00:19:39,220 --> 00:19:43,349
+What the hell do you want?
+
+528
+00:19:47,854 --> 00:19:50,940
+Boys! Boys, I'm lusciously
+sorry for everything.
+
+529
+00:19:51,065 --> 00:19:53,443
+Hey, they got our clone.
+He belongs to us.
+
+530
+00:19:53,568 --> 00:19:55,278
+No, son, this beast
+is a disgrace
+
+531
+00:19:55,403 --> 00:19:57,197
+to genetic engineers
+everywhere.
+
+532
+00:19:57,322 --> 00:20:00,867
+Boys, I'm sorry I've caused
+you such inconvenience.
+
+533
+00:20:00,992 --> 00:20:02,452
+I tried to play God
+and I failed.
+
+534
+00:20:03,995 --> 00:20:06,372
+Daddy, no!
+
+535
+00:20:06,497 --> 00:20:08,249
+All I ever wanted
+was to genetically
+
+536
+00:20:08,374 --> 00:20:10,168
+engineer something useful.
+
+537
+00:20:10,293 --> 00:20:12,045
+But I failed.
+
+538
+00:20:12,170 --> 00:20:14,130
+Perhaps we shouldn't be
+toying with God's creations.
+
+539
+00:20:14,255 --> 00:20:16,341
+Perhaps we should
+leave nature alone
+
+540
+00:20:16,466 --> 00:20:18,968
+to its simple
+one-assed schematics.
+
+541
+00:20:19,093 --> 00:20:21,179
+You cheating bastards.
+This isn't over!
+
+542
+00:20:21,304 --> 00:20:22,972
+Just wait until tomorrow!
+
+543
+00:20:24,557 --> 00:20:26,351
+Oh, my God!
+They killed Kenny!
+
+544
+00:20:26,476 --> 00:20:28,603
+You bastard!
+
+545
+00:20:28,728 --> 00:20:29,854
+Mom and Dad are home.
+
+546
+00:20:29,979 --> 00:20:31,022
+My house is a disaster!
+
+547
+00:20:31,147 --> 00:20:32,315
+You guys gotta help me.
+
+548
+00:20:32,440 --> 00:20:33,483
+I ain't helping crap.
+
+549
+00:20:33,608 --> 00:20:34,943
+I wanna eat some pie.
+
+550
+00:20:35,068 --> 00:20:36,319
+You can't just
+leave me here alone!
+
+551
+00:20:36,444 --> 00:20:37,862
+Oh, yeah?
+Watch me.
+
+552
+00:20:37,987 --> 00:20:39,322
+Yeah, Stan,
+we have to go find out
+
+553
+00:20:39,447 --> 00:20:40,615
+if Cartman's pig
+is pregnant or not.
+
+554
+00:20:40,740 --> 00:20:42,617
+See ya!
+- Thanks a lot!
+
+555
+00:20:42,742 --> 00:20:43,952
+Oh, boy,
+
+556
+00:20:44,077 --> 00:20:46,996
+you are gonna get it now.
+
+557
+00:20:47,121 --> 00:20:49,165
+It isn't fair.
+
+558
+00:20:49,290 --> 00:20:50,500
+Everybody hates me.
+
+559
+00:20:50,625 --> 00:20:52,293
+The whole town wants me killed.
+
+560
+00:20:52,418 --> 00:20:54,921
+Mom and Dad are
+gonna send me away.
+
+561
+00:20:55,046 --> 00:20:56,923
+I don't wanna be sent away.
+
+562
+00:20:57,048 --> 00:20:58,508
+I wanna stay here!
+
+563
+00:21:00,677 --> 00:21:02,053
+Stanley, what--
+what in God's name
+
+564
+00:21:02,178 --> 00:21:03,888
+have you been doing?
+
+565
+00:21:04,013 --> 00:21:06,432
+Everybody in town
+is upset with you, young man.
+
+566
+00:21:06,557 --> 00:21:07,642
+What's going on?
+
+567
+00:21:07,767 --> 00:21:09,102
+Are you on drugs?
+
+568
+00:21:09,227 --> 00:21:11,604
+It's not Stan's fault.
+
+569
+00:21:11,729 --> 00:21:13,523
+Huh?
+- It wasn't Stan.
+
+570
+00:21:13,648 --> 00:21:15,358
+He was--
+
+571
+00:21:15,483 --> 00:21:18,027
+He was with me the whole time.
+
+572
+00:21:18,152 --> 00:21:20,363
+Oh.
+Well, Stan, we're, uh--
+
+573
+00:21:20,488 --> 00:21:22,615
+we're sorry we jumped
+to conclusions.
+
+574
+00:21:22,740 --> 00:21:23,741
+Oh, honey.
+
+575
+00:21:23,866 --> 00:21:25,576
+Please forgive us, son.
+
+576
+00:21:27,996 --> 00:21:30,290
+Shelly, you saved my life.
+
+577
+00:21:30,415 --> 00:21:32,750
+And yet you've done
+so much more than that.
+
+578
+00:21:32,875 --> 00:21:34,961
+Today you've taught me
+the meaning of family.
+
+579
+00:21:35,086 --> 00:21:36,587
+Sure, families don't always
+get along.
+
+580
+00:21:36,713 --> 00:21:38,756
+But when the forces of evil
+descend upon us,
+
+581
+00:21:38,881 --> 00:21:40,675
+we conquer them
+by sticking together.
+
+582
+00:21:53,021 --> 00:21:54,981
+Everyone, let's give Casey
+and his weed a big hand.
+
+583
+00:21:56,649 --> 00:21:57,734
+Okay, Kyle,
+we're ready to see
+
+584
+00:21:57,859 --> 00:21:59,360
+your science project.
+
+585
+00:21:59,485 --> 00:22:01,279
+Well, our pig
+hasn't given birth yet.
+
+586
+00:22:01,404 --> 00:22:03,114
+But she should any time now.
+
+587
+00:22:03,239 --> 00:22:04,699
+Oh, well, then
+I guess you get an F.
+
+588
+00:22:04,824 --> 00:22:06,159
+Okay, Terrance,
+I know the class
+
+589
+00:22:06,284 --> 00:22:08,578
+can hardly wait to see yours.
+
+590
+00:22:08,703 --> 00:22:10,038
+Thank you, Mr. Garrison.
+
+591
+00:22:10,163 --> 00:22:12,665
+Boys, Mr. Garrison,
+fellow students,
+
+592
+00:22:12,790 --> 00:22:14,292
+for our science fair project
+
+593
+00:22:14,417 --> 00:22:16,002
+Bill Fossey and I have spawned
+a creature
+
+594
+00:22:16,127 --> 00:22:18,129
+genetically far
+superior to man.
+
+595
+00:22:18,254 --> 00:22:19,464
+I present to you
+
+596
+00:22:19,589 --> 00:22:21,507
+the five-assed monkey.
+
+597
+00:22:23,176 --> 00:22:25,178
+Oh, Mr. Hat,
+isn't it beautiful?
+
+598
+00:22:27,305 --> 00:22:29,974
+Wait, wait,
+the pig just gave birth!
+
+599
+00:22:30,099 --> 00:22:31,225
+It had a baby!
+
+600
+00:22:32,727 --> 00:22:34,187
+What's it look like?
+
+601
+00:22:34,312 --> 00:22:35,855
+Does it look like
+a pig or elephant?
+
+602
+00:22:40,276 --> 00:22:43,237
+It kind of looks like
+Mr. Garrison.
+
+603
+00:22:43,363 --> 00:22:46,407
+Oh, gee, isn't that
+an amazing coincidence?
+
+604
+00:22:46,532 --> 00:22:48,493
+What are the odds of that?
+
+605
+00:22:48,618 --> 00:22:50,203
+Hmm.
+
+606
+00:22:50,328 --> 00:22:52,246
+You boys get first prize.
+
+607
+00:22:55,083 --> 00:22:56,959
+That'll do, pig.
+

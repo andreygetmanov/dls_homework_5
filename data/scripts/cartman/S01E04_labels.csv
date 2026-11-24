@@ -1,0 +1,682 @@
+i,a,c,text,two,song,n,matched,who,purity,cartman
+1,2.9619999999999997,4.13,"Oh, boy.",False,False,2,0,,0.0,False
+2,4.255,6.298,Beefcake. - I'll tell you.,True,False,4,0,,0.0,False
+3,6.424,8.134,That is a hoot and a holler.,False,False,7,0,,0.0,False
+4,8.259,9.677,This next episode is definitely,False,False,5,0,,0.0,False
+5,9.802,11.429,both Trey and I's favorite episode.,False,False,6,0,,0.0,False
+6,11.554,13.889,"It's called ""Big Gay AI's Big Gay Boat Ride.""",False,False,9,0,,0.0,False
+7,14.015,15.349,"In it, Stan finds out",False,False,5,0,,0.0,False
+8,15.474,17.476,that his dog Sparky is a homosexual.,False,False,7,0,,0.0,False
+9,18.728,21.188,How did your preoccupation with homosexuality develop?,False,False,7,0,,0.0,False
+10,21.313,22.898,"Well, we have noticed that America",False,False,6,0,,0.0,False
+11,23.024,25.234,"definitely has a preoccupation with gayness,",False,False,6,0,,0.0,False
+12,25.359,26.861,but we felt there was a part of homosexuality,False,False,9,0,,0.0,False
+13,26.986,28.571,"that has been left unexplored,",False,False,5,0,,0.0,False
+14,28.696,32.199,and that's animal homosexuality.,False,False,4,0,,0.0,False
+15,32.324,34.702,I know people are curious about the two of you too.,False,False,11,0,,0.0,False
+16,34.827,36.704,"Are you guys, uh...",False,False,4,0,,0.0,False
+17,36.829,38.539,"a couple, if you know what I mean?",False,False,8,0,,0.0,False
+18,38.664,40.708,"You--you mean, are we gay?",False,False,6,0,,0.0,False
+19,40.833,42.209,Yeah.,False,False,1,0,,0.0,False
+20,43.294,45.087,"Well, I am a little.",False,False,5,0,,0.0,False
+21,45.212,46.797,I guess we're all a little gay.,False,False,7,0,,0.0,False
+22,46.922,49.759,Even little Scratch here. - Yeah.,True,False,5,0,,0.0,False
+23,49.884,52.178,You must have gotten a lot of mail on this episode.,False,False,11,0,,0.0,False
+24,52.303,53.471,What kinds of stuff do you get in the mail,False,False,10,0,,0.0,False
+25,53.596,55.347,from fans in general?,False,False,4,0,,0.0,False
+26,55.473,58.309,We have great fans and great fan mail.,False,False,8,0,,0.0,False
+27,58.434,59.81,"People write such interesting,",False,False,4,0,,0.0,False
+28,59.935,61.812,fascinating things to us every week.,False,False,6,0,,0.0,False
+29,61.937,63.689,Let me give you an example.,False,False,6,0,,0.0,False
+30,65.024,66.108,"""Dear Trey and Matt,",False,False,4,0,,0.0,False
+31,66.233,68.027,"I like your show.""",False,False,4,0,,0.0,False
+32,69.195,70.988,That's from Tom in New Jersey.,False,False,6,0,,0.0,False
+33,72.406,75.659,Why does Kenny have to die so often and so horribly?,False,False,11,0,,0.0,False
+34,75.785,76.744,Because he's poor.,False,False,3,0,,0.0,False
+35,76.869,78.454,Aw.,False,False,1,0,,0.0,False
+36,78.579,80.206,"Guys, is there stuff you put into the show",False,False,9,0,,0.0,False
+37,80.331,82.833,"that's subliminal, kind of like a little reward",False,False,8,0,,0.0,False
+38,82.958,85.044,for the fans who are really paying attention?,False,False,8,0,,0.0,False
+39,85.169,88.13,Yes. We definitely feel we owe it to our hardcore fans,False,False,11,0,,0.0,False
+40,88.255,90.841,to put hidden subliminal messages in every episode.,False,False,8,0,,0.0,False
+41,90.966,92.718,"That way, they can watch the episode over and over",False,False,10,0,,0.0,False
+42,92.843,94.011,and find something new every time.,False,False,6,0,,0.0,False
+43,94.136,95.054,"For instance, in this episode,",False,False,5,0,,0.0,False
+44,95.179,96.847,"if you look really hard,",False,False,5,0,,0.0,False
+45,96.972,99.517,you can find a picture of me having sex with Matt's mom.,False,False,12,0,,0.0,False
+46,99.642,100.893,What?,False,False,1,0,,0.0,False
+47,101.018,103.354,"So now sit back, relax, and enjoy",False,False,7,0,,0.0,False
+48,103.479,105.773,"""Big Gay AI's Big Gay Boat Ride.""",False,False,7,0,,0.0,False
+49,118.744,120.121,♪ I'm going down to South Park ♪,False,True,6,0,,0.0,False
+50,120.246,122.123,♪ Gonna have myself a time ♪,False,True,5,0,,0.0,False
+51,122.248,123.833,♪ Friendly faces everywhere ♪,False,True,3,0,,0.0,False
+52,123.958,125.376,♪ Humble folks without temptation ♪,False,True,4,0,,0.0,False
+53,125.501,126.836,♪ Going down to South Park ♪,False,True,5,0,,0.0,False
+54,126.961,128.671,♪ Gonna leave my woes behind ♪,False,True,5,0,,0.0,False
+55,128.796,130.381,♪ Ample parking day or night ♪,False,True,5,0,,0.0,False
+56,130.506,131.882,"♪ People spouting: ""Howdy neighbor."" ♪",False,True,4,0,,0.0,False
+57,132.007,133.384,♪ Headed on up to South Park ♪,False,True,6,0,,0.0,False
+58,133.509,135.136,♪ Gonna see if I can't unwind ♪,False,True,6,0,,0.0,False
+59,138.43,139.807,♪ So come on down to South Park ♪,False,True,7,0,,0.0,False
+60,139.932,141.559,♪ And meet some friends of mine ♪,False,True,6,0,,0.0,False
+61,142.56,143.936,"Hey, where's the school bus?",False,False,5,5,kyle,1.0,False
+62,144.061,145.646,We're gonna be late for football practice.,False,False,7,7,kyle,1.0,False
+63,145.771,147.398,"Hiya, Sparky. - Who's that?",True,False,4,4,stan,0.5,False
+64,147.523,148.691,That's my new dog Sparky.,False,False,5,5,stan,1.0,False
+65,148.816,150.151,He followed me to the bus stop.,False,False,7,7,stan,1.0,False
+66,150.276,151.694,"Wow, cool! - Good boy, Sparky.",True,False,5,5,stan,0.6,False
+67,151.819,153.154,Who's my best buddy?,False,False,4,4,stan,1.0,False
+68,153.279,154.78,Who's your boy? Who's your buddy?,False,False,6,6,stan,1.0,False
+69,154.905,156.824,"Ugh. You're making me sick, dude.",False,False,6,5,cartman,1.0,True
+70,156.949,158.784,He's part Doberman and part wolf.,False,False,6,6,stan,1.0,False
+71,158.909,160.536,He's the toughest dog on the mountain.,False,False,7,7,stan,1.0,False
+72,160.661,162.788,No way. Everybody knows that Sylvester,False,False,6,6,cartman,1.0,True
+73,162.913,165.624,is the toughest dog in South Park.,False,False,7,7,cartman,1.0,True
+74,167.251,168.586,He's not meaner than Sparky!,False,False,5,5,stan,1.0,False
+75,168.711,170.171,"Oh, yeah? Let's see.",False,False,4,4,cartman,1.0,True
+76,170.296,171.255,"Hey, Sylvester!",False,False,2,2,cartman,1.0,True
+77,171.38,172.756,Sparky'll kick his ass!,False,False,4,4,stan,1.0,False
+78,172.882,174.508,I'll put a dollar on Sylvester.,False,False,6,6,cartman,1.0,True
+79,174.633,175.801,"You're on, dude.",False,False,3,3,kyle,1.0,False
+80,176.385,178.637,"That's it, Sparky, kick his ass!",False,False,6,6,stan,1.0,False
+81,181.891,184.435,Huh. He's doing something to his ass.,False,False,7,7,cartman,1.0,True
+82,184.56,186.395,"He's not kicking his ass, but he's definitely",False,False,8,8,cartman,1.0,True
+83,186.52,187.98,doing something to his ass.,False,False,5,5,cartman,1.0,True
+84,188.105,189.69,"Sparky, bad dog!",False,False,3,3,stan,1.0,False
+85,191.317,192.276,"What? - Yeah, dude.",True,False,3,3,cartman,0.6666666666666666,False
+86,192.401,193.36,I think your dog is gay.,False,False,6,6,cartman,1.0,True
+87,193.485,194.653,What do you mean?,False,False,4,4,stan,1.0,False
+88,194.778,196.614,That dog is a gay homosexual.,False,False,6,6,cartman,1.0,True
+89,197.99,199.533,He's just confused.,False,False,3,3,stan,1.0,False
+90,199.658,201.285,I think the other dog's the one that's confused.,False,False,9,9,kyle,1.0,False
+91,202.494,203.746,"Sick! Shut up, dude.",False,False,4,4,stan,1.0,False
+92,205.331,206.957,♪ Stan's dog's a homo ♪,False,True,4,3,cartman,1.0,False
+93,207.082,209.084,♪ Stan's dog's a homo ♪,False,True,4,3,cartman,1.0,False
+94,210.252,212.129,"Okay, children, I know that you're all",False,False,7,7,chef,1.0,False
+95,212.254,214.381,extremely excited and nervous and anxious,False,False,6,5,chef,1.0,False
+96,214.506,217.343,about the homecoming game against Middle Park.,False,False,7,7,chef,1.0,False
+97,217.468,218.969,Who's Middle Park? - What's homecoming?,True,False,5,5,kyle,0.6,False
+98,219.094,220.679,But just remember what I taught you,False,False,7,7,chef,1.0,False
+99,220.804,222.598,that football is like making love,False,False,6,6,chef,1.0,False
+100,222.723,225.309,to a really beautiful woman.,False,False,5,4,chef,1.0,False
+101,225.434,228.02,"You can't always score, but when you do,",False,False,8,8,chef,1.0,False
+102,228.145,230.648,it makes all the trying worthwhile.,False,False,6,6,chef,1.0,False
+103,231.815,233.692,Now let's start practice.,False,False,4,4,chef,1.0,False
+104,233.817,235.027,"Uh, Mr. Chef, sir?",False,False,4,4,pip,1.0,False
+105,235.152,236.612,"Yes, Pip, what is it?",False,False,5,5,chef,1.0,False
+106,236.737,237.905,I still don't have a helmet.,False,False,6,6,pip,1.0,False
+107,238.03,239.114,"I know, Pip.",False,False,3,3,chef,1.0,False
+108,239.24,240.115,The school can't afford helmets,False,False,5,5,chef,1.0,False
+109,240.241,241.367,for everybody.,False,False,2,2,chef,1.0,False
+110,241.492,242.952,"Yes, but couldn't we rotate",False,False,5,5,pip,1.0,False
+111,243.077,244.37,who doesn't have a helmet every week?,False,False,7,7,pip,1.0,False
+112,244.495,245.871,Does it always have to be me?,False,False,7,7,pip,1.0,False
+113,245.996,248.249,"Yes, Pip, I'm afraid it does.",False,False,6,6,chef,1.0,False
+114,248.374,249.708,"Oh. - Sorry, son.",True,False,3,3,chef,0.6666666666666666,False
+115,249.833,251.46,Now get your ass in there.,False,False,6,6,chef,1.0,False
+116,251.585,253.921,"Hut, hut, hut, hut, hut.",False,False,5,5,stan,1.0,False
+117,254.046,255.881,"Hut, hut, hut, hut, hut, hut,",False,False,6,6,stan,1.0,False
+118,256.006,257.049,"hut, hut, hut.",False,False,3,3,stan,1.0,False
+119,257.174,259.76,Hike the damn ball!,False,False,4,4,chef,1.0,False
+120,261.971,262.888,"Hey, how's practice",False,False,3,3,jimbo,1.0,False
+121,263.013,264.014,"coming there, Chef?",False,False,3,3,jimbo,1.0,False
+122,264.139,265.474,"Huh? Oh, fine, fine.",False,False,4,4,chef,1.0,False
+123,265.599,266.892,I don't have to remind you,False,False,6,6,jimbo,1.0,False
+124,267.017,268.602,just how important this game is,False,False,6,6,jimbo,1.0,False
+125,268.727,270.354,to us South Park alumni.,False,False,5,5,jimbo,1.0,False
+126,270.479,271.897,Elementary school alumni?,False,False,3,3,chef,1.0,False
+127,272.022,273.565,That's as far as most of us got.,False,False,8,8,jimbo,1.0,False
+128,273.691,275.567,You think we have a shot at beating the spread,False,False,10,10,jimbo,1.0,False
+129,275.693,277.152,against Middle Park this year?,False,False,5,5,jimbo,1.0,False
+130,277.278,279.363,I don't know. What--what's the spread?,False,False,7,6,chef,1.0,False
+131,279.488,282.241,Middle park by 70 points. - Hmm.,True,False,6,5,jimbo,1.0,False
+132,282.366,284.368,"Hey, I got it! - I got it, I got it!",True,False,10,0,,0.0,False
+133,285.119,286.829,I don't think we have a chance.,False,False,7,7,chef,1.0,False
+134,286.954,289.498,"Nonsense, not with my nephew a quarterback.",False,False,7,6,jimbo,1.0,False
+135,289.623,291.041,"Right, Stanley?",False,False,2,2,jimbo,1.0,False
+136,291.166,292.251,Huh?,False,False,1,1,stan,1.0,False
+137,296.088,298.299,"Attaboy! - Great pass, Stan!",True,False,4,3,chef,1.0,False
+138,298.424,299.633,"Come on, Ned, we got to get our asses",False,False,9,7,jimbo,1.0,False
+139,299.758,301.218,to the bookie!,False,False,3,3,jimbo,1.0,False
+140,302.928,305.431,"Okay, that was a good practice, children.",False,False,7,7,chef,1.0,False
+141,305.556,307.308,We'll see you here again tomorrow.,False,False,6,6,chef,1.0,False
+142,307.433,309.143,"Hey, Stan, isn't that your dog?",False,False,6,6,kyle,1.0,False
+143,309.268,311.645,"Yeah, he must have followed me to football practice.",False,False,9,9,stan,1.0,False
+144,311.77,313.188,"You see, he is smart.",False,False,5,5,stan,1.0,False
+145,313.314,314.773,"Uh, my dog Rex follows me",False,False,6,5,clyde,1.0,False
+146,314.898,317.026,to football practice all the time.,False,False,6,6,clyde,1.0,False
+147,317.151,318.986,"Yeah, but my dog found his own way here.",False,False,9,9,stan,1.0,False
+148,319.111,320.404,That makes him smarter than your--,False,False,6,6,stan,1.0,False
+149,320.529,322.323,"Sparky, get down!",False,False,3,3,stan,1.0,False
+150,322.448,324.283,"Oh, my God, what is he doing to my dog?",False,False,10,10,clyde,1.0,False
+151,324.408,325.617,There he goes again.,False,False,4,4,cartman,1.0,True
+152,325.743,327.202,"Get down, Sparky, down!",False,False,4,4,stan,1.0,False
+153,327.328,328.871,Stan forgot to mention that his dog,False,False,7,7,cartman,1.0,True
+154,328.996,330.289,is a gay homosexual.,False,False,4,4,cartman,1.0,True
+155,330.414,331.832,Make him stop!,False,False,3,3,clyde,1.0,False
+156,334.043,336.712,I'm sure glad my dog isn't gay!,False,False,7,7,fosse,1.0,False
+157,336.837,339.673,"Yeah, maybe you should name your dog Sparkette, Stan.",False,False,9,9,bill,1.0,False
+158,339.798,342.301,Gay dog.,False,False,2,2,fosse,1.0,False
+159,343.969,346.013,"And so you see, Simon and Simon",False,False,7,6,cartman,1.0,True
+160,346.138,347.765,"were not brothers in real life,",False,False,6,6,cartman,1.0,True
+161,347.89,349.641,only on television.,False,False,3,3,cartman,1.0,True
+162,350.517,352.353,"Thank you for that presentation, Eric,",False,False,6,6,mr. garrison,1.0,False
+163,352.478,354.563,but the assignment was on Asian cultures.,False,False,7,7,mr. garrison,1.0,False
+164,354.688,355.773,You get a D-minus.,False,False,5,4,mr. garrison,1.0,False
+165,355.898,357.358,"Aw, damn it!",False,False,3,0,,0.0,False
+166,357.483,359.318,"Who should we call on next, Mr. Hat?",False,False,8,8,mr. garrison,1.0,False
+167,359.443,362.696,"How about Stan, our little South Park quarterback star?",False,False,9,9,mr. hat,1.0,False
+168,362.821,363.906,"Oh, good idea.",False,False,3,3,mr. garrison,1.0,False
+169,364.031,365.491,"Okay, Stanley, you're next.",False,False,4,4,mr. garrison,1.0,False
+170,365.616,367.201,"Um, I'm not really prepared either.",False,False,6,6,stan,1.0,False
+171,367.326,369.661,"Well, just make something up like Eric did.",False,False,8,8,mr. garrison,1.0,False
+172,369.787,371.121,"Okay, um,",False,False,2,1,stan,1.0,False
+173,371.246,372.79,Asian culture has...,False,False,3,3,stan,1.0,False
+174,372.915,374.375,plagued our fragile Earth for many years.,False,False,7,7,stan,1.0,False
+175,374.5,375.459,We must end it--,False,False,4,4,stan,1.0,False
+176,375.584,376.835,Excellent. A-minus!,False,False,3,2,mr. garrison,1.0,False
+177,376.96,377.92,"Hey! - Wow, cool!",True,False,3,2,stan,1.0,False
+178,378.045,378.962,Wait a minute!,False,False,3,3,cartman,1.0,True
+179,379.088,379.963,Why the hell does he get,False,False,6,6,cartman,1.0,True
+180,380.089,381.131,an A-minus?,False,False,3,2,cartman,1.0,True
+181,381.256,382.508,"Eric, Stanley just might",False,False,4,4,mr. garrison,1.0,False
+182,382.633,383.801,lead our team to victory,False,False,5,5,mr. garrison,1.0,False
+183,383.926,385.177,against the Middle Park Cowboys,False,False,5,5,mr. garrison,1.0,False
+184,385.302,386.845,for the first time in decades.,False,False,6,6,mr. garrison,1.0,False
+185,386.97,388.555,And we treat star athletes better,False,False,6,6,mr. garrison,1.0,False
+186,388.68,389.932,because they're better people.,False,False,4,4,mr. garrison,1.0,False
+187,390.057,391.016,That's not fair!,False,False,3,3,cartman,1.0,True
+188,391.141,392.017,"Life isn't fair, kiddo.",False,False,4,4,mr. hat,1.0,False
+189,392.142,393.31,Get used to it.,False,False,4,4,mr. hat,1.0,False
+190,393.435,395.145,Stupid puppet.,False,False,2,2,cartman,1.0,True
+191,395.27,397.189,"Don't forget your assignments tonight, children.",False,False,6,6,mr. garrison,1.0,False
+192,397.314,399.358,They're due tomorrow for everybody but Stan.,False,False,7,7,mr. garrison,1.0,False
+193,399.483,401.235,"Mr. Garrison, can I ask you a question?",False,False,8,8,stan,1.0,False
+194,401.36,402.945,"Of course, Stanley. What is it?",False,False,6,6,mr. garrison,1.0,False
+195,403.07,405.28,What's a homosexual?,False,False,3,3,stan,1.0,False
+196,405.406,406.74,"Oh, well, Stanley,",False,False,3,2,mr. garrison,1.0,False
+197,406.865,408.659,I guess you came to the right person.,False,False,8,8,mr. garrison,1.0,False
+198,408.784,410.119,Sit down.,False,False,2,2,mr. garrison,1.0,False
+199,410.953,413.58,"Stanley, gay people...",False,False,3,3,mr. garrison,1.0,False
+200,413.705,416.542,"well, gay people are evil.",False,False,5,5,mr. garrison,1.0,False
+201,416.667,418.752,"Evil right down to their cold, black hearts,",False,False,8,8,mr. garrison,1.0,False
+202,418.877,420.838,"which pump not blood like yours and mine,",False,False,8,8,mr. garrison,1.0,False
+203,420.963,422.714,but rather a thick vomitus oil,False,False,6,5,mr. garrison,1.0,False
+204,422.84,424.383,that oozes through their rotten veins,False,False,6,6,mr. garrison,1.0,False
+205,424.508,426.26,"and clots in their pea-sized brains,",False,False,7,7,mr. garrison,1.0,False
+206,426.385,428.387,which becomes the cause of their Nazi-esque patterns,False,False,9,8,mr. garrison,1.0,False
+207,428.512,430.013,of violent behavior.,False,False,3,3,mr. garrison,1.0,False
+208,430.139,432.641,Do you understand? - I guess.,True,False,5,5,mr. garrison,0.6,False
+209,432.766,434.893,"Good, I'm glad we could have this little talk, Stanley.",False,False,10,10,mr. garrison,1.0,False
+210,435.018,436.395,Now you go outside and practice football,False,False,7,7,mr. garrison,1.0,False
+211,436.52,438.188,like a good little heterosexual.,False,False,5,5,mr. garrison,1.0,False
+212,440.607,442.526,You guys see me block that defense today?,False,False,8,8,cartman,1.0,True
+213,442.651,444.278,I was kicking ass.,False,False,4,4,cartman,1.0,True
+214,444.403,445.737,You're gonna need to kick more ass than that,False,False,9,9,kyle,1.0,False
+215,445.863,447.156,to beat the Cowboys.,False,False,4,4,kyle,1.0,False
+216,447.281,449.116,"Hey, speaking of pounding ass,",False,False,5,5,cartman,1.0,True
+217,449.241,450.826,here comes Stan's little homo dog!,False,False,6,6,cartman,1.0,True
+218,450.951,452.369,"Shut up, dude!",False,False,3,3,stan,1.0,False
+219,452.494,454.329,"Sparky, where'd you get that pink scarf?",False,False,7,7,stan,1.0,False
+220,455.706,456.582,"Man, that is the gayest dog",False,False,6,6,cartman,1.0,True
+221,456.707,457.833,I have ever seen.,False,False,4,4,cartman,1.0,True
+222,457.958,458.834,"He just needs some training,",False,False,5,5,stan,1.0,False
+223,458.959,459.835,that's all.,False,False,2,2,stan,1.0,False
+224,459.96,461.295,"Sit, Sparky.",False,False,2,2,stan,1.0,False
+225,462.254,463.922,Good boy. Now shake.,False,False,4,4,stan,1.0,False
+226,465.507,467.885,Good boy. Now don't be gay!,False,False,6,6,stan,1.0,False
+227,469.344,470.22,"Don't be gay, Spark.",False,False,4,4,stan,1.0,False
+228,470.345,471.221,Don't be gay.,False,False,3,3,stan,1.0,False
+229,472.764,474.057,Did it work? - I don't know.,True,False,6,6,stan,0.5,False
+230,474.183,475.976,He still looks pretty gay to me.,False,False,7,7,cartman,1.0,True
+231,476.101,479.188,"Hey, Stan, your dog been to any pride marches lately?",False,False,10,10,fosse,1.0,False
+232,479.313,481.482,"Yeah, maybe you should take him",False,False,6,6,bill,1.0,False
+233,481.607,483.192,to a Barbra Streisand concert.,False,False,5,5,bill,1.0,False
+234,484.735,486.862,Stupid little gay dog. - Gay dog.,True,False,6,6,bill,0.6666666666666666,False
+235,486.987,488.614,"Come on, you guys. I have an idea.",False,False,8,8,stan,1.0,False
+236,494.661,497.331,I want $500 on the South Park cows.,False,False,8,8,jimbo,1.0,False
+237,497.456,498.582,Are you crazy?,False,False,3,3,bookie,1.0,False
+238,498.707,499.958,"No, sirree, I'm telling you,",False,False,5,4,jimbo,1.0,False
+239,500.083,501.46,I got the line.,False,False,4,4,jimbo,1.0,False
+240,501.585,503.504,My nephew Stan is the best quarterback,False,False,7,7,jimbo,1.0,False
+241,503.629,505.088,the school's ever seen.,False,False,4,3,jimbo,1.0,False
+242,505.214,507.883,I guarantee they'll beat the spread.,False,False,6,6,jimbo,1.0,False
+243,508.008,510.052,I'm gonna put all my money on the Cows.,False,False,9,7,gambler,1.0,False
+244,510.177,512.387,"I'll put $300 on the Cows too, if they guarantee...",False,False,10,10,gambler,1.0,False
+245,512.513,515.349,"Hey, I want to put some money on the cows too.",False,False,11,11,gambler,1.0,False
+246,515.474,516.934,"Whoa, whoa!",False,False,2,2,jimbo,1.0,False
+247,517.059,518.977,"Don't get too carried away, now.",False,False,6,6,jimbo,1.0,False
+248,519.102,521.146,"You better be right about this, Jimbo.",False,False,7,7,gambler,1.0,False
+249,521.271,522.648,Yeah.,False,False,1,1,jimbo,1.0,False
+250,522.773,524.441,"Uh, don't-- don't worry yourself.",False,False,5,4,jimbo,1.0,False
+251,524.566,526.693,Are you sure Stan is that good?,False,False,7,7,ned,1.0,False
+252,526.818,528.862,"Well, not that sure.",False,False,4,3,jimbo,1.0,False
+253,528.987,530.989,I think we better come up with a backup plan.,False,False,10,10,jimbo,1.0,False
+254,531.114,532.866,"Uh, let's see here.",False,False,4,3,jimbo,1.0,False
+255,532.991,534.201,"Hey, bookie, what--",False,False,3,2,jimbo,1.0,False
+256,534.326,535.577,what's the halftime show gonna be?,False,False,6,6,jimbo,1.0,False
+257,535.702,537.246,You haven't heard?,False,False,3,3,bookie,1.0,False
+258,537.371,539.665,John Stamos' older brother Richard Stamos,False,False,6,6,bookie,1.0,False
+259,539.79,541.291,"is gonna sing ""Loving You"".",False,False,5,3,bookie,1.0,False
+260,541.416,542.751,I love that song.,False,False,4,4,ned,1.0,False
+261,542.876,545.128,"""Loving you""? That's perfect.",False,False,4,2,jimbo,1.0,False
+262,545.254,546.964,"Come on, Ned, Middle Park's gonna get",False,False,7,7,jimbo,1.0,False
+263,547.089,549.341,a halftime show they'll never forget.,False,False,6,6,jimbo,1.0,False
+264,551.468,552.928,"Okay, Sparky, we got you a present.",False,False,7,7,stan,1.0,False
+265,553.053,555.264,"Now why don't--damn it, Sparky,",False,False,6,6,stan,1.0,False
+266,555.389,556.306,where do you keep getting this thing?,False,False,7,7,stan,1.0,False
+267,556.431,557.307,"No pink bandana, Sparky.",False,False,4,3,stan,1.0,False
+268,557.432,558.308,Bad dog!,False,False,2,2,stan,1.0,False
+269,558.433,559.643,Now pay attention.,False,False,3,3,stan,1.0,False
+270,559.768,562.062,"Sparky, this is Fifi.",False,False,4,4,stan,1.0,False
+271,562.187,563.438,Ooh la la!,False,False,3,3,kyle,1.0,False
+272,563.564,564.69,There he goes.,False,False,3,3,cartman,1.0,True
+273,564.815,566.483,"Attaboy, Spark, get her!",False,False,4,3,stan,1.0,False
+274,567.401,568.569,Yes!,False,False,1,1,stan,1.0,False
+275,571.613,573.657,"Ah, crap. Now what do I do?",False,False,7,7,stan,1.0,False
+276,573.782,574.825,Who cares if your dog is gay?,False,False,7,7,kyle,1.0,False
+277,574.95,576.034,Maybe it's not that bad.,False,False,5,5,kyle,1.0,False
+278,576.159,577.411,"No way, dude, my mom says",False,False,6,6,cartman,1.0,True
+279,577.536,579.121,God hates gay people.,False,False,4,4,cartman,1.0,True
+280,579.246,582.165,That's why he smote the sodomies in France.,False,False,8,8,cartman,1.0,True
+281,584.001,585.168,"I know, Mr. Garrison said",False,False,5,5,stan,1.0,False
+282,585.294,586.795,"that homosexuals are evil, but...",False,False,5,5,stan,1.0,False
+283,586.92,588.38,but Sparky doesn't seem evil.,False,False,5,5,stan,1.0,False
+284,588.505,590.173,"Well, maybe Mr. Garrison is wrong.",False,False,6,6,kyle,1.0,False
+285,590.299,591.174,You should ask somebody else.,False,False,5,5,kyle,1.0,False
+286,591.3,592.759,Like who?,False,False,2,2,stan,1.0,False
+287,592.884,594.303,"And now back to ""Jesus and Pals""",False,False,7,7,tv,1.0,False
+288,594.428,596.471,on South Park public access.,False,False,5,5,tv,1.0,False
+289,596.597,600.142,"Yea, many of you are seeking answers,",False,False,7,7,jesus,1.0,False
+290,600.267,602.769,"and I am the way for you, my children.",False,False,9,9,jesus,1.0,False
+291,602.894,603.812,Let's open the phone lines back up,False,False,7,7,jesus,1.0,False
+292,603.937,605.272,for some questions.,False,False,3,3,jesus,1.0,False
+293,605.397,607.232,"Hello, caller, you're on the air.",False,False,6,6,jesus,1.0,False
+294,607.357,609.568,"Yeah, is--is this Jesus? - Yes, my son.",True,False,8,8,robert,0.625,False
+295,609.693,612.362,This is Robert from Torrey Pines.,False,False,6,6,robert,1.0,False
+296,612.487,614.99,I called last week asking for advice on my ex-wife.,False,False,11,11,robert,1.0,False
+297,615.115,617.367,"Of course, Robert. How are things now?",False,False,7,7,jesus,1.0,False
+298,617.492,618.744,"Everything is much better, Jesus.",False,False,5,3,robert,1.0,False
+299,618.869,620.495,She hasn't mouthed off since.,False,False,5,5,robert,1.0,False
+300,620.621,622.748,I just wanted to thank you for the advice.,False,False,9,9,robert,1.0,False
+301,622.873,624.583,"Oh, and for-- for dying for my sins too.",False,False,9,9,robert,1.0,False
+302,624.708,625.792,That was really nice of you.,False,False,6,6,robert,1.0,False
+303,625.917,627.294,"Blessed art thou, Robert.",False,False,4,4,jesus,1.0,False
+304,627.419,629.004,"Next caller, you're on the air.",False,False,6,6,jesus,1.0,False
+305,629.129,630.505,"Uh, hi, Jesus?",False,False,3,3,stan,1.0,False
+306,630.631,632.966,"I have a dog, and he's a--",False,False,7,7,stan,1.0,False
+307,633.091,634.843,he's a homosexual.,False,False,3,3,stan,1.0,False
+308,634.968,637.179,"My son, a lot of people have wondered",False,False,8,8,jesus,1.0,False
+309,637.304,639.89,"what my stance on homosexuality is,",False,False,6,6,jesus,1.0,False
+310,640.015,641.391,so I'd like to state once and for all,False,False,9,9,jesus,1.0,False
+311,641.516,643.518,my true opinion. You see...,False,False,5,5,jesus,1.0,False
+312,643.644,645.562,"That's all the time we have left for ""Jesus and Pals.""",False,False,11,9,tv,1.0,False
+313,645.687,647.856,"Now stay tuned for ""Marty's Movie Reviews.""",False,False,7,7,tv,1.0,False
+314,647.981,649.691,Damn it! - What'd he say?,True,False,5,5,kyle,0.6,False
+315,649.816,651.86,I got cut off for Marty's stupid movie reviews!,False,False,9,9,stan,1.0,False
+316,651.985,654.363,"Oh, ""Marty's Movie Reviews"" are on? Kickass!",False,False,7,6,cartman,1.0,True
+317,654.488,656.156,Isn't there anybody who can help me?,False,False,7,7,stan,1.0,False
+318,656.281,657.866,Isn't there anybody who cares?,False,False,5,5,stan,1.0,False
+319,657.991,659.576,"Come on, dude, we have to get to practice.",False,False,9,9,kyle,1.0,False
+320,659.701,662.245,"No, it's not okay. I don't want a gay dog.",False,False,10,10,stan,1.0,False
+321,662.371,664.915,I want a butch dog. I want a Rin Tin Tin.,False,False,11,11,stan,1.0,False
+322,680.597,681.848,"Now, children,",False,False,2,0,,0.0,False
+323,681.973,684.309,we've got to handle the ball better.,False,False,7,0,,0.0,False
+324,684.434,685.769,You've got to hold your football,False,False,6,0,,0.0,False
+325,685.894,687.729,like you would hold your lover.,False,False,6,0,,0.0,False
+326,687.854,689.94,"Gently, yet firmly.",False,False,3,0,,0.0,False
+327,691.525,693.485,You want to be both nurturing,False,False,6,0,,0.0,False
+328,693.61,696.279,and clinging at the same time.,False,False,6,0,,0.0,False
+329,696.405,698.073,"Oh, yeah.",False,False,2,0,,0.0,False
+330,698.198,702.661,♪ Just like making sweet love to the football ♪,False,True,8,0,,0.0,False
+331,702.786,705.414,♪ Be naughty with the football ♪,False,True,5,0,,0.0,False
+332,705.539,706.873,♪ Mmm ♪,False,True,1,0,,0.0,False
+333,706.998,707.999,"Uh, Chef? - ♪ Spank it ♪",True,True,4,4,chef,0.5,False
+334,708.125,709.96,♪ Ever so gently ♪,False,True,3,3,chef,1.0,False
+335,710.085,711.628,Chef? - ♪ Spank it ♪,True,True,3,3,chef,0.6666666666666666,False
+336,711.753,714.089,"Chef! - Oh, uh, sorry, children.",True,False,5,4,chef,0.75,False
+337,714.214,715.632,"Uh, let's run some plays.",False,False,5,4,chef,1.0,False
+338,715.757,717.259,"Ah, Mr. Chef, sir?",False,False,4,3,pip,1.0,False
+339,717.384,720.053,"No, Pip, we still don't have a helmet for you.",False,False,10,10,chef,1.0,False
+340,720.178,722.347,"Righto, but how about I'll use a helmet today,",False,False,9,8,pip,1.0,False
+341,722.472,724.015,and one of the other children goes without.,False,False,8,8,pip,1.0,False
+342,724.141,726.268,"That wouldn't be very fair to the other children,",False,False,9,9,chef,1.0,False
+343,726.393,727.352,"now, would it?",False,False,3,3,chef,1.0,False
+344,727.477,728.77,"Oh, I--I guess not.",False,False,5,3,pip,1.0,False
+345,729.896,731.398,"What we want to do here, Carl,",False,False,7,5,jimbo,1.0,False
+346,731.523,733.525,is put a trigger on that bomb that makes it go off,False,False,12,12,jimbo,1.0,False
+347,733.65,735.819,at a specific moment during halftime.,False,False,6,6,jimbo,1.0,False
+348,735.944,737.487,And what moment would that be?,False,False,6,5,carl,1.0,False
+349,737.612,739.781,"Well, John Stamos' older brother",False,False,5,5,jimbo,1.0,False
+350,739.906,742.2,"is all set to sing ""Loving you"" during halftime.",False,False,9,7,jimbo,1.0,False
+351,742.325,745.162,We want that bomb to go off when he hits that high F.,False,False,13,13,jimbo,1.0,False
+352,745.287,746.329,What high F?,False,False,3,3,carl,1.0,False
+353,746.455,747.372,You know...,False,False,2,2,jimbo,1.0,False
+354,747.497,749.04,♪ Loving you ♪,False,True,2,2,jimbo,1.0,False
+355,749.166,751.877,♪ Is easy 'cause you're beautiful ♪,False,True,5,5,jimbo,1.0,False
+356,752.002,754.004,♪ Doot'n-doot'n doo-doo ♪,False,True,4,2,jimbo,1.0,False
+357,754.129,756.006,♪ Ahh ♪,False,True,1,0,,0.0,False
+358,756.131,758.675,"So you want the trigger on the ""doot'n doo""?",False,False,9,8,carl,1.0,False
+359,758.8,761.887,"No, damn it, the ""Ahh""!",False,False,5,2,jimbo,1.0,False
+360,762.012,763.43,♪ Ahh ♪ - ♪ Ahh ♪,True,True,2,0,,0.0,False
+361,765.265,766.767,Great. - ♪ Doot'n-doot'n doo-doo ♪,True,True,5,3,carl,0.6666666666666666,False
+362,766.892,768.56,♪ Ahh ♪ - ♪ Doot'n doo-doo ♪,True,True,4,2,ned,1.0,False
+363,768.685,770.645,You got it. - ♪ Doot'n-doot'n doo-doo ♪,True,True,7,5,jimbo,0.6,False
+364,770.771,772.272,♪ Ahh ♪,False,True,1,0,,0.0,False
+365,772.397,774.107,"All right. Yeah, okay.",False,False,4,2,carl,1.0,False
+366,774.232,775.275,"What's the matter, Stan?",False,False,4,4,chef,1.0,False
+367,775.4,776.526,You seem down.,False,False,3,3,chef,1.0,False
+368,776.651,777.944,I just--I can't concentrate,False,False,5,5,stan,1.0,False
+369,778.069,779.279,'cause my dog is gay.,False,False,5,5,stan,1.0,False
+370,779.404,780.781,"Well, you know what they say.",False,False,6,6,chef,1.0,False
+371,780.906,783.575,You can't teach a gay dog straight tricks.,False,False,8,8,chef,1.0,False
+372,783.7,785.076,"Oh, stop filling his head",False,False,5,5,mr. garrison,1.0,False
+373,785.202,787.037,with that queer-loving propaganda.,False,False,5,5,mr. garrison,1.0,False
+374,787.162,790.04,Say what? You of all people should be sympathetic.,False,False,9,9,chef,1.0,False
+375,790.165,792.25,"What do you mean? - Well, you're gay, aren't you?",True,False,9,9,chef,0.5555555555555556,False
+376,792.375,794.795,What? What the hell are you talking about?,False,False,8,8,mr. garrison,1.0,False
+377,794.92,796.171,I am not gay!,False,False,4,4,mr. garrison,1.0,False
+378,796.296,798.173,"Well, you sure do act like it!",False,False,7,7,chef,1.0,False
+379,798.298,801.176,"I just act that way to get chicks, dumbass.",False,False,9,9,mr. garrison,1.0,False
+380,802.636,803.845,"What's the matter, dude?",False,False,4,4,kyle,1.0,False
+381,803.97,805.555,I don't know where Sparky is.,False,False,6,6,stan,1.0,False
+382,805.68,807.349,He usually follows me to football practice.,False,False,7,7,stan,1.0,False
+383,807.474,809.518,Maybe he went shopping for some leather pants.,False,False,8,8,cartman,1.0,True
+384,809.643,810.602,Ow!,False,False,1,1,cartman,1.0,True
+385,824.533,826.117,"Hello there, little pup!",False,False,4,4,big gay al,1.0,False
+386,826.243,827.786,I'm Big Gay Al.,False,False,4,4,big gay al,1.0,False
+387,828.829,830.33,Have you been outcast?,False,False,4,4,big gay al,1.0,False
+388,831.581,832.874,"Well, then, I'm so glad you found",False,False,7,7,big gay al,1.0,False
+389,832.999,834.751,my big gay animal sanctuary.,False,False,5,5,big gay al,1.0,False
+390,834.876,836.545,We're all big gay friends here.,False,False,6,6,big gay al,1.0,False
+391,836.67,838.296,Would you like to live with us?,False,False,7,7,big gay al,1.0,False
+392,839.506,841.132,"Come on in, little fellow.",False,False,5,5,big gay al,1.0,False
+393,841.258,843.26,Nobody will ever oppress you here.,False,False,6,6,big gay al,1.0,False
+394,845.512,846.596,Have you guys seen Sparky?,False,False,5,5,stan,1.0,False
+395,846.721,848.098,He still hasn't come back.,False,False,5,5,stan,1.0,False
+396,848.223,849.599,"Wow, it's been, like, two days.",False,False,6,6,kyle,1.0,False
+397,849.724,851.142,I think he might have run away.,False,False,7,5,stan,1.0,False
+398,851.268,852.686,Did you check the shopping mall--,False,False,6,5,cartman,1.0,True
+399,852.811,853.77,Ow! - We'll help you look for him,True,False,7,7,kyle,0.8571428571428571,False
+400,853.895,855.188,"after the game, Stan.",False,False,4,4,kyle,1.0,False
+401,855.313,856.857,I'm not playing. - You what?,True,False,5,5,stan,0.6,False
+402,856.982,858.149,I'm not playing in that stupid game.,False,False,7,7,stan,1.0,False
+403,858.275,860.151,I have to find my dog.,False,False,6,6,stan,1.0,False
+404,860.277,862.028,"Come on, Ned, keep quiet.",False,False,5,5,jimbo,1.0,False
+405,862.153,863.488,Okay.,False,False,1,1,ned,1.0,False
+406,865.24,866.533,"Hello there, Enrique.",False,False,3,3,jimbo,1.0,False
+407,866.658,868.577,What are we doing here?,False,False,5,5,ned,1.0,False
+408,868.702,869.87,"Well, Ned, we always",False,False,4,4,jimbo,1.0,False
+409,869.995,871.83,kidnap Middle Park's mascot.,False,False,4,4,jimbo,1.0,False
+410,871.955,874.708,"But this year, we're gonna booby-trap it instead,",False,False,9,9,jimbo,1.0,False
+411,874.833,876.418,and when John Stamos' older brother,False,False,6,6,jimbo,1.0,False
+412,876.543,878.169,"hits that high F in ""Loving You,""",False,False,7,7,jimbo,1.0,False
+413,878.295,879.296,boom!,False,False,1,1,jimbo,1.0,False
+414,879.421,880.922,No more Middle Park players.,False,False,5,5,jimbo,1.0,False
+415,883.258,885.427,"God damn, I love football!",False,False,5,5,jimbo,1.0,False
+416,886.386,888.722,"Sparky, where are you?",False,False,4,4,stan,1.0,False
+417,888.847,890.223,Where could he be?,False,False,4,4,stan,1.0,False
+418,896.646,898.607,"Hello, everyone, this is Frank Hammond,",False,False,6,6,frank,1.0,False
+419,898.732,900.025,"South Park Public Radio, AM 900.",False,False,6,6,frank,1.0,False
+420,900.15,901.484,Welcome to tonight's matchup,False,False,4,3,frank,1.0,False
+421,901.61,902.986,between the Middle Park Cowboys,False,False,5,5,frank,1.0,False
+422,903.111,904.821,and the South Park Cows.,False,False,5,5,frank,1.0,False
+423,904.946,906.948,"Well, it looks like Chef, the South Park Cows' coach,",False,False,10,9,frank,1.0,False
+424,907.073,907.991,is a little nervous.,False,False,4,3,frank,1.0,False
+425,908.116,909.034,This is probably because,False,False,4,4,frank,1.0,False
+426,909.159,910.076,his star quarterback,False,False,3,3,frank,1.0,False
+427,910.201,911.161,has yet to show up.,False,False,5,5,frank,1.0,False
+428,911.286,913.622,"Oh, come on, Stan.",False,False,4,3,chef,1.0,False
+429,913.747,915.624,"Uh, Mr. Chef, if Stanley doesn't show up,",False,False,8,8,pip,1.0,False
+430,915.749,916.625,can I use his helmet?,False,False,5,5,pip,1.0,False
+431,916.75,918.209,"No, Pip, I'm sorry!",False,False,4,4,chef,1.0,False
+432,918.335,920.045,Sparky!,False,False,1,1,stan,1.0,False
+433,920.17,921.671,Sparky!,False,False,1,1,stan,1.0,False
+434,923.423,924.549,Play ball!,False,False,2,2,referee,1.0,False
+435,924.674,926.092,"You're gonna have to quarterback, Kyle.",False,False,6,6,chef,1.0,False
+436,926.217,927.594,But I never practiced quarterback.,False,False,5,5,kyle,1.0,False
+437,927.719,929.804,It's a little late for that bullcrap now.,False,False,8,8,chef,1.0,False
+438,929.93,931.264,Filling in for quarterback,False,False,4,4,frank,1.0,False
+439,931.389,933.516,"is number 12, Kyle ""Broslovski.""",False,False,5,5,frank,1.0,False
+440,933.642,935.602,"Hey, hey, where's little Stanley?",False,False,5,4,mr. garrison,1.0,False
+441,935.727,937.604,"Yeah, why the hell is that little Jewish kid",False,False,9,9,mr. hat,1.0,False
+442,937.729,939.022,playing quarterback?,False,False,2,2,mr. hat,1.0,False
+443,940.023,941.149,"Ned, look.",False,False,2,2,jimbo,1.0,False
+444,942.776,944.653,They've got Enrique on their sidelines.,False,False,6,6,jimbo,1.0,False
+445,944.778,946.738,And it looks like that bomb is still attached.,False,False,9,7,jimbo,1.0,False
+446,946.863,947.781,Yay.,False,False,1,1,ned,1.0,False
+447,953.37,955.497,"Hi, little fella, how are you doing today?",False,False,8,8,big gay al,1.0,False
+448,955.622,956.79,"Fine, how are you?",False,False,4,4,stan,1.0,False
+449,956.915,959.167,"I'm super, thanks for asking.",False,False,5,5,big gay al,1.0,False
+450,959.292,960.627,My gay dog ran away and I was wondering,False,False,9,9,stan,1.0,False
+451,960.752,962.045,if maybe he came here.,False,False,5,5,stan,1.0,False
+452,962.17,964.13,"Well, let's see. Come on in.",False,False,6,6,big gay al,1.0,False
+453,965.173,966.883,Do you have lots of gay dogs here?,False,False,8,8,stan,1.0,False
+454,967.008,968.635,We have all sorts of gay animals here,False,False,8,8,big gay al,1.0,False
+455,968.76,969.886,at Big Gay AI's.,False,False,4,3,big gay al,1.0,False
+456,970.011,971.346,Over here we have a gay lion.,False,False,7,7,big gay al,1.0,False
+457,971.471,972.639,Roar.,False,False,1,0,,0.0,False
+458,972.764,974.057,"And we have gay water buffalo,",False,False,6,6,big gay al,1.0,False
+459,974.182,975.308,gay hummingbirds.,False,False,2,2,big gay al,1.0,False
+460,975.433,977.227,Here's a gaggle of gay gooses!,False,False,6,6,big gay al,1.0,False
+461,977.352,980.397,"Hi, fellas, it's so super to see you!",False,False,8,8,big gay al,1.0,False
+462,980.522,982.899,"Wow, it seems like the animals here are really happy.",False,False,10,9,stan,1.0,False
+463,983.024,984.985,"Of course they are, silly buns!",False,False,6,6,big gay al,1.0,False
+464,985.11,986.486,It's the one place where gay animals,False,False,7,7,big gay al,1.0,False
+465,986.611,987.779,can really be themselves.,False,False,4,4,big gay al,1.0,False
+466,987.904,988.947,Do you like to dance?,False,False,5,5,big gay al,1.0,False
+467,992.367,994.285,"Cartman, you hike me the ball,",False,False,6,6,kyle,1.0,False
+468,994.411,995.829,"then somebody run, and I'll throw it or something.",False,False,9,9,kyle,1.0,False
+469,995.954,997.163,- Ready? - Break.,True,False,2,2,huddle,0.5,False
+470,997.288,998.707,You guys are toast.,False,False,4,4,cowboy,1.0,False
+471,998.832,1000.583,"Yeah, we're gonna pound your heads in.",False,False,7,7,cowboy,1.0,False
+472,1000.709,1003.044,We'll just see about that!,False,False,5,5,cartman,1.0,True
+473,1003.169,1004.17,"Set, set...",False,False,2,2,kyle,1.0,False
+474,1005.338,1006.548,"Damn it, Cartman!",False,False,3,3,kyle,1.0,False
+475,1007.465,1009.634,What's the matter? - Cartman farted!,True,False,5,5,chef,0.6,False
+476,1009.759,1011.386,"No, I didn't! That was just my shoes.",False,False,8,8,cartman,1.0,True
+477,1011.511,1012.721,"Come on, Kyle,",False,False,3,3,chef,1.0,False
+478,1012.846,1014.639,we'll get a delay of game penalty!,False,False,7,7,chef,1.0,False
+479,1014.764,1017.308,"No way, dude! - Hike the ball!",True,False,6,6,chef,0.5,False
+480,1017.434,1018.685,"Oh, dude, weak.",False,False,3,2,kyle,1.0,False
+481,1018.81,1020.228,"That's right, you get back there.",False,False,6,6,cartman,1.0,True
+482,1020.353,1021.813,Hike! - The ball is snapped.,True,False,5,2,frank,0.5,False
+483,1021.938,1023.106,Middle Park blitzes.,False,False,3,3,frank,1.0,False
+484,1024.691,1026.151,Fumble! Middle Park gets the ball.,False,False,6,6,frank,1.0,False
+485,1026.276,1028.194,They run it in for a touchdown!,False,False,7,7,frank,1.0,False
+486,1028.319,1029.863,"The score is 7-0, Middle Park,",False,False,7,6,frank,1.0,False
+487,1029.988,1033.033,with 14:57 remaining in the first quarter.,False,False,8,8,frank,1.0,False
+488,1033.158,1034.617,Hells bells.,False,False,2,1,jimbo,1.0,False
+489,1034.743,1035.785,I haven't seen a beating like that,False,False,7,7,frank,1.0,False
+490,1035.91,1037.12,since Rodney King!,False,False,3,3,frank,1.0,False
+491,1037.245,1038.538,"Now, Frank, that's not very PC.",False,False,6,6,phil,1.0,False
+492,1038.663,1040.165,You're gonna get us in trouble again.,False,False,7,7,phil,1.0,False
+493,1040.29,1042.083,"Right, right, I--I got to watch that.",False,False,8,5,frank,1.0,False
+494,1042.208,1044.002,"If we lose our money 'cause of your nephew,",False,False,9,8,townsman,1.0,False
+495,1044.127,1046.129,"we're gonna hang you out to dry, Jimbo.",False,False,8,7,townsman,1.0,False
+496,1046.254,1047.547,Don't y'all worry.,False,False,3,3,jimbo,1.0,False
+497,1047.672,1049.632,You just wait till halftime.,False,False,5,5,jimbo,1.0,False
+498,1050.967,1052.302,Sparky!,False,False,1,1,stan,1.0,False
+499,1052.427,1054.22,"Hiya, Sparky, how's it going?",False,False,5,4,stan,1.0,False
+500,1054.345,1056.097,"I missed you, old pal.",False,False,5,5,stan,1.0,False
+501,1056.222,1057.474,You really had me scared.,False,False,5,5,stan,1.0,False
+502,1057.599,1059.309,"Come on, let's go home.",False,False,5,5,stan,1.0,False
+503,1059.434,1061.061,I can still make it in time for the game.,False,False,10,10,stan,1.0,False
+504,1061.186,1063.146,We can work on making you not gay together.,False,False,9,9,stan,1.0,False
+505,1064.773,1065.774,Sparky?,False,False,1,1,stan,1.0,False
+506,1065.899,1067.067,"Young man, it appears",False,False,4,4,big gay al,1.0,False
+507,1067.192,1068.693,you still don't understand.,False,False,4,4,big gay al,1.0,False
+508,1068.818,1069.694,What don't I understand?,False,False,4,4,stan,1.0,False
+509,1069.819,1070.945,Come this way.,False,False,3,3,big gay al,1.0,False
+510,1071.071,1072.655,I have to show you something.,False,False,6,6,big gay al,1.0,False
+511,1072.781,1074.532,"With just over a minute to go in the half,",False,False,10,10,frank,1.0,False
+512,1074.657,1076.868,"the score is Middle Park Cowboys 52,",False,False,7,7,frank,1.0,False
+513,1076.993,1078.87,"South Park Cows, zero.",False,False,4,3,frank,1.0,False
+514,1081.206,1083.208,"Oh, my! I haven't seen an Englishman",False,False,7,6,frank,1.0,False
+515,1083.333,1085.627,take a blow like that since Hugh Grant!,False,False,8,8,frank,1.0,False
+516,1085.752,1087.504,"Dude! Now, that is not cool.",False,False,6,6,phil,1.0,False
+517,1087.629,1089.214,"Sorry, sorry.",False,False,2,2,frank,1.0,False
+518,1089.339,1090.799,"Okay, Stan, I think you should get in line",False,False,9,9,big gay al,1.0,False
+519,1090.924,1092.717,for my big gay boat ride.,False,False,6,6,big gay al,1.0,False
+520,1093.468,1095.011,"Step aboard, Stanley.",False,False,3,3,big gay al,1.0,False
+521,1097.639,1099.057,"Hello, everyone, and welcome aboard",False,False,5,5,big gay al,1.0,False
+522,1099.182,1100.058,the big gay boat ride!,False,False,5,5,big gay al,1.0,False
+523,1100.183,1101.601,"On this adventure,",False,False,3,3,big gay al,1.0,False
+524,1101.726,1102.727,we'll be seeing the world of gayness,False,False,7,7,big gay al,1.0,False
+525,1102.852,1104.687,throughout time.,False,False,2,2,big gay al,1.0,False
+526,1104.813,1106.689,And the South Park Cows are set to receive.,False,False,9,9,frank,1.0,False
+527,1106.815,1108.149,There's the kick.,False,False,3,3,frank,1.0,False
+528,1108.274,1110.944,"It's taken by number 23, Kenny McCormick.",False,False,7,7,frank,1.0,False
+529,1111.069,1113.738,"He's at the 50, the 40, the 30...",False,False,8,8,frank,1.0,False
+530,1115.365,1117.492,The little running back is down!,False,False,6,6,frank,1.0,False
+531,1117.617,1119.244,I think he's...,False,False,3,3,frank,1.0,False
+532,1119.369,1121.454,"yes, he's been decapitated!",False,False,4,4,frank,1.0,False
+533,1121.579,1123.414,"Oh, my God,",False,False,3,3,kyle,1.0,False
+534,1123.54,1124.707,they killed Kenny!,False,False,3,3,kyle,1.0,False
+535,1124.833,1126.626,You bastards!,False,False,2,2,kyle,1.0,False
+536,1126.751,1128.211,"That's got to hurt, Frank!",False,False,5,3,phil,1.0,False
+537,1128.336,1129.212,Ouch-eroo!,False,False,2,1,frank,1.0,False
+538,1129.337,1130.755,"Hey, come on,",False,False,3,3,chef,1.0,False
+539,1130.88,1132.34,that was roughing!,False,False,3,3,chef,1.0,False
+540,1132.465,1134.634,At least let us scrape him off the field!,False,False,9,9,chef,1.0,False
+541,1134.759,1136.302,Looks like the South Park Cows,False,False,6,6,frank,1.0,False
+542,1136.427,1138.429,"aren't even gonna beat the 72-point spread,",False,False,8,8,frank,1.0,False
+543,1138.555,1140.181,not by a long shot.,False,False,5,5,frank,1.0,False
+544,1140.306,1142.183,"You see, gayness has existed",False,False,5,5,big gay al,1.0,False
+545,1142.308,1143.977,"since the beginning of time,",False,False,5,5,big gay al,1.0,False
+546,1144.102,1145.812,"from the Egyptian pharaohs,",False,False,4,4,big gay al,1.0,False
+547,1145.937,1148.064,to the shoguns of Japan.,False,False,5,5,big gay al,1.0,False
+548,1148.189,1151.151,"Uh-oh, look out, it's the oppressors!",False,False,7,7,big gay al,1.0,False
+549,1151.276,1153.736,"Christians and Republicans and Nazis, oh my!",False,False,7,6,big gay al,1.0,False
+550,1155.113,1157.407,"Oh! Oh, gosh, that was close.",False,False,6,5,big gay al,1.0,False
+551,1157.532,1159.534,"Okay, let's steer our big gay boat out of here",False,False,10,10,big gay al,1.0,False
+552,1159.659,1162.203,and into a place where gays are allowed to live freely.,False,False,11,11,big gay al,1.0,False
+553,1164.038,1166.457,♪ We are gay and it's okay ♪,False,True,6,0,,0.0,False
+554,1166.583,1168.835,♪ 'Cause gay means happy and happy means gay ♪,False,True,8,0,,0.0,False
+555,1168.96,1170.42,♪ We're not sad anymore ♪,False,True,4,0,,0.0,False
+556,1170.545,1171.88,♪ 'Cause we're out the closet door ♪,False,True,6,0,,0.0,False
+557,1172.005,1174.424,♪ It's okay to be gay ♪,False,True,5,0,,0.0,False
+558,1174.549,1175.8,"So what do you think, Stan?",False,False,6,5,big gay al,1.0,False
+559,1175.925,1177.343,This kicks ass.,False,False,3,3,stan,1.0,False
+560,1177.468,1179.179,"I'm sorry I tried to change you, Spark.",False,False,8,8,stan,1.0,False
+561,1179.304,1180.93,I just didn't understand.,False,False,4,4,stan,1.0,False
+562,1181.055,1182.515,Isn't this precious?,False,False,3,3,big gay al,1.0,False
+563,1182.64,1184.267,And now here to sing the touching song,False,False,8,8,frank,1.0,False
+564,1184.392,1186.436,"""Loving You"" is the one and only,",False,False,7,7,frank,1.0,False
+565,1186.561,1188.938,John Stamos' brother!,False,False,3,2,frank,1.0,False
+566,1189.063,1190.315,"All right, Richard!",False,False,3,1,audience,1.0,False
+567,1192.483,1195.028,♪ Loving you ♪,False,True,2,0,,0.0,False
+568,1195.153,1199.324,♪ Is easy 'cause you're beautiful ♪,False,True,5,0,,0.0,False
+569,1199.449,1202.035,♪ Doot'n-doot'n doo-doo ♪,False,True,4,0,,0.0,False
+570,1202.16,1204.12,♪ Ahh ♪,False,True,1,0,,0.0,False
+571,1204.245,1205.705,♪ Ahh ♪,False,True,1,0,,0.0,False
+572,1205.83,1206.873,What the hell?,False,False,3,3,jimbo,1.0,False
+573,1206.998,1208.333,He didn't sing the high F!,False,False,6,6,jimbo,1.0,False
+574,1208.458,1210.21,Richard Stamos can't sing a high F.,False,False,7,7,mr. garrison,1.0,False
+575,1210.335,1212.17,He always screws it up like this.,False,False,7,7,mr. garrison,1.0,False
+576,1212.295,1214.672,"Ned, we are gonna get our asses kicked!",False,False,8,6,jimbo,1.0,False
+577,1214.797,1216.174,"♪ La, la, la, la, la ♪",False,True,5,2,richard,1.0,False
+578,1216.299,1217.634,It's obvious where all the talent,False,False,6,6,mr. garrison,1.0,False
+579,1217.759,1219.636,in that family went!,False,False,4,4,mr. garrison,1.0,False
+580,1221.304,1223.973,"Thanks for everything, Big Gay Al.",False,False,6,6,stan,1.0,False
+581,1224.098,1225.308,"No problem, kids.",False,False,3,3,big gay al,1.0,False
+582,1225.433,1226.643,Are you sure you don't want to stay,False,False,8,6,big gay al,1.0,False
+583,1226.768,1228.102,for some toasted cheese sandwiches?,False,False,5,5,big gay al,1.0,False
+584,1228.228,1229.27,No thanks. I've got to get back,False,False,7,5,stan,1.0,False
+585,1229.395,1230.355,for the big football game.,False,False,5,5,stan,1.0,False
+586,1230.48,1231.481,"Come on, boy.",False,False,3,3,stan,1.0,False
+587,1231.606,1233.107,"Oh, Stan...",False,False,2,2,big gay al,1.0,False
+588,1233.233,1234.859,"when you get back to town,",False,False,6,6,big gay al,1.0,False
+589,1234.984,1237.028,"tell them about us, will you?",False,False,6,6,big gay al,1.0,False
+590,1237.153,1239.03,Tell them there are gay animals here,False,False,7,7,big gay al,1.0,False
+591,1239.155,1241.491,"who need homes, desperately.",False,False,4,4,big gay al,1.0,False
+592,1241.616,1242.659,"I will, Big Gay Al.",False,False,5,5,stan,1.0,False
+593,1242.784,1243.826,I will.,False,False,2,2,stan,1.0,False
+594,1245.62,1247.705,"Oh, my carrot cake.",False,False,4,3,big gay al,1.0,False
+595,1248.248,1250.083,And these South Park Cows are being absolutely,False,False,8,8,frank,1.0,False
+596,1250.208,1251.876,molested by Middle Park.,False,False,4,4,frank,1.0,False
+597,1252.001,1253.92,I haven't seen so many children molested since...,False,False,8,8,frank,1.0,False
+598,1254.045,1255.505,I thought you said beating the spread,False,False,7,7,mr. garrison,1.0,False
+599,1255.63,1257.257,"was a sure thing, Jimbo!",False,False,5,5,mr. garrison,1.0,False
+600,1257.382,1260.343,"Yeah, we all put our life savings in this game!",False,False,10,10,mr. hat,1.0,False
+601,1260.468,1262.136,"You're a dead man, Jimbo!",False,False,5,5,townsman,1.0,False
+602,1262.262,1263.93,"Well, this should just about wrap it up for--",False,False,9,9,frank,1.0,False
+603,1264.055,1266.099,"wait a minute, what's this?",False,False,5,5,frank,1.0,False
+604,1266.224,1267.767,Yeah! Yoo-hoo!,False,False,3,1,jimbo,1.0,False
+605,1267.892,1270.228,"It's Stan, the South Park star quarterback.",False,False,7,7,frank,1.0,False
+606,1270.353,1272.272,"Where the hell have you been, Stan?",False,False,7,7,chef,1.0,False
+607,1272.397,1273.94,I've been getting my best friend back.,False,False,7,7,stan,1.0,False
+608,1274.065,1275.65,"Just get in there, boy.",False,False,5,5,chef,1.0,False
+609,1275.775,1277.235,"Give 'em hell, Stanley!",False,False,4,4,jimbo,1.0,False
+610,1278.528,1280.905,"Jesus...now, I haven't asked you for much.",False,False,8,8,jimbo,1.0,False
+611,1281.03,1282.907,But all we need is one little score.,False,False,8,8,jimbo,1.0,False
+612,1283.032,1284.826,"Please, please, Jesus.",False,False,3,3,jimbo,1.0,False
+613,1284.951,1286.244,Leave me alone.,False,False,3,3,jesus,1.0,False
+614,1286.369,1287.662,Hike! - Stan hikes the ball.,True,False,5,5,frank,0.8,False
+615,1287.787,1288.997,He steps back to pass.,False,False,5,5,frank,1.0,False
+616,1289.122,1291.541,"Hey, Stan, I'm open I think.",False,False,6,6,kyle,1.0,False
+617,1291.666,1293.918,"And he throws it to Kyle, the little Jewish kid.",False,False,10,10,frank,1.0,False
+618,1295.503,1297.005,"Oh, my!",False,False,2,2,frank,1.0,False
+619,1297.13,1298.464,I haven't seen a Jew run like that,False,False,8,8,frank,1.0,False
+620,1298.589,1300.216,"since Poland, 1938!",False,False,3,3,frank,1.0,False
+621,1300.341,1301.426,Dude!,False,False,1,1,phil,1.0,False
+622,1302.552,1303.803,Touchdown!,False,False,1,1,frank,1.0,False
+623,1303.928,1305.513,Yeah! - Whoo!,True,False,2,1,jimbo,1.0,False
+624,1305.638,1307.14,"The clock runs out, and the final score is",False,False,9,9,frank,1.0,False
+625,1307.265,1309.017,"Middle Park Cowboys 73,",False,False,4,4,frank,1.0,False
+626,1309.142,1310.893,South Park Cows 6.,False,False,4,4,frank,1.0,False
+627,1311.019,1313.479,South Park beats the spread.,False,False,5,5,frank,1.0,False
+628,1313.604,1316.024,Yeah! Yoo-hoo!,False,False,3,1,jimbo,1.0,False
+629,1316.149,1317.525,Speech!,False,False,1,1,townsman,1.0,False
+630,1317.65,1319.193,"Stan, what do you want to tell the world",False,False,9,9,frank,1.0,False
+631,1319.319,1321.571,about this stunning almost victory?,False,False,5,5,frank,1.0,False
+632,1321.696,1323.614,"Uh, it's really cool",False,False,4,4,stan,1.0,False
+633,1323.74,1325.408,that we beat the spread against the Cowboys.,False,False,8,8,stan,1.0,False
+634,1325.533,1327.076,"Yeah, all right!",False,False,3,1,crowd,1.0,False
+635,1327.201,1329.996,And maybe we can beat 'em even more next year.,False,False,10,10,stan,1.0,False
+636,1330.121,1331.205,Whoo!,False,False,1,0,,0.0,False
+637,1331.331,1333.416,And it's okay to be gay.,False,False,6,6,stan,1.0,False
+638,1334.292,1335.668,What?,False,False,1,1,jimbo,1.0,False
+639,1335.793,1337.503,Being gay is just part of nature,False,False,7,7,stan,1.0,False
+640,1337.628,1338.963,and a beautiful thing.,False,False,4,4,stan,1.0,False
+641,1339.088,1340.923,What the hell is he talking about?,False,False,7,7,mr. garrison,1.0,False
+642,1341.049,1343.343,"Uh, Stanley, you arrived very late in the game.",False,False,9,9,frank,1.0,False
+643,1343.468,1345.011,Where were you that whole time?,False,False,6,6,frank,1.0,False
+644,1345.136,1347.138,"I was with my new friend, Big Gay Al.",False,False,9,9,stan,1.0,False
+645,1347.263,1349.057,He showed me his big gay animal sanctuary,False,False,8,8,stan,1.0,False
+646,1349.182,1350.767,"and took me on a big gay boat ride,",False,False,9,9,stan,1.0,False
+647,1350.892,1353.186,where I learned all about the wonders of gaiety.,False,False,9,9,stan,1.0,False
+648,1354.771,1356.689,It's true. I'll show you.,False,False,5,5,stan,1.0,False
+649,1359.442,1361.444,But it was here. It was all right here.,False,False,9,9,stan,1.0,False
+650,1361.569,1363.488,There--there was a techno dance club.,False,False,7,7,stan,1.0,False
+651,1363.613,1365.49,"Stan, you need to lay off the cough syrup.",False,False,9,9,cartman,1.0,True
+652,1365.615,1366.866,All right? Seriously.,False,False,3,1,cartman,1.0,False
+653,1366.991,1368.242,"I'm worried about you, man.",False,False,5,5,cartman,1.0,True
+654,1368.368,1369.66,Oliver!,False,False,1,1,townswoman,1.0,False
+655,1369.786,1370.912,I thought you ran away,False,False,5,5,townswoman,1.0,False
+656,1371.037,1372.622,all those months ago.,False,False,4,4,townswoman,1.0,False
+657,1372.747,1373.623,Sidney!,False,False,1,1,townsperson,1.0,False
+658,1373.748,1374.624,Willie!,False,False,1,0,,0.0,False
+659,1374.749,1376.042,Carlos!,False,False,1,1,townsperson,1.0,False
+660,1376.167,1377.377,I want to thank you so much,False,False,7,7,big gay al,1.0,False
+661,1377.502,1379.045,for bringing everybody here.,False,False,4,4,big gay al,1.0,False
+662,1379.17,1381.464,"Oh, there you are, dude. How's it going?",False,False,8,8,stan,1.0,False
+663,1381.589,1383.758,"I'm super, thanks for asking.",False,False,5,5,big gay al,1.0,False
+664,1383.883,1386.01,It looks like now my work here is done.,False,False,9,9,big gay al,1.0,False
+665,1388.137,1390.181,"Good-bye, Stanley. Peace be with you.",False,False,7,5,big gay al,1.0,False
+666,1390.306,1391.224,Wow!,False,False,1,1,stan,1.0,False
+667,1394.936,1396.562,"You guys, you guys! I can do it.",False,False,8,8,richard,1.0,False
+668,1396.687,1397.563,Do what?,False,False,2,2,mr. garrison,1.0,False
+669,1397.688,1399.273,♪ Loving you ♪,False,True,2,0,,0.0,False
+670,1399.399,1402.11,♪ Is easy 'cause you're beautiful ♪,False,True,5,0,,0.0,False
+671,1402.235,1403.111,♪ Doot'n-doot'n doo-doo ♪,False,True,4,0,,0.0,False
+672,1403.236,1404.57,No!,False,False,1,1,jimbo,1.0,False
+673,1404.695,1405.822,♪ Ahh ♪,False,True,1,0,,0.0,False
+674,1407.365,1409.784,♪ Now you're a man ♪,False,True,4,0,,0.0,False
+675,1409.909,1411.16,"♪ A man, man, man ♪",False,True,4,0,,0.0,False
+676,1411.285,1412.829,"♪ Now you're a man, man ♪",False,True,5,0,,0.0,False
+677,1412.954,1414.372,"♪ Man, man, man, man, man ♪",False,True,5,0,,0.0,False
+678,1414.497,1416.541,♪ Now you're a man ♪,False,True,4,0,,0.0,False
+679,1416.666,1418.084,"♪ M-A-N, man ♪",False,True,4,0,,0.0,False
+680,1418.209,1422.046,"♪ Man, man, man, man ♪",False,True,4,0,,0.0,False
+681,1422.171,1424.09,♪ Now you're a man ♪,False,True,4,0,,0.0,False

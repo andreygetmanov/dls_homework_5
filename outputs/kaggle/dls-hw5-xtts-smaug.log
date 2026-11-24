@@ -1,0 +1,146 @@
+[{"stream_name":"stdout","time":2.947117602,"data":"$ pip install -q coqui-tts==0.28.0 transformers==4.57.6 2\u003e\u00261 | tail -3\n"}
+,{"stream_name":"stdout","time":24.272814364,"data":"gradio 6.30.0 requires huggingface-hub\u003c3.0,\u003e=1.16.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":24.27286633,"data":"gradio 6.30.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\n"}
+,{"stream_name":"stdout","time":24.272874375,"data":"diffusers 0.42.0 requires huggingface-hub\u003c3.0,\u003e=1.32.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":36.632519652,"data":"$ /usr/bin/python3 -c \"import torch, torchaudio, transformers, TTS; print(torch.__version__, torchaudio.__version__, transformers.__version__, TTS.__version__, torch.cuda.get_device_name(0))\" | tee /kaggle/working/versions.txt\n"}
+,{"stream_name":"stdout","time":49.614655949,"data":"2.11.0+cu130 2.11.0+cu130 4.57.6 0.28.0 Tesla T4\n"}
+,{"stream_name":"stdout","time":52.462671494,"data":"$ /usr/bin/python3 /kaggle/input/datasets/andreygetmanov/dls-hw5-smaug/scripts/train_xtts.py --data /kaggle/input/datasets/andreygetmanov/dls-hw5-smaug/ljs/smaug --meta metadata_1min.csv --out /kaggle/working/runs/1min --steps 300 --eval_every 10 --files /kaggle/working/xtts_files 2\u003e\u00261 | grep -v -i warn\n"}
+,{"stream_name":"stdout","time":517.499305156,"data":"I0000 00:00:1795463699.074460      71 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stdout","time":517.499370256,"data":"device cuda; train 10 фраз, eval 6; обучаемых параметров 441.0M из 518.4M\n"}
+,{"stream_name":"stdout","time":517.499377072,"data":"step    0 eval loss_mel_ce 4.6004 text 0.0211 *\n"}
+,{"stream_name":"stdout","time":517.499381939,"data":"Consider using tensor.detach() first. (Triggered internally at /pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:836.)\n"}
+,{"stream_name":"stdout","time":517.499386773,"data":"  run.append([float(ld[k]) for k in ('loss', 'loss_mel_ce', 'loss_text_ce')])\n"}
+,{"stream_name":"stdout","time":517.499391494,"data":"step   10 train loss_mel_ce 4.2792 (2.25 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499396588,"data":"step   10 eval loss_mel_ce 4.4690 text 0.0215 *\n"}
+,{"stream_name":"stdout","time":517.499401008,"data":"step   20 train loss_mel_ce 4.1192 (1.83 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499405689,"data":"step   20 eval loss_mel_ce 4.3951 text 0.0210 *\n"}
+,{"stream_name":"stdout","time":517.499410279,"data":"step   30 train loss_mel_ce 3.8957 (1.65 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.49941481,"data":"step   30 eval loss_mel_ce 4.3496 text 0.0205 *\n"}
+,{"stream_name":"stdout","time":517.499419353,"data":"step   40 train loss_mel_ce 3.7274 (1.61 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499423957,"data":"step   40 eval loss_mel_ce 4.3280 text 0.0202 *\n"}
+,{"stream_name":"stdout","time":517.499428303,"data":"step   50 train loss_mel_ce 3.6478 (1.59 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499433379,"data":"step   50 eval loss_mel_ce 4.3482 text 0.0202\n"}
+,{"stream_name":"stdout","time":517.499437773,"data":"step   60 train loss_mel_ce 3.4741 (1.52 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499442311,"data":"step   60 eval loss_mel_ce 4.3470 text 0.0201\n"}
+,{"stream_name":"stdout","time":517.499446718,"data":"step   70 train loss_mel_ce 3.4362 (1.50 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499451497,"data":"step   70 eval loss_mel_ce 4.4093 text 0.0201\n"}
+,{"stream_name":"stdout","time":517.499455871,"data":"step   80 train loss_mel_ce 3.2561 (1.47 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499473254,"data":"step   80 eval loss_mel_ce 4.3967 text 0.0201\n"}
+,{"stream_name":"stdout","time":517.499477123,"data":"step   90 train loss_mel_ce 3.0382 (1.44 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499480744,"data":"step   90 eval loss_mel_ce 4.4474 text 0.0201\n"}
+,{"stream_name":"stdout","time":517.499484404,"data":"step  100 train loss_mel_ce 2.9797 (1.42 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499487958,"data":"step  100 eval loss_mel_ce 4.5765 text 0.0200\n"}
+,{"stream_name":"stdout","time":517.499491536,"data":"step  110 train loss_mel_ce 2.6851 (1.40 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499495114,"data":"step  110 eval loss_mel_ce 4.6513 text 0.0200\n"}
+,{"stream_name":"stdout","time":517.499498606,"data":"step  120 train loss_mel_ce 2.4408 (1.38 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499502108,"data":"step  120 eval loss_mel_ce 4.7693 text 0.0200\n"}
+,{"stream_name":"stdout","time":517.49950562,"data":"step  130 train loss_mel_ce 2.4590 (1.37 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499509132,"data":"step  130 eval loss_mel_ce 4.8319 text 0.0200\n"}
+,{"stream_name":"stdout","time":517.499512733,"data":"step  140 train loss_mel_ce 2.1802 (1.36 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499516229,"data":"step  140 eval loss_mel_ce 5.0045 text 0.0201\n"}
+,{"stream_name":"stdout","time":517.499520116,"data":"step  150 train loss_mel_ce 2.0823 (1.35 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.49952354,"data":"step  150 eval loss_mel_ce 5.1381 text 0.0201\n"}
+,{"stream_name":"stdout","time":517.499526924,"data":"step  160 train loss_mel_ce 1.8897 (1.34 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499531346,"data":"step  160 eval loss_mel_ce 5.2902 text 0.0201\n"}
+,{"stream_name":"stdout","time":517.499535237,"data":"step  170 train loss_mel_ce 1.7462 (1.34 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499538746,"data":"step  170 eval loss_mel_ce 5.4266 text 0.0201\n"}
+,{"stream_name":"stdout","time":517.499542267,"data":"step  180 train loss_mel_ce 1.7557 (1.33 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499545854,"data":"step  180 eval loss_mel_ce 5.5823 text 0.0202\n"}
+,{"stream_name":"stdout","time":517.49954934,"data":"step  190 train loss_mel_ce 1.4644 (1.33 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499553121,"data":"step  190 eval loss_mel_ce 5.6372 text 0.0202\n"}
+,{"stream_name":"stdout","time":517.499556635,"data":"step  200 train loss_mel_ce 1.4138 (1.32 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499560145,"data":"step  200 eval loss_mel_ce 5.8702 text 0.0202\n"}
+,{"stream_name":"stdout","time":517.499563688,"data":"step  210 train loss_mel_ce 1.2980 (1.32 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499567164,"data":"step  210 eval loss_mel_ce 6.0248 text 0.0202\n"}
+,{"stream_name":"stdout","time":517.499570795,"data":"step  220 train loss_mel_ce 0.9704 (1.32 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499574339,"data":"step  220 eval loss_mel_ce 6.1372 text 0.0202\n"}
+,{"stream_name":"stdout","time":517.499577905,"data":"step  230 train loss_mel_ce 0.9478 (1.31 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499581474,"data":"step  230 eval loss_mel_ce 6.3187 text 0.0203\n"}
+,{"stream_name":"stdout","time":517.499585019,"data":"step  240 train loss_mel_ce 0.9216 (1.31 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499588512,"data":"step  240 eval loss_mel_ce 6.4453 text 0.0203\n"}
+,{"stream_name":"stdout","time":517.499591892,"data":"step  250 train loss_mel_ce 0.8085 (1.31 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499595504,"data":"step  250 eval loss_mel_ce 6.5373 text 0.0203\n"}
+,{"stream_name":"stdout","time":517.49960215,"data":"step  260 train loss_mel_ce 0.9077 (1.31 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499605997,"data":"step  260 eval loss_mel_ce 6.6066 text 0.0204\n"}
+,{"stream_name":"stdout","time":517.499609382,"data":"step  270 train loss_mel_ce 0.7667 (1.30 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499612989,"data":"step  270 eval loss_mel_ce 6.7801 text 0.0204\n"}
+,{"stream_name":"stdout","time":517.499616488,"data":"step  280 train loss_mel_ce 0.6776 (1.30 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499620225,"data":"step  280 eval loss_mel_ce 6.8547 text 0.0204\n"}
+,{"stream_name":"stdout","time":517.49962378,"data":"step  290 train loss_mel_ce 0.6839 (1.30 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.499627594,"data":"step  290 eval loss_mel_ce 6.8108 text 0.0205\n"}
+,{"stream_name":"stdout","time":517.499631437,"data":"step  300 train loss_mel_ce 0.4844 (1.30 с/шаг)\n"}
+,{"stream_name":"stdout","time":517.4996355,"data":"step  300 eval loss_mel_ce 6.9326 text 0.0205\n"}
+,{"stream_name":"stdout","time":517.499639065,"data":"best eval loss_mel_ce 4.328 -\u003e /kaggle/working/runs/1min/best_model.pth\n"}
+,{"stream_name":"stdout","time":517.675904114,"data":"1min: обучение 465 с\n"}
+,{"stream_name":"stdout","time":517.675937945,"data":"$ /usr/bin/python3 /kaggle/input/datasets/andreygetmanov/dls-hw5-smaug/scripts/train_xtts.py --data /kaggle/input/datasets/andreygetmanov/dls-hw5-smaug/ljs/smaug --meta metadata_full.csv --out /kaggle/working/runs/full --steps 600 --eval_every 25 --files /kaggle/working/xtts_files 2\u003e\u00261 | grep -v -i warn\n"}
+,{"stream_name":"stdout","time":1431.240345764,"data":"I0000 00:00:1795464148.532414      96 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stdout","time":1431.240394341,"data":"device cuda; train 50 фраз, eval 6; обучаемых параметров 441.0M из 518.4M\n"}
+,{"stream_name":"stdout","time":1431.240401493,"data":"step    0 eval loss_mel_ce 4.6004 text 0.0211 *\n"}
+,{"stream_name":"stdout","time":1431.240406843,"data":"Consider using tensor.detach() first. (Triggered internally at /pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:836.)\n"}
+,{"stream_name":"stdout","time":1431.240411751,"data":"  run.append([float(ld[k]) for k in ('loss', 'loss_mel_ce', 'loss_text_ce')])\n"}
+,{"stream_name":"stdout","time":1431.240416872,"data":"step   25 train loss_mel_ce 4.2688 (2.02 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240421674,"data":"step   25 eval loss_mel_ce 4.2754 text 0.0212 *\n"}
+,{"stream_name":"stdout","time":1431.240426801,"data":"step   50 train loss_mel_ce 4.0170 (1.80 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240431297,"data":"step   50 eval loss_mel_ce 4.2033 text 0.0204 *\n"}
+,{"stream_name":"stdout","time":1431.240436077,"data":"step   75 train loss_mel_ce 3.8957 (1.69 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240440757,"data":"step   75 eval loss_mel_ce 4.1757 text 0.0200 *\n"}
+,{"stream_name":"stdout","time":1431.240445582,"data":"step  100 train loss_mel_ce 3.8229 (1.66 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240450307,"data":"step  100 eval loss_mel_ce 4.1445 text 0.0199 *\n"}
+,{"stream_name":"stdout","time":1431.240454822,"data":"step  125 train loss_mel_ce 3.7074 (1.63 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240459129,"data":"step  125 eval loss_mel_ce 4.1548 text 0.0198\n"}
+,{"stream_name":"stdout","time":1431.240463304,"data":"step  150 train loss_mel_ce 3.5910 (1.60 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240467206,"data":"step  150 eval loss_mel_ce 4.1754 text 0.0198\n"}
+,{"stream_name":"stdout","time":1431.240483181,"data":"step  175 train loss_mel_ce 3.5539 (1.58 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240486856,"data":"step  175 eval loss_mel_ce 4.1942 text 0.0198\n"}
+,{"stream_name":"stdout","time":1431.240490495,"data":"step  200 train loss_mel_ce 3.4242 (1.56 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240493454,"data":"step  200 eval loss_mel_ce 4.2225 text 0.0198\n"}
+,{"stream_name":"stdout","time":1431.240496423,"data":"step  225 train loss_mel_ce 3.3182 (1.55 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240499722,"data":"step  225 eval loss_mel_ce 4.2643 text 0.0197\n"}
+,{"stream_name":"stdout","time":1431.240503571,"data":"step  250 train loss_mel_ce 3.2861 (1.54 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240507521,"data":"step  250 eval loss_mel_ce 4.2865 text 0.0196\n"}
+,{"stream_name":"stdout","time":1431.240511489,"data":"step  275 train loss_mel_ce 3.1424 (1.53 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.24051466,"data":"step  275 eval loss_mel_ce 4.3150 text 0.0196\n"}
+,{"stream_name":"stdout","time":1431.240517861,"data":"step  300 train loss_mel_ce 3.1802 (1.52 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240520987,"data":"step  300 eval loss_mel_ce 4.3697 text 0.0195\n"}
+,{"stream_name":"stdout","time":1431.240524071,"data":"step  325 train loss_mel_ce 2.9491 (1.51 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240527451,"data":"step  325 eval loss_mel_ce 4.4700 text 0.0195\n"}
+,{"stream_name":"stdout","time":1431.240530689,"data":"step  350 train loss_mel_ce 2.8483 (1.51 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240534514,"data":"step  350 eval loss_mel_ce 4.4819 text 0.0195\n"}
+,{"stream_name":"stdout","time":1431.240537972,"data":"step  375 train loss_mel_ce 2.8521 (1.50 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240541656,"data":"step  375 eval loss_mel_ce 4.5540 text 0.0194\n"}
+,{"stream_name":"stdout","time":1431.240545131,"data":"step  400 train loss_mel_ce 2.6857 (1.50 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240550506,"data":"step  400 eval loss_mel_ce 4.6670 text 0.0194\n"}
+,{"stream_name":"stdout","time":1431.240553909,"data":"step  425 train loss_mel_ce 2.5283 (1.49 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240557316,"data":"step  425 eval loss_mel_ce 4.7835 text 0.0194\n"}
+,{"stream_name":"stdout","time":1431.240561072,"data":"step  450 train loss_mel_ce 2.5183 (1.49 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240565012,"data":"step  450 eval loss_mel_ce 4.7639 text 0.0194\n"}
+,{"stream_name":"stdout","time":1431.240568307,"data":"step  475 train loss_mel_ce 2.3881 (1.49 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240571769,"data":"step  475 eval loss_mel_ce 4.8693 text 0.0194\n"}
+,{"stream_name":"stdout","time":1431.240575092,"data":"step  500 train loss_mel_ce 2.3894 (1.49 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240578417,"data":"step  500 eval loss_mel_ce 4.9618 text 0.0194\n"}
+,{"stream_name":"stdout","time":1431.240581797,"data":"step  525 train loss_mel_ce 2.2105 (1.48 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240585211,"data":"step  525 eval loss_mel_ce 5.0917 text 0.0194\n"}
+,{"stream_name":"stdout","time":1431.240588369,"data":"step  550 train loss_mel_ce 2.1730 (1.48 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240591852,"data":"step  550 eval loss_mel_ce 5.1436 text 0.0194\n"}
+,{"stream_name":"stdout","time":1431.240595132,"data":"step  575 train loss_mel_ce 2.0370 (1.48 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240598606,"data":"step  575 eval loss_mel_ce 5.2926 text 0.0194\n"}
+,{"stream_name":"stdout","time":1431.240606939,"data":"step  600 train loss_mel_ce 1.9821 (1.48 с/шаг)\n"}
+,{"stream_name":"stdout","time":1431.240610596,"data":"step  600 eval loss_mel_ce 5.3987 text 0.0194\n"}
+,{"stream_name":"stdout","time":1431.240614099,"data":"best eval loss_mel_ce 4.1445 -\u003e /kaggle/working/runs/full/best_model.pth\n"}
+,{"stream_name":"stdout","time":1431.414375619,"data":"full: обучение 914 с\n"}
+,{"stream_name":"stderr","time":1442.675283403,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":1442.675329905,"data":"I0000 00:00:1795465060.955744       7 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.\n"}
+,{"stream_name":"stderr","time":1444.711861479,"data":"/kaggle/input/datasets/andreygetmanov/dls-hw5-smaug/scripts/xtts_eval.py:50: UserWarning: Xtts.init_from_config(config) is deprecated and will be removed soon, just initialize with Xtts(config)\n"}
+,{"stream_name":"stderr","time":1444.71190131,"data":"  model = Xtts.init_from_config(config)\n"}
+,{"stream_name":"stdout","time":1495.104842367,"data":"zs: генерация 63 с\n"}
+,{"stream_name":"stdout","time":1555.588267224,"data":"1min: генерация 60 с\n"}
+,{"stream_name":"stdout","time":1615.623765203,"data":"full: генерация 60 с\n"}
+,{"stream_name":"stdout","time":1615.885654555,"data":"$ rm -rf /kaggle/working/xtts_files\n"}
+,{"stream_name":"stdout","time":1615.954243652,"data":"DONE\n"}
+,{"stream_name":"stderr","time":1620.357285299,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":1620.357312566,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":1620.581812921,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":1620.581839752,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":1621.414523077,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1621.91789365,"data":"[NbConvertApp] Writing 286911 bytes to __results__.html\n"}
+]

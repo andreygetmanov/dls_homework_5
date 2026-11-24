@@ -1,0 +1,571 @@
+i,a,c,text,two,song,n,matched,who,purity,cartman
+1,1.919,4.714,And now a fireside chat with the creators of Comedy,False,False,10,0,,0.0,False
+2,4.839,8.843,"Central's ""South Park, "" Matt Stone and Trey Parker.",False,False,8,0,,0.0,False
+3,14.89,16.892,"Oh, hello. I'm Trey Parker.",False,False,5,0,,0.0,False
+4,17.018,18.227,And I'm Matt Stone.,False,False,4,0,,0.0,False
+5,18.352,19.478,And this here is old Scratch.,False,False,6,0,,0.0,False
+6,19.603,21.48,"Say hi, old fella.",False,False,4,0,,0.0,False
+7,21.605,24.483,"This episode of ""South Park"" is called ""Weight Gain 4000,""",False,False,10,0,,0.0,False
+8,24.608,26.777,and it's by far our favorite episode.,False,False,7,0,,0.0,False
+9,26.902,29.739,"It's all about Kathie Lee Gifford coming to ""South Park""",False,False,10,0,,0.0,False
+10,29.864,34.035,and Eric Cartman trying to beef himself up for the big day.,False,False,12,0,,0.0,False
+11,34.16,36.328,Exactly how much weight does Eric Cartman gain,False,False,8,0,,0.0,False
+12,36.454,37.955,in this episode?,False,False,3,0,,0.0,False
+13,38.08,39.623,"Well, after Eric Cartman starts eating",False,False,6,0,,0.0,False
+14,39.749,42.126,"the Weight Gain 4000, he gains 700 pounds.",False,False,8,0,,0.0,False
+15,42.251,44.336,That makes him almost as heavy as Sally Struthers.,False,False,9,0,,0.0,False
+16,44.462,47.798,Has Kathie Lee Gifford ever offended you in some fashion?,False,False,10,0,,0.0,False
+17,47.923,50.384,Was she flattered by her depiction here?,False,False,7,0,,0.0,False
+18,50.509,51.886,"Well, we don't really care,",False,False,5,0,,0.0,False
+19,52.011,53.012,because Kathie Lee Gifford is a--,False,False,6,0,,0.0,False
+20,53.137,55.014,Very wonderful woman.,False,False,3,0,,0.0,False
+21,55.139,59.894,"Both Trey and I really, really respect her work with Regis.",False,False,11,0,,0.0,False
+22,60.019,61.395,Guns and bullets seem to be,False,False,6,0,,0.0,False
+23,61.52,62.98,"a recurring theme in ""South Park.""",False,False,6,0,,0.0,False
+24,63.105,65.983,Have either of you ever killed anyone?,False,False,7,0,,0.0,False
+25,66.108,71.03,"I would never kill somebody, unless they pissed me off.",False,False,10,0,,0.0,False
+26,71.155,72.823,"Guys, why do you keep killing off poor Kenny?",False,False,9,0,,0.0,False
+27,72.948,74.7,What did he ever do to you?,False,False,7,0,,0.0,False
+28,74.825,77.912,"Well, Kenny is definitely our favorite character.",False,False,7,0,,0.0,False
+29,78.037,79.914,"And even though he is our favorite character,",False,False,8,0,,0.0,False
+30,80.039,81.707,"we feel we have to kill him in every episode,",False,False,10,0,,0.0,False
+31,81.832,83.542,and this one of our favorite deaths in this one.,False,False,10,0,,0.0,False
+32,83.667,86.045,"How does someone create a show like ""South Park""",False,False,9,0,,0.0,False
+33,86.17,87.588,and remain as pure and wholesome,False,False,6,0,,0.0,False
+34,87.713,89.423,as you both appear to be?,False,False,6,0,,0.0,False
+35,89.548,91.3,"You know, everyone thinks that in order to do",False,False,9,0,,0.0,False
+36,91.425,93.761,"""South Park"" we must be wild, crazy rock 'n roll stars,",False,False,11,0,,0.0,False
+37,93.886,96.347,"but the truth is, we're just wholesome middle-American guys.",False,False,10,0,,0.0,False
+38,96.472,99.308,"We enjoy soda pop, baseball, and beating up old people",False,False,10,0,,0.0,False
+39,99.433,100.768,just as much as anybody.,False,False,5,0,,0.0,False
+40,102.728,107.149,"So now sit back, relax, and enjoy ""Weight Gain 4000.""",False,False,10,0,,0.0,False
+41,120.412,121.789,♪ I'm going down to South Park ♪,False,True,6,0,,0.0,False
+42,121.914,123.791,♪ Gonna have myself a time ♪,False,True,5,0,,0.0,False
+43,123.916,125.501,♪ Friendly faces everywhere ♪,False,True,3,0,,0.0,False
+44,125.626,127.044,♪ Humble folks without temptation ♪,False,True,4,0,,0.0,False
+45,127.169,128.504,♪ Going down to South Park ♪,False,True,5,0,,0.0,False
+46,128.629,130.339,♪ Gonna leave my woes behind ♪,False,True,5,0,,0.0,False
+47,130.464,132.049,♪ Ample parking day or night ♪,False,True,5,0,,0.0,False
+48,132.174,133.551,"♪ People spouting: ""Howdy neighbor."" ♪",False,True,4,0,,0.0,False
+49,133.676,135.052,♪ Headed on up to South Park ♪,False,True,6,0,,0.0,False
+50,135.177,136.804,♪ Gonna see if I can't unwind ♪,False,True,6,0,,0.0,False
+51,140.099,141.475,♪ So come on down to South Park ♪,False,True,7,0,,0.0,False
+52,141.6,143.269,♪ And meet some friends of mine ♪,False,True,6,0,,0.0,False
+53,146.063,148.232,"Hey, Stan, did you see that rainbow this morning?",False,False,9,9,kyle,1.0,False
+54,148.357,149.817,"Yeah, it was huge.",False,False,4,4,stan,1.0,False
+55,149.942,151.694,"Ugh, I hate those things.",False,False,5,5,cartman,1.0,True
+56,151.819,153.404,Nobody hates rainbows.,False,False,3,3,kyle,1.0,False
+57,153.529,155.614,"Yeah, what's there to hate about rainbows?",False,False,7,7,stan,1.0,False
+58,155.739,158.701,"Well, you know, you'll just be sitting there",False,False,8,8,cartman,1.0,True
+59,158.826,161.704,"minding your own business, and they'll come marching in",False,False,9,9,cartman,1.0,True
+60,161.829,163.831,and crawl up your leg and start biting,False,False,8,8,cartman,1.0,True
+61,163.956,165.166,the inside of your ass.,False,False,5,5,cartman,1.0,True
+62,165.291,167.168,"And you'll be all like, ""Hey,",False,False,6,6,cartman,1.0,True
+63,167.293,170.546,"get out of my ass, you stupid rainbows.""",False,False,8,6,cartman,1.0,True
+64,172.173,174.008,"Cartman, what the hell are you talking about?",False,False,8,8,stan,1.0,False
+65,174.133,175.926,I'm talking about rainbows.,False,False,4,4,cartman,1.0,True
+66,176.051,177.72,I hate those friggin' things.,False,False,5,5,cartman,1.0,True
+67,177.845,179.18,Rainbows are those arches of color,False,False,6,6,kyle,1.0,False
+68,179.305,180.556,that show up during a rainstorm.,False,False,6,6,kyle,1.0,False
+69,182.183,184.059,"Oh, rainbows.",False,False,2,2,cartman,1.0,True
+70,184.185,185.227,"Oh, yeah, I like those.",False,False,5,5,cartman,1.0,True
+71,185.352,186.478,Those are cool.,False,False,3,3,cartman,1.0,True
+72,186.604,187.73,What were you talking about?,False,False,5,5,stan,1.0,False
+73,187.855,189.815,"Heh? Oh, nothing. Forget it.",False,False,5,4,cartman,1.0,True
+74,189.94,191.984,"No, what marches in, crawls up your leg...",False,False,8,8,kyle,1.0,False
+75,192.109,193.235,Nothing. - And bites the inside,True,False,5,4,kyle,1.0,False
+76,193.36,195.237,of your ass? - Nothing.,True,False,4,4,kyle,0.75,False
+77,195.362,197.281,"Children, children, remember the Save Our Fragile Planet",False,False,8,6,mr. garrison,1.0,False
+78,197.406,199.366,essay contest that you children worked,False,False,6,6,mr. garrison,1.0,False
+79,199.491,201.16,so hard on last month?,False,False,5,5,mr. garrison,1.0,False
+80,203.495,205.831,One of our very own South Park students has won,False,False,10,10,mr. garrison,1.0,False
+81,205.956,207.249,the national prize.,False,False,3,3,mr. garrison,1.0,False
+82,208.542,210.502,"Wow, I knew I would win.",False,False,6,6,wendy,1.0,False
+83,210.628,213.13,"Gosh, Mr. Garrison, this sure is exciting.",False,False,7,7,mr. hat,1.0,False
+84,213.255,214.965,"That's right, Mr. Hat.",False,False,4,4,mr. garrison,1.0,False
+85,215.09,216.675,The winner of the national Save Our Fragile Planet,False,False,9,7,mr. garrison,1.0,False
+86,216.8,220.095,contest is...Eric Cartman.,False,False,4,4,mr. garrison,1.0,False
+87,220.221,221.639,What? - What?,True,False,2,2,cartman,0.5,False
+88,221.764,223.307,"Congratulations, Eric, on writing",False,False,4,4,mr. garrison,1.0,False
+89,223.432,224.934,the award-winning paper.,False,False,4,4,mr. garrison,1.0,False
+90,225.059,226.352,Kick ass.,False,False,2,2,cartman,1.0,True
+91,226.477,228.229,That's impossible.,False,False,2,2,stan,1.0,False
+92,228.354,230.189,Cartman doesn't know a rain forest from a Pop-Tart.,False,False,10,10,stan,1.0,False
+93,230.314,232.524,"Yeah, I do. Pop-Tarts are frosted.",False,False,7,7,cartman,1.0,True
+94,232.65,234.61,"Out of over a million papers,",False,False,6,6,mr. garrison,1.0,False
+95,234.735,237.029,Eric's was chosen as the grand prize winner.,False,False,8,8,mr. garrison,1.0,False
+96,237.154,239.114,"Wow, what did you write about, Cartman?",False,False,7,7,kyle,1.0,False
+97,239.24,241.408,"Oh, you know, this and that.",False,False,6,6,cartman,1.0,True
+98,241.533,243.535,He doesn't even know what he wrote about.,False,False,8,8,wendy,1.0,False
+99,243.661,245.454,"What was your paper about, Wendy?",False,False,6,6,kyle,1.0,False
+100,245.579,248.832,My paper was on the suffering of bottle-nosed dolphins.,False,False,10,9,wendy,1.0,False
+101,248.958,250.501,"Well, you see, you shouldn't have written",False,False,7,4,cartman,1.0,True
+102,250.626,251.961,a paper about dolphins.,False,False,4,4,cartman,1.0,True
+103,252.086,253.879,Dolphins are stupid.,False,False,3,3,cartman,1.0,True
+104,254.004,255.547,"Dude, dolphins are, like, the second-smartest animal",False,False,8,8,stan,1.0,False
+105,255.673,256.632,on the planet.,False,False,3,3,stan,1.0,False
+106,256.757,258.3,"Oh, right.",False,False,2,1,cartman,1.0,True
+107,258.425,260.761,"If they're so damn smart, how come they get caught",False,False,10,10,cartman,1.0,True
+108,260.886,262.93,in those fishing nets all the time?,False,False,7,7,cartman,1.0,True
+109,263.055,264.932,"What? - Wait, wait, there's more.",True,False,5,5,mr. garrison,0.8,False
+110,265.057,267.726,It says here that Eric's trophy,False,False,6,6,mr. garrison,1.0,False
+111,267.851,271.272,will be presented to him by...,False,False,6,6,mr. garrison,1.0,False
+112,271.397,273.023,Kathie Lee Gifford?,False,False,3,3,mr. garrison,1.0,False
+113,273.148,275.15,Kathie Lee is coming to South Park?,False,False,7,7,kyle,1.0,False
+114,275.276,278.195,And the presentation will be on national television.,False,False,8,8,mr. garrison,1.0,False
+115,278.32,279.655,Television?,False,False,1,1,"stan,",1.0,False
+116,279.78,282.157,Kathie Lee Gifford.,False,False,3,3,mr. garrison,1.0,False
+117,282.283,283.742,I don't believe it.,False,False,4,4,mr. garrison,1.0,False
+118,283.867,287.329,Kathie Lee Gifford in South Park.,False,False,6,6,mayor,1.0,False
+119,287.454,289.29,"Oh, my God.",False,False,3,3,mayor,1.0,False
+120,289.415,292.209,"This is our chance to make a name for ourselves, to show",False,False,12,12,mayor,1.0,False
+121,292.334,294.753,"that we're not some pissant, white-bread mountain town.",False,False,9,8,mayor,1.0,False
+122,294.878,297.589,"Better yet, it's a chance for you to get some publicity.",False,False,11,11,ted,1.0,False
+123,297.715,300.968,"Yes, if I can show just how much I've turned South Park",False,False,12,11,mayor,1.0,False
+124,301.093,303.304,"around, I could become a senator.",False,False,6,6,mayor,1.0,False
+125,303.429,305.222,Maybe even a state senator.,False,False,5,5,johnson,1.0,False
+126,305.347,307.641,"Mayor, we should decorate the town square.",False,False,7,7,ted,1.0,False
+127,307.766,310.311,Then we should have the chef of the school cafeteria sing,False,False,11,11,johnson,1.0,False
+128,310.436,313.314,a song and play up the ethnic diversity of our town.,False,False,11,11,johnson,1.0,False
+129,313.439,314.523,That's right.,False,False,2,2,mayor,1.0,False
+130,314.648,316.15,"He's a black guy, isn't he?",False,False,6,6,mayor,1.0,False
+131,316.275,318.068,"Black as the night itself, Mayor.",False,False,6,6,ted,1.0,False
+132,318.193,321.238,"Yes, and we can even have the children of South Park",False,False,11,11,mayor,1.0,False
+133,321.363,322.614,put on a little play.,False,False,5,5,mayor,1.0,False
+134,322.74,324.616,Kathie Lee loves children.,False,False,4,4,mayor,1.0,False
+135,324.742,326.41,"If they're working in a sweatshop, that is.",False,False,8,7,ted,1.0,False
+136,326.535,327.661,Oh! - Ouch.,True,False,2,1,ted,1.0,False
+137,327.786,329.663,Thank you.,False,False,2,2,ted,1.0,False
+138,329.788,331.54,"You guys, guess what.",False,False,4,4,cartman,1.0,True
+139,331.665,335.294,"After I'm on television, I'm gonna be totally famous.",False,False,9,9,cartman,1.0,True
+140,335.419,337.171,Hitler was famous too.,False,False,4,4,wendy,1.0,False
+141,337.296,338.297,"Hello there, children.",False,False,3,3,chef,1.0,False
+142,338.422,339.798,"Hey, Chef.",False,False,2,2,"kyle,",1.0,False
+143,339.923,341.05,How are my little crackers today?,False,False,6,6,chef,1.0,False
+144,341.175,342.509,Good.,False,False,1,1,"kyle,",1.0,False
+145,342.634,344.219,Did y'all hear about the news?,False,False,6,5,chef,1.0,False
+146,344.345,345.888,Kathie Lee Gifford is coming to South Park.,False,False,8,8,chef,1.0,False
+147,346.013,347.306,"Yeah, 'cause Cartman cheated and won",False,False,6,5,stan,1.0,False
+148,347.431,348.891,the environmental essay contest.,False,False,4,4,stan,1.0,False
+149,349.016,350.517,"Hey! - Yeah, yeah, whatever.",True,False,4,4,chef,0.75,False
+150,350.642,353.437,But the mayor just called and asked me,False,False,8,8,chef,1.0,False
+151,353.562,355.23,to sing at the ceremony.,False,False,5,5,chef,1.0,False
+152,355.356,356.69,"Wow, are you gonna do it?",False,False,6,6,kyle,1.0,False
+153,356.815,358.692,Of course.,False,False,2,2,chef,1.0,False
+154,358.817,362.363,"Kathie Lee is a beautiful, sultry queen of sexual fantasy.",False,False,10,10,chef,1.0,False
+155,362.488,364.74,"And if I sing to her, maybe I can lure her into",False,False,12,12,chef,1.0,False
+156,364.865,368.327,a night of exotic delectation.,False,False,5,5,chef,1.0,False
+157,368.452,370.079,"Yeah, that'd be cool.",False,False,4,4,stan,1.0,False
+158,372.081,375.501,"Well, three times bigger than Frank Gifford's, anyway.",False,False,8,8,chef,1.0,False
+159,375.626,378.087,"Oh, I can't even concentrate on grading papers",False,False,8,8,mr. garrison,1.0,False
+160,378.212,379.797,with all this excitement.,False,False,4,4,mr. garrison,1.0,False
+161,381.507,383.592,"Why are you looking at me like that, Mr. Hat?",False,False,10,10,mr. garrison,1.0,False
+162,383.717,386.053,Have you forgotten about all the pain and suffering,False,False,9,9,mr. hat,1.0,False
+163,386.178,388.097,that Kathie Lee Gifford caused you?,False,False,6,6,mr. hat,1.0,False
+164,388.222,391.183,"Mr. Hat, that was a long time ago, and--",False,False,9,9,mr. garrison,1.0,False
+165,391.308,392.893,and I was only a child.,False,False,6,6,mr. garrison,1.0,False
+166,393.018,394.812,We could've won that talent show.,False,False,6,5,mr. hat,1.0,False
+167,394.937,396.605,We could've been huge.,False,False,4,3,mr. hat,1.0,False
+168,396.73,398.065,"Knock-knock, Mr. Hat.",False,False,4,4,lil,1.0,False
+169,398.19,399.942,Who's there? Orange.,False,False,3,3,mr. hat,0.6666666666666666,False
+170,400.067,401.485,Orange who?,False,False,2,2,mr. hat,1.0,False
+171,401.61,403.862,Orange you glad I didn't say banana?,False,False,7,7,lil,1.0,False
+172,405.989,407.783,Thank you.,False,False,2,2,mr. hat,1.0,False
+173,409.368,412.121,"Wow, Mr. Hat, looks like we might win.",False,False,8,8,lil,1.0,False
+174,412.246,418.419,"And now, our last talent show finalist, Kathie Lee Epstein.",False,False,10,10,show,1.0,False
+175,418.544,421.505,"♪ If they could see me now, that little gang of mine ♪",False,True,11,0,,0.0,False
+176,421.63,423.924,♪ I'm eating fancy chow and drinking fancy wine ♪,False,True,8,0,,0.0,False
+177,424.049,426.468,♪ I'd like those stumble bums to see for a fact ♪,False,True,10,0,,0.0,False
+178,426.593,429.513,♪ The kind of top-drawer first-rate chums I attract ♪,False,True,10,0,,0.0,False
+179,429.638,432.182,"♪ All I can say is wowee, look at where I am ♪",False,True,11,0,,0.0,False
+180,432.307,435.018,♪ Tonight I landed pow right in a pot of jam ♪,False,True,10,0,,0.0,False
+181,435.144,437.688,"♪ What a setup, holy cow, they'd never believe it ♪",False,True,9,0,,0.0,False
+182,437.813,440.941,♪ If my friends could see me now ♪,False,True,7,0,,0.0,False
+183,448.365,449.616,It wasn't fair.,False,False,3,3,mr. garrison,1.0,False
+184,449.741,451.368,She had choreography.,False,False,3,3,mr. garrison,1.0,False
+185,451.493,453.245,How could we compete with that?,False,False,6,6,mr. garrison,1.0,False
+186,453.37,455.497,"But now she's coming to South Park,",False,False,7,7,mr. hat,1.0,False
+187,455.622,457.791,and I know a way to make it all better.,False,False,10,10,mr. hat,1.0,False
+188,457.916,459.209,How?,False,False,1,1,mr. garrison,1.0,False
+189,459.334,461.462,"No, Mr. Hat.",False,False,3,3,mr. garrison,1.0,False
+190,461.587,463.38,I couldn't...,False,False,2,2,mr. garrison,1.0,False
+191,463.505,467.426,kill Kathie Lee Gifford.,False,False,4,4,mr. garrison,1.0,False
+192,470.304,472.055,"Children, as you all know,",False,False,5,5,mayor,1.0,False
+193,472.181,475.559,Ms. Kathie Lee Gifford will be in South Park to present,False,False,11,11,mayor,1.0,False
+194,475.684,477.644,the award to some kid for an essay.,False,False,8,8,mayor,1.0,False
+195,477.769,479.605,That kid is me. - Whatever.,True,False,5,5,cartman,0.8,False
+196,479.73,482.858,"Now, I'm going to have you luscious little youngsters",False,False,9,9,mayor,1.0,False
+197,482.983,486.32,do a play about the history of South Park.,False,False,9,9,mayor,1.0,False
+198,486.445,488.697,"That'll be wonderful, won't it, Mr. Hat?",False,False,7,7,mr. garrison,1.0,False
+199,488.822,490.699,Kill her. Mr. Hat.,False,False,4,4,mr. garrison,0.5,False
+200,490.824,493.952,"Mr. Garrison, I'm asking you to direct our little play.",False,False,10,10,mayor,1.0,False
+201,494.077,495.662,"Oh, that's perfect.",False,False,3,3,mr. garrison,1.0,False
+202,495.787,498.165,"You see, Mr. Hat, we don't have to kill her.",False,False,10,10,mr. garrison,1.0,False
+203,498.29,499.917,We can just upstage her.,False,False,5,5,mr. garrison,1.0,False
+204,500.042,501.376,"Mrs. Mayor,",False,False,2,2,wendy,1.0,False
+205,501.502,502.92,you might want to review the essays.,False,False,7,7,wendy,1.0,False
+206,503.045,504.796,We think Cartman might have cheated.,False,False,6,6,wendy,1.0,False
+207,504.922,506.715,Who cares?,False,False,2,2,mayor,1.0,False
+208,506.84,511.47,"Now, kids, what's say we give it our South Park best?",False,False,11,11,mayor,1.0,False
+209,512.888,515.265,And who's our little prizewinner again?,False,False,6,5,mayor,1.0,False
+210,515.39,517.059,"Me, Eric Cartman.",False,False,3,3,cartman,1.0,True
+211,517.184,518.894,"How about we get in shape, huh?",False,False,7,7,mayor,1.0,False
+212,519.019,521.772,"We want to look our best for the TV cameras, don't we?",False,False,12,12,mayor,1.0,False
+213,521.897,523.148,"Yes, ma'am.",False,False,2,0,,0.0,False
+214,523.273,524.858,♪ I'm gonna be on television ♪,False,True,5,0,,0.0,False
+215,524.983,526.985,♪ I'm gonna be on television ♪,False,True,5,0,,0.0,False
+216,528.779,530.614,♪ I'm gonna be on television ♪,False,True,5,0,,0.0,False
+217,530.739,532.574,♪ I'm gonna be on television ♪,False,True,5,0,,0.0,False
+218,532.699,534.159,We don't believe for a minute that you won that,False,False,10,10,stan,1.0,False
+219,534.284,535.869,"contest fairly, fat boy.",False,False,4,4,stan,1.0,False
+220,535.994,537.996,"Ugh, stop defending your little girlfriend",False,False,6,5,cartman,1.0,True
+221,538.121,540.332,for writing about some stupid fish.,False,False,6,6,cartman,1.0,True
+222,540.457,542.751,"Dude, dolphins are intelligent and friendly.",False,False,6,6,stan,1.0,False
+223,542.876,545.337,Intelligent and friendly on rye bread with some mayonnaise.,False,False,9,9,cartman,1.0,True
+224,545.462,547.172,Dolphins are way smarter than you.,False,False,6,6,stan,1.0,False
+225,547.297,549.883,"If they're so smart, why do they live in igloos?",False,False,10,10,cartman,1.0,True
+226,550.008,551.218,Dolphins don't live in igloos.,False,False,5,5,stan,1.0,False
+227,551.343,552.511,That's Eskimos.,False,False,2,2,stan,1.0,False
+228,552.636,554.221,"Dolphins, Eskimos, who cares?",False,False,4,4,cartman,1.0,True
+229,554.346,556.89,It's all a bunch of tree-hugging hippie crap.,False,False,9,9,cartman,1.0,True
+230,557.015,558.141,Tell me what you wrote about.,False,False,6,6,stan,1.0,False
+231,558.267,559.518,I can't.,False,False,2,2,cartman,1.0,True
+232,559.643,560.894,I have to go home and get in shape.,False,False,9,9,cartman,1.0,True
+233,561.019,562.354,"Yeah, right.",False,False,2,2,stan,1.0,False
+234,562.479,563.855,You'll go and sit in front of the TV,False,False,9,9,stan,1.0,False
+235,563.981,565.399,"and eat Cheesy Poofs, ass-master.",False,False,6,6,stan,1.0,False
+236,565.524,567.025,"Screw you, hippie.",False,False,3,3,cartman,1.0,True
+237,568.277,571.738,"We'll be right back to ""Jesus and Pals"" after this.",False,False,10,10,tv,1.0,False
+238,571.863,574.074,"Hey, do you need to get in shape fast?",False,False,9,8,beefcake,1.0,False
+239,574.199,575.867,Wanna look your best?,False,False,4,4,beefcake,1.0,False
+240,575.993,577.619,Tired of the other guys getting all the chicks?,False,False,9,9,beefcake,1.0,False
+241,577.744,579.204,Are you tired of being a 90-pound weakling?,False,False,9,9,beefcake,1.0,False
+242,579.329,581.373,"Yeah, I only weigh 90 pounds.",False,False,6,6,cartman,1.0,True
+243,581.498,584.585,Then bulk up quick with Weight Gain 4000.,False,False,8,8,beefcake,1.0,False
+244,584.71,586.42,"Yes. - Over 4,000 grams",False,False,5,5,beefcake,0.8,False
+245,586.545,588.13,"of saturated fat per serving,",False,False,5,5,beefcake,1.0,False
+246,588.255,590.048,its patented formula is designed,False,False,5,5,beefcake,1.0,False
+247,590.173,592.551,"to enter the mouth and go directly to the stomach,",False,False,10,10,beefcake,1.0,False
+248,592.676,594.636,where it is distributed to the bloodstream.,False,False,7,7,beefcake,1.0,False
+249,594.761,596.555,Now available at stores everywhere.,False,False,5,4,beefcake,1.0,False
+250,596.68,599.224,"Get some today, and say it with me, ""Beefcake.""",False,False,9,8,beefcake,1.0,False
+251,599.349,600.601,Beefcake. - Beefcake!,False,False,2,2,cartman,0.5,False
+252,600.726,601.81,Beefcake! - Beefcake!,False,False,2,1,cartman,1.0,True
+253,601.935,603.812,Beefcake!,False,False,1,0,,0.0,False
+254,603.937,605.439,May cause irreversible damage to the kidneys and liver.,False,False,9,9,tv,1.0,False
+255,605.564,609.026,"Mom, can you get me some Weight Gain 4000?",False,False,9,9,cartman,1.0,True
+256,609.151,612.404,"Okay, Eric, I'll get you some at the store tomorrow.",False,False,10,10,liane,1.0,False
+257,612.529,615.532,"But, Mom, I need it for tomorrow.",False,False,7,6,cartman,1.0,True
+258,615.657,618.493,"But tomorrow is grocery day, Eric.",False,False,6,6,liane,1.0,False
+259,618.619,621.33,Mom.,False,False,1,0,,0.0,False
+260,621.455,623.206,"Okay, okay.",False,False,2,2,liane,1.0,False
+261,623.332,625.917,"Well, I guess I'll be going to the store now, then.",False,False,11,11,liane,1.0,False
+262,628.253,631.131,"♪ If they could see me now, that little gang of mine ♪",False,True,11,0,,0.0,False
+263,631.256,632.257,♪ I'm eating fancy chow and drinking... ♪,False,True,6,0,,0.0,False
+264,632.382,633.925,No! No!,False,False,2,2,mr. garrison,1.0,False
+265,635.177,636.845,Kill her.,False,False,2,2,mr. hat,1.0,False
+266,636.97,639.056,"No, Mr. Hat. I won't do it.",False,False,7,7,mr. garrison,1.0,False
+267,639.181,642.726,Kill.,False,False,1,1,mr. hat,1.0,False
+268,642.851,644.353,That does it.,False,False,3,3,mr. garrison,1.0,False
+269,644.478,647.814,"You're going in the dresser drawer, Mr. Hat.",False,False,8,8,mr. garrison,1.0,False
+270,647.939,650.525,She'll make a fool of you again.,False,False,7,6,mr. hat,1.0,False
+271,650.651,653.07,"Well, you can just stay in that drawer, negative Nancy.",False,False,10,10,mr. garrison,1.0,False
+272,653.195,654.78,"Hey, dudes.",False,False,2,2,cartman,1.0,True
+273,654.905,656.448,"What the hell is wrong with you, Cartman?",False,False,8,8,kyle,1.0,False
+274,656.573,657.699,Haven't you noticed the three feet of snow,False,False,8,8,kyle,1.0,False
+275,657.824,659.66,on the ground?,False,False,3,3,kyle,1.0,False
+276,659.785,661.745,"Listen, I have a nice body, and I want to show it off.",False,False,13,12,cartman,1.0,True
+277,661.87,663.33,You got that?,False,False,3,3,cartman,1.0,True
+278,663.455,665.123,What? You've got to weigh 90 pounds.,False,False,7,6,stan,1.0,False
+279,665.248,667.459,"I'm up to 94, thank you very much.",False,False,8,8,cartman,1.0,True
+280,669.336,671.463,"Yeah, they're almost as big as his mom's.",False,False,8,8,kyle,1.0,False
+281,672.756,674.466,Laugh all you want.,False,False,4,4,cartman,1.0,True
+282,674.591,676.968,I'll the one who's gonna be on TV looking all buff.,False,False,11,10,cartman,1.0,True
+283,677.094,679.596,What's that stuff? - Weight Gain 4000.,True,False,6,6,cartman,0.5,False
+284,679.721,681.181,It's helping me bulk up.,False,False,5,5,cartman,1.0,True
+285,681.306,682.974,"Bulk up to what, fat-ass?",False,False,6,6,kyle,1.0,False
+286,683.1,684.643,Super fat-ass?,False,False,3,3,stan,1.0,False
+287,684.768,686.395,"Hey, I don't have to take that kind of crap",False,False,10,9,cartman,1.0,True
+288,686.52,689.773,from you scrawny weaklings.,False,False,4,4,cartman,1.0,True
+289,691.65,693.36,"Sweet, check me out.",False,False,4,4,cartman,1.0,True
+290,693.485,696.738,I'm such a beefcake I can't get through the door.,False,False,10,10,cartman,1.0,True
+291,696.863,698.323,"Come on, people.",False,False,3,3,mayor,1.0,False
+292,698.448,700.325,We've got to turn this place around.,False,False,7,7,mayor,1.0,False
+293,700.45,702.994,"Hang up the lights, string up the banners,",False,False,8,8,mayor,1.0,False
+294,703.12,704.663,castrate the cows.,False,False,3,3,mayor,1.0,False
+295,706.581,709.96,"Well, Mr. Garrison, how is the little play going?",False,False,9,9,mayor,1.0,False
+296,710.085,711.628,"Huh? Oh, fine.",False,False,3,3,mr. garrison,1.0,False
+297,711.753,713.088,We were just about to run it from the top.,False,False,10,10,mr. garrison,1.0,False
+298,713.213,714.548,"Oh, please do.",False,False,3,3,mayor,1.0,False
+299,714.673,716.55,I'm dying to see it.,False,False,5,5,mayor,1.0,False
+300,716.675,720.095,"Okay, all the little pioneers on this side of the stage.",False,False,11,11,mr. garrison,1.0,False
+301,720.22,721.972,"Good, and all the little Indians",False,False,6,6,mr. garrison,1.0,False
+302,722.097,723.64,go to the center of the stage.,False,False,7,7,mr. garrison,1.0,False
+303,723.765,726.101,Am I an Indian or a pioneer?,False,False,7,7,clyde,1.0,False
+304,726.226,727.561,Do you have a feather on your head?,False,False,8,8,mr. garrison,1.0,False
+305,727.686,729.521,Yes. - Then you're an Indian.,True,False,5,5,mr. garrison,0.8,False
+306,729.646,730.772,Oh.,False,False,1,1,clyde,1.0,False
+307,730.897,732.649,"Okay, Bebe, this is your line.",False,False,6,6,mr. garrison,1.0,False
+308,732.774,736.194,This is the story of South Park.,False,False,7,7,bebe,1.0,False
+309,736.319,739.322,It begins over 100 years ago,False,False,6,5,bebe,1.0,False
+310,739.448,744.327,when the noble and hearty Ute Indians lived on the land.,False,False,11,10,bebe,1.0,False
+311,747.998,750.542,"Oh, don't they look adorable?",False,False,5,5,mayor,1.0,False
+312,750.667,754.629,Then from the East came the great white pioneers.,False,False,9,9,bebe,1.0,False
+313,754.755,758.884,Ahh!,False,False,1,0,,0.0,False
+314,759.968,761.47,"Oh, my God.",False,False,3,3,mayor,1.0,False
+315,761.595,763.305,They did it a lot better this morning.,False,False,8,8,mr. garrison,1.0,False
+316,763.43,764.848,They had more energy.,False,False,4,4,mr. garrison,1.0,False
+317,764.973,767.642,The pioneers met with the Indians,False,False,6,6,bebe,1.0,False
+318,767.768,771.938,and negotiated for their fertile lands.,False,False,6,6,bebe,1.0,False
+319,772.063,774.524,"Mr. Garrison, we cannot have our children",False,False,7,6,mayor,1.0,False
+320,774.649,777.402,beating each other senseless in front of Kathie Lee Gifford.,False,False,10,10,mayor,1.0,False
+321,777.527,778.987,"Well, what do you want?",False,False,5,5,mr. garrison,1.0,False
+322,779.112,780.572,This is how it happened in those days.,False,False,8,8,mr. garrison,1.0,False
+323,780.697,782.949,"Take that, you stupid Indian. - Ohh.",True,False,6,5,stan,1.0,False
+324,783.074,786.328,"Mr. Garrison, this is not appropriate.",False,False,6,6,mayor,1.0,False
+325,786.453,789.247,Do you actually think that Kathie Lee Gifford,False,False,8,7,mayor,1.0,False
+326,789.372,790.791,would enjoy this?,False,False,3,1,mayor,1.0,False
+327,790.916,792.542,To hell with Kathie Lee Gifford.,False,False,6,6,mr. garrison,1.0,False
+328,794.795,797.047,"Oh, my God. What have I said?",False,False,7,7,mr. garrison,1.0,False
+329,797.172,800.008,"He said, ""To hell with Kathie Lee Gifford.""",False,False,8,8,townsman,1.0,False
+330,800.133,805.764,"Mr. Garrison, I am dismissing you from directing our play.",False,False,10,10,mayor,1.0,False
+331,808.099,810.143,"It happened again, didn't it?",False,False,5,5,mr. hat,1.0,False
+332,810.268,813.271,Now we do things my way.,False,False,6,6,mr. hat,1.0,False
+333,813.396,816.316,"I can't kill her, Mr. Hat.",False,False,6,6,mr. garrison,1.0,False
+334,816.441,818.985,You're gonna have to do it.,False,False,6,6,mr. garrison,1.0,False
+335,825.033,827.244,"Whoa, Cartman, talk about wide load.",False,False,6,6,kyle,1.0,False
+336,827.369,830.121,"Yeah, I'm really starting to fill out nicely.",False,False,8,8,cartman,1.0,True
+337,830.247,831.832,You're not filling out nicely.,False,False,5,5,kyle,1.0,False
+338,831.957,833.124,You're fatter than ever.,False,False,4,4,kyle,1.0,False
+339,833.25,834.209,I'm not fat.,False,False,3,3,cartman,1.0,True
+340,834.334,835.961,I'm getting in shape.,False,False,4,4,cartman,1.0,True
+341,836.086,837.796,"Cartman, you're such a fat-ass that when you walk",False,False,10,10,kyle,1.0,False
+342,837.921,839.798,"down the street, people go, ""God damn it.",False,False,8,7,kyle,1.0,False
+343,839.923,841.424,"That's a big fat-ass.""",False,False,5,5,kyle,1.0,False
+344,841.55,843.802,"No, they don't, you jealous weakling.",False,False,6,6,cartman,1.0,True
+345,843.927,846.513,"God damn, that's a big fat-ass.",False,False,7,7,townsman,1.0,False
+346,846.638,848.139,Hey!,False,False,1,0,,0.0,False
+347,848.265,850.892,"Hi, guys. - Oh, look, another hippie.",True,False,6,6,cartman,0.6666666666666666,False
+348,851.017,852.853,"Peace, Wendy. - Shut up, Cartman.",True,False,5,5,stan,0.6,False
+349,852.978,854.604,Oh.,False,False,1,1,cartman,1.0,True
+350,854.729,856.356,♪ Two little hippies sitting in a tree ♪,False,True,7,6,cartman,1.0,False
+351,856.481,858.316,I'm gonna find Cartman's paper,False,False,5,5,wendy,1.0,False
+352,858.441,860.735,and get to the bottom of this.,False,False,7,7,wendy,1.0,False
+353,862.487,863.613,Can I help you?,False,False,4,4,jimbo,1.0,False
+354,863.738,864.906,Yes.,False,False,1,1,mr. garrison,1.0,False
+355,865.031,866.7,I need a gun.,False,False,4,4,mr. garrison,1.0,False
+356,866.825,869.327,Would this be for hunting or protection or other?,False,False,9,8,jimbo,1.0,False
+357,869.452,870.996,Other. - Alrighty then.,True,False,3,3,jimbo,0.6666666666666666,False
+358,871.121,873.748,May I suggest a Stratford 12-millimeter?,False,False,7,5,jimbo,1.0,False
+359,873.874,875.5,Go ahead. Try it on.,False,False,5,3,jimbo,1.0,False
+360,875.625,877.752,That looks really nice on you.,False,False,6,6,jimbo,1.0,False
+361,877.878,880.171,The lacquered black really matches your eyes.,False,False,7,7,jimbo,1.0,False
+362,880.297,881.673,You talking to me?,False,False,4,3,mr. garrison,1.0,False
+363,881.798,883.675,You talking to me?,False,False,4,3,mr. garrison,1.0,False
+364,883.8,885.635,"I don't know, it's a little small.",False,False,7,7,mr. garrison,1.0,False
+365,885.76,887.929,Okay. How about this?,False,False,4,4,jimbo,1.0,False
+366,888.054,889.514,You talking to me?,False,False,4,3,mr. garrison,1.0,False
+367,889.639,891.641,"Hmm, no, I don't like this one either.",False,False,8,8,mr. garrison,1.0,False
+368,891.766,894.269,Here's the same gun with a wood finish.,False,False,8,8,jimbo,1.0,False
+369,894.394,895.729,You talking to me?,False,False,4,3,mr. garrison,1.0,False
+370,895.854,897.522,"I don't see anybody else around here,",False,False,7,7,mr. garrison,1.0,False
+371,897.647,900.025,so you must be talking to me.,False,False,7,6,mr. garrison,1.0,False
+372,900.15,901.443,I'll take it.,False,False,3,3,mr. garrison,1.0,False
+373,902.444,903.445,Hello?,False,False,1,1,wendy,1.0,False
+374,919.836,922.631,"""My essay, by Eric Cartman.",False,False,5,5,wendy,1.0,False
+375,922.756,924.758,"""When I wrote the following pages,",False,False,6,6,wendy,1.0,False
+376,924.883,926.426,"""or rather the bulk of them,",False,False,6,6,wendy,1.0,False
+377,926.551,929.095,"I lived alone in the woods on the shore of...""",False,False,10,10,wendy,1.0,False
+378,932.307,935.685,"Well, Mr. Hat, I guess old Kathie Lee really will be",False,False,11,10,mr. garrison,1.0,False
+379,935.81,937.646,surprised when she gets here tomorrow.,False,False,6,6,mr. garrison,1.0,False
+380,937.771,940.982,She beat us in the talent show all those years ago.,False,False,11,11,mr. garrison,1.0,False
+381,941.107,943.401,And I think we owe her for that.,False,False,8,8,mr. garrison,1.0,False
+382,943.526,944.986,Ba-bang!,False,False,2,0,,0.0,False
+383,945.111,946.112,"Oh, my God.",False,False,3,3,wendy,1.0,False
+384,954.537,956.539,"Howdy, Mr. Garrison. Nice gun.",False,False,5,5,townsman,1.0,False
+385,956.665,958.041,Thank you.,False,False,2,2,mr. garrison,1.0,False
+386,958.166,960.126,"Nice gun, Mr. Garrison.",False,False,4,4,townswoman,1.0,False
+387,960.251,961.67,Thanks.,False,False,1,1,mr. garrison,1.0,False
+388,961.795,963.088,"Hello, Officer Barbrady.",False,False,3,3,mr. garrison,1.0,False
+389,963.213,964.923,Nice gun. - Thanks.,True,False,3,3,officer barbrady,0.6666666666666666,False
+390,965.048,966.633,"Is there somewhere in town where I can get a good,",False,False,11,11,mr. garrison,1.0,False
+391,966.758,968.718,clear shot--or a view of Kathie Lee?,False,False,8,6,mr. garrison,1.0,False
+392,968.843,972.18,"Hmm, you know, I think the book depository",False,False,8,7,officer barbrady,1.0,False
+393,972.305,973.932,would be a good bet.,False,False,5,5,officer barbrady,1.0,False
+394,976.726,979.27,"Yes, that might do quite nicely.",False,False,6,6,mr. garrison,1.0,False
+395,979.396,980.855,"Thank you, Officer Barbrady.",False,False,4,4,mr. garrison,1.0,False
+396,980.981,982.148,No problem.,False,False,2,2,officer barbrady,1.0,False
+397,982.273,984.275,Ha! Caught you red-handed!,False,False,5,5,officer barbrady,1.0,False
+398,984.401,986.528,No pictures of Kathie Lee.,False,False,5,5,officer barbrady,1.0,False
+399,987.57,989.531,Where is she?,False,False,3,3,mayor,1.0,False
+400,990.532,992.45,This is sweet.,False,False,3,3,cartman,1.0,True
+401,992.575,995.495,"Camera crews are setting up, and I'm looking totally ripped.",False,False,10,10,cartman,1.0,True
+402,995.62,997.664,Beefcake. Beefcake!,False,False,2,1,cartman,1.0,True
+403,997.789,998.915,I don't think they're gonna be able to get,False,False,9,8,kyle,1.0,False
+404,999.04,1000.375,"all of you in frame, Cartman.",False,False,6,6,kyle,1.0,False
+405,1000.5,1002.168,"You guys, we have to stop him.",False,False,7,7,wendy,1.0,False
+406,1002.293,1004.337,Stop who? - Mr. Garrison.,True,False,4,4,wendy,0.5,False
+407,1004.462,1007.507,He's going to try to kill Kathie Lee Gifford.,False,False,9,9,wendy,1.0,False
+408,1007.632,1009.05,"Oh, no, you don't.",False,False,4,2,cartman,1.0,True
+409,1009.175,1010.885,You're not gonna ruin my moment of fame.,False,False,8,7,cartman,1.0,True
+410,1011.011,1012.929,He's got a gun.,False,False,4,4,wendy,1.0,False
+411,1013.054,1015.557,"You gotta get over this whole jealousy thing, all right?",False,False,10,7,cartman,1.0,True
+412,1015.682,1017.267,"Seriously, just face it.",False,False,4,4,cartman,1.0,True
+413,1017.392,1019.394,I wrote a better paper than you.,False,False,7,7,cartman,1.0,True
+414,1019.519,1022.188,"It just so happens that I have your paper,",False,False,9,9,wendy,1.0,False
+415,1022.313,1024.024,and I know why you won.,False,False,6,6,wendy,1.0,False
+416,1024.149,1025.734,There's something more important right now.,False,False,6,6,wendy,1.0,False
+417,1025.859,1027.277,Let's go.,False,False,2,2,wendy,1.0,False
+418,1027.402,1029.237,"Wendy, you've got to prioritize.",False,False,5,4,stan,1.0,False
+419,1029.362,1031.114,"What's more important, being on TV",False,False,6,6,stan,1.0,False
+420,1031.239,1032.991,or some stupid assassination?,False,False,4,4,stan,1.0,False
+421,1033.116,1036.119,"Stan, I can't do it alone.",False,False,6,6,wendy,1.0,False
+422,1036.244,1037.37,Please?,False,False,1,1,wendy,1.0,False
+423,1037.495,1039.247,"Uh-oh, we're losing him.",False,False,5,5,kyle,1.0,False
+424,1039.372,1040.999,Here she comes.,False,False,3,3,mayor,1.0,False
+425,1048.465,1050.467,"Damn, I guess I'm not the only person in America",False,False,10,10,mr. garrison,1.0,False
+426,1050.592,1052.635,who's thought of killing Kathie Lee Gifford.,False,False,7,7,mr. garrison,1.0,False
+427,1052.761,1055.43,"We love you, Kathie Lee.",False,False,5,5,townswoman,1.0,False
+428,1055.555,1057.307,I love you too.,False,False,4,4,kathie,1.0,False
+429,1057.432,1060.685,"Come on, you little bitch.",False,False,5,4,mr. garrison,1.0,False
+430,1060.81,1062.395,You've got to come out of your precious bubble,False,False,9,8,mr. garrison,1.0,False
+431,1062.52,1064.397,"sooner or later, missy.",False,False,4,4,mr. garrison,1.0,False
+432,1064.522,1068.109,It is with great pride and honor that I'd like to welcome,False,False,12,12,mayor,1.0,False
+433,1068.234,1072.072,Mrs. Kathie Lee Gifford to South Park.,False,False,7,7,mayor,1.0,False
+434,1074.616,1078.203,And now our very own South Park Elementary chef,False,False,9,9,mayor,1.0,False
+435,1078.328,1082.499,will sing a special song in honor of Mrs. Lee Gifford.,False,False,11,11,mayor,1.0,False
+436,1083.458,1085.21,"Thank you, Mr. Mayor.",False,False,4,0,,0.0,False
+437,1085.335,1089.214,"You know, Kathie Lee, you are a very special woman.",False,False,10,0,,0.0,False
+438,1089.339,1092.175,I don't mean special in a Mary Tyler Moore way,False,False,10,0,,0.0,False
+439,1092.3,1096.971,or special in an extra-value meal at Happy Burger way.,False,False,11,0,,0.0,False
+440,1097.097,1098.556,"No, no, no, no, no.",False,False,5,0,,0.0,False
+441,1098.681,1100.35,"I mean special,",False,False,3,0,,0.0,False
+442,1100.475,1102.852,like the song of the hummingbird as it gets ready,False,False,10,0,,0.0,False
+443,1102.977,1105.814,to find that female hummingbird,False,False,5,0,,0.0,False
+444,1105.939,1108.608,and make sweet love to it all night long.,False,False,9,0,,0.0,False
+445,1108.733,1112.278,Just two hummingbirds moaning and groaning and,False,False,7,0,,0.0,False
+446,1112.403,1114.03,letting their bodies caress,False,False,4,0,,0.0,False
+447,1114.155,1116.991,and touch each other in ecstasy.,False,False,6,0,,0.0,False
+448,1117.117,1119.41,♪ Oh Kathie Lee ♪,False,True,3,1,mayor,1.0,False
+449,1119.536,1122.747,♪ How I'd love to lay you down ♪,False,True,7,1,chef,1.0,False
+450,1122.872,1125.959,♪ And lick every inch of your body ♪,False,True,7,0,,0.0,False
+451,1126.084,1127.418,♪ With my tongue ♪,False,True,3,0,,0.0,False
+452,1127.544,1129.212,What?,False,False,1,0,,0.0,False
+453,1129.337,1131.464,♪ Kathie Lee you're my sexual fantasy ♪,False,True,6,0,,0.0,False
+454,1131.589,1134.592,What? ♪ How about you and me ♪,False,True,6,3,chef,1.0,False
+455,1134.717,1136.386,"Thank you, Chef, for that heartwarming song.",False,False,7,7,mayor,1.0,False
+456,1136.511,1139.139,♪ Get it together and make sweet love? ♪,False,True,7,6,chef,1.0,False
+457,1139.264,1140.265,"Thank you, Chef.",False,False,3,3,mayor,1.0,False
+458,1140.39,1141.85,"Oh, oh.",False,False,2,2,chef,1.0,False
+459,1141.975,1145.061,"God bless you, Kathie Lee.",False,False,5,5,chef,1.0,False
+460,1145.186,1146.729,"Officer Barbrady,",False,False,2,2,wendy,1.0,False
+461,1146.855,1148.356,Mr. Garrison is about to kill Kathie Lee.,False,False,8,8,wendy,1.0,False
+462,1148.481,1150.024,We have to find him.,False,False,5,5,wendy,1.0,False
+463,1150.15,1152.152,What? You mean the teacher?,False,False,5,5,officer barbrady,1.0,False
+464,1152.277,1154.154,Wait a minute.,False,False,3,3,officer barbrady,1.0,False
+465,1154.279,1156.489,"Is there somewhere in town where I can get a good, clear",False,False,12,12,mr. garrison,1.0,False
+466,1156.614,1158.7,shot-- or a view of Kathie Lee?,False,False,7,5,mr. garrison,1.0,False
+467,1158.825,1161.661,"Hmm, you know, I think the book depository",False,False,8,8,officer barbrady,1.0,False
+468,1161.786,1163.58,would be a good bet.,False,False,5,5,officer barbrady,1.0,False
+469,1163.705,1166.207,I think the book depository would be a good bet.,False,False,10,10,officer barbrady,1.0,False
+470,1166.332,1169.586,"Book depository, depository, book depository, depository.",False,False,6,5,officer barbrady,1.0,False
+471,1169.711,1171.462,"Damn, he could be anywhere.",False,False,5,5,officer barbrady,1.0,False
+472,1171.588,1173.423,I'll send out an APB.,False,False,5,5,officer barbrady,1.0,False
+473,1173.548,1174.674,"Wendy, look.",False,False,2,2,stan,1.0,False
+474,1175.967,1179.095,"And now, here to present the award",False,False,7,7,mayor,1.0,False
+475,1179.22,1183.224,for the environmental essay to our own Eric Kaufman...,False,False,9,8,mayor,1.0,False
+476,1183.349,1185.101,"Cartman, God damn it.",False,False,4,4,cartman,1.0,True
+477,1185.226,1188.146,"Is your favorite celebrity and mine,",False,False,6,6,mayor,1.0,False
+478,1188.271,1191.649,Kathie Lee Gifford.,False,False,3,3,mayor,1.0,False
+479,1195.236,1197.447,Thank you. I love you all.,False,False,6,6,kathie,1.0,False
+480,1197.572,1199.532,"Mr. Garrison, stop.",False,False,3,3,stan,1.0,False
+481,1199.657,1201.075,Leave us.,False,False,2,2,mr. garrison,1.0,False
+482,1201.201,1203.077,We must finish what we have begun.,False,False,7,7,mr. garrison,1.0,False
+483,1203.203,1205.079,I know that she's hurt you.,False,False,6,6,wendy,1.0,False
+484,1205.205,1206.497,She's hurt a lot of people.,False,False,6,6,wendy,1.0,False
+485,1206.623,1208.124,You can't know.,False,False,3,3,mr. garrison,1.0,False
+486,1208.249,1210.501,You should've won that talent show.,False,False,6,5,wendy,1.0,False
+487,1210.627,1213.296,It is with a great honor and pride that I present,False,False,11,10,kathie,1.0,False
+488,1213.421,1215.173,the winner this trophy.,False,False,4,3,kathie,1.0,False
+489,1215.298,1217.258,"Eric, would you please come up here?",False,False,7,7,kathie,1.0,False
+490,1217.383,1220.887,"Here it is, my big moment of fame.",False,False,8,8,cartman,1.0,True
+491,1221.012,1223.514,And then she finished it all by throwing her voice,False,False,10,10,mr. garrison,1.0,False
+492,1223.64,1225.433,with two dummies at once.,False,False,5,5,mr. garrison,1.0,False
+493,1225.558,1228.228,"I know that, Mr. Garrison, but this isn't the answer.",False,False,10,10,wendy,1.0,False
+494,1228.353,1231.814,"It is too late for me, young Wendy.",False,False,8,8,mr. garrison,1.0,False
+495,1233.816,1236.277,"You see, I've learned something today.",False,False,6,6,wendy,1.0,False
+496,1236.402,1238.196,You can't win all the time.,False,False,6,6,wendy,1.0,False
+497,1238.321,1240.907,"And if you don't win, you certainly can't hold it against",False,False,11,11,wendy,1.0,False
+498,1241.032,1244.035,"the person who did, because that's the only way",False,False,9,9,wendy,1.0,False
+499,1244.16,1245.912,you ever really lose.,False,False,4,4,wendy,1.0,False
+500,1246.037,1248.331,You're...you're right.,False,False,3,2,mr. garrison,1.0,False
+501,1248.456,1250.458,Good.,False,False,1,1,wendy,1.0,False
+502,1250.583,1253.419,"Man, did she really throw her voice with two dummies at once?",False,False,12,12,stan,1.0,False
+503,1253.544,1255.046,The bitch must die.,False,False,4,3,mr. hat,1.0,False
+504,1257.548,1258.716,Ahh!,False,False,1,0,,0.0,False
+505,1264.597,1267.141,"Oh, my God. They killed Kenny.",False,False,6,6,kyle,1.0,False
+506,1267.267,1269.102,You bastard.,False,False,2,1,kyle,1.0,False
+507,1269.227,1270.687,Gun! - Gun!,True,False,2,2,agent,1.0,False
+508,1270.812,1272.397,"Hey, come back.",False,False,3,3,kyle,1.0,False
+509,1272.522,1273.982,We didn't even get to do our play.,False,False,8,8,kyle,1.0,False
+510,1274.107,1275.817,Aww.,False,False,1,0,,0.0,False
+511,1275.942,1277.568,"I guess that's it, guys. Wrap it up.",False,False,8,8,tv,1.0,False
+512,1277.694,1279.737,"Hey, wait a minute.",False,False,4,4,cartman,1.0,True
+513,1279.862,1281.698,When do I get to be on television?,False,False,8,8,cartman,1.0,True
+514,1281.823,1283.032,"Forget it, kid.",False,False,3,3,tv,1.0,False
+515,1283.157,1284.742,"No Kathie Lee, no public interest.",False,False,6,6,tv,1.0,False
+516,1284.867,1288.329,But I won the environmental essay contest.,False,False,7,7,cartman,1.0,True
+517,1288.454,1290.957,"You don't deserve to win, Cartman,",False,False,6,6,wendy,1.0,False
+518,1291.082,1292.625,and you know it.,False,False,4,4,wendy,1.0,False
+519,1292.75,1295.378,I'm holding Cartman's award-winning paper.,False,False,6,6,wendy,1.0,False
+520,1295.503,1297.797,"It's actually nothing more than ""Walden""",False,False,6,6,wendy,1.0,False
+521,1297.922,1300.008,with Henry David Thoreau's name crossed out,False,False,7,7,wendy,1.0,False
+522,1300.133,1302.468,and Cartman's name written in its place.,False,False,7,7,wendy,1.0,False
+523,1302.593,1303.97,Who cares?,False,False,2,2,townsman,1.0,False
+524,1304.095,1305.763,"Yeah, Kathie Lee Gifford's gone.",False,False,5,5,townsman,1.0,False
+525,1305.888,1308.057,What about not holding anything against,False,False,6,6,stan,1.0,False
+526,1308.182,1309.35,the person who wins?,False,False,4,4,stan,1.0,False
+527,1309.475,1311.894,"Well, not if it's Cartman.",False,False,5,5,wendy,1.0,False
+528,1312.02,1314.397,"Hey, where are you all going?",False,False,6,6,wendy,1.0,False
+529,1314.522,1317.108,"They don't even know what ""Walden"" is.",False,False,7,7,wendy,1.0,False
+530,1317.233,1321.029,"I bet if ""Walden"" was a sitcom you'd all know what it was.",False,False,13,13,wendy,1.0,False
+531,1321.154,1322.78,"Come on, Wendy.",False,False,3,3,stan,1.0,False
+532,1322.905,1324.198,Kyle's mom will make us tuna fish sandwiches.,False,False,8,8,stan,1.0,False
+533,1324.324,1325.7,"Oh, what the hell.",False,False,4,3,wendy,1.0,False
+534,1325.825,1328.578,"No, no.",False,False,2,2,mayor,1.0,False
+535,1328.703,1331.539,Now I'll be stuck in this Podunk town forever,False,False,9,9,mayor,1.0,False
+536,1331.664,1334.834,"with all these stupid, hick, redneck, jobless,",False,False,7,6,mayor,1.0,False
+537,1334.959,1336.836,truck-driving idiots.,False,False,3,3,mayor,1.0,False
+538,1336.961,1339.464,"Uh, Mayor, the mic is on.",False,False,6,6,ted,1.0,False
+539,1339.589,1342.133,"Thought you could get away with it, eh, Mr. Hat?",False,False,10,10,officer barbrady,1.0,False
+540,1342.258,1343.634,"Well, I would have gotten away with it",False,False,8,8,mr. hat,1.0,False
+541,1343.76,1345.47,if it weren't for those meddling kids.,False,False,7,7,mr. hat,1.0,False
+542,1345.595,1347.388,You're lucky you missed Kathie Lee Gifford,False,False,7,7,officer barbrady,1.0,False
+543,1347.513,1349.932,and that nobody got hurt.,False,False,5,5,officer barbrady,1.0,False
+544,1353.311,1354.52,"We hope you can come back to school real soon,",False,False,10,10,stan,1.0,False
+545,1354.645,1356.356,Mr. Garrison.,False,False,2,2,stan,1.0,False
+546,1356.481,1357.857,"Well, children, I'd love to, but the doctors say",False,False,9,9,mr. garrison,1.0,False
+547,1357.982,1359.859,that Mr. Hat needs more therapy.,False,False,6,6,mr. garrison,1.0,False
+548,1359.984,1362.236,We can still get her.,False,False,5,5,mr. hat,1.0,False
+549,1362.362,1365.114,I'm just so sorry that I ruined everyone's chances,False,False,9,9,mr. garrison,1.0,False
+550,1365.239,1366.574,for being on TV.,False,False,4,4,mr. garrison,1.0,False
+551,1366.699,1367.784,Not Cartman.,False,False,2,2,kyle,1.0,False
+552,1367.909,1369.285,He gets to be on TV anyway.,False,False,7,7,kyle,1.0,False
+553,1369.41,1371.037,Really? On what?,False,False,3,3,mr. garrison,1.0,False
+554,1371.162,1375.124,"Obesity, adiposity, corpulence.",False,False,3,3,geraldo,1.0,False
+555,1375.249,1378.252,"Whatever word you use, it represents one thing:",False,False,8,8,geraldo,1.0,False
+556,1378.378,1380.171,being a big fat-ass.,False,False,5,5,geraldo,1.0,False
+557,1380.296,1382.924,We have with us today live via satellite Eric Cartman,False,False,10,10,geraldo,1.0,False
+558,1383.049,1384.884,"from South Park,",False,False,3,3,geraldo,1.0,False
+559,1385.009,1388.304,"who is now so obese, he can't even get out of his house.",False,False,13,13,geraldo,1.0,False
+560,1388.429,1390.598,When is this gonna be on the air?,False,False,8,7,cartman,1.0,True
+561,1390.723,1393.976,Is there anything you'd like to say to people out there?,False,False,11,11,geraldo,1.0,False
+562,1394.644,1396.02,Follow your dreams.,False,False,3,3,cartman,1.0,True
+563,1396.145,1397.939,You can reach your goals.,False,False,5,5,cartman,1.0,True
+564,1398.064,1399.524,I'm living proof.,False,False,3,3,cartman,1.0,True
+565,1399.649,1401.692,Beefcake. Beefcake!,False,False,2,1,cartman,1.0,True
+566,1401.818,1404.195,He needs to run his ass around the block a few times.,False,False,12,12,chef,1.0,False
+567,1404.32,1407.49,"Mmm, how about a little more of that good loving, Chef?",False,False,11,9,kathie,1.0,False
+568,1407.615,1409.158,"Damn, woman.",False,False,2,2,chef,1.0,False
+569,1409.283,1411.035,I just gave you sweet loving five minutes ago.,False,False,9,9,chef,1.0,False
+570,1411.16,1412.912,You trying to kill me?,False,False,5,5,chef,1.0,False
